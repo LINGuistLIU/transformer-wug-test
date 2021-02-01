@@ -1,0 +1,1390 @@
+Einzelnachweis	Einzelnachweise	N;ACC;PL
+Einzelnachweis	Einzelnachweise	N;GEN;PL
+Einzelnachweis	Einzelnachweisen	N;DAT;PL
+Einzelnachweis	Einzelnachweise	N;NOM;PL
+Einzelnachweis	Einzelnachweis	N;ACC;SG
+Einzelnachweis	Einzelnachweis	N;DAT;SG
+Einzelnachweis	Einzelnachweis	N;GEN;SG
+Einzelnachweis	Einzelnachweis	N;NOM;SG
+
+Literatur	Literaturen	N;ACC;PL
+Literatur	Literaturen	N;DAT;PL
+Literatur	Literaturen	N;GEN;PL
+Literatur	Literaturen	N;NOM;PL
+Literatur	Literatur	N;ACC;SG
+Literatur	Literatur	N;DAT;SG
+Literatur	Literatur	N;GEN;SG
+Literatur	Literatur	N;NOM;SG
+
+Mitglied	Mitglieder	N;ACC;PL
+Mitglied	Mitglieder	N;GEN;PL
+Mitglied	Mitgliedern	N;DAT;PL
+Mitglied	Mitglieder	N;NOM;PL
+Mitglied	Mitgliedes	N;GEN;SG
+Mitglied	Mitglied	N;ACC;SG
+Mitglied	Mitglied	N;DAT;SG
+Mitglied	Mitglied	N;NOM;SG
+
+Universität	Universitäten	N;ACC;PL
+Universität	Universitäten	N;DAT;PL
+Universität	Universitäten	N;GEN;PL
+Universität	Universitäten	N;NOM;PL
+Universität	Universität	N;ACC;SG
+Universität	Universität	N;DAT;SG
+Universität	Universität	N;GEN;SG
+Universität	Universität	N;NOM;SG
+
+Fußballspieler	Fußballspieler	N;ACC;PL
+Fußballspieler	Fußballspieler	N;ACC;SG
+Fußballspieler	Fußballspieler	N;DAT;SG
+Fußballspieler	Fußballspieler	N;GEN;PL
+Fußballspieler	Fußballspielern	N;DAT;PL
+Fußballspieler	Fußballspieler	N;NOM;PL
+Fußballspieler	Fußballspieler	N;NOM;SG
+Fußballspieler	Fußballspielers	N;GEN;SG
+
+Verlag	Verlage	N;ACC;PL
+Verlag	Verlage	N;GEN;PL
+Verlag	Verlagen	N;DAT;PL
+Verlag	Verlage	N;NOM;PL
+Verlag	Verlages	N;GEN;SG
+Verlag	Verlag	N;ACC;SG
+Verlag	Verlag	N;DAT;SG
+Verlag	Verlag	N;NOM;SG
+
+Familie	Familie	N;ACC;SG
+Familie	Familie	N;DAT;SG
+Familie	Familie	N;GEN;SG
+Familie	Familien	N;ACC;PL
+Familie	Familien	N;DAT;PL
+Familie	Familien	N;GEN;PL
+Familie	Familien	N;NOM;PL
+Familie	Familie	N;NOM;SG
+
+befinden	befanden	V;IND;PST;1;PL
+befinden	befanden	V;IND;PST;3;PL
+befinden	befänden	V;SBJV;PST;1;PL
+befinden	befänden	V;SBJV;PST;3;PL
+befinden	befandest	V;IND;PST;2;SG
+befinden	befändest	V;SBJV;PST;2;SG
+befinden	befandet	V;IND;PST;2;PL
+befinden	befändet	V;SBJV;PST;2;PL
+befinden	befände	V;SBJV;PST;1;SG
+befinden	befände	V;SBJV;PST;3;SG
+befinden	befand	V;IND;PST;1;SG
+befinden	befand	V;IND;PST;3;SG
+befinden	befindend	V.PTCP;PRS
+befinden	befinden	V;IND;PRS;1;PL
+befinden	befinden	V;IND;PRS;3;PL
+befinden	befinden	V;NFIN
+befinden	befinden	V;SBJV;PRS;1;PL
+befinden	befinden	V;SBJV;PRS;3;PL
+befinden	befindest	V;IND;PRS;2;SG
+befinden	befindest	V;SBJV;PRS;2;SG
+befinden	befindet	V;IMP;2;PL
+befinden	befindet	V;IND;PRS;2;PL
+befinden	befindet	V;IND;PRS;3;SG
+befinden	befindet	V;SBJV;PRS;2;PL
+befinden	befinde	V;IMP;2;SG
+befinden	befinde	V;IND;PRS;1;SG
+befinden	befinde	V;SBJV;PRS;1;SG
+befinden	befinde	V;SBJV;PRS;3;SG
+befinden	befunden	V.PTCP;PST
+
+Deutsche	Deutsche	N;ACC;SG
+Deutsche	Deutschen	N;ACC;PL
+Deutsche	Deutschen	N;DAT;PL
+Deutsche	Deutschen	N;DAT;SG
+Deutsche	Deutschen	N;GEN;PL
+Deutsche	Deutschen	N;GEN;SG
+Deutsche	Deutschen	N;NOM;PL
+Deutsche	Deutsche	N;NOM;SG
+
+Person	Personen	N;ACC;PL
+Person	Personen	N;DAT;PL
+Person	Personen	N;GEN;PL
+Person	Personen	N;NOM;PL
+Person	Person	N;ACC;SG
+Person	Person	N;DAT;SG
+Person	Person	N;GEN;SG
+Person	Person	N;NOM;SG
+
+bekennen	bekannten	V;IND;PST;1;PL
+bekennen	bekannten	V;IND;PST;3;PL
+bekennen	bekanntest	V;IND;PST;2;SG
+bekennen	bekanntet	V;IND;PST;2;PL
+bekennen	bekannte	V;IND;PST;1;SG
+bekennen	bekannte	V;IND;PST;3;SG
+bekennen	bekannt	V.PTCP;PST
+bekennen	bekennend	V.PTCP;PRS
+bekennen	bekennen	V;IND;PRS;1;PL
+bekennen	bekennen	V;IND;PRS;3;PL
+bekennen	bekennen	V;NFIN
+bekennen	bekennen	V;SBJV;PRS;1;PL
+bekennen	bekennen	V;SBJV;PRS;3;PL
+bekennen	bekennest	V;SBJV;PRS;2;SG
+bekennen	bekennet	V;SBJV;PRS;2;PL
+bekennen	bekenne	V;IND;PRS;1;SG
+bekennen	bekenne	V;SBJV;PRS;1;SG
+bekennen	bekenne	V;SBJV;PRS;3;SG
+bekennen	bekennst	V;IND;PRS;2;SG
+bekennen	bekennten	V;SBJV;PST;1;PL
+bekennen	bekennten	V;SBJV;PST;3;PL
+bekennen	bekenntest	V;SBJV;PST;2;SG
+bekennen	bekenntet	V;SBJV;PST;2;PL
+bekennen	bekennte	V;SBJV;PST;1;SG
+bekennen	bekennte	V;SBJV;PST;3;SG
+bekennen	bekennt	V;IMP;2;PL
+bekennen	bekennt	V;IND;PRS;2;PL
+bekennen	bekennt	V;IND;PRS;3;SG
+bekennen	bekenn	V;IMP;2;SG
+
+Staat	Staaten	N;ACC;PL
+Staat	Staaten	N;DAT;PL
+Staat	Staaten	N;GEN;PL
+Staat	Staaten	N;NOM;PL
+Staat	Staates	N;GEN;SG
+Staat	Staat	N;ACC;SG
+Staat	Staat	N;DAT;SG
+Staat	Staat	N;NOM;SG
+
+Mensch	Menschen	N;ACC;PL
+Mensch	Menschen	N;ACC;SG
+Mensch	Menschen	N;DAT;PL
+Mensch	Menschen	N;DAT;SG
+Mensch	Menschen	N;GEN;PL
+Mensch	Menschen	N;GEN;SG
+Mensch	Menschen	N;NOM;PL
+Mensch	Mensch	N;NOM;SG
+
+einigen	einigend	V.PTCP;PRS
+einigen	einigen	V;IND;PRS;1;PL
+einigen	einigen	V;IND;PRS;3;PL
+einigen	einigen	V;NFIN
+einigen	einigen	V;SBJV;PRS;1;PL
+einigen	einigen	V;SBJV;PRS;3;PL
+einigen	einigest	V;SBJV;PRS;2;SG
+einigen	einiget	V;SBJV;PRS;2;PL
+einigen	einige	V;IND;PRS;1;SG
+einigen	einige	V;SBJV;PRS;1;SG
+einigen	einige	V;SBJV;PRS;3;SG
+einigen	einigst	V;IND;PRS;2;SG
+einigen	einigten	V;IND;PST;1;PL
+einigen	einigten	V;IND;PST;3;PL
+einigen	einigten	V;SBJV;PST;1;PL
+einigen	einigten	V;SBJV;PST;3;PL
+einigen	einigtest	V;IND;PST;2;SG
+einigen	einigtest	V;SBJV;PST;2;SG
+einigen	einigtet	V;IND;PST;2;PL
+einigen	einigtet	V;SBJV;PST;2;PL
+einigen	einigte	V;IND;PST;1;SG
+einigen	einigte	V;IND;PST;3;SG
+einigen	einigte	V;SBJV;PST;1;SG
+einigen	einigte	V;SBJV;PST;3;SG
+einigen	einigt	V;IMP;2;PL
+einigen	einigt	V;IND;PRS;2;PL
+einigen	einigt	V;IND;PRS;3;SG
+einigen	einig	V;IMP;2;SG
+einigen	geeinigt	V.PTCP;PST
+
+nennen	genannt	V.PTCP;PST
+nennen	nannten	V;IND;PST;1;PL
+nennen	nannten	V;IND;PST;3;PL
+nennen	nanntest	V;IND;PST;2;SG
+nennen	nanntet	V;IND;PST;2;PL
+nennen	nannte	V;IND;PST;1;SG
+nennen	nannte	V;IND;PST;3;SG
+nennen	nennend	V.PTCP;PRS
+nennen	nennen	V;IND;PRS;1;PL
+nennen	nennen	V;IND;PRS;3;PL
+nennen	nennen	V;NFIN
+nennen	nennen	V;SBJV;PRS;1;PL
+nennen	nennen	V;SBJV;PRS;3;PL
+nennen	nennest	V;SBJV;PRS;2;SG
+nennen	nennet	V;SBJV;PRS;2;PL
+nennen	nenne	V;IND;PRS;1;SG
+nennen	nenne	V;SBJV;PRS;1;SG
+nennen	nenne	V;SBJV;PRS;3;SG
+nennen	nennst	V;IND;PRS;2;SG
+nennen	nennten	V;SBJV;PST;1;PL
+nennen	nennten	V;SBJV;PST;3;PL
+nennen	nenntest	V;SBJV;PST;2;SG
+nennen	nenntet	V;SBJV;PST;2;PL
+nennen	nennte	V;SBJV;PST;1;SG
+nennen	nennte	V;SBJV;PST;3;SG
+nennen	nennt	V;IND;PRS;2;PL
+nennen	nennt	V;IND;PRS;3;SG
+
+bestehen	bestanden	V;IND;PST;1;PL
+bestehen	bestanden	V;IND;PST;3;PL
+bestehen	bestanden	V.PTCP;PST
+bestehen	beständen	V;SBJV;PST;1;PL
+bestehen	beständen	V;SBJV;PST;3;PL
+bestehen	bestandest	V;IND;PST;2;SG
+bestehen	beständest	V;SBJV;PST;2;SG
+bestehen	bestandet	V;IND;PST;2;PL
+bestehen	beständet	V;SBJV;PST;2;PL
+bestehen	bestände	V;SBJV;PST;1;SG
+bestehen	bestände	V;SBJV;PST;3;SG
+bestehen	bestand	V;IND;PST;1;SG
+bestehen	bestand	V;IND;PST;3;SG
+bestehen	bestehend	V.PTCP;PRS
+bestehen	bestehen	V;IND;PRS;1;PL
+bestehen	bestehen	V;IND;PRS;3;PL
+bestehen	bestehen	V;NFIN
+bestehen	bestehen	V;SBJV;PRS;1;PL
+bestehen	bestehen	V;SBJV;PRS;3;PL
+bestehen	bestehest	V;SBJV;PRS;2;SG
+bestehen	bestehet	V;SBJV;PRS;2;PL
+bestehen	bestehe	V;IND;PRS;1;SG
+bestehen	bestehe	V;SBJV;PRS;1;SG
+bestehen	bestehe	V;SBJV;PRS;3;SG
+bestehen	bestehst	V;IND;PRS;2;SG
+bestehen	besteht	V;IMP;2;PL
+bestehen	besteht	V;IND;PRS;2;PL
+bestehen	besteht	V;IND;PRS;3;SG
+bestehen	besteh	V;IMP;2;SG
+
+studieren	studierend	V.PTCP;PRS
+studieren	studieren	V;IND;PRS;1;PL
+studieren	studieren	V;IND;PRS;3;PL
+studieren	studieren	V;NFIN
+studieren	studieren	V;SBJV;PRS;1;PL
+studieren	studieren	V;SBJV;PRS;3;PL
+studieren	studierest	V;SBJV;PRS;2;SG
+studieren	studieret	V;SBJV;PRS;2;PL
+studieren	studiere	V;IND;PRS;1;SG
+studieren	studiere	V;SBJV;PRS;1;SG
+studieren	studiere	V;SBJV;PRS;3;SG
+studieren	studierst	V;IND;PRS;2;SG
+studieren	studierten	V;IND;PST;1;PL
+studieren	studierten	V;IND;PST;3;PL
+studieren	studierten	V;SBJV;PST;1;PL
+studieren	studierten	V;SBJV;PST;3;PL
+studieren	studiertest	V;IND;PST;2;SG
+studieren	studiertest	V;SBJV;PST;2;SG
+studieren	studiertet	V;IND;PST;2;PL
+studieren	studiertet	V;SBJV;PST;2;PL
+studieren	studierte	V;IND;PST;1;SG
+studieren	studierte	V;IND;PST;3;SG
+studieren	studierte	V;SBJV;PST;1;SG
+studieren	studierte	V;SBJV;PST;3;SG
+studieren	studiert	V;IMP;2;PL
+studieren	studiert	V;IND;PRS;2;PL
+studieren	studiert	V;IND;PRS;3;SG
+studieren	studiert	V.PTCP;PST
+studieren	studier	V;IMP;2;SG
+
+Provinz	Provinzen	N;ACC;PL
+Provinz	Provinzen	N;DAT;PL
+Provinz	Provinzen	N;GEN;PL
+Provinz	Provinzen	N;NOM;PL
+Provinz	Provinz	N;ACC;SG
+Provinz	Provinz	N;DAT;SG
+Provinz	Provinz	N;GEN;SG
+Provinz	Provinz	N;NOM;SG
+
+Kilometer	Kilometer	N;ACC;PL
+Kilometer	Kilometer	N;ACC;SG
+Kilometer	Kilometer	N;DAT;SG
+Kilometer	Kilometer	N;GEN;PL
+Kilometer	Kilometern	N;DAT;PL
+Kilometer	Kilometer	N;NOM;PL
+Kilometer	Kilometer	N;NOM;SG
+Kilometer	Kilometers	N;GEN;SG
+
+gründen	gegründet	V.PTCP;PST
+gründen	gründend	V.PTCP;PRS
+gründen	gründen	V;IND;PRS;1;PL
+gründen	gründen	V;IND;PRS;3;PL
+gründen	gründen	V;NFIN
+gründen	gründen	V;SBJV;PRS;1;PL
+gründen	gründen	V;SBJV;PRS;3;PL
+gründen	gründest	V;IND;PRS;2;SG
+gründen	gründest	V;SBJV;PRS;2;SG
+gründen	gründeten	V;IND;PST;1;PL
+gründen	gründeten	V;IND;PST;3;PL
+gründen	gründeten	V;SBJV;PST;1;PL
+gründen	gründeten	V;SBJV;PST;3;PL
+gründen	gründetest	V;IND;PST;2;SG
+gründen	gründetest	V;SBJV;PST;2;SG
+gründen	gründetet	V;IND;PST;2;PL
+gründen	gründetet	V;SBJV;PST;2;PL
+gründen	gründete	V;IND;PST;1;SG
+gründen	gründete	V;IND;PST;3;SG
+gründen	gründete	V;SBJV;PST;1;SG
+gründen	gründete	V;SBJV;PST;3;SG
+gründen	gründet	V;IMP;2;PL
+gründen	gründet	V;IND;PRS;2;PL
+gründen	gründet	V;IND;PRS;3;SG
+gründen	gründet	V;SBJV;PRS;2;PL
+gründen	gründe	V;IMP;2;SG
+gründen	gründe	V;IND;PRS;1;SG
+gründen	gründe	V;SBJV;PRS;1;SG
+gründen	gründe	V;SBJV;PRS;3;SG
+
+Weltkrieg	Weltkriege	N;ACC;PL
+Weltkrieg	Weltkriege	N;GEN;PL
+Weltkrieg	Weltkriegen	N;DAT;PL
+Weltkrieg	Weltkriege	N;NOM;PL
+Weltkrieg	Weltkrieges	N;GEN;SG
+Weltkrieg	Weltkrieg	N;ACC;SG
+Weltkrieg	Weltkrieg	N;DAT;SG
+Weltkrieg	Weltkrieg	N;NOM;SG
+
+Verein	Vereine	N;ACC;PL
+Verein	Vereine	N;GEN;PL
+Verein	Vereinen	N;DAT;PL
+Verein	Vereine	N;NOM;PL
+Verein	Vereines	N;GEN;SG
+Verein	Verein	N;ACC;SG
+Verein	Verein	N;DAT;SG
+Verein	Verein	N;NOM;SG
+
+Schweizer	Schweizer	N;ACC;PL
+Schweizer	Schweizer	N;ACC;SG
+Schweizer	Schweizer	N;DAT;SG
+Schweizer	Schweizer	N;GEN;PL
+Schweizer	Schweizern	N;DAT;PL
+Schweizer	Schweizer	N;NOM;PL
+Schweizer	Schweizer	N;NOM;SG
+Schweizer	Schweizers	N;GEN;SG
+
+Gebiet	Gebiete	N;ACC;PL
+Gebiet	Gebiete	N;GEN;PL
+Gebiet	Gebieten	N;DAT;PL
+Gebiet	Gebiete	N;NOM;PL
+Gebiet	Gebietes	N;GEN;SG
+Gebiet	Gebiet	N;ACC;SG
+Gebiet	Gebiet	N;DAT;SG
+Gebiet	Gebiet	N;NOM;SG
+
+Website	Website	N;ACC;SG
+Website	Website	N;DAT;SG
+Website	Website	N;GEN;SG
+Website	Website	N;NOM;SG
+Website	Websites	N;ACC;PL
+Website	Websites	N;DAT;PL
+Website	Websites	N;GEN;PL
+Website	Websites	N;NOM;PL
+
+Bischof	Bischöfe	N;ACC;PL
+Bischof	Bischöfe	N;GEN;PL
+Bischof	Bischöfen	N;DAT;PL
+Bischof	Bischöfe	N;NOM;PL
+Bischof	Bischof	N;ACC;SG
+Bischof	Bischof	N;DAT;SG
+Bischof	Bischof	N;NOM;SG
+Bischof	Bischofs	N;GEN;SG
+
+testgetriebene Entwicklung	Entwicklung	N;ACC;SG
+testgetriebene Entwicklung	Entwicklung	N;DAT;SG
+testgetriebene Entwicklung	Entwicklung	N;GEN;SG
+testgetriebene Entwicklung	Entwicklung	N;NOM;SG
+
+Partei	Parteien	N;ACC;PL
+Partei	Parteien	N;DAT;PL
+Partei	Parteien	N;GEN;PL
+Partei	Parteien	N;NOM;PL
+Partei	Partei	N;ACC;SG
+Partei	Partei	N;DAT;SG
+Partei	Partei	N;GEN;SG
+Partei	Partei	N;NOM;SG
+
+County	County	N;ACC;SG
+County	County	N;DAT;SG
+County	County	N;GEN;SG
+County	County	N;NOM;SG
+County	Countys	N;ACC;PL
+County	Countys	N;DAT;PL
+County	Countys	N;GEN;PL
+County	Countys	N;NOM;PL
+
+übernehmen	übernahmen	V;IND;PST;1;PL
+übernehmen	übernahmen	V;IND;PST;3;PL
+übernehmen	übernähmen	V;SBJV;PST;1;PL
+übernehmen	übernähmen	V;SBJV;PST;3;PL
+übernehmen	übernähmest	V;SBJV;PST;2;SG
+übernehmen	übernähmet	V;SBJV;PST;2;PL
+übernehmen	übernähme	V;SBJV;PST;1;SG
+übernehmen	übernähme	V;SBJV;PST;3;SG
+übernehmen	übernahmst	V;IND;PST;2;SG
+übernehmen	übernahmt	V;IND;PST;2;PL
+übernehmen	übernahm	V;IND;PST;1;SG
+übernehmen	übernahm	V;IND;PST;3;SG
+übernehmen	übernehmend	V.PTCP;PRS
+übernehmen	übernehmen	V;IND;PRS;1;PL
+übernehmen	übernehmen	V;IND;PRS;3;PL
+übernehmen	übernehmen	V;NFIN
+übernehmen	übernehmen	V;SBJV;PRS;1;PL
+übernehmen	übernehmen	V;SBJV;PRS;3;PL
+übernehmen	übernehmest	V;SBJV;PRS;2;SG
+übernehmen	übernehmet	V;SBJV;PRS;2;PL
+übernehmen	übernehme	V;IND;PRS;1;SG
+übernehmen	übernehme	V;SBJV;PRS;1;SG
+übernehmen	übernehme	V;SBJV;PRS;3;SG
+übernehmen	übernehmt	V;IMP;2;PL
+übernehmen	übernehmt	V;IND;PRS;2;PL
+übernehmen	übernimmst	V;IND;PRS;2;SG
+übernehmen	übernimmt	V;IND;PRS;3;SG
+übernehmen	übernimm	V;IMP;2;SG
+übernehmen	übernommen	V.PTCP;PST
+
+Gesellschaft	Gesellschaften	N;ACC;PL
+Gesellschaft	Gesellschaften	N;DAT;PL
+Gesellschaft	Gesellschaften	N;GEN;PL
+Gesellschaft	Gesellschaften	N;NOM;PL
+Gesellschaft	Gesellschaft	N;ACC;SG
+Gesellschaft	Gesellschaft	N;DAT;SG
+Gesellschaft	Gesellschaft	N;GEN;SG
+Gesellschaft	Gesellschaft	N;NOM;SG
+
+wählen	gewählt	V.PTCP;PST
+wählen	wählend	V.PTCP;PRS
+wählen	wählen	V;IND;PRS;1;PL
+wählen	wählen	V;IND;PRS;3;PL
+wählen	wählen	V;NFIN
+wählen	wählen	V;SBJV;PRS;1;PL
+wählen	wählen	V;SBJV;PRS;3;PL
+wählen	wählest	V;SBJV;PRS;2;SG
+wählen	wählet	V;SBJV;PRS;2;PL
+wählen	wähle	V;IND;PRS;1;SG
+wählen	wähle	V;SBJV;PRS;1;SG
+wählen	wähle	V;SBJV;PRS;3;SG
+wählen	wählst	V;IND;PRS;2;SG
+wählen	wählten	V;IND;PST;1;PL
+wählen	wählten	V;IND;PST;3;PL
+wählen	wählten	V;SBJV;PST;1;PL
+wählen	wählten	V;SBJV;PST;3;PL
+wählen	wähltest	V;IND;PST;2;SG
+wählen	wähltest	V;SBJV;PST;2;SG
+wählen	wähltet	V;IND;PST;2;PL
+wählen	wähltet	V;SBJV;PST;2;PL
+wählen	wählte	V;IND;PST;1;SG
+wählen	wählte	V;IND;PST;3;SG
+wählen	wählte	V;SBJV;PST;1;SG
+wählen	wählte	V;SBJV;PST;3;SG
+wählen	wählt	V;IMP;2;PL
+wählen	wählt	V;IND;PRS;2;PL
+wählen	wählt	V;IND;PRS;3;SG
+wählen	wähl	V;IMP;2;SG
+
+errichten	errichtend	V.PTCP;PRS
+errichten	errichten	V;IND;PRS;1;PL
+errichten	errichten	V;IND;PRS;3;PL
+errichten	errichten	V;NFIN
+errichten	errichten	V;SBJV;PRS;1;PL
+errichten	errichten	V;SBJV;PRS;3;PL
+errichten	errichtest	V;IND;PRS;2;SG
+errichten	errichtest	V;SBJV;PRS;2;SG
+errichten	errichteten	V;IND;PST;1;PL
+errichten	errichteten	V;IND;PST;3;PL
+errichten	errichteten	V;SBJV;PST;1;PL
+errichten	errichteten	V;SBJV;PST;3;PL
+errichten	errichtetest	V;IND;PST;2;SG
+errichten	errichtetest	V;SBJV;PST;2;SG
+errichten	errichtetet	V;IND;PST;2;PL
+errichten	errichtetet	V;SBJV;PST;2;PL
+errichten	errichtete	V;IND;PST;1;SG
+errichten	errichtete	V;IND;PST;3;SG
+errichten	errichtete	V;SBJV;PST;1;SG
+errichten	errichtete	V;SBJV;PST;3;SG
+errichten	errichtet	V;IMP;2;PL
+errichten	errichtet	V;IND;PRS;2;PL
+errichten	errichtet	V;IND;PRS;3;SG
+errichten	errichtet	V.PTCP;PST
+errichten	errichtet	V;SBJV;PRS;2;PL
+errichten	errichte	V;IMP;2;SG
+errichten	errichte	V;IND;PRS;1;SG
+errichten	errichte	V;SBJV;PRS;1;SG
+errichten	errichte	V;SBJV;PRS;3;SG
+
+Schloss	Schlösser	N;ACC;PL
+Schloss	Schlösser	N;GEN;PL
+Schloss	Schlössern	N;DAT;PL
+Schloss	Schlösser	N;NOM;PL
+Schloss	Schlosses	N;GEN;SG
+Schloss	Schloss	N;ACC;SG
+Schloss	Schloss	N;DAT;SG
+Schloss	Schloss	N;NOM;SG
+
+Rahmen	Rahmen	N;ACC;PL
+Rahmen	Rahmen	N;ACC;SG
+Rahmen	Rahmen	N;DAT;PL
+Rahmen	Rahmen	N;DAT;SG
+Rahmen	Rahmen	N;GEN;PL
+Rahmen	Rahmen	N;NOM;PL
+Rahmen	Rahmen	N;NOM;SG
+Rahmen	Rahmens	N;GEN;SG
+
+erscheinen	erscheinend	V.PTCP;PRS
+erscheinen	erscheinen	V;IND;PRS;1;PL
+erscheinen	erscheinen	V;IND;PRS;3;PL
+erscheinen	erscheinen	V;NFIN
+erscheinen	erscheinen	V;SBJV;PRS;1;PL
+erscheinen	erscheinen	V;SBJV;PRS;3;PL
+erscheinen	erscheinest	V;SBJV;PRS;2;SG
+erscheinen	erscheinet	V;SBJV;PRS;2;PL
+erscheinen	erscheine	V;IND;PRS;1;SG
+erscheinen	erscheine	V;SBJV;PRS;1;SG
+erscheinen	erscheine	V;SBJV;PRS;3;SG
+erscheinen	erscheinst	V;IND;PRS;2;SG
+erscheinen	erscheint	V;IMP;2;PL
+erscheinen	erscheint	V;IND;PRS;2;PL
+erscheinen	erscheint	V;IND;PRS;3;SG
+erscheinen	erschein	V;IMP;2;SG
+erscheinen	erschienen	V;IND;PST;1;PL
+erscheinen	erschienen	V;IND;PST;3;PL
+erscheinen	erschienen	V.PTCP;PST
+erscheinen	erschienen	V;SBJV;PST;1;PL
+erscheinen	erschienen	V;SBJV;PST;3;PL
+erscheinen	erschienest	V;SBJV;PST;2;SG
+erscheinen	erschienet	V;SBJV;PST;2;PL
+erscheinen	erschiene	V;SBJV;PST;1;SG
+erscheinen	erschiene	V;SBJV;PST;3;SG
+erscheinen	erschienst	V;IND;PST;2;SG
+erscheinen	erschient	V;IND;PST;2;PL
+erscheinen	erschien	V;IND;PST;1;SG
+erscheinen	erschien	V;IND;PST;3;SG
+
+Beispiel	Beispiele	N;ACC;PL
+Beispiel	Beispiele	N;GEN;PL
+Beispiel	Beispielen	N;DAT;PL
+Beispiel	Beispiele	N;NOM;PL
+Beispiel	Beispieles	N;GEN;SG
+Beispiel	Beispiel	N;ACC;SG
+Beispiel	Beispiel	N;DAT;SG
+Beispiel	Beispiel	N;NOM;SG
+
+Prozent	Prozente	N;ACC;PL
+Prozent	Prozente	N;GEN;PL
+Prozent	Prozenten	N;DAT;PL
+Prozent	Prozente	N;NOM;PL
+Prozent	Prozentes	N;GEN;SG
+Prozent	Prozent	N;ACC;SG
+Prozent	Prozent	N;DAT;SG
+Prozent	Prozent	N;NOM;SG
+
+Auflage	Auflage	N;ACC;SG
+Auflage	Auflage	N;DAT;SG
+Auflage	Auflage	N;GEN;SG
+Auflage	Auflagen	N;ACC;PL
+Auflage	Auflagen	N;DAT;PL
+Auflage	Auflagen	N;GEN;PL
+Auflage	Auflagen	N;NOM;PL
+Auflage	Auflage	N;NOM;SG
+
+Einsatz	Einsätze	N;ACC;PL
+Einsatz	Einsätze	N;GEN;PL
+Einsatz	Einsätzen	N;DAT;PL
+Einsatz	Einsätze	N;NOM;PL
+Einsatz	Einsatzes	N;GEN;SG
+Einsatz	Einsatz	N;ACC;SG
+Einsatz	Einsatz	N;DAT;SG
+Einsatz	Einsatz	N;NOM;SG
+
+Schauspieler	Schauspieler	N;ACC;PL
+Schauspieler	Schauspieler	N;ACC;SG
+Schauspieler	Schauspieler	N;DAT;SG
+Schauspieler	Schauspieler	N;GEN;PL
+Schauspieler	Schauspielern	N;DAT;PL
+Schauspieler	Schauspieler	N;NOM;PL
+Schauspieler	Schauspieler	N;NOM;SG
+Schauspieler	Schauspielers	N;GEN;SG
+
+Weste	Weste	N;ACC;SG
+Weste	Weste	N;DAT;SG
+Weste	Weste	N;GEN;SG
+Weste	Westen	N;ACC;PL
+Weste	Westen	N;DAT;PL
+Weste	Westen	N;GEN;PL
+Weste	Westen	N;NOM;PL
+Weste	Weste	N;NOM;SG
+
+Bedeutung	Bedeutungen	N;ACC;PL
+Bedeutung	Bedeutungen	N;DAT;PL
+Bedeutung	Bedeutungen	N;GEN;PL
+Bedeutung	Bedeutungen	N;NOM;PL
+Bedeutung	Bedeutung	N;ACC;SG
+Bedeutung	Bedeutung	N;DAT;SG
+Bedeutung	Bedeutung	N;GEN;SG
+Bedeutung	Bedeutung	N;NOM;SG
+
+Teilnehmer	Teilnehmer	N;ACC;PL
+Teilnehmer	Teilnehmer	N;ACC;SG
+Teilnehmer	Teilnehmer	N;DAT;SG
+Teilnehmer	Teilnehmer	N;GEN;PL
+Teilnehmer	Teilnehmern	N;DAT;PL
+Teilnehmer	Teilnehmer	N;NOM;PL
+Teilnehmer	Teilnehmer	N;NOM;SG
+Teilnehmer	Teilnehmers	N;GEN;SG
+
+Bevölkerung	Bevölkerungen	N;ACC;PL
+Bevölkerung	Bevölkerungen	N;DAT;PL
+Bevölkerung	Bevölkerungen	N;GEN;PL
+Bevölkerung	Bevölkerungen	N;NOM;PL
+Bevölkerung	Bevölkerung	N;ACC;SG
+Bevölkerung	Bevölkerung	N;DAT;SG
+Bevölkerung	Bevölkerung	N;GEN;SG
+Bevölkerung	Bevölkerung	N;NOM;SG
+
+Träger	Träger	N;ACC;PL
+Träger	Träger	N;ACC;SG
+Träger	Träger	N;DAT;SG
+Träger	Träger	N;GEN;PL
+Träger	Trägern	N;DAT;PL
+Träger	Träger	N;NOM;PL
+Träger	Träger	N;NOM;SG
+Träger	Trägers	N;GEN;SG
+
+Komponist	Komponisten	N;ACC;PL
+Komponist	Komponisten	N;ACC;SG
+Komponist	Komponisten	N;DAT;PL
+Komponist	Komponisten	N;DAT;SG
+Komponist	Komponisten	N;GEN;PL
+Komponist	Komponisten	N;GEN;SG
+Komponist	Komponisten	N;NOM;PL
+Komponist	Komponist	N;NOM;SG
+
+veröffentlichen	veröffentlichend	V.PTCP;PRS
+veröffentlichen	veröffentlichen	V;IND;PRS;1;PL
+veröffentlichen	veröffentlichen	V;IND;PRS;3;PL
+veröffentlichen	veröffentlichen	V;NFIN
+veröffentlichen	veröffentlichen	V;SBJV;PRS;1;PL
+veröffentlichen	veröffentlichen	V;SBJV;PRS;3;PL
+veröffentlichen	veröffentlichest	V;SBJV;PRS;2;SG
+veröffentlichen	veröffentlichet	V;SBJV;PRS;2;PL
+veröffentlichen	veröffentliche	V;IND;PRS;1;SG
+veröffentlichen	veröffentliche	V;SBJV;PRS;1;SG
+veröffentlichen	veröffentliche	V;SBJV;PRS;3;SG
+veröffentlichen	veröffentlichst	V;IND;PRS;2;SG
+veröffentlichen	veröffentlichten	V;IND;PST;1;PL
+veröffentlichen	veröffentlichten	V;IND;PST;3;PL
+veröffentlichen	veröffentlichten	V;SBJV;PST;1;PL
+veröffentlichen	veröffentlichten	V;SBJV;PST;3;PL
+veröffentlichen	veröffentlichtest	V;IND;PST;2;SG
+veröffentlichen	veröffentlichtest	V;SBJV;PST;2;SG
+veröffentlichen	veröffentlichtet	V;IND;PST;2;PL
+veröffentlichen	veröffentlichtet	V;SBJV;PST;2;PL
+veröffentlichen	veröffentlichte	V;IND;PST;1;SG
+veröffentlichen	veröffentlichte	V;IND;PST;3;SG
+veröffentlichen	veröffentlichte	V;SBJV;PST;1;SG
+veröffentlichen	veröffentlichte	V;SBJV;PST;3;SG
+veröffentlichen	veröffentlicht	V;IMP;2;PL
+veröffentlichen	veröffentlicht	V;IND;PRS;2;PL
+veröffentlichen	veröffentlicht	V;IND;PRS;3;SG
+veröffentlichen	veröffentlicht	V.PTCP;PST
+veröffentlichen	veröffentlich	V;IMP;2;SG
+
+Quelle	Quelle	N;ACC;SG
+Quelle	Quelle	N;DAT;SG
+Quelle	Quelle	N;GEN;SG
+Quelle	Quellen	N;ACC;PL
+Quelle	Quellen	N;DAT;PL
+Quelle	Quellen	N;GEN;PL
+Quelle	Quellen	N;NOM;PL
+Quelle	Quelle	N;NOM;SG
+
+Spieler	Spieler	N;ACC;PL
+Spieler	Spieler	N;ACC;SG
+Spieler	Spieler	N;DAT;SG
+Spieler	Spieler	N;GEN;PL
+Spieler	Spielern	N;DAT;PL
+Spieler	Spieler	N;NOM;PL
+Spieler	Spieler	N;NOM;SG
+Spieler	Spielers	N;GEN;SG
+
+Republik	Republiken	N;ACC;PL
+Republik	Republiken	N;DAT;PL
+Republik	Republiken	N;GEN;PL
+Republik	Republiken	N;NOM;PL
+Republik	Republik	N;ACC;SG
+Republik	Republik	N;DAT;SG
+Republik	Republik	N;GEN;SG
+Republik	Republik	N;NOM;SG
+
+Präsident	Präsidenten	N;ACC;PL
+Präsident	Präsidenten	N;ACC;SG
+Präsident	Präsidenten	N;DAT;PL
+Präsident	Präsidenten	N;DAT;SG
+Präsident	Präsidenten	N;GEN;PL
+Präsident	Präsidenten	N;GEN;SG
+Präsident	Präsidenten	N;NOM;PL
+Präsident	Präsident	N;NOM;SG
+
+Klasse	Klasse	N;ACC;SG
+Klasse	Klasse	N;DAT;SG
+Klasse	Klasse	N;GEN;SG
+Klasse	Klassen	N;ACC;PL
+Klasse	Klassen	N;DAT;PL
+Klasse	Klassen	N;GEN;PL
+Klasse	Klassen	N;NOM;PL
+Klasse	Klasse	N;NOM;SG
+
+Akademie	Akademie	N;ACC;SG
+Akademie	Akademie	N;DAT;SG
+Akademie	Akademie	N;GEN;SG
+Akademie	Akademien	N;ACC;PL
+Akademie	Akademien	N;DAT;PL
+Akademie	Akademien	N;GEN;PL
+Akademie	Akademien	N;NOM;PL
+Akademie	Akademie	N;NOM;SG
+
+Sommer	Sommer	N;ACC;PL
+Sommer	Sommer	N;ACC;SG
+Sommer	Sommer	N;DAT;SG
+Sommer	Sommer	N;GEN;PL
+Sommer	Sommern	N;DAT;PL
+Sommer	Sommer	N;NOM;PL
+Sommer	Sommer	N;NOM;SG
+Sommer	Sommers	N;GEN;SG
+
+Organisation	Organisationen	N;ACC;PL
+Organisation	Organisationen	N;DAT;PL
+Organisation	Organisationen	N;GEN;PL
+Organisation	Organisationen	N;NOM;PL
+Organisation	Organisation	N;ACC;SG
+Organisation	Organisation	N;DAT;SG
+Organisation	Organisation	N;GEN;SG
+Organisation	Organisation	N;NOM;SG
+
+setzen	gesetzt	V.PTCP;PST
+setzen	setzend	V.PTCP;PRS
+setzen	setzen	V;IND;PRS;1;PL
+setzen	setzen	V;IND;PRS;3;PL
+setzen	setzen	V;NFIN
+setzen	setzen	V;SBJV;PRS;1;PL
+setzen	setzen	V;SBJV;PRS;3;PL
+setzen	setzest	V;SBJV;PRS;2;SG
+setzen	setzet	V;SBJV;PRS;2;PL
+setzen	setze	V;IND;PRS;1;SG
+setzen	setze	V;SBJV;PRS;1;SG
+setzen	setze	V;SBJV;PRS;3;SG
+setzen	setzten	V;IND;PST;1;PL
+setzen	setzten	V;IND;PST;3;PL
+setzen	setzten	V;SBJV;PST;1;PL
+setzen	setzten	V;SBJV;PST;3;PL
+setzen	setztest	V;IND;PST;2;SG
+setzen	setztest	V;SBJV;PST;2;SG
+setzen	setztet	V;IND;PST;2;PL
+setzen	setztet	V;SBJV;PST;2;PL
+setzen	setzte	V;IND;PST;1;SG
+setzen	setzte	V;IND;PST;3;SG
+setzen	setzte	V;SBJV;PST;1;SG
+setzen	setzte	V;SBJV;PST;3;SG
+setzen	setzt	V;IND;PRS;2;PL
+setzen	setzt	V;IND;PRS;2;SG
+setzen	setzt	V;IND;PRS;3;SG
+
+Bauwerk	Bauwerke	N;ACC;PL
+Bauwerk	Bauwerke	N;GEN;PL
+Bauwerk	Bauwerken	N;DAT;PL
+Bauwerk	Bauwerke	N;NOM;PL
+Bauwerk	Bauwerkes	N;GEN;SG
+Bauwerk	Bauwerk	N;ACC;SG
+Bauwerk	Bauwerk	N;DAT;SG
+Bauwerk	Bauwerk	N;NOM;SG
+
+Kultur	Kulturen	N;ACC;PL
+Kultur	Kulturen	N;DAT;PL
+Kultur	Kulturen	N;GEN;PL
+Kultur	Kulturen	N;NOM;PL
+Kultur	Kultur	N;ACC;SG
+Kultur	Kultur	N;DAT;SG
+Kultur	Kultur	N;GEN;SG
+Kultur	Kultur	N;NOM;SG
+
+Bruder	Brüder	N;ACC;PL
+Bruder	Bruder	N;ACC;SG
+Bruder	Bruder	N;DAT;SG
+Bruder	Brüder	N;GEN;PL
+Bruder	Brüdern	N;DAT;PL
+Bruder	Brüder	N;NOM;PL
+Bruder	Bruder	N;NOM;SG
+Bruder	Bruders	N;GEN;SG
+
+Künstler	Künstler	N;ACC;PL
+Künstler	Künstler	N;ACC;SG
+Künstler	Künstler	N;DAT;SG
+Künstler	Künstler	N;GEN;PL
+Künstler	Künstlern	N;DAT;PL
+Künstler	Künstler	N;NOM;PL
+Künstler	Künstler	N;NOM;SG
+Künstler	Künstlers	N;GEN;SG
+
+Vertrag	Verträge	N;ACC;PL
+Vertrag	Verträge	N;GEN;PL
+Vertrag	Verträgen	N;DAT;PL
+Vertrag	Verträge	N;NOM;PL
+Vertrag	Vertrages	N;GEN;SG
+Vertrag	Vertrag	N;ACC;SG
+Vertrag	Vertrag	N;DAT;SG
+Vertrag	Vertrag	N;NOM;SG
+
+Politik	Politiken	N;ACC;PL
+Politik	Politiken	N;DAT;PL
+Politik	Politiken	N;GEN;PL
+Politik	Politiken	N;NOM;PL
+Politik	Politik	N;ACC;SG
+Politik	Politik	N;DAT;SG
+Politik	Politik	N;GEN;SG
+Politik	Politik	N;NOM;SG
+
+Kaiser	Kaiser	N;ACC;PL
+Kaiser	Kaiser	N;ACC;SG
+Kaiser	Kaiser	N;DAT;SG
+Kaiser	Kaiser	N;GEN;PL
+Kaiser	Kaisern	N;DAT;PL
+Kaiser	Kaiser	N;NOM;PL
+Kaiser	Kaiser	N;NOM;SG
+Kaiser	Kaisers	N;GEN;SG
+
+Kloster	Klöster	N;ACC;PL
+Kloster	Kloster	N;ACC;SG
+Kloster	Kloster	N;DAT;SG
+Kloster	Klöster	N;GEN;PL
+Kloster	Klöstern	N;DAT;PL
+Kloster	Klöster	N;NOM;PL
+Kloster	Kloster	N;NOM;SG
+Kloster	Klosters	N;GEN;SG
+
+Betrieb	Betriebe	N;ACC;PL
+Betrieb	Betriebe	N;GEN;PL
+Betrieb	Betrieben	N;DAT;PL
+Betrieb	Betriebe	N;NOM;PL
+Betrieb	Betriebes	N;GEN;SG
+Betrieb	Betrieb	N;ACC;SG
+Betrieb	Betrieb	N;DAT;SG
+Betrieb	Betrieb	N;NOM;SG
+
+Spiel	Spiele	N;ACC;PL
+Spiel	Spiele	N;GEN;PL
+Spiel	Spielen	N;DAT;PL
+Spiel	Spiele	N;NOM;PL
+Spiel	Spieles	N;GEN;SG
+Spiel	Spiel	N;ACC;SG
+Spiel	Spiel	N;DAT;SG
+Spiel	Spiel	N;NOM;SG
+
+nutzen	genutzt	V.PTCP;PST
+nutzen	nutzend	V.PTCP;PRS
+nutzen	nutzen	V;IND;PRS;1;PL
+nutzen	nutzen	V;IND;PRS;3;PL
+nutzen	nutzen	V;NFIN
+nutzen	nutzen	V;SBJV;PRS;1;PL
+nutzen	nutzen	V;SBJV;PRS;3;PL
+nutzen	nutzest	V;SBJV;PRS;2;SG
+nutzen	nutzet	V;SBJV;PRS;2;PL
+nutzen	nutze	V;IND;PRS;1;SG
+nutzen	nutze	V;SBJV;PRS;1;SG
+nutzen	nutze	V;SBJV;PRS;3;SG
+nutzen	nutzten	V;IND;PST;1;PL
+nutzen	nutzten	V;IND;PST;3;PL
+nutzen	nutzten	V;SBJV;PST;1;PL
+nutzen	nutzten	V;SBJV;PST;3;PL
+nutzen	nutztest	V;IND;PST;2;SG
+nutzen	nutztest	V;SBJV;PST;2;SG
+nutzen	nutztet	V;IND;PST;2;PL
+nutzen	nutztet	V;SBJV;PST;2;PL
+nutzen	nutzte	V;IND;PST;1;SG
+nutzen	nutzte	V;IND;PST;3;SG
+nutzen	nutzte	V;SBJV;PST;1;SG
+nutzen	nutzte	V;SBJV;PST;3;SG
+nutzen	nutzt	V;IMP;2;PL
+nutzen	nutzt	V;IND;PRS;2;PL
+nutzen	nutzt	V;IND;PRS;2;SG
+nutzen	nutzt	V;IND;PRS;3;SG
+nutzen	nutz	V;IMP;2;SG
+
+Strecke	Strecke	N;ACC;SG
+Strecke	Strecke	N;DAT;SG
+Strecke	Strecke	N;GEN;SG
+Strecke	Strecken	N;ACC;PL
+Strecke	Strecken	N;DAT;PL
+Strecke	Strecken	N;GEN;PL
+Strecke	Strecken	N;NOM;PL
+Strecke	Strecke	N;NOM;SG
+
+Auszeichnung	Auszeichnungen	N;ACC;PL
+Auszeichnung	Auszeichnungen	N;DAT;PL
+Auszeichnung	Auszeichnungen	N;GEN;PL
+Auszeichnung	Auszeichnungen	N;NOM;PL
+Auszeichnung	Auszeichnung	N;ACC;SG
+Auszeichnung	Auszeichnung	N;DAT;SG
+Auszeichnung	Auszeichnung	N;GEN;SG
+Auszeichnung	Auszeichnung	N;NOM;SG
+
+Hälfte	Hälfte	N;ACC;SG
+Hälfte	Hälfte	N;DAT;SG
+Hälfte	Hälfte	N;GEN;SG
+Hälfte	Hälften	N;ACC;PL
+Hälfte	Hälften	N;DAT;PL
+Hälfte	Hälften	N;GEN;PL
+Hälfte	Hälften	N;NOM;PL
+Hälfte	Hälfte	N;NOM;SG
+
+aufnehmen	aufgenommen	V.PTCP;PST
+aufnehmen	aufnehmend	V.PTCP;PRS
+aufnehmen	aufnehmen	V;NFIN
+aufnehmen	nahm auf	V;IND;PST;1;SG
+aufnehmen	nahm auf	V;IND;PST;3;SG
+aufnehmen	nähme auf	V;SBJV;PST;1;SG
+aufnehmen	nähme auf	V;SBJV;PST;3;SG
+aufnehmen	nahmen auf	V;IND;PST;1;PL
+aufnehmen	nahmen auf	V;IND;PST;3;PL
+aufnehmen	nähmen auf	V;SBJV;PST;1;PL
+aufnehmen	nähmen auf	V;SBJV;PST;3;PL
+aufnehmen	nähmest auf	V;SBJV;PST;2;SG
+aufnehmen	nähmet auf	V;SBJV;PST;2;PL
+aufnehmen	nahmst auf	V;IND;PST;2;SG
+aufnehmen	nahmt auf	V;IND;PST;2;PL
+aufnehmen	nehme auf	V;IND;PRS;1;SG
+aufnehmen	nehme auf	V;SBJV;PRS;1;SG
+aufnehmen	nehme auf	V;SBJV;PRS;3;SG
+aufnehmen	nehmen auf	V;IND;PRS;1;PL
+aufnehmen	nehmen auf	V;IND;PRS;3;PL
+aufnehmen	nehmen auf	V;SBJV;PRS;1;PL
+aufnehmen	nehmen auf	V;SBJV;PRS;3;PL
+aufnehmen	nehmest auf	V;SBJV;PRS;2;SG
+aufnehmen	nehmet auf	V;SBJV;PRS;2;PL
+aufnehmen	nehmt auf	V;IMP;2;PL
+aufnehmen	nehmt auf	V;IND;PRS;2;PL
+aufnehmen	nimm auf	V;IMP;2;SG
+aufnehmen	nimmst auf	V;IND;PRS;2;SG
+aufnehmen	nimmt auf	V;IND;PRS;3;SG
+
+gleichen	geglichen	V.PTCP;PST
+gleichen	gleichend	V.PTCP;PRS
+gleichen	gleichen	V;IND;PRS;1;PL
+gleichen	gleichen	V;IND;PRS;3;PL
+gleichen	gleichen	V;NFIN
+gleichen	gleichen	V;SBJV;PRS;1;PL
+gleichen	gleichen	V;SBJV;PRS;3;PL
+gleichen	gleichest	V;SBJV;PRS;2;SG
+gleichen	gleichet	V;SBJV;PRS;2;PL
+gleichen	gleiche	V;IND;PRS;1;SG
+gleichen	gleiche	V;SBJV;PRS;1;SG
+gleichen	gleiche	V;SBJV;PRS;3;SG
+gleichen	gleichst	V;IND;PRS;2;SG
+gleichen	gleicht	V;IMP;2;PL
+gleichen	gleicht	V;IND;PRS;2;PL
+gleichen	gleicht	V;IND;PRS;3;SG
+gleichen	gleich	V;IMP;2;SG
+gleichen	glichen	V;IND;PST;1;PL
+gleichen	glichen	V;IND;PST;3;PL
+gleichen	glichen	V;SBJV;PST;1;PL
+gleichen	glichen	V;SBJV;PST;3;PL
+gleichen	glichest	V;SBJV;PST;2;SG
+gleichen	glichet	V;SBJV;PST;2;PL
+gleichen	gliche	V;SBJV;PST;1;SG
+gleichen	gliche	V;SBJV;PST;3;SG
+gleichen	glichst	V;IND;PST;2;SG
+gleichen	glicht	V;IND;PST;2;PL
+gleichen	glich	V;IND;PST;1;SG
+gleichen	glich	V;IND;PST;3;SG
+
+Bezeichnung	Bezeichnungen	N;ACC;PL
+Bezeichnung	Bezeichnungen	N;DAT;PL
+Bezeichnung	Bezeichnungen	N;GEN;PL
+Bezeichnung	Bezeichnungen	N;NOM;PL
+Bezeichnung	Bezeichnung	N;ACC;SG
+Bezeichnung	Bezeichnung	N;DAT;SG
+Bezeichnung	Bezeichnung	N;GEN;SG
+Bezeichnung	Bezeichnung	N;NOM;SG
+
+Bürgermeister	Bürgermeister	N;ACC;PL
+Bürgermeister	Bürgermeister	N;ACC;SG
+Bürgermeister	Bürgermeister	N;DAT;SG
+Bürgermeister	Bürgermeister	N;GEN;PL
+Bürgermeister	Bürgermeistern	N;DAT;PL
+Bürgermeister	Bürgermeister	N;NOM;PL
+Bürgermeister	Bürgermeister	N;NOM;SG
+Bürgermeister	Bürgermeisters	N;GEN;SG
+
+Stelle	Stelle	N;ACC;SG
+Stelle	Stelle	N;DAT;SG
+Stelle	Stelle	N;GEN;SG
+Stelle	Stellen	N;ACC;PL
+Stelle	Stellen	N;DAT;PL
+Stelle	Stellen	N;GEN;PL
+Stelle	Stellen	N;NOM;PL
+Stelle	Stelle	N;NOM;SG
+
+Finale	Finale	N;ACC;PL
+Finale	Finale	N;ACC;SG
+Finale	Finale	N;DAT;SG
+Finale	Finale	N;GEN;PL
+Finale	Finalen	N;DAT;PL
+Finale	Finale	N;NOM;PL
+Finale	Finale	N;NOM;SG
+Finale	Finales	N;GEN;SG
+
+erwähnen	erwähnend	V.PTCP;PRS
+erwähnen	erwähnen	V;IND;PRS;1;PL
+erwähnen	erwähnen	V;IND;PRS;3;PL
+erwähnen	erwähnen	V;NFIN
+erwähnen	erwähnen	V;SBJV;PRS;1;PL
+erwähnen	erwähnen	V;SBJV;PRS;3;PL
+erwähnen	erwähnest	V;SBJV;PRS;2;SG
+erwähnen	erwähnet	V;SBJV;PRS;2;PL
+erwähnen	erwähne	V;IND;PRS;1;SG
+erwähnen	erwähne	V;SBJV;PRS;1;SG
+erwähnen	erwähne	V;SBJV;PRS;3;SG
+erwähnen	erwähnst	V;IND;PRS;2;SG
+erwähnen	erwähnten	V;IND;PST;1;PL
+erwähnen	erwähnten	V;IND;PST;3;PL
+erwähnen	erwähnten	V;SBJV;PST;1;PL
+erwähnen	erwähnten	V;SBJV;PST;3;PL
+erwähnen	erwähntest	V;IND;PST;2;SG
+erwähnen	erwähntest	V;SBJV;PST;2;SG
+erwähnen	erwähntet	V;IND;PST;2;PL
+erwähnen	erwähntet	V;SBJV;PST;2;PL
+erwähnen	erwähnte	V;IND;PST;1;SG
+erwähnen	erwähnte	V;IND;PST;3;SG
+erwähnen	erwähnte	V;SBJV;PST;1;SG
+erwähnen	erwähnte	V;SBJV;PST;3;SG
+erwähnen	erwähnt	V;IMP;2;PL
+erwähnen	erwähnt	V;IND;PRS;2;PL
+erwähnen	erwähnt	V;IND;PRS;3;SG
+erwähnen	erwähnt	V.PTCP;PST
+erwähnen	erwähn	V;IMP;2;SG
+
+kommen	gekommen	V.PTCP;PST
+kommen	kamen	V;IND;PST;1;PL
+kommen	kamen	V;IND;PST;3;PL
+kommen	kämen	V;SBJV;PST;1;PL
+kommen	kämen	V;SBJV;PST;3;PL
+kommen	kämest	V;SBJV;PST;2;SG
+kommen	kämet	V;SBJV;PST;2;PL
+kommen	käme	V;SBJV;PST;1;SG
+kommen	käme	V;SBJV;PST;3;SG
+kommen	kamst	V;IND;PST;2;SG
+kommen	kamt	V;IND;PST;2;PL
+kommen	kam	V;IND;PST;1;SG
+kommen	kam	V;IND;PST;3;SG
+kommen	kommend	V.PTCP;PRS
+kommen	kommen	V;IND;PRS;1;PL
+kommen	kommen	V;IND;PRS;3;PL
+kommen	kommen	V;NFIN
+kommen	kommen	V;SBJV;PRS;1;PL
+kommen	kommen	V;SBJV;PRS;3;PL
+kommen	kommest	V;SBJV;PRS;2;SG
+kommen	kommet	V;SBJV;PRS;2;PL
+kommen	komme	V;IND;PRS;1;SG
+kommen	komme	V;SBJV;PRS;1;SG
+kommen	komme	V;SBJV;PRS;3;SG
+kommen	kommst	V;IND;PRS;2;SG
+kommen	kommt	V;IND;PRS;2;PL
+kommen	kommt	V;IND;PRS;3;SG
+
+Gründung	Gründungen	N;ACC;PL
+Gründung	Gründungen	N;DAT;PL
+Gründung	Gründungen	N;GEN;PL
+Gründung	Gründungen	N;NOM;PL
+Gründung	Gründung	N;ACC;SG
+Gründung	Gründung	N;DAT;SG
+Gründung	Gründung	N;GEN;SG
+Gründung	Gründung	N;NOM;SG
+
+stammen	gestammt	V.PTCP;PST
+stammen	stammend	V.PTCP;PRS
+stammen	stammen	V;IND;PRS;1;PL
+stammen	stammen	V;IND;PRS;3;PL
+stammen	stammen	V;NFIN
+stammen	stammen	V;SBJV;PRS;1;PL
+stammen	stammen	V;SBJV;PRS;3;PL
+stammen	stammest	V;SBJV;PRS;2;SG
+stammen	stammet	V;SBJV;PRS;2;PL
+stammen	stamme	V;IND;PRS;1;SG
+stammen	stamme	V;SBJV;PRS;1;SG
+stammen	stamme	V;SBJV;PRS;3;SG
+stammen	stammst	V;IND;PRS;2;SG
+stammen	stammten	V;IND;PST;1;PL
+stammen	stammten	V;IND;PST;3;PL
+stammen	stammten	V;SBJV;PST;1;PL
+stammen	stammten	V;SBJV;PST;3;PL
+stammen	stammtest	V;IND;PST;2;SG
+stammen	stammtest	V;SBJV;PST;2;SG
+stammen	stammtet	V;IND;PST;2;PL
+stammen	stammtet	V;SBJV;PST;2;PL
+stammen	stammte	V;IND;PST;1;SG
+stammen	stammte	V;IND;PST;3;SG
+stammen	stammte	V;SBJV;PST;1;SG
+stammen	stammte	V;SBJV;PST;3;SG
+stammen	stammt	V;IMP;2;PL
+stammen	stammt	V;IND;PRS;2;PL
+stammen	stammt	V;IND;PRS;3;SG
+stammen	stamm	V;IMP;2;SG
+
+Königreich	Königreiche	N;ACC;PL
+Königreich	Königreiche	N;GEN;PL
+Königreich	Königreichen	N;DAT;PL
+Königreich	Königreiche	N;NOM;PL
+Königreich	Königreiches	N;GEN;SG
+Königreich	Königreich	N;ACC;SG
+Königreich	Königreich	N;DAT;SG
+Königreich	Königreich	N;NOM;SG
+
+verheiraten	verheiratend	V.PTCP;PRS
+verheiraten	verheiraten	V;IND;PRS;1;PL
+verheiraten	verheiraten	V;IND;PRS;3;PL
+verheiraten	verheiraten	V;NFIN
+verheiraten	verheiraten	V;SBJV;PRS;1;PL
+verheiraten	verheiraten	V;SBJV;PRS;3;PL
+verheiraten	verheiratest	V;IND;PRS;2;SG
+verheiraten	verheiratest	V;SBJV;PRS;2;SG
+verheiraten	verheirateten	V;IND;PST;1;PL
+verheiraten	verheirateten	V;IND;PST;3;PL
+verheiraten	verheirateten	V;SBJV;PST;1;PL
+verheiraten	verheirateten	V;SBJV;PST;3;PL
+verheiraten	verheiratetest	V;IND;PST;2;SG
+verheiraten	verheiratetest	V;SBJV;PST;2;SG
+verheiraten	verheiratetet	V;IND;PST;2;PL
+verheiraten	verheiratetet	V;SBJV;PST;2;PL
+verheiraten	verheiratete	V;IND;PST;1;SG
+verheiraten	verheiratete	V;IND;PST;3;SG
+verheiraten	verheiratete	V;SBJV;PST;1;SG
+verheiraten	verheiratete	V;SBJV;PST;3;SG
+verheiraten	verheiratet	V;IMP;2;PL
+verheiraten	verheiratet	V;IND;PRS;2;PL
+verheiraten	verheiratet	V;IND;PRS;3;SG
+verheiraten	verheiratet	V.PTCP;PST
+verheiraten	verheiratet	V;SBJV;PRS;2;PL
+verheiraten	verheirate	V;IMP;2;SG
+verheiraten	verheirate	V;IND;PRS;1;SG
+verheiraten	verheirate	V;SBJV;PRS;1;SG
+verheiraten	verheirate	V;SBJV;PRS;3;SG
+
+anschließen	angeschlossen	V.PTCP;PST
+anschließen	anschließend	V.PTCP;PRS
+anschließen	anschließen	V;NFIN
+anschließen	schließ an	V;IMP;2;SG
+anschließen	schließe an	V;IND;PRS;1;SG
+anschließen	schließe an	V;SBJV;PRS;1;SG
+anschließen	schließe an	V;SBJV;PRS;3;SG
+anschließen	schließen an	V;IND;PRS;1;PL
+anschließen	schließen an	V;IND;PRS;3;PL
+anschließen	schließen an	V;SBJV;PRS;1;PL
+anschließen	schließen an	V;SBJV;PRS;3;PL
+anschließen	schließest an	V;SBJV;PRS;2;SG
+anschließen	schließet an	V;SBJV;PRS;2;PL
+anschließen	schließt an	V;IMP;2;PL
+anschließen	schließt an	V;IND;PRS;2;PL
+anschließen	schließt an	V;IND;PRS;2;SG
+anschließen	schließt an	V;IND;PRS;3;SG
+anschließen	schloss an	V;IND;PST;1;SG
+anschließen	schloss an	V;IND;PST;3;SG
+anschließen	schlösse an	V;SBJV;PST;1;SG
+anschließen	schlösse an	V;SBJV;PST;3;SG
+anschließen	schlossen an	V;IND;PST;1;PL
+anschließen	schlossen an	V;IND;PST;3;PL
+anschließen	schlössen an	V;SBJV;PST;1;PL
+anschließen	schlössen an	V;SBJV;PST;3;PL
+anschließen	schlossest an	V;IND;PST;2;SG
+anschließen	schlössest an	V;SBJV;PST;2;SG
+anschließen	schlösset an	V;SBJV;PST;2;PL
+anschließen	schlosst an	V;IND;PST;2;PL
+
+Folge	Folge	N;ACC;SG
+Folge	Folge	N;DAT;SG
+Folge	Folge	N;GEN;SG
+Folge	Folgen	N;ACC;PL
+Folge	Folgen	N;DAT;PL
+Folge	Folgen	N;GEN;PL
+Folge	Folgen	N;NOM;PL
+Folge	Folge	N;NOM;SG
+
+Bezirk	Bezirke	N;ACC;PL
+Bezirk	Bezirke	N;GEN;PL
+Bezirk	Bezirken	N;DAT;PL
+Bezirk	Bezirke	N;NOM;PL
+Bezirk	Bezirkes	N;GEN;SG
+Bezirk	Bezirk	N;ACC;SG
+Bezirk	Bezirk	N;DAT;SG
+Bezirk	Bezirk	N;NOM;SG
+
+entwickeln	entwickelest	V;SBJV;PRS;2;SG
+entwickeln	entwickelet	V;SBJV;PRS;2;PL
+entwickeln	entwickele	V;SBJV;PRS;1;SG
+entwickeln	entwickele	V;SBJV;PRS;3;SG
+entwickeln	entwickelnd	V.PTCP;PRS
+entwickeln	entwickeln	V;IND;PRS;1;PL
+entwickeln	entwickeln	V;IND;PRS;3;PL
+entwickeln	entwickeln	V;NFIN
+entwickeln	entwickeln	V;SBJV;PRS;1;PL
+entwickeln	entwickeln	V;SBJV;PRS;3;PL
+entwickeln	entwickelst	V;IND;PRS;2;SG
+entwickeln	entwickelten	V;IND;PST;1;PL
+entwickeln	entwickelten	V;IND;PST;3;PL
+entwickeln	entwickelten	V;SBJV;PST;1;PL
+entwickeln	entwickelten	V;SBJV;PST;3;PL
+entwickeln	entwickeltest	V;IND;PST;2;SG
+entwickeln	entwickeltest	V;SBJV;PST;2;SG
+entwickeln	entwickeltet	V;IND;PST;2;PL
+entwickeln	entwickeltet	V;SBJV;PST;2;PL
+entwickeln	entwickelte	V;IND;PST;1;SG
+entwickeln	entwickelte	V;IND;PST;3;SG
+entwickeln	entwickelte	V;SBJV;PST;1;SG
+entwickeln	entwickelte	V;SBJV;PST;3;SG
+entwickeln	entwickelt	V;IMP;2;PL
+entwickeln	entwickelt	V;IND;PRS;2;PL
+entwickeln	entwickelt	V;IND;PRS;3;SG
+entwickeln	entwickelt	V.PTCP;PST
+entwickeln	entwickle	V;IMP;2;SG
+entwickeln	entwickle	V;IND;PRS;1;SG
+
+Wappen	Wappen	N;ACC;PL
+Wappen	Wappen	N;ACC;SG
+Wappen	Wappen	N;DAT;PL
+Wappen	Wappen	N;DAT;SG
+Wappen	Wappen	N;GEN;PL
+Wappen	Wappen	N;NOM;PL
+Wappen	Wappen	N;NOM;SG
+Wappen	Wappens	N;GEN;SG
+
+Besitz	Besitzes	N;GEN;SG
+Besitz	Besitz	N;ACC;SG
+Besitz	Besitz	N;DAT;SG
+Besitz	Besitz	N;NOM;SG
+
+Staffel	Staffel	N;ACC;SG
+Staffel	Staffel	N;DAT;SG
+Staffel	Staffel	N;GEN;SG
+Staffel	Staffeln	N;ACC;PL
+Staffel	Staffeln	N;DAT;PL
+Staffel	Staffeln	N;GEN;PL
+Staffel	Staffeln	N;NOM;PL
+Staffel	Staffel	N;NOM;SG
+
+Hochschule	Hochschule	N;ACC;SG
+Hochschule	Hochschule	N;DAT;SG
+Hochschule	Hochschule	N;GEN;SG
+Hochschule	Hochschulen	N;ACC;PL
+Hochschule	Hochschulen	N;DAT;PL
+Hochschule	Hochschulen	N;GEN;PL
+Hochschule	Hochschulen	N;NOM;PL
+Hochschule	Hochschule	N;NOM;SG
+
+umfassen	umfassend	V.PTCP;PRS
+umfassen	umfassen	V;IND;PRS;1;PL
+umfassen	umfassen	V;IND;PRS;3;PL
+umfassen	umfassen	V;NFIN
+umfassen	umfassen	V;SBJV;PRS;1;PL
+umfassen	umfassen	V;SBJV;PRS;3;PL
+umfassen	umfassest	V;SBJV;PRS;2;SG
+umfassen	umfasset	V;SBJV;PRS;2;PL
+umfassen	umfasse	V;IND;PRS;1;SG
+umfassen	umfasse	V;SBJV;PRS;1;SG
+umfassen	umfasse	V;SBJV;PRS;3;SG
+umfassen	umfassten	V;IND;PST;1;PL
+umfassen	umfassten	V;IND;PST;3;PL
+umfassen	umfassten	V;SBJV;PST;1;PL
+umfassen	umfassten	V;SBJV;PST;3;PL
+umfassen	umfasstest	V;IND;PST;2;SG
+umfassen	umfasstest	V;SBJV;PST;2;SG
+umfassen	umfasstet	V;IND;PST;2;PL
+umfassen	umfasstet	V;SBJV;PST;2;PL
+umfassen	umfasste	V;IND;PST;1;SG
+umfassen	umfasste	V;IND;PST;3;SG
+umfassen	umfasste	V;SBJV;PST;1;SG
+umfassen	umfasste	V;SBJV;PST;3;SG
+umfassen	umfasst	V;IMP;2;PL
+umfassen	umfasst	V;IND;PRS;2;PL
+umfassen	umfasst	V;IND;PRS;2;SG
+umfassen	umfasst	V;IND;PRS;3;SG
+umfassen	umfasst	V.PTCP;PST
+umfassen	umfass	V;IMP;2;SG
+
+dienen	dienend	V.PTCP;PRS
+dienen	dienen	V;IND;PRS;1;PL
+dienen	dienen	V;IND;PRS;3;PL
+dienen	dienen	V;NFIN
+dienen	dienen	V;SBJV;PRS;1;PL
+dienen	dienen	V;SBJV;PRS;3;PL
+dienen	dienest	V;SBJV;PRS;2;SG
+dienen	dienet	V;SBJV;PRS;2;PL
+dienen	diene	V;IND;PRS;1;SG
+dienen	diene	V;SBJV;PRS;1;SG
+dienen	diene	V;SBJV;PRS;3;SG
+dienen	dienst	V;IND;PRS;2;SG
+dienen	dienten	V;IND;PST;1;PL
+dienen	dienten	V;IND;PST;3;PL
+dienen	dienten	V;SBJV;PST;1;PL
+dienen	dienten	V;SBJV;PST;3;PL
+dienen	dientest	V;IND;PST;2;SG
+dienen	dientest	V;SBJV;PST;2;SG
+dienen	dientet	V;IND;PST;2;PL
+dienen	dientet	V;SBJV;PST;2;PL
+dienen	diente	V;IND;PST;1;SG
+dienen	diente	V;IND;PST;3;SG
+dienen	diente	V;SBJV;PST;1;SG
+dienen	diente	V;SBJV;PST;3;SG
+dienen	dient	V;IMP;2;PL
+dienen	dient	V;IND;PRS;2;PL
+dienen	dient	V;IND;PRS;3;SG
+dienen	dien	V;IMP;2;SG
+dienen	gedient	V.PTCP;PST
+
+Zentrum	Zentren	N;ACC;PL
+Zentrum	Zentren	N;DAT;PL
+Zentrum	Zentren	N;GEN;PL
+Zentrum	Zentren	N;NOM;PL
+Zentrum	Zentrum	N;ACC;SG
+Zentrum	Zentrum	N;DAT;SG
+Zentrum	Zentrum	N;NOM;SG
+Zentrum	Zentrums	N;GEN;SG
+
+Truppe	Truppe	N;ACC;SG
+Truppe	Truppe	N;DAT;SG
+Truppe	Truppe	N;GEN;SG
+Truppe	Truppen	N;ACC;PL
+Truppe	Truppen	N;DAT;PL
+Truppe	Truppen	N;GEN;PL
+Truppe	Truppen	N;NOM;PL
+Truppe	Truppe	N;NOM;SG
+
+Musiker	Musiker	N;ACC;PL
+Musiker	Musiker	N;ACC;SG
+Musiker	Musiker	N;DAT;SG
+Musiker	Musiker	N;GEN;PL
+Musiker	Musikern	N;DAT;PL
+Musiker	Musiker	N;NOM;PL
+Musiker	Musiker	N;NOM;SG
+Musiker	Musikers	N;GEN;SG
+
+Begriff	Begriffe	N;ACC;PL
+Begriff	Begriffe	N;GEN;PL
+Begriff	Begriffen	N;DAT;PL
+Begriff	Begriffe	N;NOM;PL
+Begriff	Begriffes	N;GEN;SG
+Begriff	Begriff	N;ACC;SG
+Begriff	Begriff	N;DAT;SG
+Begriff	Begriff	N;NOM;SG
+
+Herrschaft	Herrschaften	N;ACC;PL
+Herrschaft	Herrschaften	N;DAT;PL
+Herrschaft	Herrschaften	N;GEN;PL
+Herrschaft	Herrschaften	N;NOM;PL
+Herrschaft	Herrschaft	N;ACC;SG
+Herrschaft	Herrschaft	N;DAT;SG
+Herrschaft	Herrschaft	N;GEN;SG
+Herrschaft	Herrschaft	N;NOM;SG
+
+Hesse	Hessen	N;ACC;PL
+Hesse	Hessen	N;ACC;SG
+Hesse	Hessen	N;DAT;PL
+Hesse	Hessen	N;DAT;SG
+Hesse	Hessen	N;GEN;PL
+Hesse	Hessen	N;GEN;SG
+Hesse	Hessen	N;NOM;PL
+Hesse	Hesse	N;NOM;SG
+
+Stadtteil	Stadtteile	N;ACC;PL
+Stadtteil	Stadtteile	N;GEN;PL
+Stadtteil	Stadtteilen	N;DAT;PL
+Stadtteil	Stadtteile	N;NOM;PL
+Stadtteil	Stadtteiles	N;GEN;SG
+Stadtteil	Stadtteil	N;ACC;SG
+Stadtteil	Stadtteil	N;DAT;SG
+Stadtteil	Stadtteil	N;NOM;SG
+

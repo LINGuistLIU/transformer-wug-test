@@ -1,0 +1,874 @@
+c h e n j e r a V NFIN
+c h e n j e r a V PL 1 FUT
+c h e n j e r a V PL 1 PRS
+c h e n j e r a V PL 1 PST
+c h e n j e r a V PL 2 FUT
+c h e n j e r a V PL 2 PRS
+c h e n j e r a V PL 2 PST
+c h e n j e r a V PL 3 FUT
+c h e n j e r a V PL 3 PRS
+c h e n j e r a V PL 3 PST
+c h e n j e r a V SG 1 FUT
+c h e n j e r a V SG 1 PRS
+c h e n j e r a V SG 1 PST
+c h e n j e r a V SG 2 FUT
+c h e n j e r a V SG 2 PRS
+c h e n j e r a V SG 2 PST
+c h e n j e r a V SG 3 FUT
+c h e n j e r a V SG 3 PRS
+c h e n j e r a V SG 3 PST
+b o o l a V NFIN
+b o o l a V PL 1 FUT
+b o o l a V PL 1 PRS
+b o o l a V PL 1 PST
+b o o l a V PL 2 FUT
+b o o l a V PL 2 PRS
+b o o l a V PL 2 PST
+b o o l a V PL 3 FUT
+b o o l a V PL 3 PRS
+b o o l a V PL 3 PST
+b o o l a V SG 1 FUT
+b o o l a V SG 1 PRS
+b o o l a V SG 1 PST
+b o o l a V SG 2 FUT
+b o o l a V SG 2 PRS
+b o o l a V SG 2 PST
+b o o l a V SG 3 FUT
+b o o l a V SG 3 PRS
+b o o l a V SG 3 PST
+m v a V NFIN
+m v a V PL 1 FUT
+m v a V PL 1 PRS
+m v a V PL 1 PST
+m v a V PL 2 FUT
+m v a V PL 2 PRS
+m v a V PL 2 PST
+m v a V PL 3 FUT
+m v a V PL 3 PRS
+m v a V PL 3 PST
+m v a V SG 1 FUT
+m v a V SG 1 PRS
+m v a V SG 1 PST
+m v a V SG 2 FUT
+m v a V SG 2 PRS
+m v a V SG 2 PST
+m v a V SG 3 FUT
+m v a V SG 3 PRS
+m v a V SG 3 PST
+g a w a V NFIN
+g a w a V PL 1 FUT
+g a w a V PL 1 PRS
+g a w a V PL 1 PST
+g a w a V PL 2 FUT
+g a w a V PL 2 PRS
+g a w a V PL 2 PST
+g a w a V PL 3 FUT
+g a w a V PL 3 PRS
+g a w a V PL 3 PST
+g a w a V SG 1 FUT
+g a w a V SG 1 PRS
+g a w a V SG 1 PST
+g a w a V SG 2 FUT
+g a w a V SG 2 PRS
+g a w a V SG 2 PST
+g a w a V SG 3 FUT
+g a w a V SG 3 PRS
+g a w a V SG 3 PST
+k w a t a V NFIN
+k w a t a V PL 1 FUT
+k w a t a V PL 1 PRS
+k w a t a V PL 1 PST
+k w a t a V PL 2 FUT
+k w a t a V PL 2 PRS
+k w a t a V PL 2 PST
+k w a t a V PL 3 FUT
+k w a t a V PL 3 PRS
+k w a t a V PL 3 PST
+k w a t a V SG 1 FUT
+k w a t a V SG 1 PRS
+k w a t a V SG 1 PST
+k w a t a V SG 2 FUT
+k w a t a V SG 2 PRS
+k w a t a V SG 2 PST
+k w a t a V SG 3 FUT
+k w a t a V SG 3 PRS
+k w a t a V SG 3 PST
+b w e z a V NFIN
+b w e z a V PL 1 FUT
+b w e z a V PL 1 PRS
+b w e z a V PL 1 PST
+b w e z a V PL 2 FUT
+b w e z a V PL 2 PRS
+b w e z a V PL 2 PST
+b w e z a V PL 3 FUT
+b w e z a V PL 3 PRS
+b w e z a V PL 3 PST
+b w e z a V SG 1 FUT
+b w e z a V SG 1 PRS
+b w e z a V SG 1 PST
+b w e z a V SG 2 FUT
+b w e z a V SG 2 PRS
+b w e z a V SG 2 PST
+b w e z a V SG 3 FUT
+b w e z a V SG 3 PRS
+b w e z a V SG 3 PST
+l e m b a V NFIN
+l e m b a V PL 1 FUT
+l e m b a V PL 1 PRS
+l e m b a V PL 1 PST
+l e m b a V PL 2 FUT
+l e m b a V PL 2 PRS
+l e m b a V PL 2 PST
+l e m b a V PL 3 FUT
+l e m b a V PL 3 PRS
+l e m b a V PL 3 PST
+l e m b a V SG 1 FUT
+l e m b a V SG 1 PRS
+l e m b a V SG 1 PST
+l e m b a V SG 2 FUT
+l e m b a V SG 2 PRS
+l e m b a V SG 2 PST
+l e m b a V SG 3 FUT
+l e m b a V SG 3 PRS
+l e m b a V SG 3 PST
+t u l u k a V NFIN
+t u l u k a V PL 1 FUT
+t u l u k a V PL 1 PRS
+t u l u k a V PL 1 PST
+t u l u k a V PL 2 FUT
+t u l u k a V PL 2 PRS
+t u l u k a V PL 2 PST
+t u l u k a V PL 3 FUT
+t u l u k a V PL 3 PRS
+t u l u k a V PL 3 PST
+t u l u k a V SG 1 FUT
+t u l u k a V SG 1 PRS
+t u l u k a V SG 1 PST
+t u l u k a V SG 2 FUT
+t u l u k a V SG 2 PRS
+t u l u k a V SG 2 PST
+t u l u k a V SG 3 FUT
+t u l u k a V SG 3 PRS
+t u l u k a V SG 3 PST
+p e m p h a V NFIN
+p e m p h a V PL 1 FUT
+p e m p h a V PL 1 PRS
+p e m p h a V PL 1 PST
+p e m p h a V PL 2 FUT
+p e m p h a V PL 2 PRS
+p e m p h a V PL 2 PST
+p e m p h a V PL 3 FUT
+p e m p h a V PL 3 PRS
+p e m p h a V PL 3 PST
+p e m p h a V SG 1 FUT
+p e m p h a V SG 1 PRS
+p e m p h a V SG 1 PST
+p e m p h a V SG 2 FUT
+p e m p h a V SG 2 PRS
+p e m p h a V SG 2 PST
+p e m p h a V SG 3 FUT
+p e m p h a V SG 3 PRS
+p e m p h a V SG 3 PST
+t s e g u l a V NFIN
+t s e g u l a V PL 1 FUT
+t s e g u l a V PL 1 PRS
+t s e g u l a V PL 1 PST
+t s e g u l a V PL 2 FUT
+t s e g u l a V PL 2 PRS
+t s e g u l a V PL 2 PST
+t s e g u l a V PL 3 FUT
+t s e g u l a V PL 3 PRS
+t s e g u l a V PL 3 PST
+t s e g u l a V SG 1 FUT
+t s e g u l a V SG 1 PRS
+t s e g u l a V SG 1 PST
+t s e g u l a V SG 2 FUT
+t s e g u l a V SG 2 PRS
+t s e g u l a V SG 2 PST
+t s e g u l a V SG 3 FUT
+t s e g u l a V SG 3 PRS
+t s e g u l a V SG 3 PST
+l i p i r a V NFIN
+l i p i r a V PL 1 FUT
+l i p i r a V PL 1 PRS
+l i p i r a V PL 1 PST
+l i p i r a V PL 2 FUT
+l i p i r a V PL 2 PRS
+l i p i r a V PL 2 PST
+l i p i r a V PL 3 FUT
+l i p i r a V PL 3 PRS
+l i p i r a V PL 3 PST
+l i p i r a V SG 1 FUT
+l i p i r a V SG 1 PRS
+l i p i r a V SG 1 PST
+l i p i r a V SG 2 FUT
+l i p i r a V SG 2 PRS
+l i p i r a V SG 2 PST
+l i p i r a V SG 3 FUT
+l i p i r a V SG 3 PRS
+l i p i r a V SG 3 PST
+s a n d u k a V NFIN
+s a n d u k a V PL 1 FUT
+s a n d u k a V PL 1 PRS
+s a n d u k a V PL 1 PST
+s a n d u k a V PL 2 FUT
+s a n d u k a V PL 2 PRS
+s a n d u k a V PL 2 PST
+s a n d u k a V PL 3 FUT
+s a n d u k a V PL 3 PRS
+s a n d u k a V PL 3 PST
+s a n d u k a V SG 1 FUT
+s a n d u k a V SG 1 PRS
+s a n d u k a V SG 1 PST
+s a n d u k a V SG 2 FUT
+s a n d u k a V SG 2 PRS
+s a n d u k a V SG 2 PST
+s a n d u k a V SG 3 FUT
+s a n d u k a V SG 3 PRS
+s a n d u k a V SG 3 PST
+m w a V NFIN
+m w a V PL 1 FUT
+m w a V PL 1 PRS
+m w a V PL 1 PST
+m w a V PL 2 FUT
+m w a V PL 2 PRS
+m w a V PL 2 PST
+m w a V PL 3 FUT
+m w a V PL 3 PRS
+m w a V PL 3 PST
+m w a V SG 1 FUT
+m w a V SG 1 PRS
+m w a V SG 1 PST
+m w a V SG 2 FUT
+m w a V SG 2 PRS
+m w a V SG 2 PST
+m w a V SG 3 FUT
+m w a V SG 3 PRS
+m w a V SG 3 PST
+f a V NFIN
+f a V PL 1 FUT
+f a V PL 1 PRS
+f a V PL 1 PST
+f a V PL 2 FUT
+f a V PL 2 PRS
+f a V PL 2 PST
+f a V PL 3 FUT
+f a V PL 3 PRS
+f a V PL 3 PST
+f a V SG 1 FUT
+f a V SG 1 PRS
+f a V SG 1 PST
+f a V SG 2 FUT
+f a V SG 2 PRS
+f a V SG 2 PST
+f a V SG 3 FUT
+f a V SG 3 PRS
+f a V SG 3 PST
+s a k a n i z a V NFIN
+s a k a n i z a V PL 1 FUT
+s a k a n i z a V PL 1 PRS
+s a k a n i z a V PL 1 PST
+s a k a n i z a V PL 2 FUT
+s a k a n i z a V PL 2 PRS
+s a k a n i z a V PL 2 PST
+s a k a n i z a V PL 3 FUT
+s a k a n i z a V PL 3 PRS
+s a k a n i z a V PL 3 PST
+s a k a n i z a V SG 1 FUT
+s a k a n i z a V SG 1 PRS
+s a k a n i z a V SG 1 PST
+s a k a n i z a V SG 2 FUT
+s a k a n i z a V SG 2 PRS
+s a k a n i z a V SG 2 PST
+s a k a n i z a V SG 3 FUT
+s a k a n i z a V SG 3 PRS
+s a k a n i z a V SG 3 PST
+y a m i k a V NFIN
+y a m i k a V PL 1 FUT
+y a m i k a V PL 1 PRS
+y a m i k a V PL 1 PST
+y a m i k a V PL 2 FUT
+y a m i k a V PL 2 PRS
+y a m i k a V PL 2 PST
+y a m i k a V PL 3 FUT
+y a m i k a V PL 3 PRS
+y a m i k a V PL 3 PST
+y a m i k a V SG 1 FUT
+y a m i k a V SG 1 PRS
+y a m i k a V SG 1 PST
+y a m i k a V SG 2 FUT
+y a m i k a V SG 2 PRS
+y a m i k a V SG 2 PST
+y a m i k a V SG 3 FUT
+y a m i k a V SG 3 PRS
+y a m i k a V SG 3 PST
+z u n z a V NFIN
+z u n z a V PL 1 FUT
+z u n z a V PL 1 PRS
+z u n z a V PL 1 PST
+z u n z a V PL 2 FUT
+z u n z a V PL 2 PRS
+z u n z a V PL 2 PST
+z u n z a V PL 3 FUT
+z u n z a V PL 3 PRS
+z u n z a V PL 3 PST
+z u n z a V SG 1 FUT
+z u n z a V SG 1 PRS
+z u n z a V SG 1 PST
+z u n z a V SG 2 FUT
+z u n z a V SG 2 PRS
+z u n z a V SG 2 PST
+z u n z a V SG 3 FUT
+z u n z a V SG 3 PRS
+z u n z a V SG 3 PST
+n u n k h a V NFIN
+n u n k h a V PL 1 FUT
+n u n k h a V PL 1 PRS
+n u n k h a V PL 1 PST
+n u n k h a V PL 2 FUT
+n u n k h a V PL 2 PRS
+n u n k h a V PL 2 PST
+n u n k h a V PL 3 FUT
+n u n k h a V PL 3 PRS
+n u n k h a V PL 3 PST
+n u n k h a V SG 1 FUT
+n u n k h a V SG 1 PRS
+n u n k h a V SG 1 PST
+n u n k h a V SG 2 FUT
+n u n k h a V SG 2 PRS
+n u n k h a V SG 2 PST
+n u n k h a V SG 3 FUT
+n u n k h a V SG 3 PRS
+n u n k h a V SG 3 PST
+n y a d a V NFIN
+n y a d a V PL 1 FUT
+n y a d a V PL 1 PRS
+n y a d a V PL 1 PST
+n y a d a V PL 2 FUT
+n y a d a V PL 2 PRS
+n y a d a V PL 2 PST
+n y a d a V PL 3 FUT
+n y a d a V PL 3 PRS
+n y a d a V PL 3 PST
+n y a d a V SG 1 FUT
+n y a d a V SG 1 PRS
+n y a d a V SG 1 PST
+n y a d a V SG 2 FUT
+n y a d a V SG 2 PRS
+n y a d a V SG 2 PST
+n y a d a V SG 3 FUT
+n y a d a V SG 3 PRS
+n y a d a V SG 3 PST
+o c h a V NFIN
+o c h a V PL 1 FUT
+o c h a V PL 1 PRS
+o c h a V PL 1 PST
+o c h a V PL 2 FUT
+o c h a V PL 2 PRS
+o c h a V PL 2 PST
+o c h a V PL 3 FUT
+o c h a V PL 3 PRS
+o c h a V PL 3 PST
+o c h a V SG 1 FUT
+o c h a V SG 1 PRS
+o c h a V SG 1 PST
+o c h a V SG 2 FUT
+o c h a V SG 2 PRS
+o c h a V SG 2 PST
+o c h a V SG 3 FUT
+o c h a V SG 3 PRS
+o c h a V SG 3 PST
+t h o k o z a V NFIN
+t h o k o z a V PL 1 FUT
+t h o k o z a V PL 1 PRS
+t h o k o z a V PL 1 PST
+t h o k o z a V PL 2 FUT
+t h o k o z a V PL 2 PRS
+t h o k o z a V PL 2 PST
+t h o k o z a V PL 3 FUT
+t h o k o z a V PL 3 PRS
+t h o k o z a V PL 3 PST
+t h o k o z a V SG 1 FUT
+t h o k o z a V SG 1 PRS
+t h o k o z a V SG 1 PST
+t h o k o z a V SG 2 FUT
+t h o k o z a V SG 2 PRS
+t h o k o z a V SG 2 PST
+t h o k o z a V SG 3 FUT
+t h o k o z a V SG 3 PRS
+t h o k o z a V SG 3 PST
+b i r i w i r a V NFIN
+b i r i w i r a V PL 1 FUT
+b i r i w i r a V PL 1 PRS
+b i r i w i r a V PL 1 PST
+b i r i w i r a V PL 2 FUT
+b i r i w i r a V PL 2 PRS
+b i r i w i r a V PL 2 PST
+b i r i w i r a V PL 3 FUT
+b i r i w i r a V PL 3 PRS
+b i r i w i r a V PL 3 PST
+b i r i w i r a V SG 1 FUT
+b i r i w i r a V SG 1 PRS
+b i r i w i r a V SG 1 PST
+b i r i w i r a V SG 2 FUT
+b i r i w i r a V SG 2 PRS
+b i r i w i r a V SG 2 PST
+b i r i w i r a V SG 3 FUT
+b i r i w i r a V SG 3 PRS
+b i r i w i r a V SG 3 PST
+l i m b a V NFIN
+l i m b a V PL 1 FUT
+l i m b a V PL 1 PRS
+l i m b a V PL 1 PST
+l i m b a V PL 2 FUT
+l i m b a V PL 2 PRS
+l i m b a V PL 2 PST
+l i m b a V PL 3 FUT
+l i m b a V PL 3 PRS
+l i m b a V PL 3 PST
+l i m b a V SG 1 FUT
+l i m b a V SG 1 PRS
+l i m b a V SG 1 PST
+l i m b a V SG 2 FUT
+l i m b a V SG 2 PRS
+l i m b a V SG 2 PST
+l i m b a V SG 3 FUT
+l i m b a V SG 3 PRS
+l i m b a V SG 3 PST
+t s i k a V NFIN
+t s i k a V PL 1 FUT
+t s i k a V PL 1 PRS
+t s i k a V PL 1 PST
+t s i k a V PL 2 FUT
+t s i k a V PL 2 PRS
+t s i k a V PL 2 PST
+t s i k a V PL 3 FUT
+t s i k a V PL 3 PRS
+t s i k a V PL 3 PST
+t s i k a V SG 1 FUT
+t s i k a V SG 1 PRS
+t s i k a V SG 1 PST
+t s i k a V SG 2 FUT
+t s i k a V SG 2 PRS
+t s i k a V SG 2 PST
+t s i k a V SG 3 FUT
+t s i k a V SG 3 PRS
+t s i k a V SG 3 PST
+b i s a l a V NFIN
+b i s a l a V PL 1 FUT
+b i s a l a V PL 1 PRS
+b i s a l a V PL 1 PST
+b i s a l a V PL 2 FUT
+b i s a l a V PL 2 PRS
+b i s a l a V PL 2 PST
+b i s a l a V PL 3 FUT
+b i s a l a V PL 3 PRS
+b i s a l a V PL 3 PST
+b i s a l a V SG 1 FUT
+b i s a l a V SG 1 PRS
+b i s a l a V SG 1 PST
+b i s a l a V SG 2 FUT
+b i s a l a V SG 2 PRS
+b i s a l a V SG 2 PST
+b i s a l a V SG 3 FUT
+b i s a l a V SG 3 PRS
+b i s a l a V SG 3 PST
+s e f u k a V NFIN
+s e f u k a V PL 1 FUT
+s e f u k a V PL 1 PRS
+s e f u k a V PL 1 PST
+s e f u k a V PL 2 FUT
+s e f u k a V PL 2 PRS
+s e f u k a V PL 2 PST
+s e f u k a V PL 3 FUT
+s e f u k a V PL 3 PRS
+s e f u k a V PL 3 PST
+s e f u k a V SG 1 FUT
+s e f u k a V SG 1 PRS
+s e f u k a V SG 1 PST
+s e f u k a V SG 2 FUT
+s e f u k a V SG 2 PRS
+s e f u k a V SG 2 PST
+s e f u k a V SG 3 FUT
+s e f u k a V SG 3 PRS
+s e f u k a V SG 3 PST
+c h i m w a V NFIN
+c h i m w a V PL 1 FUT
+c h i m w a V PL 1 PRS
+c h i m w a V PL 1 PST
+c h i m w a V PL 2 FUT
+c h i m w a V PL 2 PRS
+c h i m w a V PL 2 PST
+c h i m w a V PL 3 FUT
+c h i m w a V PL 3 PRS
+c h i m w a V PL 3 PST
+c h i m w a V SG 1 FUT
+c h i m w a V SG 1 PRS
+c h i m w a V SG 1 PST
+c h i m w a V SG 2 FUT
+c h i m w a V SG 2 PRS
+c h i m w a V SG 2 PST
+c h i m w a V SG 3 FUT
+c h i m w a V SG 3 PRS
+c h i m w a V SG 3 PST
+k a y i k a V NFIN
+k a y i k a V PL 1 FUT
+k a y i k a V PL 1 PRS
+k a y i k a V PL 1 PST
+k a y i k a V PL 2 FUT
+k a y i k a V PL 2 PRS
+k a y i k a V PL 2 PST
+k a y i k a V PL 3 FUT
+k a y i k a V PL 3 PRS
+k a y i k a V PL 3 PST
+k a y i k a V SG 1 FUT
+k a y i k a V SG 1 PRS
+k a y i k a V SG 1 PST
+k a y i k a V SG 2 FUT
+k a y i k a V SG 2 PRS
+k a y i k a V SG 2 PST
+k a y i k a V SG 3 FUT
+k a y i k a V SG 3 PRS
+k a y i k a V SG 3 PST
+y a n j a V NFIN
+y a n j a V PL 1 FUT
+y a n j a V PL 1 PRS
+y a n j a V PL 1 PST
+y a n j a V PL 2 FUT
+y a n j a V PL 2 PRS
+y a n j a V PL 2 PST
+y a n j a V PL 3 FUT
+y a n j a V PL 3 PRS
+y a n j a V PL 3 PST
+y a n j a V SG 1 FUT
+y a n j a V SG 1 PRS
+y a n j a V SG 1 PST
+y a n j a V SG 2 FUT
+y a n j a V SG 2 PRS
+y a n j a V SG 2 PST
+y a n j a V SG 3 FUT
+y a n j a V SG 3 PRS
+y a n j a V SG 3 PST
+b w e r a V NFIN
+b w e r a V PL 1 FUT
+b w e r a V PL 1 PRS
+b w e r a V PL 1 PST
+b w e r a V PL 2 FUT
+b w e r a V PL 2 PRS
+b w e r a V PL 2 PST
+b w e r a V PL 3 FUT
+b w e r a V PL 3 PRS
+b w e r a V PL 3 PST
+b w e r a V SG 1 FUT
+b w e r a V SG 1 PRS
+b w e r a V SG 1 PST
+b w e r a V SG 2 FUT
+b w e r a V SG 2 PRS
+b w e r a V SG 2 PST
+b w e r a V SG 3 FUT
+b w e r a V SG 3 PRS
+b w e r a V SG 3 PST
+t a n t h a u z a V NFIN
+t a n t h a u z a V PL 1 FUT
+t a n t h a u z a V PL 1 PRS
+t a n t h a u z a V PL 1 PST
+t a n t h a u z a V PL 2 FUT
+t a n t h a u z a V PL 2 PRS
+t a n t h a u z a V PL 2 PST
+t a n t h a u z a V PL 3 FUT
+t a n t h a u z a V PL 3 PRS
+t a n t h a u z a V PL 3 PST
+t a n t h a u z a V SG 1 FUT
+t a n t h a u z a V SG 1 PRS
+t a n t h a u z a V SG 1 PST
+t a n t h a u z a V SG 2 FUT
+t a n t h a u z a V SG 2 PRS
+t a n t h a u z a V SG 2 PST
+t a n t h a u z a V SG 3 FUT
+t a n t h a u z a V SG 3 PRS
+t a n t h a u z a V SG 3 PST
+f u p i k a V NFIN
+f u p i k a V PL 1 FUT
+f u p i k a V PL 1 PRS
+f u p i k a V PL 1 PST
+f u p i k a V PL 2 FUT
+f u p i k a V PL 2 PRS
+f u p i k a V PL 2 PST
+f u p i k a V PL 3 FUT
+f u p i k a V PL 3 PRS
+f u p i k a V PL 3 PST
+f u p i k a V SG 1 FUT
+f u p i k a V SG 1 PRS
+f u p i k a V SG 1 PST
+f u p i k a V SG 2 FUT
+f u p i k a V SG 2 PRS
+f u p i k a V SG 2 PST
+f u p i k a V SG 3 FUT
+f u p i k a V SG 3 PRS
+f u p i k a V SG 3 PST
+k h u t a V NFIN
+k h u t a V PL 1 FUT
+k h u t a V PL 1 PRS
+k h u t a V PL 1 PST
+k h u t a V PL 2 FUT
+k h u t a V PL 2 PRS
+k h u t a V PL 2 PST
+k h u t a V PL 3 FUT
+k h u t a V PL 3 PRS
+k h u t a V PL 3 PST
+k h u t a V SG 1 FUT
+k h u t a V SG 1 PRS
+k h u t a V SG 1 PST
+k h u t a V SG 2 FUT
+k h u t a V SG 2 PRS
+k h u t a V SG 2 PST
+k h u t a V SG 3 FUT
+k h u t a V SG 3 PRS
+k h u t a V SG 3 PST
+p o n d a V NFIN
+p o n d a V PL 1 FUT
+p o n d a V PL 1 PRS
+p o n d a V PL 1 PST
+p o n d a V PL 2 FUT
+p o n d a V PL 2 PRS
+p o n d a V PL 2 PST
+p o n d a V PL 3 FUT
+p o n d a V PL 3 PRS
+p o n d a V PL 3 PST
+p o n d a V SG 1 FUT
+p o n d a V SG 1 PRS
+p o n d a V SG 1 PST
+p o n d a V SG 2 FUT
+p o n d a V SG 2 PRS
+p o n d a V SG 2 PST
+p o n d a V SG 3 FUT
+p o n d a V SG 3 PRS
+p o n d a V SG 3 PST
+k h a z i k a V NFIN
+k h a z i k a V PL 1 FUT
+k h a z i k a V PL 1 PRS
+k h a z i k a V PL 1 PST
+k h a z i k a V PL 2 FUT
+k h a z i k a V PL 2 PRS
+k h a z i k a V PL 2 PST
+k h a z i k a V PL 3 FUT
+k h a z i k a V PL 3 PRS
+k h a z i k a V PL 3 PST
+k h a z i k a V SG 1 FUT
+k h a z i k a V SG 1 PRS
+k h a z i k a V SG 1 PST
+k h a z i k a V SG 2 FUT
+k h a z i k a V SG 2 PRS
+k h a z i k a V SG 2 PST
+k h a z i k a V SG 3 FUT
+k h a z i k a V SG 3 PRS
+k h a z i k a V SG 3 PST
+y a k a V NFIN
+y a k a V PL 1 FUT
+y a k a V PL 1 PRS
+y a k a V PL 1 PST
+y a k a V PL 2 FUT
+y a k a V PL 2 PRS
+y a k a V PL 2 PST
+y a k a V PL 3 FUT
+y a k a V PL 3 PRS
+y a k a V PL 3 PST
+y a k a V SG 1 FUT
+y a k a V SG 1 PRS
+y a k a V SG 1 PST
+y a k a V SG 2 FUT
+y a k a V SG 2 PRS
+y a k a V SG 2 PST
+y a k a V SG 3 FUT
+y a k a V SG 3 PRS
+y a k a V SG 3 PST
+s e w e r a V NFIN
+s e w e r a V PL 1 FUT
+s e w e r a V PL 1 PRS
+s e w e r a V PL 1 PST
+s e w e r a V PL 2 FUT
+s e w e r a V PL 2 PRS
+s e w e r a V PL 2 PST
+s e w e r a V PL 3 FUT
+s e w e r a V PL 3 PRS
+s e w e r a V PL 3 PST
+s e w e r a V SG 1 FUT
+s e w e r a V SG 1 PRS
+s e w e r a V SG 1 PST
+s e w e r a V SG 2 FUT
+s e w e r a V SG 2 PRS
+s e w e r a V SG 2 PST
+s e w e r a V SG 3 FUT
+s e w e r a V SG 3 PRS
+s e w e r a V SG 3 PST
+n y a n s a V NFIN
+n y a n s a V PL 1 FUT
+n y a n s a V PL 1 PRS
+n y a n s a V PL 1 PST
+n y a n s a V PL 2 FUT
+n y a n s a V PL 2 PRS
+n y a n s a V PL 2 PST
+n y a n s a V PL 3 FUT
+n y a n s a V PL 3 PRS
+n y a n s a V PL 3 PST
+n y a n s a V SG 1 FUT
+n y a n s a V SG 1 PRS
+n y a n s a V SG 1 PST
+n y a n s a V SG 2 FUT
+n y a n s a V SG 2 PRS
+n y a n s a V SG 2 PST
+n y a n s a V SG 3 FUT
+n y a n s a V SG 3 PRS
+n y a n s a V SG 3 PST
+l a m u l a V NFIN
+l a m u l a V PL 1 FUT
+l a m u l a V PL 1 PRS
+l a m u l a V PL 1 PST
+l a m u l a V PL 2 FUT
+l a m u l a V PL 2 PRS
+l a m u l a V PL 2 PST
+l a m u l a V PL 3 FUT
+l a m u l a V PL 3 PRS
+l a m u l a V PL 3 PST
+l a m u l a V SG 1 FUT
+l a m u l a V SG 1 PRS
+l a m u l a V SG 1 PST
+l a m u l a V SG 2 FUT
+l a m u l a V SG 2 PRS
+l a m u l a V SG 2 PST
+l a m u l a V SG 3 FUT
+l a m u l a V SG 3 PRS
+l a m u l a V SG 3 PST
+g a y a V NFIN
+g a y a V PL 1 FUT
+g a y a V PL 1 PRS
+g a y a V PL 1 PST
+g a y a V PL 2 FUT
+g a y a V PL 2 PRS
+g a y a V PL 2 PST
+g a y a V PL 3 FUT
+g a y a V PL 3 PRS
+g a y a V PL 3 PST
+g a y a V SG 1 FUT
+g a y a V SG 1 PRS
+g a y a V SG 1 PST
+g a y a V SG 2 FUT
+g a y a V SG 2 PRS
+g a y a V SG 2 PST
+g a y a V SG 3 FUT
+g a y a V SG 3 PRS
+g a y a V SG 3 PST
+s a m b a V NFIN
+s a m b a V PL 1 FUT
+s a m b a V PL 1 PRS
+s a m b a V PL 1 PST
+s a m b a V PL 2 FUT
+s a m b a V PL 2 PRS
+s a m b a V PL 2 PST
+s a m b a V PL 3 FUT
+s a m b a V PL 3 PRS
+s a m b a V PL 3 PST
+s a m b a V SG 1 FUT
+s a m b a V SG 1 PRS
+s a m b a V SG 1 PST
+s a m b a V SG 2 FUT
+s a m b a V SG 2 PRS
+s a m b a V SG 2 PST
+s a m b a V SG 3 FUT
+s a m b a V SG 3 PRS
+s a m b a V SG 3 PST
+t s i r i z a V NFIN
+t s i r i z a V PL 1 FUT
+t s i r i z a V PL 1 PRS
+t s i r i z a V PL 1 PST
+t s i r i z a V PL 2 FUT
+t s i r i z a V PL 2 PRS
+t s i r i z a V PL 2 PST
+t s i r i z a V PL 3 FUT
+t s i r i z a V PL 3 PRS
+t s i r i z a V PL 3 PST
+t s i r i z a V SG 1 FUT
+t s i r i z a V SG 1 PRS
+t s i r i z a V SG 1 PST
+t s i r i z a V SG 2 FUT
+t s i r i z a V SG 2 PRS
+t s i r i z a V SG 2 PST
+t s i r i z a V SG 3 FUT
+t s i r i z a V SG 3 PRS
+t s i r i z a V SG 3 PST
+y a n d k i r a V NFIN
+y a n d k i r a V PL 1 FUT
+y a n d k i r a V PL 1 PRS
+y a n d k i r a V PL 1 PST
+y a n d k i r a V PL 2 FUT
+y a n d k i r a V PL 2 PRS
+y a n d k i r a V PL 2 PST
+y a n d k i r a V PL 3 FUT
+y a n d k i r a V PL 3 PRS
+y a n d k i r a V PL 3 PST
+y a n d k i r a V SG 1 FUT
+y a n d k i r a V SG 1 PRS
+y a n d k i r a V SG 1 PST
+y a n d k i r a V SG 2 FUT
+y a n d k i r a V SG 2 PRS
+y a n d k i r a V SG 2 PST
+y a n d k i r a V SG 3 FUT
+y a n d k i r a V SG 3 PRS
+y a n d k i r a V SG 3 PST
+l u m a V NFIN
+l u m a V PL 1 FUT
+l u m a V PL 1 PRS
+l u m a V PL 1 PST
+l u m a V PL 2 FUT
+l u m a V PL 2 PRS
+l u m a V PL 2 PST
+l u m a V PL 3 FUT
+l u m a V PL 3 PRS
+l u m a V PL 3 PST
+l u m a V SG 1 FUT
+l u m a V SG 1 PRS
+l u m a V SG 1 PST
+l u m a V SG 2 FUT
+l u m a V SG 2 PRS
+l u m a V SG 2 PST
+l u m a V SG 3 FUT
+l u m a V SG 3 PRS
+l u m a V SG 3 PST
+k a m b a V NFIN
+k a m b a V PL 1 FUT
+k a m b a V PL 1 PRS
+k a m b a V PL 1 PST
+k a m b a V PL 2 FUT
+k a m b a V PL 2 PRS
+k a m b a V PL 2 PST
+k a m b a V PL 3 FUT
+k a m b a V PL 3 PRS
+k a m b a V PL 3 PST
+k a m b a V SG 1 FUT
+k a m b a V SG 1 PRS
+k a m b a V SG 1 PST
+k a m b a V SG 2 FUT
+k a m b a V SG 2 PRS
+k a m b a V SG 2 PST
+k a m b a V SG 3 FUT
+k a m b a V SG 3 PRS
+k a m b a V SG 3 PST
+k h a l a V NFIN
+k h a l a V PL 1 FUT
+k h a l a V PL 1 PRS
+k h a l a V PL 1 PST
+k h a l a V PL 2 FUT
+k h a l a V PL 2 PRS
+k h a l a V PL 2 PST
+k h a l a V PL 3 FUT
+k h a l a V PL 3 PRS
+k h a l a V PL 3 PST
+k h a l a V SG 1 FUT
+k h a l a V SG 1 PRS
+k h a l a V SG 1 PST
+k h a l a V SG 2 FUT
+k h a l a V SG 2 PRS
+k h a l a V SG 2 PST
+k h a l a V SG 3 FUT
+k h a l a V SG 3 PRS
+k h a l a V SG 3 PST

@@ -1,0 +1,4747 @@
+t e w V HAB+PRF NEG PRS
+t e w V HAB+PRF NEG PST
+t e w V HAB+PRF PRS
+t e w V HAB+PRF PST
+t e w V HAB+PROG NEG PRS
+t e w V HAB+PROG NEG PST
+t e w V HAB+PROG PRS
+t e w V HAB+PROG PST
+t e w V HAB FUT
+t e w V HAB NEG FUT
+t e w V HAB NEG PRS
+t e w V HAB NEG PST
+t e w V HAB PRS
+t e w V HAB PST
+t e w V IMP NEG PRS
+t e w V IMP PRS
+t e w V NEG PRS LGSPEC1
+t e w V NEG PST+IMMED
+t e w V NEG PST LGSPEC1
+t e w V NFIN
+t e w V PRF NEG PRS+IMMED
+t e w V PRF NEG PRS LGSPEC1
+t e w V PRF NEG PST+IMMED
+t e w V PRF NEG PST LGSPEC1
+t e w V PRF PRS+IMMED
+t e w V PRF PRS LGSPEC1
+t e w V PRF PST+IMMED
+t e w V PRF PST LGSPEC1
+t e w V PROG NEG PRS+IMMED
+t e w V PROG NEG PRS LGSPEC1
+t e w V PROG NEG PST+IMMED
+t e w V PROG NEG PST LGSPEC1
+t e w V PROG PRS+IMMED
+t e w V PROG PRS LGSPEC1
+t e w V PROG PST+IMMED
+t e w V PROG PST LGSPEC1
+t e w V PRS LGSPEC1
+t e w V PST+IMMED
+t e w V PST LGSPEC1
+t e w V SBJV NEG PRS
+t e w V SBJV PRS
+w o s o w V HAB+PRF NEG PRS
+w o s o w V HAB+PRF NEG PST
+w o s o w V HAB+PRF PRS
+w o s o w V HAB+PRF PST
+w o s o w V HAB+PROG NEG PRS
+w o s o w V HAB+PROG NEG PST
+w o s o w V HAB+PROG PRS
+w o s o w V HAB+PROG PST
+w o s o w V HAB FUT
+w o s o w V HAB NEG FUT
+w o s o w V HAB NEG PRS
+w o s o w V HAB NEG PST
+w o s o w V HAB PRS
+w o s o w V HAB PST
+w o s o w V IMP NEG PRS
+w o s o w V IMP PRS
+w o s o w V NEG PRS LGSPEC1
+w o s o w V NEG PST+IMMED
+w o s o w V NEG PST LGSPEC1
+w o s o w V NFIN
+w o s o w V PRF NEG PRS+IMMED
+w o s o w V PRF NEG PRS LGSPEC1
+w o s o w V PRF NEG PST+IMMED
+w o s o w V PRF NEG PST LGSPEC1
+w o s o w V PRF PRS+IMMED
+w o s o w V PRF PRS LGSPEC1
+w o s o w V PRF PST+IMMED
+w o s o w V PRF PST LGSPEC1
+w o s o w V PROG NEG PRS+IMMED
+w o s o w V PROG NEG PRS LGSPEC1
+w o s o w V PROG NEG PST+IMMED
+w o s o w V PROG NEG PST LGSPEC1
+w o s o w V PROG PRS+IMMED
+w o s o w V PROG PRS LGSPEC1
+w o s o w V PROG PST+IMMED
+w o s o w V PROG PST LGSPEC1
+w o s o w V PRS LGSPEC1
+w o s o w V PST+IMMED
+w o s o w V PST LGSPEC1
+w o s o w V SBJV NEG PRS
+w o s o w V SBJV PRS
+k u V HAB+PRF NEG PRS
+k u V HAB+PRF NEG PST
+k u V HAB+PRF PRS
+k u V HAB+PRF PST
+k u V HAB+PROG NEG PRS
+k u V HAB+PROG NEG PST
+k u V HAB+PROG PRS
+k u V HAB+PROG PST
+k u V HAB FUT
+k u V HAB NEG FUT
+k u V HAB NEG PRS
+k u V HAB NEG PST
+k u V HAB PRS
+k u V HAB PST
+k u V IMP NEG PRS
+k u V IMP PRS
+k u V NEG PRS LGSPEC1
+k u V NEG PST+IMMED
+k u V NEG PST LGSPEC1
+k u V NFIN
+k u V PRF NEG PRS+IMMED
+k u V PRF NEG PRS LGSPEC1
+k u V PRF NEG PST+IMMED
+k u V PRF NEG PST LGSPEC1
+k u V PRF PRS+IMMED
+k u V PRF PRS LGSPEC1
+k u V PRF PST+IMMED
+k u V PRF PST LGSPEC1
+k u V PROG NEG PRS+IMMED
+k u V PROG NEG PRS LGSPEC1
+k u V PROG NEG PST+IMMED
+k u V PROG NEG PST LGSPEC1
+k u V PROG PRS+IMMED
+k u V PROG PRS LGSPEC1
+k u V PROG PST+IMMED
+k u V PROG PST LGSPEC1
+k u V PRS LGSPEC1
+k u V PST+IMMED
+k u V PST LGSPEC1
+k u V SBJV NEG PRS
+k u V SBJV PRS
+s i w V HAB+PRF NEG PRS
+s i w V HAB+PRF NEG PST
+s i w V HAB+PRF PRS
+s i w V HAB+PRF PST
+s i w V HAB+PROG NEG PRS
+s i w V HAB+PROG NEG PST
+s i w V HAB+PROG PRS
+s i w V HAB+PROG PST
+s i w V HAB FUT
+s i w V HAB NEG FUT
+s i w V HAB NEG PRS
+s i w V HAB NEG PST
+s i w V HAB PRS
+s i w V HAB PST
+s i w V IMP NEG PRS
+s i w V IMP PRS
+s i w V NEG PRS LGSPEC1
+s i w V NEG PST+IMMED
+s i w V NEG PST LGSPEC1
+s i w V NFIN
+s i w V PRF NEG PRS+IMMED
+s i w V PRF NEG PRS LGSPEC1
+s i w V PRF NEG PST+IMMED
+s i w V PRF NEG PST LGSPEC1
+s i w V PRF PRS+IMMED
+s i w V PRF PRS LGSPEC1
+s i w V PRF PST+IMMED
+s i w V PRF PST LGSPEC1
+s i w V PROG NEG PRS+IMMED
+s i w V PROG NEG PRS LGSPEC1
+s i w V PROG NEG PST+IMMED
+s i w V PROG NEG PST LGSPEC1
+s i w V PROG PRS+IMMED
+s i w V PROG PRS LGSPEC1
+s i w V PROG PST+IMMED
+s i w V PROG PST LGSPEC1
+s i w V PRS LGSPEC1
+s i w V PST+IMMED
+s i w V PST LGSPEC1
+s i w V SBJV NEG PRS
+s i w V SBJV PRS
+t ɔ n V HAB+PRF NEG PRS
+t ɔ n V HAB+PRF NEG PST
+t ɔ n V HAB+PRF PRS
+t ɔ n V HAB+PRF PST
+t ɔ n V HAB+PROG NEG PRS
+t ɔ n V HAB+PROG NEG PST
+t ɔ n V HAB+PROG PRS
+t ɔ n V HAB+PROG PST
+t ɔ n V HAB FUT
+t ɔ n V HAB NEG FUT
+t ɔ n V HAB NEG PRS
+t ɔ n V HAB NEG PST
+t ɔ n V HAB PRS
+t ɔ n V HAB PST
+t ɔ n V IMP NEG PRS
+t ɔ n V IMP PRS
+t ɔ n V NEG PRS LGSPEC1
+t ɔ n V NEG PST+IMMED
+t ɔ n V NEG PST LGSPEC1
+t ɔ n V NFIN
+t ɔ n V PRF NEG PRS+IMMED
+t ɔ n V PRF NEG PRS LGSPEC1
+t ɔ n V PRF NEG PST+IMMED
+t ɔ n V PRF NEG PST LGSPEC1
+t ɔ n V PRF PRS+IMMED
+t ɔ n V PRF PRS LGSPEC1
+t ɔ n V PRF PST+IMMED
+t ɔ n V PRF PST LGSPEC1
+t ɔ n V PROG NEG PRS+IMMED
+t ɔ n V PROG NEG PRS LGSPEC1
+t ɔ n V PROG NEG PST+IMMED
+t ɔ n V PROG NEG PST LGSPEC1
+t ɔ n V PROG PRS+IMMED
+t ɔ n V PROG PRS LGSPEC1
+t ɔ n V PROG PST+IMMED
+t ɔ n V PROG PST LGSPEC1
+t ɔ n V PRS LGSPEC1
+t ɔ n V PST+IMMED
+t ɔ n V PST LGSPEC1
+t ɔ n V SBJV NEG PRS
+t ɔ n V SBJV PRS
+b ɔ V HAB+PRF NEG PRS
+b ɔ V HAB+PRF NEG PST
+b ɔ V HAB+PRF PRS
+b ɔ V HAB+PRF PST
+b ɔ V HAB+PROG NEG PRS
+b ɔ V HAB+PROG NEG PST
+b ɔ V HAB+PROG PRS
+b ɔ V HAB+PROG PST
+b ɔ V HAB FUT
+b ɔ V HAB NEG FUT
+b ɔ V HAB NEG PRS
+b ɔ V HAB NEG PST
+b ɔ V HAB PRS
+b ɔ V HAB PST
+b ɔ V IMP NEG PRS
+b ɔ V IMP PRS
+b ɔ V NEG PRS LGSPEC1
+b ɔ V NEG PST+IMMED
+b ɔ V NEG PST LGSPEC1
+b ɔ V NFIN
+b ɔ V PRF NEG PRS+IMMED
+b ɔ V PRF NEG PRS LGSPEC1
+b ɔ V PRF NEG PST+IMMED
+b ɔ V PRF NEG PST LGSPEC1
+b ɔ V PRF PRS+IMMED
+b ɔ V PRF PRS LGSPEC1
+b ɔ V PRF PST+IMMED
+b ɔ V PRF PST LGSPEC1
+b ɔ V PROG NEG PRS+IMMED
+b ɔ V PROG NEG PRS LGSPEC1
+b ɔ V PROG NEG PST+IMMED
+b ɔ V PROG NEG PST LGSPEC1
+b ɔ V PROG PRS+IMMED
+b ɔ V PROG PRS LGSPEC1
+b ɔ V PROG PST+IMMED
+b ɔ V PROG PST LGSPEC1
+b ɔ V PRS LGSPEC1
+b ɔ V PST+IMMED
+b ɔ V PST LGSPEC1
+b ɔ V SBJV NEG PRS
+b ɔ V SBJV PRS
+b ɔ _ m p a e V HAB+PRF NEG PRS
+b ɔ _ m p a e V HAB+PRF NEG PST
+b ɔ _ m p a e V HAB+PRF PRS
+b ɔ _ m p a e V HAB+PRF PST
+b ɔ _ m p a e V HAB+PROG NEG PRS
+b ɔ _ m p a e V HAB+PROG NEG PST
+b ɔ _ m p a e V HAB+PROG PRS
+b ɔ _ m p a e V HAB+PROG PST
+b ɔ _ m p a e V HAB FUT
+b ɔ _ m p a e V HAB NEG FUT
+b ɔ _ m p a e V HAB NEG PRS
+b ɔ _ m p a e V HAB NEG PST
+b ɔ _ m p a e V HAB PRS
+b ɔ _ m p a e V HAB PST
+b ɔ _ m p a e V IMP NEG PRS
+b ɔ _ m p a e V IMP PRS
+b ɔ _ m p a e V NEG PRS LGSPEC1
+b ɔ _ m p a e V NEG PST+IMMED
+b ɔ _ m p a e V NEG PST LGSPEC1
+b ɔ _ m p a e V NFIN
+b ɔ _ m p a e V PRF NEG PRS+IMMED
+b ɔ _ m p a e V PRF NEG PRS LGSPEC1
+b ɔ _ m p a e V PRF NEG PST+IMMED
+b ɔ _ m p a e V PRF NEG PST LGSPEC1
+b ɔ _ m p a e V PRF PRS+IMMED
+b ɔ _ m p a e V PRF PRS LGSPEC1
+b ɔ _ m p a e V PRF PST+IMMED
+b ɔ _ m p a e V PRF PST LGSPEC1
+b ɔ _ m p a e V PROG NEG PRS+IMMED
+b ɔ _ m p a e V PROG NEG PRS LGSPEC1
+b ɔ _ m p a e V PROG NEG PST+IMMED
+b ɔ _ m p a e V PROG NEG PST LGSPEC1
+b ɔ _ m p a e V PROG PRS+IMMED
+b ɔ _ m p a e V PROG PRS LGSPEC1
+b ɔ _ m p a e V PROG PST+IMMED
+b ɔ _ m p a e V PROG PST LGSPEC1
+b ɔ _ m p a e V PRS LGSPEC1
+b ɔ _ m p a e V PST+IMMED
+b ɔ _ m p a e V PST LGSPEC1
+b ɔ _ m p a e V SBJV NEG PRS
+b ɔ _ m p a e V SBJV PRS
+s a n V HAB+PRF NEG PRS
+s a n V HAB+PRF NEG PST
+s a n V HAB+PRF PRS
+s a n V HAB+PRF PST
+s a n V HAB+PROG NEG PRS
+s a n V HAB+PROG NEG PST
+s a n V HAB+PROG PRS
+s a n V HAB+PROG PST
+s a n V HAB FUT
+s a n V HAB NEG FUT
+s a n V HAB NEG PRS
+s a n V HAB NEG PST
+s a n V HAB PRS
+s a n V HAB PST
+s a n V IMP NEG PRS
+s a n V IMP PRS
+s a n V NEG PRS LGSPEC1
+s a n V NEG PST+IMMED
+s a n V NEG PST LGSPEC1
+s a n V NFIN
+s a n V PRF NEG PRS+IMMED
+s a n V PRF NEG PRS LGSPEC1
+s a n V PRF NEG PST+IMMED
+s a n V PRF NEG PST LGSPEC1
+s a n V PRF PRS+IMMED
+s a n V PRF PRS LGSPEC1
+s a n V PRF PST+IMMED
+s a n V PRF PST LGSPEC1
+s a n V PROG NEG PRS+IMMED
+s a n V PROG NEG PRS LGSPEC1
+s a n V PROG NEG PST+IMMED
+s a n V PROG NEG PST LGSPEC1
+s a n V PROG PRS+IMMED
+s a n V PROG PRS LGSPEC1
+s a n V PROG PST+IMMED
+s a n V PROG PST LGSPEC1
+s a n V PRS LGSPEC1
+s a n V PST+IMMED
+s a n V PST LGSPEC1
+s a n V SBJV NEG PRS
+s a n V SBJV PRS
+h o h o r o V HAB+PRF NEG PRS
+h o h o r o V HAB+PRF NEG PST
+h o h o r o V HAB+PRF PRS
+h o h o r o V HAB+PRF PST
+h o h o r o V HAB+PROG NEG PRS
+h o h o r o V HAB+PROG NEG PST
+h o h o r o V HAB+PROG PRS
+h o h o r o V HAB+PROG PST
+h o h o r o V HAB FUT
+h o h o r o V HAB NEG FUT
+h o h o r o V HAB NEG PRS
+h o h o r o V HAB NEG PST
+h o h o r o V HAB PRS
+h o h o r o V HAB PST
+h o h o r o V IMP NEG PRS
+h o h o r o V IMP PRS
+h o h o r o V NEG PRS LGSPEC1
+h o h o r o V NEG PST+IMMED
+h o h o r o V NEG PST LGSPEC1
+h o h o r o V NFIN
+h o h o r o V PRF NEG PRS+IMMED
+h o h o r o V PRF NEG PRS LGSPEC1
+h o h o r o V PRF NEG PST+IMMED
+h o h o r o V PRF NEG PST LGSPEC1
+h o h o r o V PRF PRS+IMMED
+h o h o r o V PRF PRS LGSPEC1
+h o h o r o V PRF PST+IMMED
+h o h o r o V PRF PST LGSPEC1
+h o h o r o V PROG NEG PRS+IMMED
+h o h o r o V PROG NEG PRS LGSPEC1
+h o h o r o V PROG NEG PST+IMMED
+h o h o r o V PROG NEG PST LGSPEC1
+h o h o r o V PROG PRS+IMMED
+h o h o r o V PROG PRS LGSPEC1
+h o h o r o V PROG PST+IMMED
+h o h o r o V PROG PST LGSPEC1
+h o h o r o V PRS LGSPEC1
+h o h o r o V PST+IMMED
+h o h o r o V PST LGSPEC1
+h o h o r o V SBJV NEG PRS
+h o h o r o V SBJV PRS
+p ɛ V HAB+PRF NEG PRS
+p ɛ V HAB+PRF NEG PST
+p ɛ V HAB+PRF PRS
+p ɛ V HAB+PRF PST
+p ɛ V HAB+PROG NEG PRS
+p ɛ V HAB+PROG NEG PST
+p ɛ V HAB+PROG PRS
+p ɛ V HAB+PROG PST
+p ɛ V HAB FUT
+p ɛ V HAB NEG FUT
+p ɛ V HAB NEG PRS
+p ɛ V HAB NEG PST
+p ɛ V HAB PRS
+p ɛ V HAB PST
+p ɛ V IMP NEG PRS
+p ɛ V IMP PRS
+p ɛ V NEG PRS LGSPEC1
+p ɛ V NEG PST+IMMED
+p ɛ V NEG PST LGSPEC1
+p ɛ V NFIN
+p ɛ V PRF NEG PRS+IMMED
+p ɛ V PRF NEG PRS LGSPEC1
+p ɛ V PRF NEG PST+IMMED
+p ɛ V PRF NEG PST LGSPEC1
+p ɛ V PRF PRS+IMMED
+p ɛ V PRF PRS LGSPEC1
+p ɛ V PRF PST+IMMED
+p ɛ V PRF PST LGSPEC1
+p ɛ V PROG NEG PRS+IMMED
+p ɛ V PROG NEG PRS LGSPEC1
+p ɛ V PROG NEG PST+IMMED
+p ɛ V PROG NEG PST LGSPEC1
+p ɛ V PROG PRS+IMMED
+p ɛ V PROG PRS LGSPEC1
+p ɛ V PROG PST+IMMED
+p ɛ V PROG PST LGSPEC1
+p ɛ V PRS LGSPEC1
+p ɛ V PST+IMMED
+p ɛ V PST LGSPEC1
+p ɛ V SBJV NEG PRS
+p ɛ V SBJV PRS
+m a V HAB+PRF NEG PRS
+m a V HAB+PRF NEG PST
+m a V HAB+PRF PRS
+m a V HAB+PRF PST
+m a V HAB+PROG NEG PRS
+m a V HAB+PROG NEG PST
+m a V HAB+PROG PRS
+m a V HAB+PROG PST
+m a V HAB FUT
+m a V HAB NEG FUT
+m a V HAB NEG PRS
+m a V HAB NEG PST
+m a V HAB PRS
+m a V HAB PST
+m a V IMP NEG PRS
+m a V IMP PRS
+m a V NEG PRS LGSPEC1
+m a V NEG PST+IMMED
+m a V NEG PST LGSPEC1
+m a V NFIN
+m a V PRF NEG PRS+IMMED
+m a V PRF NEG PRS LGSPEC1
+m a V PRF NEG PST+IMMED
+m a V PRF NEG PST LGSPEC1
+m a V PRF PRS+IMMED
+m a V PRF PRS LGSPEC1
+m a V PRF PST+IMMED
+m a V PRF PST LGSPEC1
+m a V PROG NEG PRS+IMMED
+m a V PROG NEG PRS LGSPEC1
+m a V PROG NEG PST+IMMED
+m a V PROG NEG PST LGSPEC1
+m a V PROG PRS+IMMED
+m a V PROG PRS LGSPEC1
+m a V PROG PST+IMMED
+m a V PROG PST LGSPEC1
+m a V PRS LGSPEC1
+m a V PST+IMMED
+m a V PST LGSPEC1
+m a V SBJV NEG PRS
+m a V SBJV PRS
+t w e r ɛ w V HAB+PRF NEG PRS
+t w e r ɛ w V HAB+PRF NEG PST
+t w e r ɛ w V HAB+PRF PRS
+t w e r ɛ w V HAB+PRF PST
+t w e r ɛ w V HAB+PROG NEG PRS
+t w e r ɛ w V HAB+PROG NEG PST
+t w e r ɛ w V HAB+PROG PRS
+t w e r ɛ w V HAB+PROG PST
+t w e r ɛ w V HAB FUT
+t w e r ɛ w V HAB NEG FUT
+t w e r ɛ w V HAB NEG PRS
+t w e r ɛ w V HAB NEG PST
+t w e r ɛ w V HAB PRS
+t w e r ɛ w V HAB PST
+t w e r ɛ w V IMP NEG PRS
+t w e r ɛ w V IMP PRS
+t w e r ɛ w V NEG PRS LGSPEC1
+t w e r ɛ w V NEG PST+IMMED
+t w e r ɛ w V NEG PST LGSPEC1
+t w e r ɛ w V NFIN
+t w e r ɛ w V PRF NEG PRS+IMMED
+t w e r ɛ w V PRF NEG PRS LGSPEC1
+t w e r ɛ w V PRF NEG PST+IMMED
+t w e r ɛ w V PRF NEG PST LGSPEC1
+t w e r ɛ w V PRF PRS+IMMED
+t w e r ɛ w V PRF PRS LGSPEC1
+t w e r ɛ w V PRF PST+IMMED
+t w e r ɛ w V PRF PST LGSPEC1
+t w e r ɛ w V PROG NEG PRS+IMMED
+t w e r ɛ w V PROG NEG PRS LGSPEC1
+t w e r ɛ w V PROG NEG PST+IMMED
+t w e r ɛ w V PROG NEG PST LGSPEC1
+t w e r ɛ w V PROG PRS+IMMED
+t w e r ɛ w V PROG PRS LGSPEC1
+t w e r ɛ w V PROG PST+IMMED
+t w e r ɛ w V PROG PST LGSPEC1
+t w e r ɛ w V PRS LGSPEC1
+t w e r ɛ w V PST+IMMED
+t w e r ɛ w V PST LGSPEC1
+t w e r ɛ w V SBJV NEG PRS
+t w e r ɛ w V SBJV PRS
+h u a n e V HAB+PRF NEG PRS
+h u a n e V HAB+PRF NEG PST
+h u a n e V HAB+PRF PRS
+h u a n e V HAB+PRF PST
+h u a n e V HAB+PROG NEG PRS
+h u a n e V HAB+PROG NEG PST
+h u a n e V HAB+PROG PRS
+h u a n e V HAB+PROG PST
+h u a n e V HAB FUT
+h u a n e V HAB NEG FUT
+h u a n e V HAB NEG PRS
+h u a n e V HAB NEG PST
+h u a n e V HAB PRS
+h u a n e V HAB PST
+h u a n e V IMP NEG PRS
+h u a n e V IMP PRS
+h u a n e V NEG PRS LGSPEC1
+h u a n e V NEG PST+IMMED
+h u a n e V NEG PST LGSPEC1
+h u a n e V NFIN
+h u a n e V PRF NEG PRS+IMMED
+h u a n e V PRF NEG PRS LGSPEC1
+h u a n e V PRF NEG PST+IMMED
+h u a n e V PRF NEG PST LGSPEC1
+h u a n e V PRF PRS+IMMED
+h u a n e V PRF PRS LGSPEC1
+h u a n e V PRF PST+IMMED
+h u a n e V PRF PST LGSPEC1
+h u a n e V PROG NEG PRS+IMMED
+h u a n e V PROG NEG PRS LGSPEC1
+h u a n e V PROG NEG PST+IMMED
+h u a n e V PROG NEG PST LGSPEC1
+h u a n e V PROG PRS+IMMED
+h u a n e V PROG PRS LGSPEC1
+h u a n e V PROG PST+IMMED
+h u a n e V PROG PST LGSPEC1
+h u a n e V PRS LGSPEC1
+h u a n e V PST+IMMED
+h u a n e V PST LGSPEC1
+h u a n e V SBJV NEG PRS
+h u a n e V SBJV PRS
+t u t u V HAB+PRF NEG PRS
+t u t u V HAB+PRF NEG PST
+t u t u V HAB+PRF PRS
+t u t u V HAB+PRF PST
+t u t u V HAB+PROG NEG PRS
+t u t u V HAB+PROG NEG PST
+t u t u V HAB+PROG PRS
+t u t u V HAB+PROG PST
+t u t u V HAB FUT
+t u t u V HAB NEG FUT
+t u t u V HAB NEG PRS
+t u t u V HAB NEG PST
+t u t u V HAB PRS
+t u t u V HAB PST
+t u t u V IMP NEG PRS
+t u t u V IMP PRS
+t u t u V NEG PRS LGSPEC1
+t u t u V NEG PST+IMMED
+t u t u V NEG PST LGSPEC1
+t u t u V NFIN
+t u t u V PRF NEG PRS+IMMED
+t u t u V PRF NEG PRS LGSPEC1
+t u t u V PRF NEG PST+IMMED
+t u t u V PRF NEG PST LGSPEC1
+t u t u V PRF PRS+IMMED
+t u t u V PRF PRS LGSPEC1
+t u t u V PRF PST+IMMED
+t u t u V PRF PST LGSPEC1
+t u t u V PROG NEG PRS+IMMED
+t u t u V PROG NEG PRS LGSPEC1
+t u t u V PROG NEG PST+IMMED
+t u t u V PROG NEG PST LGSPEC1
+t u t u V PROG PRS+IMMED
+t u t u V PROG PRS LGSPEC1
+t u t u V PROG PST+IMMED
+t u t u V PROG PST LGSPEC1
+t u t u V PRS LGSPEC1
+t u t u V PST+IMMED
+t u t u V PST LGSPEC1
+t u t u V SBJV NEG PRS
+t u t u V SBJV PRS
+t w a V HAB+PRF NEG PRS
+t w a V HAB+PRF NEG PST
+t w a V HAB+PRF PRS
+t w a V HAB+PRF PST
+t w a V HAB+PROG NEG PRS
+t w a V HAB+PROG NEG PST
+t w a V HAB+PROG PRS
+t w a V HAB+PROG PST
+t w a V HAB FUT
+t w a V HAB NEG FUT
+t w a V HAB NEG PRS
+t w a V HAB NEG PST
+t w a V HAB PRS
+t w a V HAB PST
+t w a V IMP NEG PRS
+t w a V IMP PRS
+t w a V NEG PRS LGSPEC1
+t w a V NEG PST+IMMED
+t w a V NEG PST LGSPEC1
+t w a V NFIN
+t w a V PRF NEG PRS+IMMED
+t w a V PRF NEG PRS LGSPEC1
+t w a V PRF NEG PST+IMMED
+t w a V PRF NEG PST LGSPEC1
+t w a V PRF PRS+IMMED
+t w a V PRF PRS LGSPEC1
+t w a V PRF PST+IMMED
+t w a V PRF PST LGSPEC1
+t w a V PROG NEG PRS+IMMED
+t w a V PROG NEG PRS LGSPEC1
+t w a V PROG NEG PST+IMMED
+t w a V PROG NEG PST LGSPEC1
+t w a V PROG PRS+IMMED
+t w a V PROG PRS LGSPEC1
+t w a V PROG PST+IMMED
+t w a V PROG PST LGSPEC1
+t w a V PRS LGSPEC1
+t w a V PST+IMMED
+t w a V PST LGSPEC1
+t w a V SBJV NEG PRS
+t w a V SBJV PRS
+t u _ n g u a n V HAB+PRF NEG PRS
+t u _ n g u a n V HAB+PRF NEG PST
+t u _ n g u a n V HAB+PRF PRS
+t u _ n g u a n V HAB+PRF PST
+t u _ n g u a n V HAB+PROG NEG PRS
+t u _ n g u a n V HAB+PROG NEG PST
+t u _ n g u a n V HAB+PROG PRS
+t u _ n g u a n V HAB+PROG PST
+t u _ n g u a n V HAB FUT
+t u _ n g u a n V HAB NEG FUT
+t u _ n g u a n V HAB NEG PRS
+t u _ n g u a n V HAB NEG PST
+t u _ n g u a n V HAB PRS
+t u _ n g u a n V HAB PST
+t u _ n g u a n V IMP NEG PRS
+t u _ n g u a n V IMP PRS
+t u _ n g u a n V NEG PRS LGSPEC1
+t u _ n g u a n V NEG PST+IMMED
+t u _ n g u a n V NEG PST LGSPEC1
+t u _ n g u a n V NFIN
+t u _ n g u a n V PRF NEG PRS+IMMED
+t u _ n g u a n V PRF NEG PRS LGSPEC1
+t u _ n g u a n V PRF NEG PST+IMMED
+t u _ n g u a n V PRF NEG PST LGSPEC1
+t u _ n g u a n V PRF PRS+IMMED
+t u _ n g u a n V PRF PRS LGSPEC1
+t u _ n g u a n V PRF PST+IMMED
+t u _ n g u a n V PRF PST LGSPEC1
+t u _ n g u a n V PROG NEG PRS+IMMED
+t u _ n g u a n V PROG NEG PRS LGSPEC1
+t u _ n g u a n V PROG NEG PST+IMMED
+t u _ n g u a n V PROG NEG PST LGSPEC1
+t u _ n g u a n V PROG PRS+IMMED
+t u _ n g u a n V PROG PRS LGSPEC1
+t u _ n g u a n V PROG PST+IMMED
+t u _ n g u a n V PROG PST LGSPEC1
+t u _ n g u a n V PRS LGSPEC1
+t u _ n g u a n V PST+IMMED
+t u _ n g u a n V PST LGSPEC1
+t u _ n g u a n V SBJV NEG PRS
+t u _ n g u a n V SBJV PRS
+w e V HAB+PRF NEG PRS
+w e V HAB+PRF NEG PST
+w e V HAB+PRF PRS
+w e V HAB+PRF PST
+w e V HAB+PROG NEG PRS
+w e V HAB+PROG NEG PST
+w e V HAB+PROG PRS
+w e V HAB+PROG PST
+w e V HAB FUT
+w e V HAB NEG FUT
+w e V HAB NEG PRS
+w e V HAB NEG PST
+w e V HAB PRS
+w e V HAB PST
+w e V IMP NEG PRS
+w e V IMP PRS
+w e V NEG PRS LGSPEC1
+w e V NEG PST+IMMED
+w e V NEG PST LGSPEC1
+w e V NFIN
+w e V PRF NEG PRS+IMMED
+w e V PRF NEG PRS LGSPEC1
+w e V PRF NEG PST+IMMED
+w e V PRF NEG PST LGSPEC1
+w e V PRF PRS+IMMED
+w e V PRF PRS LGSPEC1
+w e V PRF PST+IMMED
+w e V PRF PST LGSPEC1
+w e V PROG NEG PRS+IMMED
+w e V PROG NEG PRS LGSPEC1
+w e V PROG NEG PST+IMMED
+w e V PROG NEG PST LGSPEC1
+w e V PROG PRS+IMMED
+w e V PROG PRS LGSPEC1
+w e V PROG PST+IMMED
+w e V PROG PST LGSPEC1
+w e V PRS LGSPEC1
+w e V PST+IMMED
+w e V PST LGSPEC1
+w e V SBJV NEG PRS
+w e V SBJV PRS
+t ɔ _ n k o V HAB+PRF NEG PRS
+t ɔ _ n k o V HAB+PRF NEG PST
+t ɔ _ n k o V HAB+PRF PRS
+t ɔ _ n k o V HAB+PRF PST
+t ɔ _ n k o V HAB+PROG NEG PRS
+t ɔ _ n k o V HAB+PROG NEG PST
+t ɔ _ n k o V HAB+PROG PRS
+t ɔ _ n k o V HAB+PROG PST
+t ɔ _ n k o V HAB FUT
+t ɔ _ n k o V HAB NEG FUT
+t ɔ _ n k o V HAB NEG PRS
+t ɔ _ n k o V HAB NEG PST
+t ɔ _ n k o V HAB PRS
+t ɔ _ n k o V HAB PST
+t ɔ _ n k o V IMP NEG PRS
+t ɔ _ n k o V IMP PRS
+t ɔ _ n k o V NEG PRS LGSPEC1
+t ɔ _ n k o V NEG PST+IMMED
+t ɔ _ n k o V NEG PST LGSPEC1
+t ɔ _ n k o V NFIN
+t ɔ _ n k o V PRF NEG PRS+IMMED
+t ɔ _ n k o V PRF NEG PRS LGSPEC1
+t ɔ _ n k o V PRF NEG PST+IMMED
+t ɔ _ n k o V PRF NEG PST LGSPEC1
+t ɔ _ n k o V PRF PRS+IMMED
+t ɔ _ n k o V PRF PRS LGSPEC1
+t ɔ _ n k o V PRF PST+IMMED
+t ɔ _ n k o V PRF PST LGSPEC1
+t ɔ _ n k o V PROG NEG PRS+IMMED
+t ɔ _ n k o V PROG NEG PRS LGSPEC1
+t ɔ _ n k o V PROG NEG PST+IMMED
+t ɔ _ n k o V PROG NEG PST LGSPEC1
+t ɔ _ n k o V PROG PRS+IMMED
+t ɔ _ n k o V PROG PRS LGSPEC1
+t ɔ _ n k o V PROG PST+IMMED
+t ɔ _ n k o V PROG PST LGSPEC1
+t ɔ _ n k o V PRS LGSPEC1
+t ɔ _ n k o V PST+IMMED
+t ɔ _ n k o V PST LGSPEC1
+t ɔ _ n k o V SBJV NEG PRS
+t ɔ _ n k o V SBJV PRS
+b u e V HAB+PRF NEG PRS
+b u e V HAB+PRF NEG PST
+b u e V HAB+PRF PRS
+b u e V HAB+PRF PST
+b u e V HAB+PROG NEG PRS
+b u e V HAB+PROG NEG PST
+b u e V HAB+PROG PRS
+b u e V HAB+PROG PST
+b u e V HAB FUT
+b u e V HAB NEG FUT
+b u e V HAB NEG PRS
+b u e V HAB NEG PST
+b u e V HAB PRS
+b u e V HAB PST
+b u e V IMP NEG PRS
+b u e V IMP PRS
+b u e V NEG PRS LGSPEC1
+b u e V NEG PST+IMMED
+b u e V NEG PST LGSPEC1
+b u e V NFIN
+b u e V PRF NEG PRS+IMMED
+b u e V PRF NEG PRS LGSPEC1
+b u e V PRF NEG PST+IMMED
+b u e V PRF NEG PST LGSPEC1
+b u e V PRF PRS+IMMED
+b u e V PRF PRS LGSPEC1
+b u e V PRF PST+IMMED
+b u e V PRF PST LGSPEC1
+b u e V PROG NEG PRS+IMMED
+b u e V PROG NEG PRS LGSPEC1
+b u e V PROG NEG PST+IMMED
+b u e V PROG NEG PST LGSPEC1
+b u e V PROG PRS+IMMED
+b u e V PROG PRS LGSPEC1
+b u e V PROG PST+IMMED
+b u e V PROG PST LGSPEC1
+b u e V PRS LGSPEC1
+b u e V PST+IMMED
+b u e V PST LGSPEC1
+b u e V SBJV NEG PRS
+b u e V SBJV PRS
+f o w V HAB+PRF NEG PRS
+f o w V HAB+PRF NEG PST
+f o w V HAB+PRF PRS
+f o w V HAB+PRF PST
+f o w V HAB+PROG NEG PRS
+f o w V HAB+PROG NEG PST
+f o w V HAB+PROG PRS
+f o w V HAB+PROG PST
+f o w V HAB FUT
+f o w V HAB NEG FUT
+f o w V HAB NEG PRS
+f o w V HAB NEG PST
+f o w V HAB PRS
+f o w V HAB PST
+f o w V IMP NEG PRS
+f o w V IMP PRS
+f o w V NEG PRS LGSPEC1
+f o w V NEG PST+IMMED
+f o w V NEG PST LGSPEC1
+f o w V NFIN
+f o w V PRF NEG PRS+IMMED
+f o w V PRF NEG PRS LGSPEC1
+f o w V PRF NEG PST+IMMED
+f o w V PRF NEG PST LGSPEC1
+f o w V PRF PRS+IMMED
+f o w V PRF PRS LGSPEC1
+f o w V PRF PST+IMMED
+f o w V PRF PST LGSPEC1
+f o w V PROG NEG PRS+IMMED
+f o w V PROG NEG PRS LGSPEC1
+f o w V PROG NEG PST+IMMED
+f o w V PROG NEG PST LGSPEC1
+f o w V PROG PRS+IMMED
+f o w V PROG PRS LGSPEC1
+f o w V PROG PST+IMMED
+f o w V PROG PST LGSPEC1
+f o w V PRS LGSPEC1
+f o w V PST+IMMED
+f o w V PST LGSPEC1
+f o w V SBJV NEG PRS
+f o w V SBJV PRS
+k ɔ V HAB+PRF NEG PRS
+k ɔ V HAB+PRF NEG PST
+k ɔ V HAB+PRF PRS
+k ɔ V HAB+PRF PST
+k ɔ V HAB+PROG NEG PRS
+k ɔ V HAB+PROG NEG PST
+k ɔ V HAB+PROG PRS
+k ɔ V HAB+PROG PST
+k ɔ V HAB FUT
+k ɔ V HAB NEG FUT
+k ɔ V HAB NEG PRS
+k ɔ V HAB NEG PST
+k ɔ V HAB PRS
+k ɔ V HAB PST
+k ɔ V IMP NEG PRS
+k ɔ V IMP PRS
+k ɔ V NEG PRS LGSPEC1
+k ɔ V NEG PST+IMMED
+k ɔ V NEG PST LGSPEC1
+k ɔ V NFIN
+k ɔ V PRF NEG PRS+IMMED
+k ɔ V PRF NEG PRS LGSPEC1
+k ɔ V PRF NEG PST+IMMED
+k ɔ V PRF NEG PST LGSPEC1
+k ɔ V PRF PRS+IMMED
+k ɔ V PRF PRS LGSPEC1
+k ɔ V PRF PST+IMMED
+k ɔ V PRF PST LGSPEC1
+k ɔ V PROG NEG PRS+IMMED
+k ɔ V PROG NEG PRS LGSPEC1
+k ɔ V PROG NEG PST+IMMED
+k ɔ V PROG NEG PST LGSPEC1
+k ɔ V PROG PRS+IMMED
+k ɔ V PROG PRS LGSPEC1
+k ɔ V PROG PST+IMMED
+k ɔ V PROG PST LGSPEC1
+k ɔ V PRS LGSPEC1
+k ɔ V PST+IMMED
+k ɔ V PST LGSPEC1
+k ɔ V SBJV NEG PRS
+k ɔ V SBJV PRS
+y e w V HAB+PRF NEG PRS
+y e w V HAB+PRF NEG PST
+y e w V HAB+PRF PRS
+y e w V HAB+PRF PST
+y e w V HAB+PROG NEG PRS
+y e w V HAB+PROG NEG PST
+y e w V HAB+PROG PRS
+y e w V HAB+PROG PST
+y e w V HAB FUT
+y e w V HAB NEG FUT
+y e w V HAB NEG PRS
+y e w V HAB NEG PST
+y e w V HAB PRS
+y e w V HAB PST
+y e w V IMP NEG PRS
+y e w V IMP PRS
+y e w V NEG PRS LGSPEC1
+y e w V NEG PST+IMMED
+y e w V NEG PST LGSPEC1
+y e w V NFIN
+y e w V PRF NEG PRS+IMMED
+y e w V PRF NEG PRS LGSPEC1
+y e w V PRF NEG PST+IMMED
+y e w V PRF NEG PST LGSPEC1
+y e w V PRF PRS+IMMED
+y e w V PRF PRS LGSPEC1
+y e w V PRF PST+IMMED
+y e w V PRF PST LGSPEC1
+y e w V PROG NEG PRS+IMMED
+y e w V PROG NEG PRS LGSPEC1
+y e w V PROG NEG PST+IMMED
+y e w V PROG NEG PST LGSPEC1
+y e w V PROG PRS+IMMED
+y e w V PROG PRS LGSPEC1
+y e w V PROG PST+IMMED
+y e w V PROG PST LGSPEC1
+y e w V PRS LGSPEC1
+y e w V PST+IMMED
+y e w V PST LGSPEC1
+y e w V SBJV NEG PRS
+y e w V SBJV PRS
+n o m V HAB+PRF NEG PRS
+n o m V HAB+PRF NEG PST
+n o m V HAB+PRF PRS
+n o m V HAB+PRF PST
+n o m V HAB+PROG NEG PRS
+n o m V HAB+PROG NEG PST
+n o m V HAB+PROG PRS
+n o m V HAB+PROG PST
+n o m V HAB FUT
+n o m V HAB NEG FUT
+n o m V HAB NEG PRS
+n o m V HAB NEG PST
+n o m V HAB PRS
+n o m V HAB PST
+n o m V IMP NEG PRS
+n o m V IMP PRS
+n o m V NEG PRS LGSPEC1
+n o m V NEG PST+IMMED
+n o m V NEG PST LGSPEC1
+n o m V NFIN
+n o m V PRF NEG PRS+IMMED
+n o m V PRF NEG PRS LGSPEC1
+n o m V PRF NEG PST+IMMED
+n o m V PRF NEG PST LGSPEC1
+n o m V PRF PRS+IMMED
+n o m V PRF PRS LGSPEC1
+n o m V PRF PST+IMMED
+n o m V PRF PST LGSPEC1
+n o m V PROG NEG PRS+IMMED
+n o m V PROG NEG PRS LGSPEC1
+n o m V PROG NEG PST+IMMED
+n o m V PROG NEG PST LGSPEC1
+n o m V PROG PRS+IMMED
+n o m V PROG PRS LGSPEC1
+n o m V PROG PST+IMMED
+n o m V PROG PST LGSPEC1
+n o m V PRS LGSPEC1
+n o m V PST+IMMED
+n o m V PST LGSPEC1
+n o m V SBJV NEG PRS
+n o m V SBJV PRS
+d u m V HAB+PRF NEG PRS
+d u m V HAB+PRF NEG PST
+d u m V HAB+PRF PRS
+d u m V HAB+PRF PST
+d u m V HAB+PROG NEG PRS
+d u m V HAB+PROG NEG PST
+d u m V HAB+PROG PRS
+d u m V HAB+PROG PST
+d u m V HAB FUT
+d u m V HAB NEG FUT
+d u m V HAB NEG PRS
+d u m V HAB NEG PST
+d u m V HAB PRS
+d u m V HAB PST
+d u m V IMP NEG PRS
+d u m V IMP PRS
+d u m V NEG PRS LGSPEC1
+d u m V NEG PST+IMMED
+d u m V NEG PST LGSPEC1
+d u m V NFIN
+d u m V PRF NEG PRS+IMMED
+d u m V PRF NEG PRS LGSPEC1
+d u m V PRF NEG PST+IMMED
+d u m V PRF NEG PST LGSPEC1
+d u m V PRF PRS+IMMED
+d u m V PRF PRS LGSPEC1
+d u m V PRF PST+IMMED
+d u m V PRF PST LGSPEC1
+d u m V PROG NEG PRS+IMMED
+d u m V PROG NEG PRS LGSPEC1
+d u m V PROG NEG PST+IMMED
+d u m V PROG NEG PST LGSPEC1
+d u m V PROG PRS+IMMED
+d u m V PROG PRS LGSPEC1
+d u m V PROG PST+IMMED
+d u m V PROG PST LGSPEC1
+d u m V PRS LGSPEC1
+d u m V PST+IMMED
+d u m V PST LGSPEC1
+d u m V SBJV NEG PRS
+d u m V SBJV PRS
+p i a V HAB+PRF NEG PRS
+p i a V HAB+PRF NEG PST
+p i a V HAB+PRF PRS
+p i a V HAB+PRF PST
+p i a V HAB+PROG NEG PRS
+p i a V HAB+PROG NEG PST
+p i a V HAB+PROG PRS
+p i a V HAB+PROG PST
+p i a V HAB FUT
+p i a V HAB NEG FUT
+p i a V HAB NEG PRS
+p i a V HAB NEG PST
+p i a V HAB PRS
+p i a V HAB PST
+p i a V IMP NEG PRS
+p i a V IMP PRS
+p i a V NEG PRS LGSPEC1
+p i a V NEG PST+IMMED
+p i a V NEG PST LGSPEC1
+p i a V NFIN
+p i a V PRF NEG PRS+IMMED
+p i a V PRF NEG PRS LGSPEC1
+p i a V PRF NEG PST+IMMED
+p i a V PRF NEG PST LGSPEC1
+p i a V PRF PRS+IMMED
+p i a V PRF PRS LGSPEC1
+p i a V PRF PST+IMMED
+p i a V PRF PST LGSPEC1
+p i a V PROG NEG PRS+IMMED
+p i a V PROG NEG PRS LGSPEC1
+p i a V PROG NEG PST+IMMED
+p i a V PROG NEG PST LGSPEC1
+p i a V PROG PRS+IMMED
+p i a V PROG PRS LGSPEC1
+p i a V PROG PST+IMMED
+p i a V PROG PST LGSPEC1
+p i a V PRS LGSPEC1
+p i a V PST+IMMED
+p i a V PST LGSPEC1
+p i a V SBJV NEG PRS
+p i a V SBJV PRS
+b o a V HAB+PRF NEG PRS
+b o a V HAB+PRF NEG PST
+b o a V HAB+PRF PRS
+b o a V HAB+PRF PST
+b o a V HAB+PROG NEG PRS
+b o a V HAB+PROG NEG PST
+b o a V HAB+PROG PRS
+b o a V HAB+PROG PST
+b o a V HAB FUT
+b o a V HAB NEG FUT
+b o a V HAB NEG PRS
+b o a V HAB NEG PST
+b o a V HAB PRS
+b o a V HAB PST
+b o a V IMP NEG PRS
+b o a V IMP PRS
+b o a V NEG PRS LGSPEC1
+b o a V NEG PST+IMMED
+b o a V NEG PST LGSPEC1
+b o a V NFIN
+b o a V PRF NEG PRS+IMMED
+b o a V PRF NEG PRS LGSPEC1
+b o a V PRF NEG PST+IMMED
+b o a V PRF NEG PST LGSPEC1
+b o a V PRF PRS+IMMED
+b o a V PRF PRS LGSPEC1
+b o a V PRF PST+IMMED
+b o a V PRF PST LGSPEC1
+b o a V PROG NEG PRS+IMMED
+b o a V PROG NEG PRS LGSPEC1
+b o a V PROG NEG PST+IMMED
+b o a V PROG NEG PST LGSPEC1
+b o a V PROG PRS+IMMED
+b o a V PROG PRS LGSPEC1
+b o a V PROG PST+IMMED
+b o a V PROG PST LGSPEC1
+b o a V PRS LGSPEC1
+b o a V PST+IMMED
+b o a V PST LGSPEC1
+b o a V SBJV NEG PRS
+b o a V SBJV PRS
+d a _ a s e V HAB+PRF NEG PRS
+d a _ a s e V HAB+PRF NEG PST
+d a _ a s e V HAB+PRF PRS
+d a _ a s e V HAB+PRF PST
+d a _ a s e V HAB+PROG NEG PRS
+d a _ a s e V HAB+PROG NEG PST
+d a _ a s e V HAB+PROG PRS
+d a _ a s e V HAB+PROG PST
+d a _ a s e V HAB FUT
+d a _ a s e V HAB NEG FUT
+d a _ a s e V HAB NEG PRS
+d a _ a s e V HAB NEG PST
+d a _ a s e V HAB PRS
+d a _ a s e V HAB PST
+d a _ a s e V IMP NEG PRS
+d a _ a s e V IMP PRS
+d a _ a s e V NEG PRS LGSPEC1
+d a _ a s e V NEG PST+IMMED
+d a _ a s e V NEG PST LGSPEC1
+d a _ a s e V NFIN
+d a _ a s e V PRF NEG PRS+IMMED
+d a _ a s e V PRF NEG PRS LGSPEC1
+d a _ a s e V PRF NEG PST+IMMED
+d a _ a s e V PRF NEG PST LGSPEC1
+d a _ a s e V PRF PRS+IMMED
+d a _ a s e V PRF PRS LGSPEC1
+d a _ a s e V PRF PST+IMMED
+d a _ a s e V PRF PST LGSPEC1
+d a _ a s e V PROG NEG PRS+IMMED
+d a _ a s e V PROG NEG PRS LGSPEC1
+d a _ a s e V PROG NEG PST+IMMED
+d a _ a s e V PROG NEG PST LGSPEC1
+d a _ a s e V PROG PRS+IMMED
+d a _ a s e V PROG PRS LGSPEC1
+d a _ a s e V PROG PST+IMMED
+d a _ a s e V PROG PST LGSPEC1
+d a _ a s e V PRS LGSPEC1
+d a _ a s e V PST+IMMED
+d a _ a s e V PST LGSPEC1
+d a _ a s e V SBJV NEG PRS
+d a _ a s e V SBJV PRS
+t e n a V HAB+PRF NEG PRS
+t e n a V HAB+PRF NEG PST
+t e n a V HAB+PRF PRS
+t e n a V HAB+PRF PST
+t e n a V HAB+PROG NEG PRS
+t e n a V HAB+PROG NEG PST
+t e n a V HAB+PROG PRS
+t e n a V HAB+PROG PST
+t e n a V HAB FUT
+t e n a V HAB NEG FUT
+t e n a V HAB NEG PRS
+t e n a V HAB NEG PST
+t e n a V HAB PRS
+t e n a V HAB PST
+t e n a V IMP NEG PRS
+t e n a V IMP PRS
+t e n a V NEG PRS LGSPEC1
+t e n a V NEG PST+IMMED
+t e n a V NEG PST LGSPEC1
+t e n a V NFIN
+t e n a V PRF NEG PRS+IMMED
+t e n a V PRF NEG PRS LGSPEC1
+t e n a V PRF NEG PST+IMMED
+t e n a V PRF NEG PST LGSPEC1
+t e n a V PRF PRS+IMMED
+t e n a V PRF PRS LGSPEC1
+t e n a V PRF PST+IMMED
+t e n a V PRF PST LGSPEC1
+t e n a V PROG NEG PRS+IMMED
+t e n a V PROG NEG PRS LGSPEC1
+t e n a V PROG NEG PST+IMMED
+t e n a V PROG NEG PST LGSPEC1
+t e n a V PROG PRS+IMMED
+t e n a V PROG PRS LGSPEC1
+t e n a V PROG PST+IMMED
+t e n a V PROG PST LGSPEC1
+t e n a V PRS LGSPEC1
+t e n a V PST+IMMED
+t e n a V PST LGSPEC1
+t e n a V SBJV NEG PRS
+t e n a V SBJV PRS
+k y i a V HAB+PRF NEG PRS
+k y i a V HAB+PRF NEG PST
+k y i a V HAB+PRF PRS
+k y i a V HAB+PRF PST
+k y i a V HAB+PROG NEG PRS
+k y i a V HAB+PROG NEG PST
+k y i a V HAB+PROG PRS
+k y i a V HAB+PROG PST
+k y i a V HAB FUT
+k y i a V HAB NEG FUT
+k y i a V HAB NEG PRS
+k y i a V HAB NEG PST
+k y i a V HAB PRS
+k y i a V HAB PST
+k y i a V IMP NEG PRS
+k y i a V IMP PRS
+k y i a V NEG PRS LGSPEC1
+k y i a V NEG PST+IMMED
+k y i a V NEG PST LGSPEC1
+k y i a V NFIN
+k y i a V PRF NEG PRS+IMMED
+k y i a V PRF NEG PRS LGSPEC1
+k y i a V PRF NEG PST+IMMED
+k y i a V PRF NEG PST LGSPEC1
+k y i a V PRF PRS+IMMED
+k y i a V PRF PRS LGSPEC1
+k y i a V PRF PST+IMMED
+k y i a V PRF PST LGSPEC1
+k y i a V PROG NEG PRS+IMMED
+k y i a V PROG NEG PRS LGSPEC1
+k y i a V PROG NEG PST+IMMED
+k y i a V PROG NEG PST LGSPEC1
+k y i a V PROG PRS+IMMED
+k y i a V PROG PRS LGSPEC1
+k y i a V PROG PST+IMMED
+k y i a V PROG PST LGSPEC1
+k y i a V PRS LGSPEC1
+k y i a V PST+IMMED
+k y i a V PST LGSPEC1
+k y i a V SBJV NEG PRS
+k y i a V SBJV PRS
+t a r e V HAB+PRF NEG PRS
+t a r e V HAB+PRF NEG PST
+t a r e V HAB+PRF PRS
+t a r e V HAB+PRF PST
+t a r e V HAB+PROG NEG PRS
+t a r e V HAB+PROG NEG PST
+t a r e V HAB+PROG PRS
+t a r e V HAB+PROG PST
+t a r e V HAB FUT
+t a r e V HAB NEG FUT
+t a r e V HAB NEG PRS
+t a r e V HAB NEG PST
+t a r e V HAB PRS
+t a r e V HAB PST
+t a r e V IMP NEG PRS
+t a r e V IMP PRS
+t a r e V NEG PRS LGSPEC1
+t a r e V NEG PST+IMMED
+t a r e V NEG PST LGSPEC1
+t a r e V NFIN
+t a r e V PRF NEG PRS+IMMED
+t a r e V PRF NEG PRS LGSPEC1
+t a r e V PRF NEG PST+IMMED
+t a r e V PRF NEG PST LGSPEC1
+t a r e V PRF PRS+IMMED
+t a r e V PRF PRS LGSPEC1
+t a r e V PRF PST+IMMED
+t a r e V PRF PST LGSPEC1
+t a r e V PROG NEG PRS+IMMED
+t a r e V PROG NEG PRS LGSPEC1
+t a r e V PROG NEG PST+IMMED
+t a r e V PROG NEG PST LGSPEC1
+t a r e V PROG PRS+IMMED
+t a r e V PROG PRS LGSPEC1
+t a r e V PROG PST+IMMED
+t a r e V PROG PST LGSPEC1
+t a r e V PRS LGSPEC1
+t a r e V PST+IMMED
+t a r e V PST LGSPEC1
+t a r e V SBJV NEG PRS
+t a r e V SBJV PRS
+f a V HAB+PRF NEG PRS
+f a V HAB+PRF NEG PST
+f a V HAB+PRF PRS
+f a V HAB+PRF PST
+f a V HAB+PROG NEG PRS
+f a V HAB+PROG NEG PST
+f a V HAB+PROG PRS
+f a V HAB+PROG PST
+f a V HAB FUT
+f a V HAB NEG FUT
+f a V HAB NEG PRS
+f a V HAB NEG PST
+f a V HAB PRS
+f a V HAB PST
+f a V IMP NEG PRS
+f a V IMP PRS
+f a V NEG PRS LGSPEC1
+f a V NEG PST+IMMED
+f a V NEG PST LGSPEC1
+f a V NFIN
+f a V PRF NEG PRS+IMMED
+f a V PRF NEG PRS LGSPEC1
+f a V PRF NEG PST+IMMED
+f a V PRF NEG PST LGSPEC1
+f a V PRF PRS+IMMED
+f a V PRF PRS LGSPEC1
+f a V PRF PST+IMMED
+f a V PRF PST LGSPEC1
+f a V PROG NEG PRS+IMMED
+f a V PROG NEG PRS LGSPEC1
+f a V PROG NEG PST+IMMED
+f a V PROG NEG PST LGSPEC1
+f a V PROG PRS+IMMED
+f a V PROG PRS LGSPEC1
+f a V PROG PST+IMMED
+f a V PROG PST LGSPEC1
+f a V PRS LGSPEC1
+f a V PST+IMMED
+f a V PST LGSPEC1
+f a V SBJV NEG PRS
+f a V SBJV PRS
+t o w _ . . _ m u V HAB+PRF NEG PRS
+t o w _ . . _ m u V HAB+PRF NEG PST
+t o w _ . . _ m u V HAB+PRF PRS
+t o w _ . . _ m u V HAB+PRF PST
+t o w _ . . _ m u V HAB+PROG NEG PRS
+t o w _ . . _ m u V HAB+PROG NEG PST
+t o w _ . . _ m u V HAB+PROG PRS
+t o w _ . . _ m u V HAB+PROG PST
+t o w _ . . _ m u V HAB FUT
+t o w _ . . _ m u V HAB NEG FUT
+t o w _ . . _ m u V HAB NEG PRS
+t o w _ . . _ m u V HAB NEG PST
+t o w _ . . _ m u V HAB PRS
+t o w _ . . _ m u V HAB PST
+t o w _ . . _ m u V IMP NEG PRS
+t o w _ . . _ m u V IMP PRS
+t o w _ . . _ m u V NEG PRS LGSPEC1
+t o w _ . . _ m u V NEG PST+IMMED
+t o w _ . . _ m u V NEG PST LGSPEC1
+t o w _ . . _ m u V NFIN
+t o w _ . . _ m u V PRF NEG PRS+IMMED
+t o w _ . . _ m u V PRF NEG PRS LGSPEC1
+t o w _ . . _ m u V PRF NEG PST+IMMED
+t o w _ . . _ m u V PRF NEG PST LGSPEC1
+t o w _ . . _ m u V PRF PRS+IMMED
+t o w _ . . _ m u V PRF PRS LGSPEC1
+t o w _ . . _ m u V PRF PST+IMMED
+t o w _ . . _ m u V PRF PST LGSPEC1
+t o w _ . . _ m u V PROG NEG PRS+IMMED
+t o w _ . . _ m u V PROG NEG PRS LGSPEC1
+t o w _ . . _ m u V PROG NEG PST+IMMED
+t o w _ . . _ m u V PROG NEG PST LGSPEC1
+t o w _ . . _ m u V PROG PRS+IMMED
+t o w _ . . _ m u V PROG PRS LGSPEC1
+t o w _ . . _ m u V PROG PST+IMMED
+t o w _ . . _ m u V PROG PST LGSPEC1
+t o w _ . . _ m u V PRS LGSPEC1
+t o w _ . . _ m u V PST+IMMED
+t o w _ . . _ m u V PST LGSPEC1
+t o w _ . . _ m u V SBJV NEG PRS
+t o w _ . . _ m u V SBJV PRS
+k a V HAB+PRF NEG PRS
+k a V HAB+PRF NEG PST
+k a V HAB+PRF PRS
+k a V HAB+PRF PST
+k a V HAB+PROG NEG PRS
+k a V HAB+PROG NEG PST
+k a V HAB+PROG PRS
+k a V HAB+PROG PST
+k a V HAB FUT
+k a V HAB NEG FUT
+k a V HAB NEG PRS
+k a V HAB NEG PST
+k a V HAB PRS
+k a V HAB PST
+k a V IMP NEG PRS
+k a V IMP PRS
+k a V NEG PRS LGSPEC1
+k a V NEG PST+IMMED
+k a V NEG PST LGSPEC1
+k a V NFIN
+k a V PRF NEG PRS+IMMED
+k a V PRF NEG PRS LGSPEC1
+k a V PRF NEG PST+IMMED
+k a V PRF NEG PST LGSPEC1
+k a V PRF PRS+IMMED
+k a V PRF PRS LGSPEC1
+k a V PRF PST+IMMED
+k a V PRF PST LGSPEC1
+k a V PROG NEG PRS+IMMED
+k a V PROG NEG PRS LGSPEC1
+k a V PROG NEG PST+IMMED
+k a V PROG NEG PST LGSPEC1
+k a V PROG PRS+IMMED
+k a V PROG PRS LGSPEC1
+k a V PROG PST+IMMED
+k a V PROG PST LGSPEC1
+k a V PRS LGSPEC1
+k a V PST+IMMED
+k a V PST LGSPEC1
+k a V SBJV NEG PRS
+k a V SBJV PRS
+d u a V HAB+PRF NEG PRS
+d u a V HAB+PRF NEG PST
+d u a V HAB+PRF PRS
+d u a V HAB+PRF PST
+d u a V HAB+PROG NEG PRS
+d u a V HAB+PROG NEG PST
+d u a V HAB+PROG PRS
+d u a V HAB+PROG PST
+d u a V HAB FUT
+d u a V HAB NEG FUT
+d u a V HAB NEG PRS
+d u a V HAB NEG PST
+d u a V HAB PRS
+d u a V HAB PST
+d u a V IMP NEG PRS
+d u a V IMP PRS
+d u a V NEG PRS LGSPEC1
+d u a V NEG PST+IMMED
+d u a V NEG PST LGSPEC1
+d u a V NFIN
+d u a V PRF NEG PRS+IMMED
+d u a V PRF NEG PRS LGSPEC1
+d u a V PRF NEG PST+IMMED
+d u a V PRF NEG PST LGSPEC1
+d u a V PRF PRS+IMMED
+d u a V PRF PRS LGSPEC1
+d u a V PRF PST+IMMED
+d u a V PRF PST LGSPEC1
+d u a V PROG NEG PRS+IMMED
+d u a V PROG NEG PRS LGSPEC1
+d u a V PROG NEG PST+IMMED
+d u a V PROG NEG PST LGSPEC1
+d u a V PROG PRS+IMMED
+d u a V PROG PRS LGSPEC1
+d u a V PROG PST+IMMED
+d u a V PROG PST LGSPEC1
+d u a V PRS LGSPEC1
+d u a V PST+IMMED
+d u a V PST LGSPEC1
+d u a V SBJV NEG PRS
+d u a V SBJV PRS
+d a V HAB+PRF NEG PRS
+d a V HAB+PRF NEG PST
+d a V HAB+PRF PRS
+d a V HAB+PRF PST
+d a V HAB+PROG NEG PRS
+d a V HAB+PROG NEG PST
+d a V HAB+PROG PRS
+d a V HAB+PROG PST
+d a V HAB FUT
+d a V HAB NEG FUT
+d a V HAB NEG PRS
+d a V HAB NEG PST
+d a V HAB PRS
+d a V HAB PST
+d a V IMP NEG PRS
+d a V IMP PRS
+d a V NEG PRS LGSPEC1
+d a V NEG PST+IMMED
+d a V NEG PST LGSPEC1
+d a V NFIN
+d a V PRF NEG PRS+IMMED
+d a V PRF NEG PRS LGSPEC1
+d a V PRF NEG PST+IMMED
+d a V PRF NEG PST LGSPEC1
+d a V PRF PRS+IMMED
+d a V PRF PRS LGSPEC1
+d a V PRF PST+IMMED
+d a V PRF PST LGSPEC1
+d a V PROG NEG PRS+IMMED
+d a V PROG NEG PRS LGSPEC1
+d a V PROG NEG PST+IMMED
+d a V PROG NEG PST LGSPEC1
+d a V PROG PRS+IMMED
+d a V PROG PRS LGSPEC1
+d a V PROG PST+IMMED
+d a V PROG PST LGSPEC1
+d a V PRS LGSPEC1
+d a V PST+IMMED
+d a V PST LGSPEC1
+d a V SBJV NEG PRS
+d a V SBJV PRS
+w o V HAB+PRF NEG PRS
+w o V HAB+PRF NEG PST
+w o V HAB+PRF PRS
+w o V HAB+PRF PST
+w o V HAB+PROG NEG PRS
+w o V HAB+PROG NEG PST
+w o V HAB+PROG PRS
+w o V HAB+PROG PST
+w o V HAB FUT
+w o V HAB NEG FUT
+w o V HAB NEG PRS
+w o V HAB NEG PST
+w o V HAB PRS
+w o V HAB PST
+w o V IMP NEG PRS
+w o V IMP PRS
+w o V NEG PRS LGSPEC1
+w o V NEG PST+IMMED
+w o V NEG PST LGSPEC1
+w o V NFIN
+w o V PRF NEG PRS+IMMED
+w o V PRF NEG PRS LGSPEC1
+w o V PRF NEG PST+IMMED
+w o V PRF NEG PST LGSPEC1
+w o V PRF PRS+IMMED
+w o V PRF PRS LGSPEC1
+w o V PRF PST+IMMED
+w o V PRF PST LGSPEC1
+w o V PROG NEG PRS+IMMED
+w o V PROG NEG PRS LGSPEC1
+w o V PROG NEG PST+IMMED
+w o V PROG NEG PST LGSPEC1
+w o V PROG PRS+IMMED
+w o V PROG PRS LGSPEC1
+w o V PROG PST+IMMED
+w o V PROG PST LGSPEC1
+w o V PRS LGSPEC1
+w o V PST+IMMED
+w o V PST LGSPEC1
+w o V SBJV NEG PRS
+w o V SBJV PRS
+d i V HAB+PRF NEG PRS
+d i V HAB+PRF NEG PST
+d i V HAB+PRF PRS
+d i V HAB+PRF PST
+d i V HAB+PROG NEG PRS
+d i V HAB+PROG NEG PST
+d i V HAB+PROG PRS
+d i V HAB+PROG PST
+d i V HAB FUT
+d i V HAB NEG FUT
+d i V HAB NEG PRS
+d i V HAB NEG PST
+d i V HAB PRS
+d i V HAB PST
+d i V IMP NEG PRS
+d i V IMP PRS
+d i V NEG PRS LGSPEC1
+d i V NEG PST+IMMED
+d i V NEG PST LGSPEC1
+d i V NFIN
+d i V PRF NEG PRS+IMMED
+d i V PRF NEG PRS LGSPEC1
+d i V PRF NEG PST+IMMED
+d i V PRF NEG PST LGSPEC1
+d i V PRF PRS+IMMED
+d i V PRF PRS LGSPEC1
+d i V PRF PST+IMMED
+d i V PRF PST LGSPEC1
+d i V PROG NEG PRS+IMMED
+d i V PROG NEG PRS LGSPEC1
+d i V PROG NEG PST+IMMED
+d i V PROG NEG PST LGSPEC1
+d i V PROG PRS+IMMED
+d i V PROG PRS LGSPEC1
+d i V PROG PST+IMMED
+d i V PROG PST LGSPEC1
+d i V PRS LGSPEC1
+d i V PST+IMMED
+d i V PST LGSPEC1
+d i V SBJV NEG PRS
+d i V SBJV PRS
+y i V HAB+PRF NEG PRS
+y i V HAB+PRF NEG PST
+y i V HAB+PRF PRS
+y i V HAB+PRF PST
+y i V HAB+PROG NEG PRS
+y i V HAB+PROG NEG PST
+y i V HAB+PROG PRS
+y i V HAB+PROG PST
+y i V HAB FUT
+y i V HAB NEG FUT
+y i V HAB NEG PRS
+y i V HAB NEG PST
+y i V HAB PRS
+y i V HAB PST
+y i V IMP NEG PRS
+y i V IMP PRS
+y i V NEG PRS LGSPEC1
+y i V NEG PST+IMMED
+y i V NEG PST LGSPEC1
+y i V NFIN
+y i V PRF NEG PRS+IMMED
+y i V PRF NEG PRS LGSPEC1
+y i V PRF NEG PST+IMMED
+y i V PRF NEG PST LGSPEC1
+y i V PRF PRS+IMMED
+y i V PRF PRS LGSPEC1
+y i V PRF PST+IMMED
+y i V PRF PST LGSPEC1
+y i V PROG NEG PRS+IMMED
+y i V PROG NEG PRS LGSPEC1
+y i V PROG NEG PST+IMMED
+y i V PROG NEG PST LGSPEC1
+y i V PROG PRS+IMMED
+y i V PROG PRS LGSPEC1
+y i V PROG PST+IMMED
+y i V PROG PST LGSPEC1
+y i V PRS LGSPEC1
+y i V PST+IMMED
+y i V PST LGSPEC1
+y i V SBJV NEG PRS
+y i V SBJV PRS
+p e p a V HAB+PRF NEG PRS
+p e p a V HAB+PRF NEG PST
+p e p a V HAB+PRF PRS
+p e p a V HAB+PRF PST
+p e p a V HAB+PROG NEG PRS
+p e p a V HAB+PROG NEG PST
+p e p a V HAB+PROG PRS
+p e p a V HAB+PROG PST
+p e p a V HAB FUT
+p e p a V HAB NEG FUT
+p e p a V HAB NEG PRS
+p e p a V HAB NEG PST
+p e p a V HAB PRS
+p e p a V HAB PST
+p e p a V IMP NEG PRS
+p e p a V IMP PRS
+p e p a V NEG PRS LGSPEC1
+p e p a V NEG PST+IMMED
+p e p a V NEG PST LGSPEC1
+p e p a V NFIN
+p e p a V PRF NEG PRS+IMMED
+p e p a V PRF NEG PRS LGSPEC1
+p e p a V PRF NEG PST+IMMED
+p e p a V PRF NEG PST LGSPEC1
+p e p a V PRF PRS+IMMED
+p e p a V PRF PRS LGSPEC1
+p e p a V PRF PST+IMMED
+p e p a V PRF PST LGSPEC1
+p e p a V PROG NEG PRS+IMMED
+p e p a V PROG NEG PRS LGSPEC1
+p e p a V PROG NEG PST+IMMED
+p e p a V PROG NEG PST LGSPEC1
+p e p a V PROG PRS+IMMED
+p e p a V PROG PRS LGSPEC1
+p e p a V PROG PST+IMMED
+p e p a V PROG PST LGSPEC1
+p e p a V PRS LGSPEC1
+p e p a V PST+IMMED
+p e p a V PST LGSPEC1
+p e p a V SBJV NEG PRS
+p e p a V SBJV PRS
+f r a V HAB+PRF NEG PRS
+f r a V HAB+PRF NEG PST
+f r a V HAB+PRF PRS
+f r a V HAB+PRF PST
+f r a V HAB+PROG NEG PRS
+f r a V HAB+PROG NEG PST
+f r a V HAB+PROG PRS
+f r a V HAB+PROG PST
+f r a V HAB FUT
+f r a V HAB NEG FUT
+f r a V HAB NEG PRS
+f r a V HAB NEG PST
+f r a V HAB PRS
+f r a V HAB PST
+f r a V IMP NEG PRS
+f r a V IMP PRS
+f r a V NEG PRS LGSPEC1
+f r a V NEG PST+IMMED
+f r a V NEG PST LGSPEC1
+f r a V NFIN
+f r a V PRF NEG PRS+IMMED
+f r a V PRF NEG PRS LGSPEC1
+f r a V PRF NEG PST+IMMED
+f r a V PRF NEG PST LGSPEC1
+f r a V PRF PRS+IMMED
+f r a V PRF PRS LGSPEC1
+f r a V PRF PST+IMMED
+f r a V PRF PST LGSPEC1
+f r a V PROG NEG PRS+IMMED
+f r a V PROG NEG PRS LGSPEC1
+f r a V PROG NEG PST+IMMED
+f r a V PROG NEG PST LGSPEC1
+f r a V PROG PRS+IMMED
+f r a V PROG PRS LGSPEC1
+f r a V PROG PST+IMMED
+f r a V PROG PST LGSPEC1
+f r a V PRS LGSPEC1
+f r a V PST+IMMED
+f r a V PST LGSPEC1
+f r a V SBJV NEG PRS
+f r a V SBJV PRS
+k y e r ɛ V HAB+PRF NEG PRS
+k y e r ɛ V HAB+PRF NEG PST
+k y e r ɛ V HAB+PRF PRS
+k y e r ɛ V HAB+PRF PST
+k y e r ɛ V HAB+PROG NEG PRS
+k y e r ɛ V HAB+PROG NEG PST
+k y e r ɛ V HAB+PROG PRS
+k y e r ɛ V HAB+PROG PST
+k y e r ɛ V HAB FUT
+k y e r ɛ V HAB NEG FUT
+k y e r ɛ V HAB NEG PRS
+k y e r ɛ V HAB NEG PST
+k y e r ɛ V HAB PRS
+k y e r ɛ V HAB PST
+k y e r ɛ V IMP NEG PRS
+k y e r ɛ V IMP PRS
+k y e r ɛ V NEG PRS LGSPEC1
+k y e r ɛ V NEG PST+IMMED
+k y e r ɛ V NEG PST LGSPEC1
+k y e r ɛ V NFIN
+k y e r ɛ V PRF NEG PRS+IMMED
+k y e r ɛ V PRF NEG PRS LGSPEC1
+k y e r ɛ V PRF NEG PST+IMMED
+k y e r ɛ V PRF NEG PST LGSPEC1
+k y e r ɛ V PRF PRS+IMMED
+k y e r ɛ V PRF PRS LGSPEC1
+k y e r ɛ V PRF PST+IMMED
+k y e r ɛ V PRF PST LGSPEC1
+k y e r ɛ V PROG NEG PRS+IMMED
+k y e r ɛ V PROG NEG PRS LGSPEC1
+k y e r ɛ V PROG NEG PST+IMMED
+k y e r ɛ V PROG NEG PST LGSPEC1
+k y e r ɛ V PROG PRS+IMMED
+k y e r ɛ V PROG PRS LGSPEC1
+k y e r ɛ V PROG PST+IMMED
+k y e r ɛ V PROG PST LGSPEC1
+k y e r ɛ V PRS LGSPEC1
+k y e r ɛ V PST+IMMED
+k y e r ɛ V PST LGSPEC1
+k y e r ɛ V SBJV NEG PRS
+k y e r ɛ V SBJV PRS
+t i n t i m V HAB+PRF NEG PRS
+t i n t i m V HAB+PRF NEG PST
+t i n t i m V HAB+PRF PRS
+t i n t i m V HAB+PRF PST
+t i n t i m V HAB+PROG NEG PRS
+t i n t i m V HAB+PROG NEG PST
+t i n t i m V HAB+PROG PRS
+t i n t i m V HAB+PROG PST
+t i n t i m V HAB FUT
+t i n t i m V HAB NEG FUT
+t i n t i m V HAB NEG PRS
+t i n t i m V HAB NEG PST
+t i n t i m V HAB PRS
+t i n t i m V HAB PST
+t i n t i m V IMP NEG PRS
+t i n t i m V IMP PRS
+t i n t i m V NEG PRS LGSPEC1
+t i n t i m V NEG PST+IMMED
+t i n t i m V NEG PST LGSPEC1
+t i n t i m V NFIN
+t i n t i m V PRF NEG PRS+IMMED
+t i n t i m V PRF NEG PRS LGSPEC1
+t i n t i m V PRF NEG PST+IMMED
+t i n t i m V PRF NEG PST LGSPEC1
+t i n t i m V PRF PRS+IMMED
+t i n t i m V PRF PRS LGSPEC1
+t i n t i m V PRF PST+IMMED
+t i n t i m V PRF PST LGSPEC1
+t i n t i m V PROG NEG PRS+IMMED
+t i n t i m V PROG NEG PRS LGSPEC1
+t i n t i m V PROG NEG PST+IMMED
+t i n t i m V PROG NEG PST LGSPEC1
+t i n t i m V PROG PRS+IMMED
+t i n t i m V PROG PRS LGSPEC1
+t i n t i m V PROG PST+IMMED
+t i n t i m V PROG PST LGSPEC1
+t i n t i m V PRS LGSPEC1
+t i n t i m V PST+IMMED
+t i n t i m V PST LGSPEC1
+t i n t i m V SBJV NEG PRS
+t i n t i m V SBJV PRS
+k y i r i V HAB+PRF NEG PRS
+k y i r i V HAB+PRF NEG PST
+k y i r i V HAB+PRF PRS
+k y i r i V HAB+PRF PST
+k y i r i V HAB+PROG NEG PRS
+k y i r i V HAB+PROG NEG PST
+k y i r i V HAB+PROG PRS
+k y i r i V HAB+PROG PST
+k y i r i V HAB FUT
+k y i r i V HAB NEG FUT
+k y i r i V HAB NEG PRS
+k y i r i V HAB NEG PST
+k y i r i V HAB PRS
+k y i r i V HAB PST
+k y i r i V IMP NEG PRS
+k y i r i V IMP PRS
+k y i r i V NEG PRS LGSPEC1
+k y i r i V NEG PST+IMMED
+k y i r i V NEG PST LGSPEC1
+k y i r i V NFIN
+k y i r i V PRF NEG PRS+IMMED
+k y i r i V PRF NEG PRS LGSPEC1
+k y i r i V PRF NEG PST+IMMED
+k y i r i V PRF NEG PST LGSPEC1
+k y i r i V PRF PRS+IMMED
+k y i r i V PRF PRS LGSPEC1
+k y i r i V PRF PST+IMMED
+k y i r i V PRF PST LGSPEC1
+k y i r i V PROG NEG PRS+IMMED
+k y i r i V PROG NEG PRS LGSPEC1
+k y i r i V PROG NEG PST+IMMED
+k y i r i V PROG NEG PST LGSPEC1
+k y i r i V PROG PRS+IMMED
+k y i r i V PROG PRS LGSPEC1
+k y i r i V PROG PST+IMMED
+k y i r i V PROG PST LGSPEC1
+k y i r i V PRS LGSPEC1
+k y i r i V PST+IMMED
+k y i r i V PST LGSPEC1
+k y i r i V SBJV NEG PRS
+k y i r i V SBJV PRS
+t a f e e r e V HAB+PRF NEG PRS
+t a f e e r e V HAB+PRF NEG PST
+t a f e e r e V HAB+PRF PRS
+t a f e e r e V HAB+PRF PST
+t a f e e r e V HAB+PROG NEG PRS
+t a f e e r e V HAB+PROG NEG PST
+t a f e e r e V HAB+PROG PRS
+t a f e e r e V HAB+PROG PST
+t a f e e r e V HAB FUT
+t a f e e r e V HAB NEG FUT
+t a f e e r e V HAB NEG PRS
+t a f e e r e V HAB NEG PST
+t a f e e r e V HAB PRS
+t a f e e r e V HAB PST
+t a f e e r e V IMP NEG PRS
+t a f e e r e V IMP PRS
+t a f e e r e V NEG PRS LGSPEC1
+t a f e e r e V NEG PST+IMMED
+t a f e e r e V NEG PST LGSPEC1
+t a f e e r e V NFIN
+t a f e e r e V PRF NEG PRS+IMMED
+t a f e e r e V PRF NEG PRS LGSPEC1
+t a f e e r e V PRF NEG PST+IMMED
+t a f e e r e V PRF NEG PST LGSPEC1
+t a f e e r e V PRF PRS+IMMED
+t a f e e r e V PRF PRS LGSPEC1
+t a f e e r e V PRF PST+IMMED
+t a f e e r e V PRF PST LGSPEC1
+t a f e e r e V PROG NEG PRS+IMMED
+t a f e e r e V PROG NEG PRS LGSPEC1
+t a f e e r e V PROG NEG PST+IMMED
+t a f e e r e V PROG NEG PST LGSPEC1
+t a f e e r e V PROG PRS+IMMED
+t a f e e r e V PROG PRS LGSPEC1
+t a f e e r e V PROG PST+IMMED
+t a f e e r e V PROG PST LGSPEC1
+t a f e e r e V PRS LGSPEC1
+t a f e e r e V PST+IMMED
+t a f e e r e V PST LGSPEC1
+t a f e e r e V SBJV NEG PRS
+t a f e e r e V SBJV PRS
+s u o _ m u V HAB+PRF NEG PRS
+s u o _ m u V HAB+PRF NEG PST
+s u o _ m u V HAB+PRF PRS
+s u o _ m u V HAB+PRF PST
+s u o _ m u V HAB+PROG NEG PRS
+s u o _ m u V HAB+PROG NEG PST
+s u o _ m u V HAB+PROG PRS
+s u o _ m u V HAB+PROG PST
+s u o _ m u V HAB FUT
+s u o _ m u V HAB NEG FUT
+s u o _ m u V HAB NEG PRS
+s u o _ m u V HAB NEG PST
+s u o _ m u V HAB PRS
+s u o _ m u V HAB PST
+s u o _ m u V IMP NEG PRS
+s u o _ m u V IMP PRS
+s u o _ m u V NEG PRS LGSPEC1
+s u o _ m u V NEG PST+IMMED
+s u o _ m u V NEG PST LGSPEC1
+s u o _ m u V NFIN
+s u o _ m u V PRF NEG PRS+IMMED
+s u o _ m u V PRF NEG PRS LGSPEC1
+s u o _ m u V PRF NEG PST+IMMED
+s u o _ m u V PRF NEG PST LGSPEC1
+s u o _ m u V PRF PRS+IMMED
+s u o _ m u V PRF PRS LGSPEC1
+s u o _ m u V PRF PST+IMMED
+s u o _ m u V PRF PST LGSPEC1
+s u o _ m u V PROG NEG PRS+IMMED
+s u o _ m u V PROG NEG PRS LGSPEC1
+s u o _ m u V PROG NEG PST+IMMED
+s u o _ m u V PROG NEG PST LGSPEC1
+s u o _ m u V PROG PRS+IMMED
+s u o _ m u V PROG PRS LGSPEC1
+s u o _ m u V PROG PST+IMMED
+s u o _ m u V PROG PST LGSPEC1
+s u o _ m u V PRS LGSPEC1
+s u o _ m u V PST+IMMED
+s u o _ m u V PST LGSPEC1
+s u o _ m u V SBJV NEG PRS
+s u o _ m u V SBJV PRS
+t w e ɔ n V HAB+PRF NEG PRS
+t w e ɔ n V HAB+PRF NEG PST
+t w e ɔ n V HAB+PRF PRS
+t w e ɔ n V HAB+PRF PST
+t w e ɔ n V HAB+PROG NEG PRS
+t w e ɔ n V HAB+PROG NEG PST
+t w e ɔ n V HAB+PROG PRS
+t w e ɔ n V HAB+PROG PST
+t w e ɔ n V HAB FUT
+t w e ɔ n V HAB NEG FUT
+t w e ɔ n V HAB NEG PRS
+t w e ɔ n V HAB NEG PST
+t w e ɔ n V HAB PRS
+t w e ɔ n V HAB PST
+t w e ɔ n V IMP NEG PRS
+t w e ɔ n V IMP PRS
+t w e ɔ n V NEG PRS LGSPEC1
+t w e ɔ n V NEG PST+IMMED
+t w e ɔ n V NEG PST LGSPEC1
+t w e ɔ n V NFIN
+t w e ɔ n V PRF NEG PRS+IMMED
+t w e ɔ n V PRF NEG PRS LGSPEC1
+t w e ɔ n V PRF NEG PST+IMMED
+t w e ɔ n V PRF NEG PST LGSPEC1
+t w e ɔ n V PRF PRS+IMMED
+t w e ɔ n V PRF PRS LGSPEC1
+t w e ɔ n V PRF PST+IMMED
+t w e ɔ n V PRF PST LGSPEC1
+t w e ɔ n V PROG NEG PRS+IMMED
+t w e ɔ n V PROG NEG PRS LGSPEC1
+t w e ɔ n V PROG NEG PST+IMMED
+t w e ɔ n V PROG NEG PST LGSPEC1
+t w e ɔ n V PROG PRS+IMMED
+t w e ɔ n V PROG PRS LGSPEC1
+t w e ɔ n V PROG PST+IMMED
+t w e ɔ n V PROG PST LGSPEC1
+t w e ɔ n V PRS LGSPEC1
+t w e ɔ n V PST+IMMED
+t w e ɔ n V PST LGSPEC1
+t w e ɔ n V SBJV NEG PRS
+t w e ɔ n V SBJV PRS
+b o r o V HAB+PRF NEG PRS
+b o r o V HAB+PRF NEG PST
+b o r o V HAB+PRF PRS
+b o r o V HAB+PRF PST
+b o r o V HAB+PROG NEG PRS
+b o r o V HAB+PROG NEG PST
+b o r o V HAB+PROG PRS
+b o r o V HAB+PROG PST
+b o r o V HAB FUT
+b o r o V HAB NEG FUT
+b o r o V HAB NEG PRS
+b o r o V HAB NEG PST
+b o r o V HAB PRS
+b o r o V HAB PST
+b o r o V IMP NEG PRS
+b o r o V IMP PRS
+b o r o V NEG PRS LGSPEC1
+b o r o V NEG PST+IMMED
+b o r o V NEG PST LGSPEC1
+b o r o V NFIN
+b o r o V PRF NEG PRS+IMMED
+b o r o V PRF NEG PRS LGSPEC1
+b o r o V PRF NEG PST+IMMED
+b o r o V PRF NEG PST LGSPEC1
+b o r o V PRF PRS+IMMED
+b o r o V PRF PRS LGSPEC1
+b o r o V PRF PST+IMMED
+b o r o V PRF PST LGSPEC1
+b o r o V PROG NEG PRS+IMMED
+b o r o V PROG NEG PRS LGSPEC1
+b o r o V PROG NEG PST+IMMED
+b o r o V PROG NEG PST LGSPEC1
+b o r o V PROG PRS+IMMED
+b o r o V PROG PRS LGSPEC1
+b o r o V PROG PST+IMMED
+b o r o V PROG PST LGSPEC1
+b o r o V PRS LGSPEC1
+b o r o V PST+IMMED
+b o r o V PST LGSPEC1
+b o r o V SBJV NEG PRS
+b o r o V SBJV PRS
+k e k a m u V HAB+PRF NEG PRS
+k e k a m u V HAB+PRF NEG PST
+k e k a m u V HAB+PRF PRS
+k e k a m u V HAB+PRF PST
+k e k a m u V HAB+PROG NEG PRS
+k e k a m u V HAB+PROG NEG PST
+k e k a m u V HAB+PROG PRS
+k e k a m u V HAB+PROG PST
+k e k a m u V HAB FUT
+k e k a m u V HAB NEG FUT
+k e k a m u V HAB NEG PRS
+k e k a m u V HAB NEG PST
+k e k a m u V HAB PRS
+k e k a m u V HAB PST
+k e k a m u V IMP NEG PRS
+k e k a m u V IMP PRS
+k e k a m u V NEG PRS LGSPEC1
+k e k a m u V NEG PST+IMMED
+k e k a m u V NEG PST LGSPEC1
+k e k a m u V NFIN
+k e k a m u V PRF NEG PRS+IMMED
+k e k a m u V PRF NEG PRS LGSPEC1
+k e k a m u V PRF NEG PST+IMMED
+k e k a m u V PRF NEG PST LGSPEC1
+k e k a m u V PRF PRS+IMMED
+k e k a m u V PRF PRS LGSPEC1
+k e k a m u V PRF PST+IMMED
+k e k a m u V PRF PST LGSPEC1
+k e k a m u V PROG NEG PRS+IMMED
+k e k a m u V PROG NEG PRS LGSPEC1
+k e k a m u V PROG NEG PST+IMMED
+k e k a m u V PROG NEG PST LGSPEC1
+k e k a m u V PROG PRS+IMMED
+k e k a m u V PROG PRS LGSPEC1
+k e k a m u V PROG PST+IMMED
+k e k a m u V PROG PST LGSPEC1
+k e k a m u V PRS LGSPEC1
+k e k a m u V PST+IMMED
+k e k a m u V PST LGSPEC1
+k e k a m u V SBJV NEG PRS
+k e k a m u V SBJV PRS
+b ɔ _ w a w V HAB+PRF NEG PRS
+b ɔ _ w a w V HAB+PRF NEG PST
+b ɔ _ w a w V HAB+PRF PRS
+b ɔ _ w a w V HAB+PRF PST
+b ɔ _ w a w V HAB+PROG NEG PRS
+b ɔ _ w a w V HAB+PROG NEG PST
+b ɔ _ w a w V HAB+PROG PRS
+b ɔ _ w a w V HAB+PROG PST
+b ɔ _ w a w V HAB FUT
+b ɔ _ w a w V HAB NEG FUT
+b ɔ _ w a w V HAB NEG PRS
+b ɔ _ w a w V HAB NEG PST
+b ɔ _ w a w V HAB PRS
+b ɔ _ w a w V HAB PST
+b ɔ _ w a w V IMP NEG PRS
+b ɔ _ w a w V IMP PRS
+b ɔ _ w a w V NEG PRS LGSPEC1
+b ɔ _ w a w V NEG PST+IMMED
+b ɔ _ w a w V NEG PST LGSPEC1
+b ɔ _ w a w V NFIN
+b ɔ _ w a w V PRF NEG PRS+IMMED
+b ɔ _ w a w V PRF NEG PRS LGSPEC1
+b ɔ _ w a w V PRF NEG PST+IMMED
+b ɔ _ w a w V PRF NEG PST LGSPEC1
+b ɔ _ w a w V PRF PRS+IMMED
+b ɔ _ w a w V PRF PRS LGSPEC1
+b ɔ _ w a w V PRF PST+IMMED
+b ɔ _ w a w V PRF PST LGSPEC1
+b ɔ _ w a w V PROG NEG PRS+IMMED
+b ɔ _ w a w V PROG NEG PRS LGSPEC1
+b ɔ _ w a w V PROG NEG PST+IMMED
+b ɔ _ w a w V PROG NEG PST LGSPEC1
+b ɔ _ w a w V PROG PRS+IMMED
+b ɔ _ w a w V PROG PRS LGSPEC1
+b ɔ _ w a w V PROG PST+IMMED
+b ɔ _ w a w V PROG PST LGSPEC1
+b ɔ _ w a w V PRS LGSPEC1
+b ɔ _ w a w V PST+IMMED
+b ɔ _ w a w V PST LGSPEC1
+b ɔ _ w a w V SBJV NEG PRS
+b ɔ _ w a w V SBJV PRS
+b o b ɔ w V HAB+PRF NEG PRS
+b o b ɔ w V HAB+PRF NEG PST
+b o b ɔ w V HAB+PRF PRS
+b o b ɔ w V HAB+PRF PST
+b o b ɔ w V HAB+PROG NEG PRS
+b o b ɔ w V HAB+PROG NEG PST
+b o b ɔ w V HAB+PROG PRS
+b o b ɔ w V HAB+PROG PST
+b o b ɔ w V HAB FUT
+b o b ɔ w V HAB NEG FUT
+b o b ɔ w V HAB NEG PRS
+b o b ɔ w V HAB NEG PST
+b o b ɔ w V HAB PRS
+b o b ɔ w V HAB PST
+b o b ɔ w V IMP NEG PRS
+b o b ɔ w V IMP PRS
+b o b ɔ w V NEG PRS LGSPEC1
+b o b ɔ w V NEG PST+IMMED
+b o b ɔ w V NEG PST LGSPEC1
+b o b ɔ w V NFIN
+b o b ɔ w V PRF NEG PRS+IMMED
+b o b ɔ w V PRF NEG PRS LGSPEC1
+b o b ɔ w V PRF NEG PST+IMMED
+b o b ɔ w V PRF NEG PST LGSPEC1
+b o b ɔ w V PRF PRS+IMMED
+b o b ɔ w V PRF PRS LGSPEC1
+b o b ɔ w V PRF PST+IMMED
+b o b ɔ w V PRF PST LGSPEC1
+b o b ɔ w V PROG NEG PRS+IMMED
+b o b ɔ w V PROG NEG PRS LGSPEC1
+b o b ɔ w V PROG NEG PST+IMMED
+b o b ɔ w V PROG NEG PST LGSPEC1
+b o b ɔ w V PROG PRS+IMMED
+b o b ɔ w V PROG PRS LGSPEC1
+b o b ɔ w V PROG PST+IMMED
+b o b ɔ w V PROG PST LGSPEC1
+b o b ɔ w V PRS LGSPEC1
+b o b ɔ w V PST+IMMED
+b o b ɔ w V PST LGSPEC1
+b o b ɔ w V SBJV NEG PRS
+b o b ɔ w V SBJV PRS
+w i e V HAB+PRF NEG PRS
+w i e V HAB+PRF NEG PST
+w i e V HAB+PRF PRS
+w i e V HAB+PRF PST
+w i e V HAB+PROG NEG PRS
+w i e V HAB+PROG NEG PST
+w i e V HAB+PROG PRS
+w i e V HAB+PROG PST
+w i e V HAB FUT
+w i e V HAB NEG FUT
+w i e V HAB NEG PRS
+w i e V HAB NEG PST
+w i e V HAB PRS
+w i e V HAB PST
+w i e V IMP NEG PRS
+w i e V IMP PRS
+w i e V NEG PRS LGSPEC1
+w i e V NEG PST+IMMED
+w i e V NEG PST LGSPEC1
+w i e V NFIN
+w i e V PRF NEG PRS+IMMED
+w i e V PRF NEG PRS LGSPEC1
+w i e V PRF NEG PST+IMMED
+w i e V PRF NEG PST LGSPEC1
+w i e V PRF PRS+IMMED
+w i e V PRF PRS LGSPEC1
+w i e V PRF PST+IMMED
+w i e V PRF PST LGSPEC1
+w i e V PROG NEG PRS+IMMED
+w i e V PROG NEG PRS LGSPEC1
+w i e V PROG NEG PST+IMMED
+w i e V PROG NEG PST LGSPEC1
+w i e V PROG PRS+IMMED
+w i e V PROG PRS LGSPEC1
+w i e V PROG PST+IMMED
+w i e V PROG PST LGSPEC1
+w i e V PRS LGSPEC1
+w i e V PST+IMMED
+w i e V PST LGSPEC1
+w i e V SBJV NEG PRS
+w i e V SBJV PRS
+s u V HAB+PRF NEG PRS
+s u V HAB+PRF NEG PST
+s u V HAB+PRF PRS
+s u V HAB+PRF PST
+s u V HAB+PROG NEG PRS
+s u V HAB+PROG NEG PST
+s u V HAB+PROG PRS
+s u V HAB+PROG PST
+s u V HAB FUT
+s u V HAB NEG FUT
+s u V HAB NEG PRS
+s u V HAB NEG PST
+s u V HAB PRS
+s u V HAB PST
+s u V IMP NEG PRS
+s u V IMP PRS
+s u V NEG PRS LGSPEC1
+s u V NEG PST+IMMED
+s u V NEG PST LGSPEC1
+s u V NFIN
+s u V PRF NEG PRS+IMMED
+s u V PRF NEG PRS LGSPEC1
+s u V PRF NEG PST+IMMED
+s u V PRF NEG PST LGSPEC1
+s u V PRF PRS+IMMED
+s u V PRF PRS LGSPEC1
+s u V PRF PST+IMMED
+s u V PRF PST LGSPEC1
+s u V PROG NEG PRS+IMMED
+s u V PROG NEG PRS LGSPEC1
+s u V PROG NEG PST+IMMED
+s u V PROG NEG PST LGSPEC1
+s u V PROG PRS+IMMED
+s u V PROG PRS LGSPEC1
+s u V PROG PST+IMMED
+s u V PROG PST LGSPEC1
+s u V PRS LGSPEC1
+s u V PST+IMMED
+s u V PST LGSPEC1
+s u V SBJV NEG PRS
+s u V SBJV PRS
+k y e r e ɛ w V HAB+PRF NEG PRS
+k y e r e ɛ w V HAB+PRF NEG PST
+k y e r e ɛ w V HAB+PRF PRS
+k y e r e ɛ w V HAB+PRF PST
+k y e r e ɛ w V HAB+PROG NEG PRS
+k y e r e ɛ w V HAB+PROG NEG PST
+k y e r e ɛ w V HAB+PROG PRS
+k y e r e ɛ w V HAB+PROG PST
+k y e r e ɛ w V HAB FUT
+k y e r e ɛ w V HAB NEG FUT
+k y e r e ɛ w V HAB NEG PRS
+k y e r e ɛ w V HAB NEG PST
+k y e r e ɛ w V HAB PRS
+k y e r e ɛ w V HAB PST
+k y e r e ɛ w V IMP NEG PRS
+k y e r e ɛ w V IMP PRS
+k y e r e ɛ w V NEG PRS LGSPEC1
+k y e r e ɛ w V NEG PST+IMMED
+k y e r e ɛ w V NEG PST LGSPEC1
+k y e r e ɛ w V NFIN
+k y e r e ɛ w V PRF NEG PRS+IMMED
+k y e r e ɛ w V PRF NEG PRS LGSPEC1
+k y e r e ɛ w V PRF NEG PST+IMMED
+k y e r e ɛ w V PRF NEG PST LGSPEC1
+k y e r e ɛ w V PRF PRS+IMMED
+k y e r e ɛ w V PRF PRS LGSPEC1
+k y e r e ɛ w V PRF PST+IMMED
+k y e r e ɛ w V PRF PST LGSPEC1
+k y e r e ɛ w V PROG NEG PRS+IMMED
+k y e r e ɛ w V PROG NEG PRS LGSPEC1
+k y e r e ɛ w V PROG NEG PST+IMMED
+k y e r e ɛ w V PROG NEG PST LGSPEC1
+k y e r e ɛ w V PROG PRS+IMMED
+k y e r e ɛ w V PROG PRS LGSPEC1
+k y e r e ɛ w V PROG PST+IMMED
+k y e r e ɛ w V PROG PST LGSPEC1
+k y e r e ɛ w V PRS LGSPEC1
+k y e r e ɛ w V PST+IMMED
+k y e r e ɛ w V PST LGSPEC1
+k y e r e ɛ w V SBJV NEG PRS
+k y e r e ɛ w V SBJV PRS
+h y i n a V HAB+PRF NEG PRS
+h y i n a V HAB+PRF NEG PST
+h y i n a V HAB+PRF PRS
+h y i n a V HAB+PRF PST
+h y i n a V HAB+PROG NEG PRS
+h y i n a V HAB+PROG NEG PST
+h y i n a V HAB+PROG PRS
+h y i n a V HAB+PROG PST
+h y i n a V HAB FUT
+h y i n a V HAB NEG FUT
+h y i n a V HAB NEG PRS
+h y i n a V HAB NEG PST
+h y i n a V HAB PRS
+h y i n a V HAB PST
+h y i n a V IMP NEG PRS
+h y i n a V IMP PRS
+h y i n a V NEG PRS LGSPEC1
+h y i n a V NEG PST+IMMED
+h y i n a V NEG PST LGSPEC1
+h y i n a V NFIN
+h y i n a V PRF NEG PRS+IMMED
+h y i n a V PRF NEG PRS LGSPEC1
+h y i n a V PRF NEG PST+IMMED
+h y i n a V PRF NEG PST LGSPEC1
+h y i n a V PRF PRS+IMMED
+h y i n a V PRF PRS LGSPEC1
+h y i n a V PRF PST+IMMED
+h y i n a V PRF PST LGSPEC1
+h y i n a V PROG NEG PRS+IMMED
+h y i n a V PROG NEG PRS LGSPEC1
+h y i n a V PROG NEG PST+IMMED
+h y i n a V PROG NEG PST LGSPEC1
+h y i n a V PROG PRS+IMMED
+h y i n a V PROG PRS LGSPEC1
+h y i n a V PROG PST+IMMED
+h y i n a V PROG PST LGSPEC1
+h y i n a V PRS LGSPEC1
+h y i n a V PST+IMMED
+h y i n a V PST LGSPEC1
+h y i n a V SBJV NEG PRS
+h y i n a V SBJV PRS
+f r ɛ V HAB+PRF NEG PRS
+f r ɛ V HAB+PRF NEG PST
+f r ɛ V HAB+PRF PRS
+f r ɛ V HAB+PRF PST
+f r ɛ V HAB+PROG NEG PRS
+f r ɛ V HAB+PROG NEG PST
+f r ɛ V HAB+PROG PRS
+f r ɛ V HAB+PROG PST
+f r ɛ V HAB FUT
+f r ɛ V HAB NEG FUT
+f r ɛ V HAB NEG PRS
+f r ɛ V HAB NEG PST
+f r ɛ V HAB PRS
+f r ɛ V HAB PST
+f r ɛ V IMP NEG PRS
+f r ɛ V IMP PRS
+f r ɛ V NEG PRS LGSPEC1
+f r ɛ V NEG PST+IMMED
+f r ɛ V NEG PST LGSPEC1
+f r ɛ V NFIN
+f r ɛ V PRF NEG PRS+IMMED
+f r ɛ V PRF NEG PRS LGSPEC1
+f r ɛ V PRF NEG PST+IMMED
+f r ɛ V PRF NEG PST LGSPEC1
+f r ɛ V PRF PRS+IMMED
+f r ɛ V PRF PRS LGSPEC1
+f r ɛ V PRF PST+IMMED
+f r ɛ V PRF PST LGSPEC1
+f r ɛ V PROG NEG PRS+IMMED
+f r ɛ V PROG NEG PRS LGSPEC1
+f r ɛ V PROG NEG PST+IMMED
+f r ɛ V PROG NEG PST LGSPEC1
+f r ɛ V PROG PRS+IMMED
+f r ɛ V PROG PRS LGSPEC1
+f r ɛ V PROG PST+IMMED
+f r ɛ V PROG PST LGSPEC1
+f r ɛ V PRS LGSPEC1
+f r ɛ V PST+IMMED
+f r ɛ V PST LGSPEC1
+f r ɛ V SBJV NEG PRS
+f r ɛ V SBJV PRS
+t i e V HAB+PRF NEG PRS
+t i e V HAB+PRF NEG PST
+t i e V HAB+PRF PRS
+t i e V HAB+PRF PST
+t i e V HAB+PROG NEG PRS
+t i e V HAB+PROG NEG PST
+t i e V HAB+PROG PRS
+t i e V HAB+PROG PST
+t i e V HAB FUT
+t i e V HAB NEG FUT
+t i e V HAB NEG PRS
+t i e V HAB NEG PST
+t i e V HAB PRS
+t i e V HAB PST
+t i e V IMP NEG PRS
+t i e V IMP PRS
+t i e V NEG PRS LGSPEC1
+t i e V NEG PST+IMMED
+t i e V NEG PST LGSPEC1
+t i e V NFIN
+t i e V PRF NEG PRS+IMMED
+t i e V PRF NEG PRS LGSPEC1
+t i e V PRF NEG PST+IMMED
+t i e V PRF NEG PST LGSPEC1
+t i e V PRF PRS+IMMED
+t i e V PRF PRS LGSPEC1
+t i e V PRF PST+IMMED
+t i e V PRF PST LGSPEC1
+t i e V PROG NEG PRS+IMMED
+t i e V PROG NEG PRS LGSPEC1
+t i e V PROG NEG PST+IMMED
+t i e V PROG NEG PST LGSPEC1
+t i e V PROG PRS+IMMED
+t i e V PROG PRS LGSPEC1
+t i e V PROG PST+IMMED
+t i e V PROG PST LGSPEC1
+t i e V PRS LGSPEC1
+t i e V PST+IMMED
+t i e V PST LGSPEC1
+t i e V SBJV NEG PRS
+t i e V SBJV PRS
+s a w V HAB+PRF NEG PRS
+s a w V HAB+PRF NEG PST
+s a w V HAB+PRF PRS
+s a w V HAB+PRF PST
+s a w V HAB+PROG NEG PRS
+s a w V HAB+PROG NEG PST
+s a w V HAB+PROG PRS
+s a w V HAB+PROG PST
+s a w V HAB FUT
+s a w V HAB NEG FUT
+s a w V HAB NEG PRS
+s a w V HAB NEG PST
+s a w V HAB PRS
+s a w V HAB PST
+s a w V IMP NEG PRS
+s a w V IMP PRS
+s a w V NEG PRS LGSPEC1
+s a w V NEG PST+IMMED
+s a w V NEG PST LGSPEC1
+s a w V NFIN
+s a w V PRF NEG PRS+IMMED
+s a w V PRF NEG PRS LGSPEC1
+s a w V PRF NEG PST+IMMED
+s a w V PRF NEG PST LGSPEC1
+s a w V PRF PRS+IMMED
+s a w V PRF PRS LGSPEC1
+s a w V PRF PST+IMMED
+s a w V PRF PST LGSPEC1
+s a w V PROG NEG PRS+IMMED
+s a w V PROG NEG PRS LGSPEC1
+s a w V PROG NEG PST+IMMED
+s a w V PROG NEG PST LGSPEC1
+s a w V PROG PRS+IMMED
+s a w V PROG PRS LGSPEC1
+s a w V PROG PST+IMMED
+s a w V PROG PST LGSPEC1
+s a w V PRS LGSPEC1
+s a w V PST+IMMED
+s a w V PST LGSPEC1
+s a w V SBJV NEG PRS
+s a w V SBJV PRS
+h w ɛ V HAB+PRF NEG PRS
+h w ɛ V HAB+PRF NEG PST
+h w ɛ V HAB+PRF PRS
+h w ɛ V HAB+PRF PST
+h w ɛ V HAB+PROG NEG PRS
+h w ɛ V HAB+PROG NEG PST
+h w ɛ V HAB+PROG PRS
+h w ɛ V HAB+PROG PST
+h w ɛ V HAB FUT
+h w ɛ V HAB NEG FUT
+h w ɛ V HAB NEG PRS
+h w ɛ V HAB NEG PST
+h w ɛ V HAB PRS
+h w ɛ V HAB PST
+h w ɛ V IMP NEG PRS
+h w ɛ V IMP PRS
+h w ɛ V NEG PRS LGSPEC1
+h w ɛ V NEG PST+IMMED
+h w ɛ V NEG PST LGSPEC1
+h w ɛ V NFIN
+h w ɛ V PRF NEG PRS+IMMED
+h w ɛ V PRF NEG PRS LGSPEC1
+h w ɛ V PRF NEG PST+IMMED
+h w ɛ V PRF NEG PST LGSPEC1
+h w ɛ V PRF PRS+IMMED
+h w ɛ V PRF PRS LGSPEC1
+h w ɛ V PRF PST+IMMED
+h w ɛ V PRF PST LGSPEC1
+h w ɛ V PROG NEG PRS+IMMED
+h w ɛ V PROG NEG PRS LGSPEC1
+h w ɛ V PROG NEG PST+IMMED
+h w ɛ V PROG NEG PST LGSPEC1
+h w ɛ V PROG PRS+IMMED
+h w ɛ V PROG PRS LGSPEC1
+h w ɛ V PROG PST+IMMED
+h w ɛ V PROG PST LGSPEC1
+h w ɛ V PRS LGSPEC1
+h w ɛ V PST+IMMED
+h w ɛ V PST LGSPEC1
+h w ɛ V SBJV NEG PRS
+h w ɛ V SBJV PRS
+h u a V HAB+PRF NEG PRS
+h u a V HAB+PRF NEG PST
+h u a V HAB+PRF PRS
+h u a V HAB+PRF PST
+h u a V HAB+PROG NEG PRS
+h u a V HAB+PROG NEG PST
+h u a V HAB+PROG PRS
+h u a V HAB+PROG PST
+h u a V HAB FUT
+h u a V HAB NEG FUT
+h u a V HAB NEG PRS
+h u a V HAB NEG PST
+h u a V HAB PRS
+h u a V HAB PST
+h u a V IMP NEG PRS
+h u a V IMP PRS
+h u a V NEG PRS LGSPEC1
+h u a V NEG PST+IMMED
+h u a V NEG PST LGSPEC1
+h u a V NFIN
+h u a V PRF NEG PRS+IMMED
+h u a V PRF NEG PRS LGSPEC1
+h u a V PRF NEG PST+IMMED
+h u a V PRF NEG PST LGSPEC1
+h u a V PRF PRS+IMMED
+h u a V PRF PRS LGSPEC1
+h u a V PRF PST+IMMED
+h u a V PRF PST LGSPEC1
+h u a V PROG NEG PRS+IMMED
+h u a V PROG NEG PRS LGSPEC1
+h u a V PROG NEG PST+IMMED
+h u a V PROG NEG PST LGSPEC1
+h u a V PROG PRS+IMMED
+h u a V PROG PRS LGSPEC1
+h u a V PROG PST+IMMED
+h u a V PROG PST LGSPEC1
+h u a V PRS LGSPEC1
+h u a V PST+IMMED
+h u a V PST LGSPEC1
+h u a V SBJV NEG PRS
+h u a V SBJV PRS
+k ɔ _ t i e f i V HAB+PRF NEG PRS
+k ɔ _ t i e f i V HAB+PRF NEG PST
+k ɔ _ t i e f i V HAB+PRF PRS
+k ɔ _ t i e f i V HAB+PRF PST
+k ɔ _ t i e f i V HAB+PROG NEG PRS
+k ɔ _ t i e f i V HAB+PROG NEG PST
+k ɔ _ t i e f i V HAB+PROG PRS
+k ɔ _ t i e f i V HAB+PROG PST
+k ɔ _ t i e f i V HAB FUT
+k ɔ _ t i e f i V HAB NEG FUT
+k ɔ _ t i e f i V HAB NEG PRS
+k ɔ _ t i e f i V HAB NEG PST
+k ɔ _ t i e f i V HAB PRS
+k ɔ _ t i e f i V HAB PST
+k ɔ _ t i e f i V IMP NEG PRS
+k ɔ _ t i e f i V IMP PRS
+k ɔ _ t i e f i V NEG PRS LGSPEC1
+k ɔ _ t i e f i V NEG PST+IMMED
+k ɔ _ t i e f i V NEG PST LGSPEC1
+k ɔ _ t i e f i V NFIN
+k ɔ _ t i e f i V PRF NEG PRS+IMMED
+k ɔ _ t i e f i V PRF NEG PRS LGSPEC1
+k ɔ _ t i e f i V PRF NEG PST+IMMED
+k ɔ _ t i e f i V PRF NEG PST LGSPEC1
+k ɔ _ t i e f i V PRF PRS+IMMED
+k ɔ _ t i e f i V PRF PRS LGSPEC1
+k ɔ _ t i e f i V PRF PST+IMMED
+k ɔ _ t i e f i V PRF PST LGSPEC1
+k ɔ _ t i e f i V PROG NEG PRS+IMMED
+k ɔ _ t i e f i V PROG NEG PRS LGSPEC1
+k ɔ _ t i e f i V PROG NEG PST+IMMED
+k ɔ _ t i e f i V PROG NEG PST LGSPEC1
+k ɔ _ t i e f i V PROG PRS+IMMED
+k ɔ _ t i e f i V PROG PRS LGSPEC1
+k ɔ _ t i e f i V PROG PST+IMMED
+k ɔ _ t i e f i V PROG PST LGSPEC1
+k ɔ _ t i e f i V PRS LGSPEC1
+k ɔ _ t i e f i V PST+IMMED
+k ɔ _ t i e f i V PST LGSPEC1
+k ɔ _ t i e f i V SBJV NEG PRS
+k ɔ _ t i e f i V SBJV PRS
+y i _ a y ɛ w V HAB+PRF NEG PRS
+y i _ a y ɛ w V HAB+PRF NEG PST
+y i _ a y ɛ w V HAB+PRF PRS
+y i _ a y ɛ w V HAB+PRF PST
+y i _ a y ɛ w V HAB+PROG NEG PRS
+y i _ a y ɛ w V HAB+PROG NEG PST
+y i _ a y ɛ w V HAB+PROG PRS
+y i _ a y ɛ w V HAB+PROG PST
+y i _ a y ɛ w V HAB FUT
+y i _ a y ɛ w V HAB NEG FUT
+y i _ a y ɛ w V HAB NEG PRS
+y i _ a y ɛ w V HAB NEG PST
+y i _ a y ɛ w V HAB PRS
+y i _ a y ɛ w V HAB PST
+y i _ a y ɛ w V IMP NEG PRS
+y i _ a y ɛ w V IMP PRS
+y i _ a y ɛ w V NEG PRS LGSPEC1
+y i _ a y ɛ w V NEG PST+IMMED
+y i _ a y ɛ w V NEG PST LGSPEC1
+y i _ a y ɛ w V NFIN
+y i _ a y ɛ w V PRF NEG PRS+IMMED
+y i _ a y ɛ w V PRF NEG PRS LGSPEC1
+y i _ a y ɛ w V PRF NEG PST+IMMED
+y i _ a y ɛ w V PRF NEG PST LGSPEC1
+y i _ a y ɛ w V PRF PRS+IMMED
+y i _ a y ɛ w V PRF PRS LGSPEC1
+y i _ a y ɛ w V PRF PST+IMMED
+y i _ a y ɛ w V PRF PST LGSPEC1
+y i _ a y ɛ w V PROG NEG PRS+IMMED
+y i _ a y ɛ w V PROG NEG PRS LGSPEC1
+y i _ a y ɛ w V PROG NEG PST+IMMED
+y i _ a y ɛ w V PROG NEG PST LGSPEC1
+y i _ a y ɛ w V PROG PRS+IMMED
+y i _ a y ɛ w V PROG PRS LGSPEC1
+y i _ a y ɛ w V PROG PST+IMMED
+y i _ a y ɛ w V PROG PST LGSPEC1
+y i _ a y ɛ w V PRS LGSPEC1
+y i _ a y ɛ w V PST+IMMED
+y i _ a y ɛ w V PST LGSPEC1
+y i _ a y ɛ w V SBJV NEG PRS
+y i _ a y ɛ w V SBJV PRS
+n y a m V HAB+PRF NEG PRS
+n y a m V HAB+PRF NEG PST
+n y a m V HAB+PRF PRS
+n y a m V HAB+PRF PST
+n y a m V HAB+PROG NEG PRS
+n y a m V HAB+PROG NEG PST
+n y a m V HAB+PROG PRS
+n y a m V HAB+PROG PST
+n y a m V HAB FUT
+n y a m V HAB NEG FUT
+n y a m V HAB NEG PRS
+n y a m V HAB NEG PST
+n y a m V HAB PRS
+n y a m V HAB PST
+n y a m V IMP NEG PRS
+n y a m V IMP PRS
+n y a m V NEG PRS LGSPEC1
+n y a m V NEG PST+IMMED
+n y a m V NEG PST LGSPEC1
+n y a m V NFIN
+n y a m V PRF NEG PRS+IMMED
+n y a m V PRF NEG PRS LGSPEC1
+n y a m V PRF NEG PST+IMMED
+n y a m V PRF NEG PST LGSPEC1
+n y a m V PRF PRS+IMMED
+n y a m V PRF PRS LGSPEC1
+n y a m V PRF PST+IMMED
+n y a m V PRF PST LGSPEC1
+n y a m V PROG NEG PRS+IMMED
+n y a m V PROG NEG PRS LGSPEC1
+n y a m V PROG NEG PST+IMMED
+n y a m V PROG NEG PST LGSPEC1
+n y a m V PROG PRS+IMMED
+n y a m V PROG PRS LGSPEC1
+n y a m V PROG PST+IMMED
+n y a m V PROG PST LGSPEC1
+n y a m V PRS LGSPEC1
+n y a m V PST+IMMED
+n y a m V PST LGSPEC1
+n y a m V SBJV NEG PRS
+n y a m V SBJV PRS
+m e n e V HAB+PRF NEG PRS
+m e n e V HAB+PRF NEG PST
+m e n e V HAB+PRF PRS
+m e n e V HAB+PRF PST
+m e n e V HAB+PROG NEG PRS
+m e n e V HAB+PROG NEG PST
+m e n e V HAB+PROG PRS
+m e n e V HAB+PROG PST
+m e n e V HAB FUT
+m e n e V HAB NEG FUT
+m e n e V HAB NEG PRS
+m e n e V HAB NEG PST
+m e n e V HAB PRS
+m e n e V HAB PST
+m e n e V IMP NEG PRS
+m e n e V IMP PRS
+m e n e V NEG PRS LGSPEC1
+m e n e V NEG PST+IMMED
+m e n e V NEG PST LGSPEC1
+m e n e V NFIN
+m e n e V PRF NEG PRS+IMMED
+m e n e V PRF NEG PRS LGSPEC1
+m e n e V PRF NEG PST+IMMED
+m e n e V PRF NEG PST LGSPEC1
+m e n e V PRF PRS+IMMED
+m e n e V PRF PRS LGSPEC1
+m e n e V PRF PST+IMMED
+m e n e V PRF PST LGSPEC1
+m e n e V PROG NEG PRS+IMMED
+m e n e V PROG NEG PRS LGSPEC1
+m e n e V PROG NEG PST+IMMED
+m e n e V PROG NEG PST LGSPEC1
+m e n e V PROG PRS+IMMED
+m e n e V PROG PRS LGSPEC1
+m e n e V PROG PST+IMMED
+m e n e V PROG PST LGSPEC1
+m e n e V PRS LGSPEC1
+m e n e V PST+IMMED
+m e n e V PST LGSPEC1
+m e n e V SBJV NEG PRS
+m e n e V SBJV PRS
+n y i m V HAB+PRF NEG PRS
+n y i m V HAB+PRF NEG PST
+n y i m V HAB+PRF PRS
+n y i m V HAB+PRF PST
+n y i m V HAB+PROG NEG PRS
+n y i m V HAB+PROG NEG PST
+n y i m V HAB+PROG PRS
+n y i m V HAB+PROG PST
+n y i m V HAB FUT
+n y i m V HAB NEG FUT
+n y i m V HAB NEG PRS
+n y i m V HAB NEG PST
+n y i m V HAB PRS
+n y i m V HAB PST
+n y i m V IMP NEG PRS
+n y i m V IMP PRS
+n y i m V NEG PRS LGSPEC1
+n y i m V NEG PST+IMMED
+n y i m V NEG PST LGSPEC1
+n y i m V NFIN
+n y i m V PRF NEG PRS+IMMED
+n y i m V PRF NEG PRS LGSPEC1
+n y i m V PRF NEG PST+IMMED
+n y i m V PRF NEG PST LGSPEC1
+n y i m V PRF PRS+IMMED
+n y i m V PRF PRS LGSPEC1
+n y i m V PRF PST+IMMED
+n y i m V PRF PST LGSPEC1
+n y i m V PROG NEG PRS+IMMED
+n y i m V PROG NEG PRS LGSPEC1
+n y i m V PROG NEG PST+IMMED
+n y i m V PROG NEG PST LGSPEC1
+n y i m V PROG PRS+IMMED
+n y i m V PROG PRS LGSPEC1
+n y i m V PROG PST+IMMED
+n y i m V PROG PST LGSPEC1
+n y i m V PRS LGSPEC1
+n y i m V PST+IMMED
+n y i m V PST LGSPEC1
+n y i m V SBJV NEG PRS
+n y i m V SBJV PRS
+g u a r e V HAB+PRF NEG PRS
+g u a r e V HAB+PRF NEG PST
+g u a r e V HAB+PRF PRS
+g u a r e V HAB+PRF PST
+g u a r e V HAB+PROG NEG PRS
+g u a r e V HAB+PROG NEG PST
+g u a r e V HAB+PROG PRS
+g u a r e V HAB+PROG PST
+g u a r e V HAB FUT
+g u a r e V HAB NEG FUT
+g u a r e V HAB NEG PRS
+g u a r e V HAB NEG PST
+g u a r e V HAB PRS
+g u a r e V HAB PST
+g u a r e V IMP NEG PRS
+g u a r e V IMP PRS
+g u a r e V NEG PRS LGSPEC1
+g u a r e V NEG PST+IMMED
+g u a r e V NEG PST LGSPEC1
+g u a r e V NFIN
+g u a r e V PRF NEG PRS+IMMED
+g u a r e V PRF NEG PRS LGSPEC1
+g u a r e V PRF NEG PST+IMMED
+g u a r e V PRF NEG PST LGSPEC1
+g u a r e V PRF PRS+IMMED
+g u a r e V PRF PRS LGSPEC1
+g u a r e V PRF PST+IMMED
+g u a r e V PRF PST LGSPEC1
+g u a r e V PROG NEG PRS+IMMED
+g u a r e V PROG NEG PRS LGSPEC1
+g u a r e V PROG NEG PST+IMMED
+g u a r e V PROG NEG PST LGSPEC1
+g u a r e V PROG PRS+IMMED
+g u a r e V PROG PRS LGSPEC1
+g u a r e V PROG PST+IMMED
+g u a r e V PROG PST LGSPEC1
+g u a r e V PRS LGSPEC1
+g u a r e V PST+IMMED
+g u a r e V PST LGSPEC1
+g u a r e V SBJV NEG PRS
+g u a r e V SBJV PRS
+s o ɛ r V HAB+PRF NEG PRS
+s o ɛ r V HAB+PRF NEG PST
+s o ɛ r V HAB+PRF PRS
+s o ɛ r V HAB+PRF PST
+s o ɛ r V HAB+PROG NEG PRS
+s o ɛ r V HAB+PROG NEG PST
+s o ɛ r V HAB+PROG PRS
+s o ɛ r V HAB+PROG PST
+s o ɛ r V HAB FUT
+s o ɛ r V HAB NEG FUT
+s o ɛ r V HAB NEG PRS
+s o ɛ r V HAB NEG PST
+s o ɛ r V HAB PRS
+s o ɛ r V HAB PST
+s o ɛ r V IMP NEG PRS
+s o ɛ r V IMP PRS
+s o ɛ r V NEG PRS LGSPEC1
+s o ɛ r V NEG PST+IMMED
+s o ɛ r V NEG PST LGSPEC1
+s o ɛ r V NFIN
+s o ɛ r V PRF NEG PRS+IMMED
+s o ɛ r V PRF NEG PRS LGSPEC1
+s o ɛ r V PRF NEG PST+IMMED
+s o ɛ r V PRF NEG PST LGSPEC1
+s o ɛ r V PRF PRS+IMMED
+s o ɛ r V PRF PRS LGSPEC1
+s o ɛ r V PRF PST+IMMED
+s o ɛ r V PRF PST LGSPEC1
+s o ɛ r V PROG NEG PRS+IMMED
+s o ɛ r V PROG NEG PRS LGSPEC1
+s o ɛ r V PROG NEG PST+IMMED
+s o ɛ r V PROG NEG PST LGSPEC1
+s o ɛ r V PROG PRS+IMMED
+s o ɛ r V PROG PRS LGSPEC1
+s o ɛ r V PROG PST+IMMED
+s o ɛ r V PROG PST LGSPEC1
+s o ɛ r V PRS LGSPEC1
+s o ɛ r V PST+IMMED
+s o ɛ r V PST LGSPEC1
+s o ɛ r V SBJV NEG PRS
+s o ɛ r V SBJV PRS
+m a _ s o V HAB+PRF NEG PRS
+m a _ s o V HAB+PRF NEG PST
+m a _ s o V HAB+PRF PRS
+m a _ s o V HAB+PRF PST
+m a _ s o V HAB+PROG NEG PRS
+m a _ s o V HAB+PROG NEG PST
+m a _ s o V HAB+PROG PRS
+m a _ s o V HAB+PROG PST
+m a _ s o V HAB FUT
+m a _ s o V HAB NEG FUT
+m a _ s o V HAB NEG PRS
+m a _ s o V HAB NEG PST
+m a _ s o V HAB PRS
+m a _ s o V HAB PST
+m a _ s o V IMP NEG PRS
+m a _ s o V IMP PRS
+m a _ s o V NEG PRS LGSPEC1
+m a _ s o V NEG PST+IMMED
+m a _ s o V NEG PST LGSPEC1
+m a _ s o V NFIN
+m a _ s o V PRF NEG PRS+IMMED
+m a _ s o V PRF NEG PRS LGSPEC1
+m a _ s o V PRF NEG PST+IMMED
+m a _ s o V PRF NEG PST LGSPEC1
+m a _ s o V PRF PRS+IMMED
+m a _ s o V PRF PRS LGSPEC1
+m a _ s o V PRF PST+IMMED
+m a _ s o V PRF PST LGSPEC1
+m a _ s o V PROG NEG PRS+IMMED
+m a _ s o V PROG NEG PRS LGSPEC1
+m a _ s o V PROG NEG PST+IMMED
+m a _ s o V PROG NEG PST LGSPEC1
+m a _ s o V PROG PRS+IMMED
+m a _ s o V PROG PRS LGSPEC1
+m a _ s o V PROG PST+IMMED
+m a _ s o V PROG PST LGSPEC1
+m a _ s o V PRS LGSPEC1
+m a _ s o V PST+IMMED
+m a _ s o V PST LGSPEC1
+m a _ s o V SBJV NEG PRS
+m a _ s o V SBJV PRS
+a _ r f k ɔ k i COPY
+m m a e r e y w a n e COPY
+m f o e n a _ y _ t i e r e _ m p e COPY
+n t ɔ e COPY
+r e u m o w e m e n e e k ɔ a COPY
+ɛ t i e t i e i e f r COPY
+ɔ k a COPY
+ɔ n o e COPY
+b ɛ f ɔ t ɔ e a m u t ɔ n _ a n i n h u n COPY
+m a e COPY
+t u _ m b ɛ r i n t m COPY
+h y i a r e b b ɛ f COPY
+b ɛ k a m a s a k ɔ e COPY
+ɛ r e e t w b ɛ p r e f s u e COPY
+f e e a _ r g r e m n n h a COPY
+_ a n i r e k n h o o n k a e a _ a e COPY
+b ɛ k e _ m m e m b o COPY
+y i a a b o o u t u ɛ p e f o COPY
+i e e m b ɔ e t e w ɔ y i r r e t a COPY
+r e m f n n k t ɛ b ɔ w _ m m ɔ COPY
+a _ a r e n d COPY
+m m b f n n s o k ɔ b r m m k t COPY
+ɔ t i e COPY
+o b e m m n n d m e b o ɔ a _ r p COPY
+k ɔ k _ COPY
+_ a y a _ m m m k m y i e ɔ t w r k ɔ s w COPY
+m b ɔ w ɛ f r m m k h _ a y COPY
+ɛ w COPY
+. _ _ m m ɛ ɔ m e ɔ k ɔ t a _ n h y i n COPY
+_ w m m b k i n t _ a k w ɛ b o o COPY
+_ a t f n d a a d k ɔ t f s a COPY
+_ a h ɛ ɛ d a a r e b w u a e a p e w i e COPY
+b ɛ t n COPY
+k ɔ f a a _ n g COPY
+u o _ u o e e COPY
+a h u k ɔ n m n k ɔ ɔ COPY
+ɔ m e e COPY
+s u o _ a k s ɛ p ɛ e t ɔ n e ɔ f a COPY
+m k ɔ y ɔ w o COPY
+e r e w COPY
+a r m a e m k ɔ COPY
+_ r e w n n h i r e n t COPY
+ɔ s _ a k t _ a t a b o w a t o w COPY
+b ɛ y o _ m ɔ w e a _ r y COPY
+n n h ɛ a k n n t _ COPY
+e t o n k ɔ r r e m b s o w _ a t n COPY
+s u o m COPY
+n t a e n y e e COPY
+m e n e _ a d a COPY
+a n y m ɔ w i e e t a e n n y e ɔ b ɔ e COPY
+_ n k e b ɔ _ e ɔ n h w ɛ f o e e b ɛ i COPY
+e h o t a f ɔ w i e e y COPY
+e n n a t a e e b ɔ w COPY
+n k ɔ ɔ ɛ h o ɛ s u e COPY
+k ɔ h w i n a _ g k ɔ s n COPY
+n n s m m b _ COPY
+b ɛ p p COPY
+m m b k k a m e COPY
+a k e n k y r COPY
+e n y m ɔ b o ɔ a s a n t i ɔ w i r e k k COPY
+n n s ɛ d i e b ɛ y w ɔ s o ɔ n y COPY
+s e n n g a r o e k ɔ _ a y ɛ COPY
+m m b _ a k f b ɛ s m m k n COPY
+n k u r e k b e t w r ɛ m a e COPY
+e k ɔ a r e t a COPY
+u t u e _ a s COPY
+_ a k g _ a b t y i _ a n COPY
+e b ɛ o a m m a n d i COPY
+_ m m i COPY
+_ a n a _ k ɛ w i COPY
+n k ɔ ɛ a _ a a a n n ɔ COPY
+e y i ɛ b ɔ e r e t n COPY
+n s u _ _ a b k COPY
+e n e a d i o e e ɔ s o a d a ɛ n y COPY
+ɔ y e e e d a ɔ t o _ n s u e COPY
+u o _ _ w a e b ɛ k e ɔ b o ɔ COPY
+n a _ h COPY
+r e f w r e b e t ɔ o a k ɔ p e ɔ t e e COPY
+u o _ a m m u k ɔ b e n n k _ n k y ɔ t e e COPY
+e t w ɔ COPY
+u o _ u COPY
+_ a k y r e g a f i e b ɛ d _ COPY
+ɔ t ɔ r e n h _ n k e e r e w COPY
+_ n n u b ɛ b a y e r e COPY
+ɛ k y a a b ɛ o ɛ f a e a m e e COPY
+a y i a ɛ t a e n e ɔ y i e f r r e g a COPY
+r e n a COPY
+e ɛ w e b ɛ e n n o e COPY
+e w e n h u e e r ɛ n t f o w e COPY
+n n b ɛ m n m b ɛ i n n k w COPY
+a b ɛ i ɛ k y a COPY
+_ m u ɔ k e a a w e a _ n k ɔ e n e COPY
+r e b s m b ɔ a _ r w _ . COPY
+_ r e r ɔ b o e k y e ɛ COPY
+i r i e m b o e p e a _ s e COPY
+e b ɛ w ɔ p i ɔ p y a m COPY
+w e r w k e k k a e COPY
+h w e k ɔ r COPY
+_ a t r COPY
+n y a n n t r o e e ɔ s a e COPY
+a k ɔ e COPY
+b ɛ b r COPY
+a g a f o e s o k e k n n a COPY
+b ɔ w r e d a a _ r w m b ɔ e COPY
+m b ɛ e a t i COPY
+ɔ _ n e k e _ a b s a b o COPY
+ɛ t e a r e k s i e f e COPY
+k ɔ y e ɛ b u e ɛ t e ɛ d a a ɛ h u n COPY
+_ a d m ɔ k ɔ t ɔ _ a e e r e d _ u m e COPY
+n y i k y m m k p COPY
+_ m p f o w e _ r e m COPY
+h o ɛ e e n n k w d a o r o e b ɛ s e COPY
+e m e n g u ɛ b ɔ e ɔ s a _ a p a COPY
+d u a ɔ h w p i a e n a _ h r e ɛ COPY
+ɔ h _ a k p COPY
+n n t w n s u e COPY
+a w e k ɔ b e COPY
+e k s o e _ a b n r e b w a _ n w COPY
+n k o m m k s n n s n COPY
+m m f w k ɔ s ɛ n h w w e ɔ e a m u COPY
+t a y i m _ n n w COPY
+ɛ s o r _ r e e t a t w ɔ _ a f w COPY
+ɔ h w m b ɛ _ a p p COPY
+n o m _ a b g COPY
+i n n o m ɛ r r e f ɛ _ a t e COPY
+a k ɔ t ɔ h u n a k ɔ COPY
+m m m _ b ɛ m e m k ɔ r _ m u e COPY
+ɔ t ɔ n r e k h i a b ɛ w s m k ɔ o COPY
+r e t w b o a t u t e e b ɛ y COPY
+ɔ b u e e b o e w i _ a b h m m k COPY
+n t o _ ɔ f r e k a e _ a k _ COPY
+m f r e COPY
+a r r e m n COPY
+_ a b r n n t f COPY
+ɔ n o e h o COPY
+e f o g u a COPY
+r e d _ s u o m ɔ f r e a y ɛ COPY
+ɛ t e a r e h h _ m p e a t a e COPY
+_ m m a ɔ _ m a COPY
+h u m m a e n n w ɔ t e e e f i k ɔ w e COPY
+k ɔ t t _ a h i n k a e e m a COPY
+ɔ p ɛ m a _ a t t r e t n k ɔ r COPY
+ɛ b ɔ m r e k s m b ɔ e COPY
+a _ a i k ɔ d m a s a COPY
+ɛ h w e h y m k ɔ o COPY
+m k ɔ e n a e ɔ n ɛ h u _ a w w ɛ e COPY
+n a _ h m b ɛ o COPY
+m e e m m b p d u a COPY
+a _ r f a b ɔ COPY
+e p a e r e s w m m a _ a b p n n n a COPY
+e ɛ e t e COPY
+ɔ k e a s o m p i n d a COPY
+m p e b ɛ s n b o b n n k m n h o a n e COPY
+n n y w n w i b ɛ m . _ m COPY
+ɛ t ɔ e a n n i m m k k b ɔ w e ɛ r COPY
+r e g e f i y e w i _ a k ɔ y e u a n COPY
+r e b s e k a u ɔ _ m a e t u n _ a k h COPY
+i r e m m a n e u a r e COPY
+ɔ _ t ɔ d a e r e f a r e g ɔ t u u COPY
+e n n y a _ n h ɔ _ w w m m COPY
+k ɔ y w COPY
+e g u n h w b ɛ b r COPY
+k ɔ y COPY
+k ɔ b a s u o m COPY
+ɔ _ t w e ɛ _ a w e COPY
+y ɛ COPY
+a k ɔ a e n n o ɔ s i COPY
+a _ a e n n d a e p i ɛ d a y i s i w COPY
+_ n m m b w y i a e _ n b ɛ w e COPY
+w o e r e n n y i n e h o h r COPY
+ɛ p e a ɛ t w ɔ a f a _ n n y ɔ t ɔ COPY
+e m m a COPY
+_ a w e a b ɔ m n n t t COPY
+n e _ a s e r e k _ ɛ f r _ a b f o h o COPY
+a d u m a y a n o m _ r e n ɛ d u e COPY
+e w o o h y b ɛ n m COPY
+_ t i f ɔ k e a n n d _ a _ m a t ɔ m e COPY
+_ a b n ɔ h u ɛ d a ɛ d i e COPY
+ɔ t i a _ a r n n a r e y i a COPY
+k y e ɛ f o e r e h h COPY
+ɔ p i r e m b k ɔ w e ɛ f r COPY
+n y a _ a k k m m b s COPY
+r e k d u a n a _ a i _ m u e e b ɔ COPY
+ɛ g u r n k ɔ y a k ɔ r a _ n a d a a COPY
+m m b d n d k ɔ d a m b ɛ ɛ a r e COPY
+m m k f ɔ b u e COPY
+n e e n t ɔ n n k i s u o m COPY
+b ɛ y w b ɛ p e b ɛ w m m b w COPY
+a _ r s COPY
+t ɔ n COPY
+o e a k e COPY
+e m m o ɔ t u n n k m m m a s a b ɛ ɔ COPY
+m m a e ɔ t u n t e a COPY
+m a _ n b u e COPY
+b ɛ s o _ n n w k u e m m k k COPY
+k ɔ b b n n h COPY
+r e h a ɔ b ɔ a d i e n n w COPY
+a _ m f n t e _ a p a COPY
+_ a t a n n t w u e e a b ɛ a COPY
+y ɛ w ɔ t COPY
+u t u COPY
+m b ɛ o ɔ t w ɔ ɛ t i n d i e COPY
+a b u ɔ h w n n d a ɛ f o e COPY
+m a _ COPY
+i e e ɛ k y a COPY
+n a _ g COPY
+ɔ _ m n g b ɛ g r e h a ɔ y i COPY
+s u o n t a e _ n n a COPY
+m m b t COPY
+r e k i ɛ b ɔ COPY
+b ɛ h a m m b g COPY
+ɔ _ w r o e r e b y COPY
+r e k p a k ɔ ɛ COPY
+a b ɛ ɔ n n k g COPY
+_ a d t a f n n t r r e t t COPY
+ɔ b ɔ m ɔ y i a b ɔ _ p COPY
+e k ɔ u r e n m COPY
+f i _ n g a k ɔ g ɔ k u e ɔ b ɔ ɔ t i t COPY
+k ɔ k _ n n h i e k ɔ b o r a e a _ a w COPY
+ɛ d i e k ɔ n i n y a COPY
+n n s n _ a k n ɔ p i e COPY
+_ n n ɔ COPY
+b ɛ b b r e y _ a b h m m b g COPY
+a f o n n a m m b f e ɔ n e y i m n d i COPY
+ɔ d a a ɛ d a e COPY
+a m e y e m m k b b ɛ n a n k o e COPY
+a w o o COPY
+k y e ɛ n n k w a y ɛ COPY
+_ s a b o o COPY
+e b ɔ m n a _ f n h u e n g COPY
+e d a d i a n y m o b ɔ e COPY
+a s e ɔ b ɔ m COPY
+r e b ɔ k ɔ t _ . . m ɛ b ɔ e m b ɛ a COPY
+a _ n g _ s o e p e p e a b ɛ u COPY
+e ɔ g u t u t e r e k d e k y r COPY
+i w ɔ s u _ n s u _ b ɛ s _ a k w m m b f COPY
+ɛ y i a o m o w b ɛ s ɛ h y i a COPY
+a b ɛ y m m p a COPY
+e e r e COPY
+n k ɔ a m k ɔ w m f r t e n e m k h o h COPY
+_ a b b n n a n n s r e f a COPY
+h w ɛ e m m f w COPY
+ɛ w e ɛ k a e _ a b f a _ m f COPY
+o ɛ r e r ɛ e m m p p COPY
+b ɔ _ a ɔ p y i n m m p e n y i COPY
+m p o b ɔ _ a h h ɔ b ɔ m i r k ɔ d COPY
+t u r e w s m m b f k y e e COPY
+e k ɔ i i _ a n k a r e b r COPY
+a n y ɔ b o o a _ a i n n k w _ a k g COPY
+ɛ n y m e h k ɔ n a COPY
+a y e g u a e COPY
+e ɔ n e COPY
+ɔ b u e e e r k y f o w r e k t e g y e r COPY
+w e r b ɔ _ a ɔ y e e r e t w r e w s COPY
+n o m r e m b COPY
+b ɛ p p COPY
+a b ɛ ɛ _ n n y m e e e k ɔ r COPY
+n n k b a g _ a b k COPY
+t a f e b ɛ n t e w e t a e e m m ɔ COPY
+n h u n n y a ɔ k _ a d _ r e t e COPY
+r e b r COPY
+a b o m k ɔ u ɛ h o o ɛ r e COPY
+e t u u _ a g u a n e n d i r e s a p e COPY
+n k a e COPY
+o w e n d a a n s i _ m m u COPY
+_ a t w n w o e m p i e b ɛ n i ɛ h y COPY
+m m k w ɔ h y n e n n o k ɔ d m n t w ɔ COPY
+k ɔ p r e m p r e k d b o b w COPY
+_ s a h y n a n n ɔ i a e i _ a ɛ COPY
+ɛ f a e e n COPY
+a p i a h o o b o r COPY
+m a a n n COPY
+m m b a d u k o e _ a k f k y e ɛ COPY
+a _ m b COPY
+t ɔ n e e k ɔ i m f a e a k y r COPY
+b ɛ t a m m r e m m u i e ɔ h u _ a k p COPY
+a n n u a _ a i COPY
+_ a b n COPY
+e y i a f e a m ɛ t i COPY
+_ a p a y i e ɛ t i a n n n d a a COPY
+t u e e t i t ɛ s u _ COPY
+a d a a r e w e m m a COPY
+u o _ u f o w e a b ɛ u _ a b d COPY
+m m a m n n t _ COPY
+k ɔ k k COPY
+e n n a o ɛ r ɔ w i COPY
+ɔ n o e m p ɛ e b ɛ t _ r e n COPY
+ɔ s o r COPY
+_ a f COPY
+_ a b t _ a n i COPY
+ɛ m a s m f o e k ɔ k k i n t m COPY
+n y ɔ _ t e b ɛ t r f r a _ a u COPY
+o ɛ r a _ n s COPY
+ɛ p i e COPY
+n t ɔ e COPY
+ɔ y e n n k g COPY
+_ r e m ɔ g u b ɛ s w COPY
+a r e _ m u e ɛ e ɛ s a ɛ y i COPY
+e t w ɔ ɔ s r e t e e r e w COPY
+m u e p i a e _ n n a n s a b ɛ y w COPY
+e d m b o o a t w ɔ n k o b ɛ b a n n s COPY
+n n k _ a b r ɔ t e a ɔ g COPY
+a p ɛ k e k h o r e ɔ g u t u _ g COPY
+e t o _ m b ɔ i _ a _ a i COPY
+e n a ɛ k u COPY
+m m b _ r e m p i _ a e b ɔ m COPY
+ɛ t o _ m b ɛ a h w ɛ e n y e r e n g COPY
+u t u k a m _ r e ɔ COPY
+r e w e d r a e y i COPY
+r e s ɛ ɛ b ɔ e e ɛ w e n k ɔ r _ r e u COPY
+a _ r t m b ɛ e e b ɔ m n n g a COPY
+e m a r e b g r e k b _ a b g COPY
+a _ r d r e h h COPY
+u t u _ a d ɔ _ t e ɛ f a e k ɔ ɔ COPY
+ɛ s o r m m m y e w COPY
+i r n t w r n k u _ a b n ɔ s i a r e COPY
+n k u k ɔ k _ a s o COPY
+_ a n i t i m e _ a h i COPY
+ɔ _ n COPY
+f r a _ a s o e b ɛ ɛ COPY
+ɛ f r n n n y e e s a w COPY
+a m u e w ɛ e _ a d n t i ɔ p e COPY
+m k ɔ o e f i e COPY
+n t i COPY
+ɛ p a s u _ COPY
+a p ɛ m m f w COPY
+ɛ f r u e ɛ d u e COPY
+_ a t t b ɔ _ a e b ɛ b ɛ m COPY
+ɔ s i e f i n d a a r e w e COPY
+e w o ɔ t a e COPY
+ɛ m e e ɛ s o _ a k t COPY
+n n k s n t i e COPY
+_ m u e n n w e COPY
+m m b g m b ɛ u k a a n a m m a COPY
+m p e a e k i m _ a t e b o t o w . COPY
+ɛ t n w o e ɛ e e COPY
+ɔ p e a w i e COPY
+ɛ w o e n w o o m b ɛ ɛ p a e b o r e COPY
+n d u e ɛ p e a n n k w COPY
+y i a e o ɛ e b ɔ ɛ w o ɛ t e a b ɛ h COPY
+a t e t a r e COPY
+k ɔ s o e t a e b ɛ d m p ɛ e r e k ɔ s i COPY
+n t a COPY
+m e n e a n n a r e b f COPY
+ɔ k u e n n y COPY
+k ɔ t a n h w e COPY
+e t i t k ɔ p e a k y a b u e n n a COPY
+a s o r t i m m m a e ɔ _ m a COPY
+_ t i f m m e e COPY
+u m e COPY
+n h COPY
+n a _ y o w _ COPY
+b ɛ k ɛ f o e COPY
+i _ a e w o _ a n i w a w m m b f COPY
+. . _ u n k ɔ r e p i a m a e ɔ n e COPY
+e n y m ɔ h w a _ n s e h y n b ɛ s n COPY
+u e e COPY
+k ɔ f e ɔ g u COPY
+o e e y i a e n s i e e k ɔ o COPY
+b o e h y n ɔ b ɔ m k ɔ w s COPY
+ɛ s a w e k ɔ y _ COPY
+i e n w e a k e COPY
+n a _ w r o b ɛ h i a k COPY
+ɔ n o COPY
+_ . . b ɛ t t t o _ a b m m m f ɛ COPY
+ɛ n . . _ n k e n n d _ _ m m ɛ COPY
+y i n r e s n COPY
+r e b p _ a b n COPY
+n h _ a k k m k ɔ ɛ m m f ɛ _ n n y t e n COPY
+u t u COPY
+m b ɛ o n k ɔ i COPY
+s u o m i r i COPY
+b ɛ p k ɔ w e e t i t COPY
+ɔ t w ɔ b ɔ m ɛ f ɛ k e COPY
+n n h h b ɛ y w m f o e n t o m p ɛ e COPY
+r e m b n a _ n COPY
+k ɔ d m p ɛ ɛ b o _ m p e e k ɔ a COPY
+m b ɛ e m f COPY
+_ . . r e s o ɛ t u u f e e e COPY
+e n y b ɛ b _ COPY
+b ɛ f e e b o ɔ a _ s e n n a COPY
+a w o o ɛ s a COPY
+r e ɛ e k ɔ i n y a e COPY
+b ɛ s e k a m ɔ f o COPY
+k a e COPY
+p i a _ n n u a e COPY
+m m a s a e r e k g COPY
+e k ɔ _ r e n COPY
+ɛ b o ɔ r e y _ COPY
+r e b p COPY
+ɔ s o r n n h n d i COPY
+a s u _ m m a n a k a n n g a ɛ k n n d COPY
+ɛ g ɛ n o m k ɔ e k y i e e k ɔ w k u COPY
+w o s w COPY
+b ɛ f ɛ COPY
+n t i e _ a k e COPY
+s a w COPY
+m f s o w r e f ɛ COPY
+t a r a h y a m m ɛ _ a a k ɔ i COPY
+o w _ b ɛ n a COPY
+a _ r t a p i r e b d n n k e COPY
+t u t a n y n n k f m m k b a k ɔ w COPY
+m m k n r e y w a _ a u a k e a COPY
+ɛ d a a y s e e COPY
+k ɔ n i k ɔ w s COPY
+a _ r m m COPY
+n n a r a r COPY
+y ɛ _ n n i r e k p COPY
+a b ɔ ɛ y i n g _ m p r a e k y i COPY
+e n n y COPY
+n k ɔ t _ a h ɛ h y ɛ m a e ɔ t i ɛ h y n COPY
+t u t k a m e COPY
+n n h i n d i e ɔ w s u ɛ g COPY
+b ɛ f e _ a b a COPY
+t i m COPY
+a h w a n n a a b ɛ r ɛ t i e COPY
+k ɔ b _ n a _ k COPY
+e d i r e s ɛ b u ɔ p e ɔ t w e k ɔ t e COPY
+n d a e p _ a t n a _ r b _ a b s COPY
+m m k m p i w COPY
+e b ɛ ɔ a b o a e e n n t t COPY
+a k ɔ e ɔ w o r e h h e m m e k ɔ k k COPY
+ɛ t w a r n k ɔ t e b ɔ m COPY
+b ɛ n i COPY
+b o a e s u e COPY
+k ɔ n a y e r e COPY
+n e n n g a r e k COPY
+t e n b ɛ n a a t a e _ n n i COPY
+f r ɛ e ɔ t i e t u u n n o a s u _ COPY
+a _ r m COPY
+r e t e ɛ n y m COPY
+a b ɛ ɔ n k ɔ e n a e e t w ɔ COPY
+n n t r ɔ b u f i COPY
+n y n t u i n t COPY
+b ɛ s o n s o r ɛ b ɔ _ m u ɔ w e e r ɛ COPY
+_ r e a _ n n e ɛ p i COPY
+e b ɛ w k ɔ t t COPY
+p e p COPY
+e p e a COPY
+e b o n n t _ e h u n COPY
+ɔ d a e r e b ɔ w a n y m COPY
+n a _ w COPY
+e m m ɔ m b ɔ e ɔ h w e e b o ɔ COPY
+m b ɛ a n t u u COPY
+a _ r r e d a _ n n ɔ d a e a b ɛ i _ a ɛ COPY
+m m f ɛ COPY
+a p e COPY
+ɛ d i e COPY
+ɛ s i ɛ w o o COPY
+_ a m _ _ a m n n a m m p a o _ k ɔ p a COPY
+m p a p i COPY
+e k a n n t r n n k s COPY
+_ r e ɛ ɛ k ɔ t _ n n o k ɔ _ k ɔ n COPY
+r e p a m m f w ɛ y i COPY
+e f i r e b h m a _ o m m b d a n n u COPY
+a b ɔ w t o w o b ɔ ɛ h w e COPY
+r e e k ɔ d COPY
+s u o k e k n k ɔ ɛ b ɛ t m a o e e COPY
+r e b y COPY
+_ a m n e d i _ a t f ɔ t u n COPY
+y i r n k o e COPY
+e ɛ k a e r e n m m f u _ n u COPY
+ɛ p i e n o m e ɔ t w ɔ a _ a i COPY
+f o m m f w COPY
+a n n a k e a r e s n r e t t ɛ b m a COPY
+n n h a COPY
+ɔ b ɔ e COPY
+b ɛ t r s u o m k ɔ f a COPY
+k ɔ d n k ɔ t w _ o h o COPY
+_ a b r n y e COPY
+ɛ t e a COPY
+o e e e ɛ w w e r ɛ k ɔ e COPY
+s o w e ɔ w i k ɔ b e COPY
+ɛ m a s p i n d u ɛ r m m m n o h o COPY
+b ɛ n i . _ m s e ɔ p ɛ _ m m i n t a e COPY
+m m p p e n y m _ a n a b ɛ n i COPY
+a _ a t w a n w e _ n n b ɔ _ p COPY
+ɛ k y _ m m r ɔ _ t a _ n n _ a k y COPY
+d u m e a n n ɔ COPY
+r e m e k ɔ a COPY
+k y i _ a n m m m b d e m m u e b o o COPY
+e k ɔ r y e w a h o o m u COPY
+a h u ɛ t w ɔ a m e e ɛ k ɔ t r e g a COPY
+e t ɔ n COPY
+m f r e COPY
+ɛ t u b ɛ k _ COPY
+e t o r e k y n s a COPY
+ɔ h o a n n ɔ e b ɛ u COPY
+f r ɛ o h t w e ɛ ɛ k u COPY
+f i e f r ɛ d a a COPY
+r e k d a _ n h e t w ɔ COPY
+a f a m u e m k ɔ ɛ s o w p e p e COPY
+b ɛ n a m b u e o _ m e t w r COPY
+n a e _ a w COPY
+e k y r a b o o e COPY
+n n a _ m w i e n a _ t m k ɔ i k u e COPY
+a k ɔ n g u r b ɛ n a w o o n d u COPY
+m a _ o y i r a w e ɛ w i e COPY
+e s u _ a k m n k y a m m u COPY
+ɔ k e a a _ m ɔ g u i a e e t o COPY
+e t i t o w e _ a k k u _ n _ n n i COPY
+n o n s i u e e r e k e ɛ m e e COPY
+d a ɔ p e a b ɛ f a COPY
+e s u o m s a n n n k d y i a COPY
+n n t t COPY
+ɔ t a e COPY
+n y _ a b g COPY
+y e ɛ k COPY
+b ɛ s ɛ r e n k a a _ n n COPY
+r e b _ COPY
+n n g a k ɔ d COPY
+n w o e _ a b m ɔ b o ɔ a n n COPY
+e k a u e d i r e b s _ a d _ k ɔ b b COPY
+m b ɛ y COPY
+a t u u _ a s o ɔ d a COPY
+u t u e ɛ k u e k ɔ w s n n d a COPY
+n y e e a k e a a b _ r e COPY
+i a e b ɛ s w a n o ɛ k y r COPY
+_ a t t n a _ m COPY
+t u t d a e b ɔ n n s o e f r COPY
+n n k k u o COPY
+_ a y a b ɛ ɔ w a w ɛ m a e COPY
+ɔ f r COPY
+n n k p COPY
+_ a k y n n a n n y e n k ɔ r r e w s COPY
+n t e e a k y r r e b b COPY
+t i e i COPY
+a b o n o m e n a b ɛ u a k y _ a p p COPY
+n n y _ COPY
+k ɔ b _ COPY
+p i a COPY
+n g u n COPY
+b ɛ f COPY
+b ɛ s e COPY
+a _ r g r e ɛ i n a e b ɛ f COPY
+t e a f o _ a k w e k ɔ a m m e e ɛ h w e COPY
+e k y r e k n a _ r h e n y s o w e e w e COPY
+t a b ɛ d COPY
+n t a e u a e y e r ɛ k ɔ y _ a t w COPY
+ɛ n y m COPY
+k ɔ k e g u ɔ y i e COPY
+a t o ɛ s o r COPY
+o b ɔ e _ n n e COPY
+n k ɔ a COPY
+n t r e k y COPY
+r e b b _ a m _ COPY
+m k ɔ y e b ɔ m a m a _ n w COPY
+a s a n n k i i e e _ n k _ m m COPY
+k ɔ t e COPY
+u a n COPY
+n s o e k ɔ r COPY
+k ɔ f k ɔ s n s o ɛ n a _ w COPY
+k ɔ y e a h u e m m o COPY
+f r a e m b ɛ ɔ e k ɔ u COPY
+e r ɛ e m m k h y i _ b ɔ w e COPY
+_ r e r a _ n h i w e n n s o COPY
+e p _ a k m _ a b p w a COPY
+n y a n t e e k ɔ b e COPY
+o b ɔ e ɛ t ɔ m m b f b ɛ s ɛ e m m u COPY
+r e s b ɛ n i k ɔ p a k y i i COPY
+k ɔ _ m m b f a f e n w o e m k ɔ _ s COPY
+ɔ y n n h a COPY
+_ a a m m u COPY
+r e k b m m f COPY
+n n d a k COPY
+ɔ k e a _ a b g a _ r d COPY
+k ɔ b e h o r COPY
+ɛ g r e n m e s o ɛ f a e COPY
+a n e n n k _ b ɛ w s f r COPY
+t a r e ɔ s u e b ɛ w o ɛ r COPY
+ɛ t u ɔ t a e ɛ w e m e e ɔ n o e r e k e COPY
+r e k r e n n a b ɛ w b ɛ h ɛ COPY
+d a e o s p ɛ m m f e ɔ k y r COPY
+y i a e COPY
+e b u s o a b ɔ m COPY
+n k u b ɛ h i w e ɔ d a e COPY
+k ɔ b b COPY
+e h y n k ɔ f ɛ n n n COPY
+n n n i e n e m b o ɔ COPY
+a n n ɔ e k ɔ a e p a n k ɔ y COPY
+_ a p ɛ h w b ɛ d e COPY
+r e d a n w i a _ a a ɔ e r e m b o r o e COPY
+ɔ s u e e n y m p i e ɔ k e a ɔ d i e COPY
+e d i k ɔ b e ɔ k ɔ t h o r e COPY
+e h m m f a COPY
+a _ a COPY
+k ɔ s o _ a k i _ r e ɛ a k e a a t ɔ n COPY
+a n y m o w e t e COPY
+_ a k b COPY
+ɔ k y m m a s ɔ f r e COPY
+r e t w COPY
+u t u ɛ k ɔ t ɔ g u r _ t COPY
+r o e k ɔ t t y ɛ e n e _ m p e COPY
+i e f t e n e COPY
+_ a w e e f r ɛ k a e COPY
+m m b r COPY
+a m m ɛ w o s e b ɔ n t COPY
+r e t f _ a b ɛ w e r a e COPY
+a _ m p k ɔ s n b ɛ f a COPY
+a m m ɛ m f r e n t n k ɔ y k ɔ b a COPY
+n y i a r e _ m m a w _ . _ COPY
+t a r n d a o s COPY
+m k ɔ i m m b ɛ b e n a b ɛ n u _ COPY
+m m k d r e s m m p s u o m COPY
+_ n g a k u ɔ d a g u r n g u COPY
+w o _ s o e k ɔ h a ɛ p e ɔ b u COPY
+a _ a ɛ n k ɔ ɔ n n g COPY
+a f a k y i i m m b k n k u e ɛ n ɛ w e COPY
+a n o n k u a k ɔ a ɔ d u e t w e n COPY
+o s o e COPY
+m m a w e a k ɔ u a k ɔ n n t w r e p a COPY
+_ s o n h u n m a m k t u _ COPY
+t i e e m m ɛ a e COPY
+a _ a e m m m r e b t ɔ n ɛ k u r e k w COPY
+n n k m m m b w COPY
+k u a t w ɔ e b ɛ a k ɔ f ɛ COPY
+k ɔ m n n n s m k ɔ i e h u n n d _ COPY
+i a e COPY
+m b ɛ a m m f a COPY
+ɛ t i t m k ɔ r a y i a e b ɔ COPY
+e d u _ a d COPY
+_ a b m b ɛ y COPY
+ɔ t i e e h u i n t _ n n ɔ s o r y a COPY
+_ n ɛ k ɔ t ɛ h w s i w a b ɔ w COPY
+n n k d n w o r e k s m m k w _ n g COPY
+a n n a n n n COPY
+e k ɔ w u a n e e d a n n t a COPY
+h u a a b ɛ i a s o r a n e t ɔ _ k COPY
+a f _ a b d ɔ p e a b ɛ m e ɛ s i e COPY
+o w n a _ k COPY
+a b ɛ r ɛ t w s u o m _ w a COPY
+b ɛ t a e k y n n t w ɔ g u r ɛ d u COPY
+b ɛ p p k u e e p e a COPY
+b ɛ b r k ɔ t n e b ɛ a n n k b COPY
+_ a b ɔ _ w ɛ r e k ɔ g COPY
+ɛ f a e COPY
+m e n e _ a f a r e b t COPY
+k ɔ b a m m r ɔ p e a s a n e COPY
+b ɛ s ɛ k y i e u a e COPY
+m p a e ɛ t w ɔ s o e d a k ɔ n e t w ɔ COPY
+k ɔ k ɛ y i n n t a _ a o e k ɔ u COPY
+h u a e a n n w COPY
+n h w e p e p ɔ n o e COPY
+k ɔ k k n n k f COPY
+a s e _ t COPY
+e n n e e m m r _ a f w k ɔ m e b ɛ ɛ COPY
+s u o m a _ m k ɔ u i r i m e n e COPY
+a t i t y a m e k ɔ t COPY
+n h u e a m a s a _ a y ɛ t a e COPY
+r e b k m e n e e k ɔ e b ɛ b _ ɛ s a COPY
+m k ɔ r e k ɔ t e n e ɛ t e o e ɛ f g u COPY
+e m m o r e k d n n t w e COPY
+m p e y i n d a a e k a e k ɔ n n y _ COPY
+g u a e k ɔ _ a k w COPY
+_ s o s i u a r e COPY
+b ɛ t f COPY
+k ɔ b r m k ɔ y ɔ d a e t u a _ a a COPY
+e t o n s a _ a s o n k ɔ a s u o m COPY
+k o e ɛ b o ɔ n n s ɔ _ n o COPY
+a t w y i _ a _ a r e h u COPY
+i n a e COPY
+n k y a ɛ r a t o _ _ a b m COPY
+b ɛ h h _ a h i COPY
+s i w e _ a w s k ɔ m e m b ɛ i COPY
+y a m e n k a ɔ h u e r e y _ n t e e COPY
+k ɔ d m y i _ y ɛ h u e COPY
+k ɔ b e n n t t d i e k ɔ h ɔ f r e COPY
+h y i k ɔ t r _ a t w n n k m _ a g _ n g a COPY
+_ m m a f r ɛ e COPY
+a t ɔ ɔ s s o ɛ e m m f w COPY
+s o w t o a _ a y COPY
+_ a b k e s u _ k ɔ e COPY
+a b o o m f o e _ r e r e h s a w e COPY
+n a _ g m m k d e t o a _ r n n k COPY
+e b ɛ ɛ ɛ s COPY
+ɛ w m p e a COPY
+r e d m COPY
+r e d n y e e g u a _ a b d p a COPY
+k ɔ y e COPY
+n w i e o a _ m m ɛ w e ɔ COPY
+ɛ s a ɛ w o e COPY
+f a e p e p e m e n e m m k f COPY
+_ n n y ɔ y i t w b ɛ f e r e n k m m k d COPY
+e b ɛ u _ r e w k ɔ t n ɛ w e n n o COPY
+e y i ɛ e e r e k k ɔ d i e e b ɛ o COPY
+. . _ ɛ h y n COPY
+g u a COPY
+o _ m e _ a s ɛ n a _ n o m e COPY
+ɔ p e a _ a b n COPY
+m m k s ɛ m e w _ . _ a _ a u a n n u COPY
+n n h e s i COPY
+_ . . d a e _ a s w ɛ m a s COPY
+e r ɛ e . _ _ a b _ k ɔ t _ m m p p COPY
+y ɛ b ɛ k k COPY
+y e w a _ ɔ e e n t e e COPY
+r e t f e f a COPY
+d u a _ s k ɔ s e COPY
+y i _ y a t w r k ɔ h i y i n e a m COPY
+ɛ p m m k y k a e k ɔ p n n a COPY
+d a _ s e h u n COPY
+r e w s ɔ k y e t a e e p e COPY
+k ɔ t _ n a _ y _ m COPY
+t u _ d i y i n e s o w e COPY
+ɔ s o m p a e _ a k p ɛ s a COPY
+u e e _ a d m o s COPY
+r e g m p i e COPY
+k e k m u o _ u _ a b e m k ɔ ɛ COPY
+b ɛ d e COPY
+_ a f w m f r f r ɛ r e k m n w e COPY
+k ɔ t COPY
+t u _ e r t ɔ n e k ɔ m _ m r e b t COPY
+a y i t ɔ n e y i e e b ɛ a e t o _ t u _ COPY
+ɔ t e e _ a s w e f _ a s n s i COPY
+a b ɛ t w e n n n y m n t e a n y e COPY
+b ɔ e m k ɔ e _ n n o r e m p n n y e COPY
+k ɔ _ k ɔ k i ɛ s i a g COPY
+ɔ d a e a w e COPY
+d a y a m a k ɔ r e k e COPY
+a _ n a _ r k ɔ b u m e n e m m k t COPY
+ɔ e e b ɛ u n s u e n n h a COPY
+b ɛ s e COPY
+t ɔ n e r e h h COPY
+e p i e t u COPY
+n a e COPY
+a s u _ n n k e ɔ h COPY
+o _ COPY
+ɛ p ɛ _ n n e ɔ s u _ a k t COPY
+u o _ u h u a e a k y a u e o _ m COPY
+f i e COPY
+_ a n m ɔ n o COPY
+r e k i b ɛ k k COPY
+u e n n y w a s a ɔ t ɔ t ɔ _ k w o n n k i COPY
+_ r e r a b ɛ w COPY
+r e b g ɛ n y m y e r e o a COPY
+ɔ t w e k ɔ s w COPY
+w o e r e h i ɛ t e e COPY
+a k ɔ e COPY
+h u a e m m k w ɔ s u e _ a n i COPY
+n e e _ n k e d m b ɛ u n s a e COPY
+a d _ a k p _ a k p n o m a _ a i COPY
+r a e m m a m COPY
+e f a COPY
+d a _ _ a k t COPY
+e r m u e a f r COPY
+b u f o w _ m ɔ s i n n d s a ɔ n y m COPY
+a _ m p e k y r n s u _ COPY
+b o a e _ a d m COPY
+a b ɛ ɔ ɛ t u b ɔ w e n n k h COPY
+d u a ɛ y i e k ɔ b b a g _ a b g ɔ w i COPY
+e k y r m m b b b ɛ p a COPY
+n n t e r e k _ COPY
+n s a _ n t COPY
+a b ɛ y a r e ɔ _ _ a t a t o _ n n COPY
+m p a ɔ t e m e n t o w _ a k k COPY
+a t i u a n e a f e k ɔ g a k y COPY
+_ a s ɛ h o f i m a _ n r e t e COPY
+_ a k e ɔ h w e _ a n i COPY
+_ m m ɔ e k e m b ɛ ɔ COPY
+ɔ m e k ɔ f COPY
+ɛ d a ɛ h u n m p i k ɔ s e o w _ k y e COPY
+n a _ m e r ɛ e COPY
+m m p m e e e b ɛ f r a COPY
+b ɛ f w m m b h r e ɛ e _ a k e COPY
+_ a f w e w e COPY
+b ɛ s o m b ɛ a r e ɛ e b ɛ t t e k u COPY
+ɔ _ m a ɔ k a e ɛ p ɛ e k ɔ b _ COPY
+e r ɛ e COPY
+_ a b m COPY
+k ɔ k e COPY
+n e e COPY
+m m b w COPY
+a _ r n b o b w k y e ɛ COPY
+_ a y w a n k ɔ y _ y e r ɛ e m a s r e t COPY
+r e f a ɛ p ɛ e ɛ w e k ɔ p COPY
+k ɔ w e ɔ t u n e k y r COPY
+ɔ f r _ r e ɔ e k ɔ COPY
+k ɔ f _ s b ɛ k e a _ m b COPY
+_ m p r ɛ e t ɔ n ɛ s i r e s ɛ r e k w COPY
+ɛ d a e r ɛ COPY
+a _ n ɔ f r e i n t m COPY
+ɛ t e o s o e COPY
+k ɔ h _ a y _ m e n e COPY
+k ɔ d a k ɔ n a COPY
+e k ɔ r r e m r e b y COPY
+n o m m f o e n k o e COPY
+w _ _ a b f n k ɔ ɔ r e b b COPY
+e ɔ n k e a COPY
+a p e a _ n y ɔ _ m a a n y a p e r e d _ COPY
+ɔ f a a g u r ɔ t ɔ d a b o b w ɛ p i e COPY
+a t ɔ a b ɛ o b o b w m m b e y ɛ e e r COPY
+e b ɔ w ɔ b o o r e n a COPY
+n w i e _ a b d b ɔ w b ɛ n i t a f e COPY
+u o _ s o k ɔ n m u e e COPY
+ɔ s u _ f r a e COPY
+ɛ d a a e b ɛ e COPY
+_ r e i COPY
+k ɔ t t COPY
+m p e a m b ɔ e r e b r COPY
+r e f w COPY
+n t e h w a p COPY
+y ɛ w e f r a ɔ n e n w i COPY
+ɛ k u m k ɔ e ɛ m e e COPY
+s e e r e s a w e ɛ k y a a m m e f o COPY
+e m a t ɔ _ k p ɛ e r e k p e b ɛ ɔ COPY
+ɛ e ɛ n y m e b o COPY
+a b ɛ i m m f a COPY
+_ a g a ɔ n e _ s o m m f w u _ n e r COPY
+n y a e n w e h u u a n COPY
+. . m m p a p a a b o o a h y n b ɛ d COPY
+n d u e e n n w k a e m f a e COPY
+r e t w COPY
+a b ɔ m e t o _ COPY
+i m e n t w ɔ r ɛ e b o a o a COPY
+_ a t r e n d t ɔ _ k COPY
+b ɛ t n m m m COPY
+u t u ɔ f r e _ t COPY
+h w ɛ e s u ɔ p i e ɔ w i r e g a COPY
+ɔ s u e n w o o n n y _ r e b e COPY
+n n w n n k _ a b ɛ ɔ ɔ _ w w r e f w COPY
+a f e s a n COPY
+ɔ s u e a g m p i e n n w o w _ . r e d _ COPY
+r e k y r e t t f o COPY
+b ɛ y r e b e h o r e r e k h COPY
+m k ɔ a a k ɔ ɛ COPY
+e n o _ a g a o s o i _ a ɛ COPY
+k ɔ g ɔ d i ɛ w o e _ a k k _ r e w COPY
+ɛ t w e b ɛ p i u o _ u COPY
+ɛ f r e e k ɔ t a m m f r e COPY
+a b ɛ u ɔ w o o e r e w COPY
+_ a k g r e f ɛ ɔ t i k ɔ h ɛ COPY
+n n s o ɛ w ɔ _ w COPY
+n n o p ɛ n n d e ɛ d a k ɔ s e o _ COPY
+o m s u COPY
+a b ɛ ɔ m k ɔ a e r _ a b m w e e a n o COPY
+ɔ h u n e r ɛ _ a b h ɛ m a n y m COPY
+i e e ɛ b ɔ w b ɛ b a ɛ n y m e p e a COPY
+n h o o COPY
+a k ɔ o COPY
+a _ a u COPY
+t ɔ n e COPY
+i a b ɛ s e _ n n o a b ɛ i COPY
+ɔ m e e ɛ t w e d a e n a _ b COPY
+k ɔ t f _ r e _ a k COPY
+n a _ n COPY
+o a e e b o k ɔ m e y a m e a _ m w _ . COPY
+n w e a _ a y n n o e a _ m b COPY
+n a _ k u a r e ɛ g u r n k ɔ y COPY
+n a _ w COPY
+n k ɔ o _ n g a _ a ɔ COPY
+e m m ɔ n w e _ a w e n t e m m k k COPY
+e r ɛ n o m a _ n h m f a e k ɔ h ɛ COPY
+n a _ g t o w b ɔ _ a e s a COPY
+ɔ t ɔ w _ . _ h y i ɛ h y r e d a COPY
+k ɔ s a b ɛ w n k y r _ a b n _ a b r COPY
+_ s o e ɛ w o o k ɔ k e b ɛ n a COPY
+t w e n ɔ b o r e n s k ɔ m _ ɛ h y n COPY
+k ɔ d m e t a e i r i a k e COPY
+_ a t n ɛ t e e a f e r r ɛ n y a _ . COPY
+h y i m m b e b ɔ _ p k ɔ s n COPY
+e h w i n ɔ h u m m e m b ɛ n n d a COPY
+n k y a a m m o COPY
+n e e n k ɔ e COPY
+ɛ e e _ a k _ d u m s a n e e t ɔ COPY
+n n w e COPY
+r e d m COPY
+n s i n e ɔ k e a ɔ h w e t u _ m m e COPY
+t e n e ɔ b o h ɔ _ n o COPY
+ɔ w m m a m n h u n _ a k b COPY
+y ɛ ɔ s o r _ m m a _ a b s u a n e m COPY
+e b ɛ w d u r e y _ . . m COPY
+r e n s y i n e t a f n n s w COPY
+m k ɔ i ɔ m a e k ɔ t u t e COPY
+ɔ d a a r e k t COPY
+a _ n s b ɛ s o t o _ a s ɛ m a e COPY
+_ n n ɔ a e e COPY
+a k ɔ r n a e COPY
+u a n e _ a t _ o r a k e n s a e COPY
+_ a p d u a e y i n s e n n a a b ɛ a COPY
+ɛ t w r e b m y i a h o h a _ n h COPY
+n k ɔ n k a w _ . n w o COPY
+ɔ p e COPY
+m m k y e ɛ w e m m b g ɛ m e e e b ɛ o COPY
+a _ n k COPY
+d i e ɛ y k a m e e m m a COPY
+n o m n n w e k ɔ h a ɔ b u e m m b e COPY
+n k y a _ a h a b ɛ n a m m k b a m m i COPY
+ɔ s a e n n k n y i m COPY
+t e w e ɛ d COPY
+a t u u COPY
+r e b y ɔ t e a ɔ w o a w i COPY
+b ɛ t e COPY
+m m f w _ a g a _ n y _ a n b ɛ n i COPY
+b ɛ t e ɔ f n n k k m m b m COPY
+a m u r e b g w a w e o w ɔ h o o COPY
+m k ɔ r o _ k ɔ _ m b u t w a COPY
+ɛ s ɛ b o ɔ m m k m n w e e f i e COPY
+ɔ p ɛ ɛ h u e r e b w COPY
+_ a b g b ɛ m _ m m b k a f o COPY
+_ a m n ɔ h w e e n a COPY
+ɔ f o COPY
+n n t w i _ n o m e e e e m m ɔ k y a COPY
+ɛ h ɛ r e n t o e n n a s o COPY
+_ a w e COPY
+ɛ b ɔ m f r ɛ _ a t _ f e ɛ k e a COPY
+i n k ɔ b a t ɔ n e a m m r COPY
+ɔ e e ɛ w i e b ɛ f COPY
+n y e k e COPY
+ɔ p i e ɛ t i t g u a n a _ b n t i t COPY
+ɔ w o e m m b p _ a k n COPY
+ɔ p r ɛ COPY
+a t u n k ɔ s n COPY
+k ɔ t r n t i w a n t w r e n n w COPY
+i n e k ɔ k ɔ d n n s o COPY
+n n k s _ a k m COPY
+m p i e k ɔ t w _ a k d e m a s COPY
+o ɛ n k ɔ ɔ s u e ɛ d u e COPY
+o b ɔ COPY
+e ɔ n e a k ɔ u n h y COPY
+a b ɛ ɔ COPY
+_ a k s COPY
+n n y w n n s ɛ r e h h n n o b ɛ b _ COPY
+b ɛ k k e m m ɛ b ɔ _ _ r e ɔ COPY
+m b ɛ a n n k e COPY
+e g u r COPY
+m m p k ɔ d _ ɛ h u n e n n a t u _ g COPY
+a t e k ɔ s n COPY
+b ɛ t f a s i e p a COPY
+m b o ɔ e m m i m m k s e t ɔ n b ɛ n a COPY
+t o n t i e a f e h u ɛ p i e w ɔ s o r COPY
+ɛ p ɛ n n k w r e y m a e m m e e COPY
+t e n e r e b s m m f a m m a m r e w e COPY
+n t i ɔ k s a m p k ɔ f w m p ɛ COPY
+ɔ h u k y e ɛ ɔ p ɛ w a w b ɛ p COPY
+n n h ɛ a _ n h ɔ _ w w COPY
+u o _ n n y m COPY
+n t w ɔ o h o o t ɔ n r e k w n n a m COPY
+e f a t w a e e n n i COPY
+_ a h h a y ɛ y i _ a t t COPY
+n k ɔ o n k ɔ r e h i COPY
+e h w d a e ɔ m e e y e w e k ɔ h a m m k n COPY
+n h e t ɔ n ɔ y e e COPY
+e s o r b ɛ k i e s o r m m b f COPY
+ɛ s a a _ m b a t COPY
+ɛ k a e _ a d f r n s o r COPY
+r e p a n d a a m u e k y e e COPY
+ɔ k u e e t w ɔ o h o COPY
+m b o ɔ r e b w ɔ n y m k ɔ t f COPY
+e w i ɔ b o o n t ɔ m m m _ COPY
+ɔ p e a e m a s r e h h _ a t n i w COPY
+_ a b m p i a e r ɛ e n n u a _ m b COPY
+n y a e COPY
+ɛ d u n e i n a COPY
+_ r e a ɔ w i e p e ɔ h w ɔ f r e COPY
+p a e a p e a n n k d r e b ɔ g u r COPY
+n t u n e b ɛ r e k n COPY
+o b ɔ e r ɛ w e e h b ɛ p a _ a b w COPY
+s i s o w e t a r r e g a ɔ f r e b o ɔ COPY
+ɔ d u e a e e k o a b u COPY
+ɛ k ɔ e w e r w ɛ y i COPY
+m a _ _ n g n n k m COPY
+k ɔ n i n n d m ɛ w r e g a n n a a COPY
+m m f w ɔ f u t COPY
+n d i a n n u n n h ɛ COPY
+. _ r e n a m k ɔ y r e s ɛ COPY
+a _ a ɔ b ɛ b a t i t g u a COPY
+n n t f a h u e b o o r e ɛ f e e e COPY
+ɛ t u u n n d m _ a k s n h o o COPY
+_ a f ɛ m f a a t u u COPY
+a t u n _ a y _ COPY
+m b o e d a f r e h o m b ɛ i e d a COPY
+b ɛ p a n t w r m m a m COPY
+n a _ d b ɛ k e m k ɔ i COPY
+w i e _ n n ɔ e n n y n o m r e s w COPY
+b ɛ t ɔ t u n COPY
+d u m y a m e n n h ɔ n e _ a t f COPY
+a _ n a _ d COPY
+n n y _ ɛ w i e s a m m b y COPY
+r e t t COPY
+r e b k COPY
+b ɛ t a a b ɛ e b o r e COPY
+ɛ t a e e w o o ɔ p e a COPY
+ɛ b o ɔ n n o ɔ y n n t t ɛ t e a COPY
+k ɔ n m COPY
+o e e a _ n y k u a s o e w o o COPY
+n n k n COPY
+r e t n n n n i ɔ k ɔ t ɔ n n k b COPY
+n y a n w o o e k y r COPY
+a h u n a y k ɔ y e a m u e COPY
+. . _ u _ r e m a k ɔ ɔ COPY
+m a e COPY
+ɔ n o ɛ b o ɔ a m a n g u h y COPY
+e k y a _ n n u b u e u o _ u COPY
+y i r k a e w e r w ɔ n y i e e COPY
+e m e e a f a r e h i COPY
+a m m r e s ɛ f r e COPY
+a _ m m m u e _ r e ɔ t o _ COPY
+t u e t u u a s u _ COPY
+e ɛ w e r e r w e ɔ COPY
+_ m u a k ɔ e _ a h a a t o ɛ k a n n d m COPY
+m b ɛ e n o h _ a b g ɛ d a e COPY
+r e m m e b ɔ m u e COPY
+n k e e g r e y _ COPY
+ɛ d a e COPY
+t u t e k ɔ e COPY
+n d u m k ɔ ɔ t i m r e k e m b ɛ y COPY
+k ɔ m _ e b ɛ ɛ COPY
+k ɔ h i a b ɛ i ɔ k ɔ COPY
+a t i n t ɔ e n s u r e t _ COPY
+_ a p a g m m f a p e p COPY
+n d i t ɔ n e a t w ɔ COPY
+t i e COPY
+_ m m a _ m m a ɔ h o o m k ɔ ɔ ɛ b COPY
+a n n w b ɛ h a e w e m f a m p a e COPY
+n n k n COPY
+e k e a a t w ɔ COPY
+k ɔ f ɛ ɛ m a e b ɛ f w ɔ b COPY
+b ɛ t t e b ɛ y COPY
+n h u m m k n k ɔ n a m m a m COPY
+ɛ w m b ɔ e a m u _ m m i e k ɔ r COPY
+n t e a n t i COPY
+k ɔ k a s o r _ a ɔ b o ɔ COPY
+n k u _ m m r e n y m a b ɛ w _ a h COPY
+a h y n _ m m ɛ b ɔ COPY
+a y ɛ e r e n i ɔ h u n ɛ w o o e d n o COPY
+ɔ t w ɔ t u u a _ a i COPY
+y i n e n h o COPY
+a m k ɔ d e n g u r COPY
+ɔ y e e ɔ f o e COPY
+ɔ k y p i a e COPY
+t w e d a n a m b ɔ e COPY
+a k y a COPY
+ɛ r ɔ y e e a n n a COPY
+i w e w e ɔ COPY
+_ a y ɛ d a COPY
+k ɔ d . _ m e COPY
+ɔ k e a COPY
+a _ a u y a m e ɔ t w k u m m k t t u e COPY
+m k ɔ i _ n n y b ɛ f ɛ ɔ m ɛ t e a t u t COPY
+y e r e r e n m COPY
+r e f w ɛ t w ɛ k y r w e COPY
+a _ r g k o e k u a _ n k _ t COPY
+o w _ . COPY
+r e k w n t o ɔ s i e e p ɛ ɛ k a e COPY
+n n k s b ɛ w s n n k h m m k n COPY
+_ n n o _ a t m m b y n n k b m m f a COPY
+ɛ t o _ n n y e COPY
+ɛ s a i e e m m m a p e a COPY
+ɛ k y p i ɛ p i e COPY
+b ɛ y w e w i e k u r e y _ COPY
+a k u a k ɔ w a m a COPY
+i m e e n n u s o w e COPY
+n a _ e o _ m e a y ɛ o s o _ a t r COPY
+n n d m k ɔ k COPY
+ɔ b e n COPY
+a b o COPY
+_ a t f b ɛ k i ɛ e e ɔ w i e _ a n a COPY
+e n n w n a _ b n t w ɔ ɛ m e e COPY
+b ɛ h ɛ _ a m _ h y _ a k w o b b ɛ n i COPY
+r e k b COPY
+i r e p a _ m f n o m e e ɔ n _ a h h COPY
+ɔ b n n w s s i w e m p i e m k ɔ r COPY
+ɔ d ɛ w COPY
+m k ɔ ɔ s o w e ɔ b u o ɛ b ɛ s ɛ COPY
+_ s o e ɔ _ t n n d m COPY
+r e d o ɛ m m k p COPY
+e t w o w e _ a t e _ n n o COPY
+_ a b k ɛ w i m m b m k ɔ r m m b k COPY
+r e e COPY
+a _ n w b ɛ k _ w a w e COPY
+e m m u ɔ g _ a b y COPY
+k ɔ n i m p ɛ k a e _ a m _ k y COPY
+n n t b ɛ f e COPY
+a _ m f e k y a m p a n k e a COPY
+e k a e g u r COPY
+t i n i COPY
+a _ n g r e k e COPY
+s u m m k s n k ɔ e m e n e COPY
+p e r e h ɛ m b ɔ e a e e m f o e COPY
+_ a d n k ɔ ɛ r e n w COPY
+ɔ f r e ɛ COPY
+n n r e h a o m COPY
+e e r COPY
+m f a e r e b h n h o e g u ɛ p ɛ e COPY
+n g COPY
+k ɔ k e _ t i f a k y a _ a y _ COPY
+m m e ɔ _ n n n w s n a _ d COPY
+m m a m n t w ɔ _ a m COPY
+k u m m b e r e n a _ m m u e n n e COPY
+n n k ɛ y i e k ɔ u ɛ g n n k b e s COPY
+r e b _ ɛ f a e y i m e b o a e s o e COPY
+h u a e b ɛ t e COPY
+d i e a b ɛ u a p n h u COPY
+a f e ɛ k e a COPY
+e n n ɔ n n k s m m k s COPY
+a k a n n s COPY
+e m m u COPY
+k ɔ f t w e n a h ɔ s i e h f r ɛ COPY
+a k e a ɔ b o e e k ɔ u a k y COPY
+r e f t ɔ n e ɛ m e e ɛ h w b ɛ t n COPY
+_ m m e COPY
+m m k s COPY
+n k ɔ u COPY
+a n n o r e b y ɔ b ɔ m b o a e COPY
+ɔ n o a m m r a _ a r n n t w COPY
+a _ n k a h y n n y _ COPY
+k y e ɛ _ . . m COPY
+ɛ y e w ɛ e ɛ r e r e b b COPY
+b ɛ t f _ a f w COPY
+ɔ b o e e k e a ɔ w _ m m a ɛ b o r e k e COPY
+m k ɔ a a b ɛ i COPY
+a _ r n m m f e COPY
+ɛ d i e b ɛ g e m m u _ m m a a t o COPY
+t i ɔ n y COPY
+b ɛ t f f r ɛ m a ɛ h w e COPY
+w _ . _ e t u n a n ɔ p ɛ e COPY
+m m a n COPY
+k ɔ k e ɛ g u r ɔ d u e b ɛ h i COPY
+n n k g m b COPY
+_ a t n COPY
+a y e _ a k d ɔ t u u COPY
+e m e e t a r COPY
+ɔ m a y ɛ w n k ɔ y a d i n d a m m o COPY
+e e r y i _ y COPY
+r e b k e t o _ COPY
+t a f e m m b k ɛ n o s a n e k ɔ d _ COPY
+e p a COPY
+ɔ d a e a s o ɔ f a e ɔ k y r a _ n w COPY
+a b ɛ u ɔ s i ɔ d r e d a b ɛ s o COPY
+a b ɛ ɛ n t b ɛ p p m p ɛ e t u COPY
+r e n d _ n k e k u e t o _ ɛ r n k a e COPY
+n t i COPY
+r e k g r e b a s o ɛ COPY
+ɔ n o e a y e a w o _ . . a k ɔ k e k m COPY
+m b ɛ COPY
+_ a n a m m o r ɛ w e n n a ɔ y e d a a COPY
+_ r e y COPY
+e k ɔ a b ɛ t n a _ r a _ r g a _ n e r e COPY
+ɔ t i t ɔ k e a n k ɔ u COPY
+ɔ y e b u COPY
+ɔ b u a p i a y i a ɛ h w a p ɛ COPY
+p e n t u u t w r e n t ɛ h u n COPY
+_ a s w _ a k g COPY
+k y COPY
+b o r t w e ɛ COPY
+m k ɔ r ɔ b ɔ e COPY
+k ɔ h h COPY
+ɔ s a e k ɔ p p m m f ɛ e d s e ɔ t w e COPY
+k y i e ɔ d a w o ɛ k a e k ɔ f COPY
+ɛ k u e k a m r e h a r e n s n n t f COPY
+e d i COPY
+ɛ s i e k ɔ w s a n e COPY
+ɛ y m m e e a d COPY
+e t w a t ɔ ɔ n y COPY
+ɔ k y r g u a e a m m i e t i COPY
+_ r e a m u r e p COPY
+i n a a g r e s ɔ f a COPY
+ɛ p i e p a COPY
+r e m m p a e ɔ w e e k u k ɔ s COPY
+ɔ m a s m m b m COPY
+a s e e t e ɔ h y n i e f e COPY
+p i a t i t COPY
+m m b w m b u e COPY
+. . m m m n k ɔ y e COPY
+e k ɔ o n d t o w . m p e a m m p e COPY
+b ɛ d a COPY
+b ɛ h h ɔ y e r e s w ɔ p a w i COPY
+n n h i a f n n y _ r e n g _ n n ɔ COPY
+ɛ h b o n n w e _ a k g ɛ d a a COPY
+t ɔ _ k ɔ b e ɛ t w r e b h u e e COPY
+n n k g _ r e m ɛ f ɛ t i COPY
+a _ r p r e d a n n o e k ɔ w e a f r COPY
+ɔ _ m a k ɔ a COPY
+i _ ɔ s u _ r e s w COPY
+m k ɔ e _ a t n n n n m r e t _ COPY
+a k ɔ s a n e COPY
+e k ɔ r a k y ɛ d e w e n g u r COPY
+m e e COPY
+p ɛ k ɔ d _ COPY
+n t u t o w . _ a b _ COPY
+t u t n s u a e _ r e m h w ɛ e COPY
+m m b s s a w COPY
+r e d _ u e e _ a b a t o n a e ɛ n o e COPY
+n a _ b ɛ f a t i n e y e COPY
+t ɔ _ g u r e t k ɔ p p _ . COPY
+n n d m n n d e n o m COPY
+b ɛ d _ r e r k a m n t a e COPY
+ɛ y i e ɛ w COPY
+e t w r ɔ b ɔ w e r e w COPY
+a s u b ɛ t r a k ɔ ɔ COPY
+y i _ y r e b w a _ r f a m u e _ a w COPY
+n n a n d u a a b ɛ i r e d a ɔ _ n o COPY
+b ɛ b e w a e COPY
+ɛ w COPY
+_ m m e COPY
+n k e h y a h u COPY
+ɔ n y m k ɔ d m _ a f a w e ɔ COPY
+a f e COPY
+ɔ b ɔ w m k ɔ o b ɛ h a t a f n t o _ COPY
+w i t a f e COPY
+ɔ p ɛ m m e e s i w e e b ɛ y ɔ h o o COPY
+o r o a e ɔ w COPY
+t u m m e e m m e _ m u e u a e COPY
+_ n n ɔ e b ɛ r COPY
+k ɔ h h y i _ . . m t ɔ COPY
+n t u n t w a _ a m COPY
+ɔ h o k ɔ t w COPY
+e ɛ k ɔ g a o s o e m m p p k ɔ t _ COPY
+ɔ s u e y e w e m b ɛ u _ r e y n y i a COPY
+ɔ t i e ɔ m a e COPY
+a n n e m m p e COPY
+n n k h a _ n f r a COPY
+k ɔ f w _ a y e n n w e k a ɛ d i e COPY
+k a e ɔ h w n n g a ɔ b u e _ a k g COPY
+_ a y w e b ɛ ɛ _ n n o n s u e COPY
+ɔ b o ɔ n t a e COPY
+e y i a m p ɛ _ r e i COPY
+a f r m b o e n n k m COPY
+k ɔ k e COPY
+n n y m b ɛ w s ɔ t w e COPY
+m m k g k ɔ m e n n n k e a m m a COPY
+n n w a b ɛ i COPY
+n t u ɔ y e e e d i n y i a COPY
+o h o o COPY
+n h y a h y n COPY
+_ a h h n s u m m f a k ɔ d _ a b o ɔ COPY
+a e r e n n a s a a m u COPY
+e p e _ a b y COPY
+r e n h n a _ w _ n k e r e k _ COPY
+k ɔ b r e n a k y e y i n a _ a i _ a w s COPY
+r e n y n e e k o e COPY
+a _ r k y i e COPY
+y e r ɛ COPY
+a b ɛ ɛ s u e e k ɔ e COPY
+_ t a t u n a _ s i n d u a m b o o COPY
+t o w ɛ s i k ɔ s n e k e COPY
+ɔ k o s ɛ b o _ n n w COPY
+e m e e ɛ g a h y n ɛ w o o ɔ s u _ COPY
+e k ɔ ɛ m b ɛ u n w o o COPY
+n w o ɔ n o ɔ d i COPY
+r e g ɔ d i e COPY
+m f o e _ a b h a n o r e n g COPY
+w e e e e r e COPY
+r e n s a _ r b e n a e COPY
+n d u ɔ p e COPY
+r e m _ p ɛ i m e k ɔ t _ COPY
+n n t t _ r e i COPY
+a t a _ n n e ɛ f o e m m k b COPY
+n s i m m k s _ a b m a b ɛ e m m k t COPY
+b ɛ k i r e b k e t o _ n n o _ a y COPY
+_ m m ɛ _ a b t COPY
+a _ n r e d _ a k ɔ w COPY
+e w i _ w r e w COPY
+n y i k ɔ h h _ a k y COPY
+y e r k a m r e k i k ɔ p p COPY
+u a e k ɔ y a n e r e b t ɔ d i COPY
+e b ɛ u ɛ n y _ n n ɔ ɔ b u e ɛ d a COPY
+s a w m m b p COPY
+_ a k w ɛ w e k ɔ k k r e n i COPY
+_ a h m m k f _ n n i COPY
+y a m n n k d m m k h COPY
+a _ n n r e ɛ e ɔ t u u ɛ p ɛ e COPY
+n n y w _ r e u ɔ n y COPY
+e s u m m k COPY
+e s i o _ e n n w COPY
+a _ r k t e w e k ɔ n a r a e r e p p COPY
+e k u a t ɔ n r e s ɛ ɔ s a COPY
+ɔ s o r m p ɛ a n n y COPY
+b ɛ k e n n k s a t ɔ n e n y m COPY
+a _ r k b ɛ d e n k ɔ d u i r . _ m e COPY
+a w e m e u o _ w o s w COPY
+e n n ɔ e b ɔ m ɛ p i COPY
+o ɛ r k ɔ t e b ɛ y r e w e f r _ a d a COPY
+b ɛ m n ɛ h w e o w _ m p i e COPY
+a n o n o m a _ s e COPY
+ɔ k e m e e a y i a r e t e COPY
+ɔ t u e r e w COPY
+m e n o _ _ m p m a _ o a m m a COPY
+s i w e _ a p a COPY
+ɔ s s e e n a _ h COPY
+ɔ k y a u a n e COPY
+u _ n COPY
+_ n a k ɔ r i e f e e n n o COPY
+r e b n COPY
+r e y w n t w ɔ n h u n b ɛ b b w o s w COPY
+p a a b ɛ o COPY
+a m m i n n k _ e k ɔ o _ a n COPY
+n s o r a t w r a _ m p ɔ _ m a COPY
+n s u _ COPY
+a y ɛ a n n ɔ _ a n a COPY
+m m m n a y i COPY
+ɛ t e n n n i a _ a COPY
+ɔ t i t a b ɔ w e f i e COPY
+e ɔ m b ɛ r COPY
+k ɔ k i a _ n h e f a r e m n m b ɛ e COPY
+. . _ u i n a e t i m e s o ɛ e COPY
+r a e k ɔ y b ɛ d m o ɛ COPY
+a k ɔ ɔ ɛ t COPY
+ɔ k ɔ t COPY
+o ɛ r ɛ s o a _ a i y e w e COPY
+ɛ k y n k y COPY
+r e k e COPY
+ɔ s i r e k n m p ɛ e COPY
+m m m e ɛ s u e k ɔ w e r ɛ COPY
+w e ɔ e m a m b ɛ ɔ ɛ d a a a k a COPY
+e n n e b o a e a k a _ m n n k w COPY
+k ɔ n ɛ h k y i i _ a w e COPY
+a b ɛ o COPY
+a g m k ɔ y _ n n w ɛ y i e m a _ m COPY
+_ r e w k a m COPY
+ɔ p i e a _ n n _ a b w a _ a w e t a COPY
+ɛ n y m b ɛ k e k ɔ p e e m m _ a w _ a k k COPY
+a b ɔ m _ t i f ɔ m ɔ n o a _ n y COPY
+k ɔ y _ w e e ɛ k ɔ e n k o t u t e COPY
+m b ɔ w n k y k ɔ n a m e e COPY
+o ɛ m b ɛ e _ a k t a _ a i r e k k COPY
+w ɛ e u e e k ɔ m e ɔ n a f o COPY
+b ɛ t a r e f a y i m e _ r e a b ɛ w s COPY
+w e ɔ COPY
+w e r w e k ɔ t n n a r _ m p e COPY
+r e e e m _ a b y e d COPY
+o b ɔ COPY
+m m k m ɔ f a e m b ɔ a p ɛ COPY
+e k ɔ u r e b t o m ɔ b u e e f i COPY
+ɛ k y r ɔ h u n COPY
+n s a COPY
+a m m a b ɛ k e COPY
+k ɔ p n n a r COPY
+_ a p a COPY
+m m e e r ɛ k a m e r e n t COPY
+s e e a k y r ɔ h u e b ɛ y w _ a k ɔ s o COPY
+k ɔ g a n h u e ɛ t o e p ɛ COPY
+n n n a n k ɔ a w o COPY
+_ a t f ɔ s a m m b COPY
+m b ɛ a n n i ɛ n _ a k d COPY
+e m m i n s u ɛ d COPY
+ɛ k a ɛ f r e ɛ f n k e a ɛ k e COPY
+k ɔ p e k ɔ n p i a n e e ɛ s o r COPY
+_ a n m u _ n u _ r e e ɔ y e COPY
+e n a e n t e e h o o r o e COPY
+_ r e y y i r e _ a b f COPY
+k ɔ e a b ɛ ɛ s a n e COPY
+p ɛ e m m m n _ a b y b ɛ y w COPY
+u a n n d u e _ a b g COPY
+b ɛ n a ɛ b o COPY
+p i a e s i w e COPY
+ɔ b _ a k n COPY
+t w a n n y _ k ɔ t r r e g b ɛ f ɛ COPY
+n a _ s t ɔ COPY
+b ɛ b e ɛ f _ a m n k ɔ t t COPY
+p i a e m m b m e b ɛ i ɔ k u COPY
+o b _ n k e a p ɛ e m n a _ n COPY
+n k y r e t a e n h u e h n n k h COPY
+w o s w n t ɔ n k ɔ ɛ e f i ɛ s a e COPY
+ɛ t e e a d u COPY
+m m p COPY
+a d u n t a e COPY
+y e r ɛ COPY
+a _ s e ɔ t ɔ m e n o r o e COPY
+_ m m a COPY
+o _ b ɛ g a n w e w o m m k b a m m o COPY
+n n n a COPY
+m b o n k o _ a b p COPY
+n k ɔ a y e a _ s n n d ɔ p e COPY
+t u t a t i COPY
+r e p a _ a s e COPY
+ɛ f o e k ɔ p p COPY
+k ɔ t t a m m u m m p p m m k t k ɔ b a COPY
+a h u n b ɛ s n _ a w t a a t o _ COPY
+o a n t a a t w r ɔ h y n e e COPY
+b ɔ ɔ b ɔ m COPY
+n k ɔ o . _ ɛ y i a y a o m e COPY
+o w _ . _ a h h t e n m m b g n n h i COPY
+ɔ _ w w n n k m _ w m e n COPY
+o r o e r o e r e n s _ n n a r e ɛ e COPY
+_ m p e COPY
+r e t r k ɔ k k ɛ p e a COPY
+b ɔ w n t e y a m e n t e a COPY
+m e r e t r u _ n b ɛ k _ a p a n y COPY
+ɛ w o e h o o k ɔ p e COPY
+b ɛ s o a t u n COPY
+n h w ɛ t w m m m n t u t COPY
+ɔ h w e m m b y k ɔ h h e m e o b ɔ e COPY
+h w ɛ e _ a h r e d _ r e u b ɛ f a COPY
+ɔ k n n d m COPY
+b ɛ h ɛ i _ a ɛ n w o e m k ɔ a COPY
+m k ɔ e n a _ t ɔ y i e ɔ n ɛ d COPY
+r e b b a n n o ɔ g m b ɛ y COPY
+ɛ t w e r e h h COPY
+m m k w b ɛ y COPY
+b ɛ t e w m k ɔ o COPY
+e f i e COPY
+n k ɔ o ɛ w i ɛ s a e COPY
+_ a k COPY
+m b ɔ w COPY
+a _ a r e ɔ e t w ɔ f a COPY
+ɛ d m b ɛ e COPY
+ɔ _ _ a t t e m COPY
+ɔ s a _ r e i COPY
+e b ɛ y d a _ n t a e b o ɔ COPY
+b ɛ d a n n d e ɔ p ɛ f a COPY
+ɔ m a e k y _ t ɔ d a k ɔ _ i t a f e COPY
+b ɛ t n y i e ɔ p i m b ɛ i n t u COPY
+ɔ p i e e k ɔ a a t a COPY
+ɛ t e e _ a k y _ a k f _ a h i COPY
+n n k e _ a k i a m m o ɛ w e COPY
+n w i e a b o o COPY
+e g COPY
+ɛ f o e a m m a n s u _ COPY
+ɛ y ɛ s i e i _ a e m m ɛ _ m m e COPY
+ɛ d u _ r e r k ɔ k _ n w o o COPY
+m m k f a _ n w m m m e ɔ h u e COPY
+d i e e k a u a n n y ɔ b o e COPY
+e m m i ɛ d u b ɔ _ a s o COPY
+n k ɔ e b ɛ t w m m m COPY
+u t m m m e w _ . w ɛ e COPY
+m f o ɛ r e e t u s u e n d COPY
+e r e w a d a a COPY
+r e n w n n a n n n n a r e d COPY
+b ɛ h h COPY
+ɔ t ɔ e COPY
+n a _ h _ a t r COPY
+e n a ɔ k y n o m a m m a COPY
+b ɛ y b ɛ k k n n h ɛ e h o ɔ d a e COPY
+n k ɔ a d u e b ɛ i a t a e d u m e COPY
+w o b ɛ h ɛ n g u r u _ n u COPY
+n n k b m m b w COPY
+e e r _ a k t n n k _ t a f COPY
+ɛ r a t e _ a y w COPY
+e k _ a m _ a y i _ a b s COPY
+f r ɛ e e r ɛ e r a m b ɛ a ɛ w i COPY
+m u e y i _ b ɛ w s COPY
+e k ɔ w e f r b ɔ _ r e s n COPY
+k y i t e n a m m ɛ t e COPY
+_ m m i p i ɔ d a a e b ɛ ɔ a m m r COPY
+o s o e COPY
+e b o k ɔ t f COPY
+n y a e e b ɛ r n o m e h o h r s i w e COPY
+r e b b k ɔ k _ a b ɛ ɛ h o r a n n y COPY
+_ m p r e b b ɛ f e m a COPY
+n n k f ɛ b ɔ m d u a ɔ t ɔ e e k y COPY
+u _ n a n o ɛ d i e ɛ d a e ɔ n e COPY
+w a e t o _ _ m f o a m a _ m p e COPY
+e k b ɛ g COPY
+a t w ɔ o s o e h u a e COPY
+ɔ k e a n n t a a _ r w COPY
+r e s ɛ e p e a b ɛ r COPY
+m m b m s o e m m b b COPY
+m b ɔ COPY
+n s i e ɛ s i k u COPY
+b ɛ t _ n n h ɛ m m f a COPY
+_ t r e b p n k ɔ ɛ _ n n a a _ r m COPY
+y ɛ e h o b ɛ d a n t e e COPY
+b ɛ p e m m b h w o s COPY
+y a y e n d a n a _ p COPY
+n n a a a m m i ɛ s o k ɔ d e COPY
+ɛ k ɔ e t w e ɛ a m m u r e b n COPY
+_ . a k e e s i COPY
+m a e COPY
+ɔ h o o ɛ t ɔ n b ɛ a k e COPY
+u a e n a _ n a b ɔ w m b u u _ n COPY
+ɔ h ɔ w i _ a t n COPY
+k ɔ p e r e f w n a _ g COPY
+k ɔ g a k ɔ y _ COPY
+n n k f _ a y _ i r ɛ f r e COPY
+ɔ _ n o r e b r COPY
+k ɔ k e _ m u ɛ k ɔ t ɔ t ɔ n COPY
+_ s r e d a ɛ b ɔ m a p e a t ɔ n COPY
+_ r e e COPY
+ɛ f r n d k ɔ p p k ɔ n r e b _ a s w COPY
+k ɔ h h r e k p COPY
+a h w a t COPY
+ɔ d u a k y _ a k m ɛ s u _ n n a a COPY
+_ a s o a k a _ a k w n n s e COPY
+n t o _ r e k f COPY
+w _ e y e t ɔ ɛ b o e i w e k ɔ h ɛ k y e ɛ COPY
+ɛ d a e _ a k b COPY
+ɛ h o o t e w e COPY
+m m p a n t w r ɔ h u e o e n s u e COPY
+b ɛ p a ɛ e a b ɛ o m b u m a _ o COPY
+k a e k ɔ b a e k ɔ w COPY
+n a _ p COPY
+g u m b ɛ y e f a ɛ k e a b ɛ s o n w i COPY
+e n n e a k ɔ e ɔ t ɔ e n t i t b o a e COPY
+n h o o m b ɛ o e k ɔ y COPY
+e b ɛ r COPY
+b o b w t i m e r e k s k ɔ n n k u e COPY
+m m b h COPY
+a _ m b ɔ n o e a b ɛ ɔ COPY
+_ s n h y n COPY
+k u k ɔ s w ɔ b o ɔ COPY
+e w e COPY
+a p e a COPY
+ɔ d a n t COPY
+s o ɛ m a _ m i n t m ɛ h w ɛ b o o COPY
+e ɔ n COPY
+_ a t f n k y r o w _ . w o _ a s COPY
+_ a b d n n t r COPY
+m u k ɔ e s u a e y i a ɛ m e ɔ n ɛ s i COPY
+m p a r e b t h o h n k ɔ r COPY
+n w o m m b f e k e a n y a e r e t a COPY
+a k ɔ e COPY
+ɛ e e m b o ɔ m b ɔ COPY
+t u e t w a m p a e ɔ w ɔ b o o COPY
+ɔ h w u a e ɛ h y n COPY
+r e d m a _ a ɛ e e COPY
+r e b m COPY
+n s u e e r e COPY
+d u m e r e b a e t a COPY
+m m k ɔ h o o ɔ h u n r e k k COPY
+ɔ t u COPY
+a h y n e p ɔ t ɔ e u m _ a s n ɔ m e e COPY
+e g u r a t o k ɔ y COPY
+ɔ d a k ɔ d e ɔ h y COPY
+a n n u n a _ h COPY
+_ a m _ e m a s a _ n g a b COPY
+ɛ t a e _ a b a COPY
+ɔ t o _ ɔ b ɔ t w e e y i a COPY
+_ a k i y i a i e e n n d m COPY
+m p i e ɔ t o _ COPY
+_ a b g e b ɛ ɔ n n k g e n y ɔ d u COPY
+e k ɔ u k ɔ h ɛ a _ n t COPY
+h o r e COPY
+t ɔ n e b ɛ d _ COPY
+n n t a e b ɛ ɛ ɔ t i _ a b k COPY
+n a a y e r e n y b ɛ b _ COPY
+n t w e u e b ɛ n i ɔ t a a _ n n a _ a r COPY
+a f r ɔ h o o m k ɔ r k a e t w e ɛ p i a e COPY
+m p i e ɔ t ɔ e ɔ _ m a a p e COPY
+k ɔ t e e y COPY
+n n t t e n a e ɛ h u e t e COPY
+ɔ h y n _ n ɔ t i y i _ p i m m b n COPY
+a w a t a _ a h a b ɛ t t a k u a n y m COPY
+ɔ g u o w _ . y i m e ɛ w e COPY
+ɛ b ɔ w ɛ k y a m b ɔ m m a n COPY
+a _ r p COPY
+n n o a n n a COPY
+m b o ɔ b ɛ y w n t i e e n a COPY
+e b o COPY
+b ɛ g a n n a n p i a e r e k t COPY
+ɛ w o o COPY
+ɔ p i e m m k d b ɛ t COPY
+ɛ f e p a e ɛ d i e ɛ h w e t i n u a n e COPY
+a w n h u e ɛ d a i r i e COPY
+e k a _ a d n n g e t u u s o w e COPY
+m m k h _ a k k COPY
+e s r e s e ɔ n COPY
+m a _ m b ɛ m m k ɔ o n a _ e p i a e COPY
+e f i e t e n e t a r e COPY
+b ɛ y ɛ k u e m p a COPY
+ɛ k ɔ t e d a a m p i r e b y y a t e COPY
+a k ɔ r e d a COPY
+o s o e ɔ n e COPY
+r e b n k ɔ h i m m m n COPY
+ɔ t ɔ _ m m u COPY
+ɔ t e a k ɔ t w b ɛ k n n n a COPY
+ɛ w r e n y n n k n e m m ɔ m m b n COPY
+r e t n COPY
+_ a k e r e n k COPY
+_ a y ɔ d u e COPY
+m a e a h w _ a p p a f r a g u r a _ n y COPY
+i m a b ɛ e w o s _ m m r COPY
+r e n s COPY
+_ n a _ a i ɛ w o o a _ n COPY
+_ a t e _ m m ɔ COPY
+b ɛ f e ɔ t i e r e b d COPY
+_ m m ɔ f r a e COPY
+r e k k COPY
+t i m e r e k e m m k h m b ɛ o COPY
+k ɔ b _ COPY
+m m m e k ɔ ɛ a g e s o n n k s COPY
+m k ɔ a n d i e s u _ COPY
+ɛ k e r e k e a w i k ɔ k e a _ m m COPY
+y i r r e t w m m m n e h r e s ɛ a d COPY
+ɛ h y n COPY
+i m e a _ r t n k e a COPY
+s u e k ɔ h ɛ n y i e m p COPY
+b o a e a t w r a s e m a _ b ɛ t _ COPY
+m m b _ p a m m k k e k y a COPY
+k ɔ h a _ a g a ɔ d a n h n k u e COPY
+n n t n e f o a h a _ a ɛ COPY
+_ m m ɛ COPY
+e k ɔ ɛ n n n m r e y t u COPY
+r e w e n n d _ r e w s a t o _ r e k i COPY
+s u o COPY
+b ɛ b _ r e b n ɛ m a e ɛ p e . . _ u COPY
+_ r e e ɛ p e COPY
+a b ɔ m e t ɔ n e t ɔ COPY
+ɔ k ɔ t ɛ m a e COPY
+m b ɛ r r e n k b ɛ f a COPY
+t a f e p ɛ COPY
+_ a k s y i m COPY
+ɛ d u n w i . _ m n t a e COPY
+k y i a r e k ɔ i . . COPY
+m b o ɔ r e n n h u e o _ m e u e e COPY
+ɔ w i e COPY
+k ɔ s n n w i e e k ɔ ɔ n t e a COPY
+ɔ _ n e m m r o _ m b ɛ m h u a _ t COPY
+e n n i ɛ d i n n m m a m u t u COPY
+k ɔ w s ɔ w i e COPY
+m k ɔ e ɔ f a n t w u o _ u ɔ t u m b ɔ w COPY
+y i a y e r e COPY
+a _ m p ɛ k ɔ k i _ a t t a w o ɛ n COPY
+ɛ e ɔ t ɔ n w i e n a _ k b o a e r e k g COPY
+b ɛ s e COPY
+n y e ɛ t a ɔ w o o a m m i COPY
+b o a k ɔ t n ɛ k ɔ t COPY
+ɔ p ɛ e f a a y n s a e COPY
+k ɔ n a _ a r COPY
+n k ɔ i e b ɛ u n k ɔ w a m e e n h u n COPY
+n g u n ɔ n o ɛ d a COPY
+b ɔ n s a e _ a b m k ɔ m n COPY
+_ n n a _ a n n a a k ɔ n m ɛ d u COPY
+_ a s r e b s n t w r ɛ b o r e k d COPY
+. _ m ɔ t w e n g u n b ɛ d m m b n COPY
+n w o a p e a s i w COPY
+s o ɛ e n y e e COPY
+t a f r e b w n k ɔ a u a r _ a b s COPY
+n k ɔ r k y i e COPY
+b ɛ s n k ɔ t e COPY
+k ɔ _ COPY
+w o s w COPY
+ɔ k e f i e r e k w r e n i COPY
+e y e k ɔ h h e b u t w e k ɔ n a COPY
+a w a k ɔ t ɔ _ m a e h m m b h COPY
+n n k p e r e ɛ n o e n a ɛ g u r e g COPY
+_ a b k o ɛ r e o w _ ɔ w o e r e d _ COPY
+r e t f ɔ t w r n t o _ n t u n COPY
+m k ɔ e _ a t a f o COPY
+n t w r e k u _ a d _ _ m u e COPY
+ɛ d u b ɛ s ɛ k k ɔ m m k g e k y a COPY
+m p ɛ y e e COPY
+f a e f a a k y r n n t n COPY
+ɛ w ɛ y i e COPY
+a t i COPY
+n n k d COPY
+a _ r g n w e b ɛ g COPY
+a b ɛ r ɛ h y n COPY
+s o w e e k ɔ ɛ i a e r e b s COPY
+. _ m e ɛ y i e ɛ h w n n t w COPY
+ɔ d i k ɔ s e COPY
+ɛ s a e w ɛ e COPY
+e p a COPY
+e h o ɔ f a e r e b p k ɔ p p COPY
+ɔ s a e COPY
+b ɔ _ a h ɛ r e b a b o r n g u r n t e a COPY
+g u _ a k b p ɛ e n a e a d i a _ m m COPY
+k ɔ t w COPY
+n t ɔ a p ɛ m m a m b ɛ b b COPY
+a r e r e k k h u a COPY
+ɔ _ w w u a r d a _ s n a _ g COPY
+w e e t w r e k s COPY
+r e b g b ɛ k e e t w e k ɔ e t e w e COPY
+m b ɛ o e f o COPY
+n y s o w ɔ k y _ s o e r e b y COPY
+e y m f o e y i a m e e e b ɛ a k ɔ f w COPY
+n e e ɛ n o e r e m f n a _ f a m m COPY
+_ s r e s w a b ɛ u e t a e f i a k ɔ o COPY
+b ɛ g ɔ t o _ e ɛ r e h ɛ COPY
+u _ a _ r w COPY
+ɔ m a COPY
+b ɛ s n n s u t a r e y i r m m b d _ n n o COPY
+a m u COPY
+a n n i k ɔ b _ r e m _ ɛ g b ɛ k e r ɛ e COPY
+ɛ k a COPY
+r e b d _ a b y n t i f o w e COPY
+ɔ m a e b ɛ d e COPY
+y ɛ w e COPY
+a n n w a _ r f k o e r e f w COPY
+a b ɛ ɛ m e COPY
+e ɔ k ɔ n m ɛ h u e b ɛ e COPY
+t u t e n k y r COPY
+r e h ɔ m a e e ɛ n n k d o w a p ɛ m m m COPY
+ɛ b o _ a k t COPY
+_ a k b m k ɔ i o r o a _ s a s o r n s a COPY
+o r o e _ a n e k a u a m m b ɛ e o b ɔ e COPY
+ɛ g b ɛ f e ɔ t w e COPY
+n s i e COPY
+i r i n g n n s o _ a m n o s COPY
+o h o o a _ m p t e n k ɔ s w COPY
+e m b u e _ a t r m b o e COPY
+a _ n g ɔ y e e e m m a r e s w ɛ t e a COPY
+n w i e _ r e m a k COPY
+e t w r w e e n n a r COPY
+ɔ s o ɛ y i e r e w e n k o COPY
+e p i k ɔ y w _ . r e b m COPY
+n a _ b ɛ b _ a h e k a o _ ɔ t ɔ n COPY
+_ a s ɛ m b ɛ y y e COPY
+m m k k _ a n m COPY
+n h COPY
+n a _ n COPY
+k ɔ t f COPY
+m e n e e n n i r e f a k ɔ w ɔ n y COPY
+n h u n n a _ n COPY
+ɔ h y _ a k w e n n w COPY
+a k ɔ a k ɔ h ɛ r e k p COPY
+r e k w a p ɛ n h o o COPY
+e n n u COPY
+n k ɔ ɔ r e d m n k ɔ t o ɛ r ɔ t ɔ n COPY
+_ a t r m a _ n r o e _ a t w k u e k ɔ k COPY
+_ a ɛ t ɔ e a m m _ a b g u _ n u e k y COPY
+ɛ h w e _ a s o r e n d m p a e COPY
+h o r e ɛ p ɛ n h y m b ɔ m _ a h h COPY
+n w o e ɛ p e a r e k _ a t w ɔ b u e COPY
+_ a t r _ m m a ɔ k ɔ n n k e COPY
+n e e r ɛ w e ɔ k b ɛ s ɛ _ a h ɛ COPY
+n e e a _ n s n w _ n n i ɔ _ t e _ a b r COPY
+ɛ b u e ɛ p k a e ɔ t w r ɔ k u COPY
+ɛ k y r m m k y ɛ e n t u e m m ɛ COPY
+m p a n w i e COPY
+m k ɔ e b ɛ n f r ɛ COPY
+t a f e ɔ t b ɛ n m k ɔ t a COPY
+u m e e t e a t w e ɛ COPY
+f o _ t i f o w p a e w i e k a u COPY
+f o n k e . . _ u COPY
+_ a g a r e n k a k ɔ e a t u n COPY
+k ɔ d e e t e a ɔ h w e e ɛ w e w e ɔ COPY
+b ɛ t t m e e b ɛ g _ a s n w i e ɛ y e e COPY
+r e b n _ n n u COPY
+r e g a m b ɛ w e e r e COPY
+e y e e m m i e ɔ ɛ w e COPY
+ɛ b u e m k ɔ ɛ r e m f COPY
+u a r m p i ɔ h w e COPY
+ɔ s r e m p k ɔ y w m m b e COPY
+r ɛ e _ a w ɛ t u m m e e _ r e ɛ COPY
+k ɔ k _ m m a s m k ɔ a h w COPY
+m m b g n w e COPY
+y i m e _ a b e COPY
+k ɔ y w e m m e b ɛ d e COPY
+ɛ m a n t u u k ɔ s w k a e u t u e COPY
+ɔ h y n _ r e y ɛ f a e COPY
+a h w i n t m COPY
+r e f w t w a n n s r e h i COPY
+ɛ t e e p e a m m r _ r e n s u e ɔ n y COPY
+b o a e ɔ k e i a COPY
+o m e k ɔ n a COPY
+ɛ b o ɔ r e s e s a b ɛ s w COPY
+h y i b ɔ _ p _ a b r a t a a k a ɛ h y n COPY
+n k ɔ ɔ i r i r e d a COPY
+h w r ɛ w e y i a ɛ r e COPY
+ɛ k ɔ e r e k w _ a b h COPY
+a m m o r e h a COPY
+. _ n k ɔ t k ɔ w e a b ɔ m COPY
+ɛ k y COPY
+k ɔ y w r e y e b ɛ a _ a f w ɔ b o ɔ COPY
+o s m p ɛ e y i m p e t a r k ɔ h COPY
+m m k p k ɔ f e k ɔ s m a COPY
+ɛ m a e COPY
+ɛ h u e a f m m p COPY
+ɛ p e n n t a n g u n m k ɔ ɔ COPY
+a b ɛ ɔ n k ɔ w a m u ɔ f r _ a m _ b o a COPY
+s a w n a _ e n t u u m m k h COPY
+u m u m k ɔ d COPY
+e p i r e s o COPY
+a t e y e r p i COPY
+k ɔ d a _ m m r COPY
+a t ɔ n k ɔ e ɛ s o n n k y t w a e COPY
+_ a s n a w a b ɛ ɔ p i e f e e _ r e w COPY
+b ɛ d m a _ COPY
+r e k w _ a s n _ a s o ɛ t i COPY
+_ r e ɛ e b ɛ r COPY
+f a a k ɔ i k a m COPY
+n a _ e a k u n n k m COPY
+e m m i b ɛ t t COPY
+ɛ y i e t w r ɔ h u n COPY
+m m b p h u a e ɔ m a d i e COPY
+ɛ m e e n a _ w d a _ ɛ s i e COPY
+a k ɔ ɔ k a n n a COPY
+s a n e a _ n n a t ɔ n COPY
+p a e ɔ _ m a COPY
+n s b ɛ d _ COPY
+m m b d r e n d _ n g a r e ɛ ɔ w o o COPY
+o a e k u e ɛ b u e ɔ w i a _ a y a y e COPY
+k ɔ n m ɛ s u _ COPY
+b ɛ t n ɛ h y n ɔ t e a e b ɛ u e d u COPY
+i e e ɛ d i _ m m a e h u n k ɔ h h t ɔ n e COPY
+n k e i _ a u m e y i r e COPY
+n n s w ɛ t ɔ n t i e i COPY
+a _ s e _ a d _ r e ɔ ɛ r e e p e n n COPY
+e f r e n a e t ɔ _ ɔ p ɛ e a m u e COPY
+ɛ n o _ a n a ɛ n o e _ n n o a s n t ɔ n COPY
+ɔ w i _ r e i _ n n y n k ɔ i COPY
+_ r e a e h u n ɔ b o k ɔ t e COPY
+f o w m b ɛ u f i _ r e o m f o e COPY
+y e w m u e _ a k m COPY
+m m k s y i n e m m k p COPY
+_ a k f w ɛ m b o a _ r g a g u COPY
+_ m g u a _ a i COPY
+a _ s e e d a r e b m e b ɛ i e m m a COPY
+e g u COPY
+m f a COPY
+e h u r o k y i b ɛ k a w o COPY
+m m k t ɔ b u _ a s w ɛ m m a e k ɔ m COPY
+a t u n s ɔ m a s b ɛ s COPY
+r e p a e k ɔ a f r COPY
+_ a g e m m r f o w r ɛ _ a d m ɔ d a e COPY
+k ɔ f w b o r t i n ɛ e b ɔ _ COPY
+ɔ m a e e t u n COPY
+a n r e b n a m m o t i e i ɔ k a e COPY
+e r ɛ e e r w ɛ e k ɔ o r e h COPY
+b ɛ d e k o e _ n g k ɔ y _ a k ɔ i COPY
+n w i a n n ɔ ɛ t ɔ e e f n a _ e COPY
+e p e a a m m e ɛ k ɔ e COPY
+b ɛ m e n k ɔ y e b o COPY
+_ s o a t a e COPY
+r e b k a _ a y b ɛ b r e k COPY
+e h u a n n i COPY
+k ɔ d e COPY
+b ɛ s a _ a o a d i e h COPY
+_ a y m m a n m e w e r w COPY
+r e n y n t w a _ n d r e h ɛ ɛ n y COPY
+i a _ . . m n k ɔ w COPY
+e k y a a g u r n h w ɔ h o o m m e COPY
+m b u e n s i e a _ n s COPY
+e p a n n o r e b y COPY
+a _ a e b ɔ w e n w i o s o e f o ɛ b u COPY
+m m r e k b a w e n n t r COPY
+a b u ɛ k e e m e e ɛ w m m k t COPY
+n n k m COPY
+a w o e b ɛ w COPY
+a h n s o r a b ɛ o COPY
+k ɔ k _ ɔ n m b ɛ w r e h ɛ COPY
+n h o o b ɔ e COPY
+n w i r e w s ɔ s o COPY
+t ɔ n e b ɔ _ a b t a _ r t a m e COPY
+r e b f i e e e k COPY
+a t w ɔ COPY
+n k o e COPY
+y i _ y a _ n s e b ɔ m COPY
+a t w COPY
+r e e a _ r n s i w e COPY
+k o e _ a b e m e e COPY
+e m m ɛ n n d _ COPY
+m b o COPY
+m b u e w o h u _ r e a b ɛ h ɛ m m b a COPY
+ɛ h y n _ n g a m b ɛ ɛ _ m u m m b p COPY
+ɔ w i e i a ɛ b u e ɛ s o COPY
+n n y w n k _ a t t b ɛ k r e s n COPY
+t u _ r a ɛ w o r e n n e m m o COPY
+ɔ k e k ɔ g n t w e COPY
+ɔ t a e a w e k ɔ f ɛ _ a p p _ a t t COPY
+e s o ɔ s u e k y i n t ɔ e COPY
+n n d _ r o ɔ t o e p ɛ s u a b o m m b a COPY
+e n n o ɔ k y a COPY
+o a e COPY
+a y a s i COPY
+t w e ɛ b ɛ f w r e f a e m m a COPY
+a t i COPY
+e s o r a h o e t w r COPY
+t i e i d u m ɔ _ n o COPY
+ɛ d a e i _ a ɛ h o r e n y COPY
+r e s e h y n r e k i u o COPY
+n w o _ r e ɔ y e r e n t u n COPY
+m m f n n d m a b o a y f r ɛ e n k ɔ w COPY
+m m b k COPY
+e m COPY
+b u e o r o e m p a e COPY
+b ɛ p a COPY
+_ a f ɔ d u ɔ p ɛ COPY
+o h o o r e f u a r e n d a e ɔ f o COPY
+a k ɔ a ɔ w o ɔ p i COPY
+_ a b g ɔ _ t e COPY
+ɔ _ t e ɔ h u _ s o b ɛ d _ n n i ɔ k e a COPY
+_ a n m ɛ s a n n a n _ a b r e b ɔ m COPY
+m p ɛ e t u _ n s u e ɔ f r COPY
+e b ɔ w n n y a _ s ɔ d a a k ɔ _ i COPY
+n a e w _ . COPY
+w _ . _ ɔ g u ɛ h o o p i a ɔ k e a COPY
+i _ a ɛ m k ɔ ɛ h u e m k ɔ i b ɛ y w COPY
+a _ r m _ a b p _ a d a r e r e k COPY
+_ a b m e p i r e b n r e w e COPY
+y i a u m e _ r e o COPY
+e b u k ɔ b e COPY
+r e b t COPY
+b ɛ f e ɛ b o ɔ m m f a m f a e b COPY
+k ɔ b ɛ m e _ m m r k ɔ f e COPY
+m m k h COPY
+a n o _ a d _ COPY
+ɛ w i m e n _ m p COPY
+e h o e k ɔ e r e b a _ m COPY
+b ɛ t f m b u e ɛ w r e b b a n o COPY
+a m m o ɛ p ɛ r a e m m b b COPY
+ɔ w i e COPY
+n t w ɔ COPY
+a _ a y COPY
+u m e COPY
+a s u _ ɔ h o o s u e k ɔ t r m m p p COPY
+_ a t n r e t a n k u r e y w COPY
+n k e s e e w ɛ e e b o ɔ a _ s t o w COPY
+u a r ɔ h y n e k u k ɔ m _ COPY
+ɛ p m m b f COPY
+u o _ _ a k d n n g a a k ɔ u COPY
+_ n n y a b o o _ a n m COPY
+e n n ɔ ɛ b ɔ e k ɔ t n ɔ b ɔ m r e n k COPY
+k o t i m m a m h u m m b h m m k y COPY
+ɛ k ɔ ɔ t i t COPY
+b ɛ b e t i o _ m e b ɔ ɛ t t ɔ COPY
+e b ɛ i e d a e m m ɔ m m k n u a r e COPY
+e n y m n a _ p COPY
+o _ m e b ɛ COPY
+a n n a e r e a k g u a n n t COPY
+a k ɔ ɔ _ n g a r b o r e COPY
+b ɛ t r ɔ y i n k a n h o e k e a COPY
+a _ n s COPY
+t ɔ n e COPY
+a k ɔ w y i m e r e t r a _ r s COPY
+n k ɔ t n t u u r e n i b ɛ t w COPY
+_ n n y m p ɛ e n w o o b u e _ a k d COPY
+a g u r e r e COPY
+n n t _ s u e r e b b COPY
+n y e COPY
+ɔ h u e k ɔ y e r e s w COPY
+ɛ t i t COPY
+k ɔ g u a r e a b o o COPY
+n a _ f i e COPY
+n t r e n s ɛ b o a _ r s COPY
+r e h t e n e e w e COPY
+ɔ s a n k ɔ u a k y n n k d COPY
+m b u e n n t n r i COPY
+_ m m m m k k _ r e y COPY
+m e e r e s b ɔ e s o ɛ n w o COPY
+_ t m f r e a m m o k y e ɛ COPY
+e t w r ɔ h y n n d a _ a h ɛ COPY
+n n y w a _ a ɔ ɛ w o o COPY
+e t u n e n a e a m m ɔ _ a COPY
+_ n n a ɛ t a e COPY
+n k ɔ w a _ a r COPY
+b o r e _ a n i _ . a b ɛ w COPY
+n n k d k ɔ h ɛ n n k g ɔ t e a COPY
+_ a f w n s o r n y i a ɛ h b o b COPY
+_ a s ɛ n n a _ r e u COPY
+k ɔ n a COPY
+k ɔ s o ɔ b o e m k ɔ ɔ COPY
+w o e f i n h o o t i e i COPY
+r e h _ a t _ COPY
+_ a s a _ m n n k s ɔ b u COPY
+b ɛ k k COPY
+k ɔ e ɛ t w e COPY
+ɔ y i e . . _ u n s u b ɛ d e w o n y a COPY
+e m e r e m p m m m _ COPY
+a _ n t ɛ k ɔ r e b b n h w e a _ r m COPY
+i n t o r o COPY
+r e b f ɛ h w e e s i ɛ y i COPY
+n k k ɔ n m y i n COPY
+k ɔ b r _ r e m i e e _ a t a COPY
+ɛ p ɛ t u t i e _ a d a ɔ b o e COPY
+b ɔ w e n a e COPY
+ɔ y i a ɔ b u a w o o COPY
+_ m m r COPY
+e t w ɔ ɔ s i e m m b y COPY
+e k ɔ w m k ɔ i n n y w m m f e n a _ COPY
+k ɔ m n h w ɛ e COPY
+r e n h e k ɔ y ɔ k a e COPY
+b o a e r e b b i r i e COPY
+n n s ɛ _ r e i ɛ s r e b e COPY
+n s i e COPY
+e n n ɔ COPY
+m m f e s u o b ɛ w r ɛ w m m m e ɔ h w e COPY
+g u e m m s u m b u ɔ h o COPY
+a n y n n t n y ɛ w e n n g a e f a n d a a COPY
+ɛ m a e r o e ɔ n y m m k ɔ y h u _ n n e COPY
+ɔ w i h o r e COPY
+_ a b d ɔ b u ɔ m a s m m b n COPY
+n n s w COPY
+e t i i n a e a h w r e n s COPY
+n y ɔ f COPY
+e m m o a m e f i n n w a d i COPY
+k ɔ h a ɔ y e e k ɔ k k b ɛ t f COPY
+m m k a m m r COPY
+_ n n u f e n w o o n a _ d b ɛ f w COPY
+w e ɔ a t w r e ɛ i n o a e n n y m COPY
+b ɛ f e w e e COPY
+_ r e r COPY
+ɛ m m u e k ɔ g COPY
+_ t i f m e n _ a s e a _ m f COPY
+w o e a t a e COPY
+r e t w ɛ f o e COPY
+i _ s u e _ a t _ COPY
+u a e ɔ _ r e t a e m e e a n n COPY
+ɔ t ɔ e COPY
+r i e ɛ y e ɔ n e n a _ t COPY
+u e a n y m _ r e n n d a a m m k s COPY
+r e k p n d a r e k f COPY
+f i e COPY
+a s e o m b ɛ k i COPY
+r e h a n n t a n y e e m m e ɛ k ɔ t COPY
+y i _ y COPY
+m m a s ɛ g _ m m a COPY
+a _ n s n t u ɔ d a COPY
+ɛ h w COPY
+ɛ h w e k COPY
+w _ . _ m m b d COPY
+w _ b ɛ f a r e t _ k ɔ h ɛ k ɔ m n COPY
+b ɛ d _ n d a e COPY
+t ɔ _ k COPY
+_ a h COPY
+t i m e a _ r s COPY
+_ a m n COPY
+n s o r m b ɛ a a p e a ɔ b o ɔ COPY
+a n n y t u _ m m b a b o COPY
+m m a n e k ɔ ɔ n a _ k a t u u COPY

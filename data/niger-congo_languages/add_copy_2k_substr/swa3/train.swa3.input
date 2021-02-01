@@ -1,0 +1,5283 @@
+k a t a V DEF FIN IND PL 1 PRS
+k a t a V DEF FIN IND PL 2 PRS
+k a t a V DEF FIN IND PL 3 PRS
+k a t a V DEF FIN IND SG 1 PRS
+k a t a V DEF FIN IND SG 2 PRS
+k a t a V DEF FIN IND SG 3 PRS
+k a t a V FIN
+k a t a V FIN COND PL 1 PRS
+k a t a V FIN COND PL 1 PST
+k a t a V FIN COND PL 2 PRS
+k a t a V FIN COND PL 2 PST
+k a t a V FIN COND PL 3 PRS
+k a t a V FIN COND PL 3 PST
+k a t a V FIN COND SG 1 PRS
+k a t a V FIN COND SG 1 PST
+k a t a V FIN COND SG 2 PRS
+k a t a V FIN COND SG 2 PST
+k a t a V FIN COND SG 3 PRS
+k a t a V FIN COND SG 3 PST
+k a t a V FIN IND PL 1 FUT
+k a t a V FIN IND PL 1 PST
+k a t a V FIN IND PL 2 FUT
+k a t a V FIN IND PL 2 PST
+k a t a V FIN IND PL 3 FUT
+k a t a V FIN IND PL 3 PST
+k a t a V FIN IND SG 1 FUT
+k a t a V FIN IND SG 1 PST
+k a t a V FIN IND SG 2 FUT
+k a t a V FIN IND SG 2 PST
+k a t a V FIN IND SG 3 FUT
+k a t a V FIN IND SG 3 PST
+k a t a V HAB FIN IND PL 1 PRS
+k a t a V HAB FIN IND PL 2 PRS
+k a t a V HAB FIN IND PL 3 PRS
+k a t a V HAB FIN IND SG 1 PRS
+k a t a V HAB FIN IND SG 2 PRS
+k a t a V HAB FIN IND SG 3 PRS
+k a t a V INDF FIN IND PL 1 PRS
+k a t a V INDF FIN IND PL 2 PRS
+k a t a V INDF FIN IND PL 3 PRS
+k a t a V INDF FIN IND SG 1 PRS
+k a t a V INDF FIN IND SG 2 PRS
+k a t a V INDF FIN IND SG 3 PRS
+k a t a V PRF FIN IND PL 1 PST
+k a t a V PRF FIN IND PL 2 PST
+k a t a V PRF FIN IND PL 3 PST
+k a t a V PRF FIN IND SG 1 PST
+k a t a V PRF FIN IND SG 2 PST
+k a t a V PRF FIN IND SG 3 PST
+o g e l e a V DEF FIN IND PL 1 PRS
+o g e l e a V DEF FIN IND PL 2 PRS
+o g e l e a V DEF FIN IND PL 3 PRS
+o g e l e a V DEF FIN IND SG 1 PRS
+o g e l e a V DEF FIN IND SG 2 PRS
+o g e l e a V DEF FIN IND SG 3 PRS
+o g e l e a V FIN
+o g e l e a V FIN COND PL 1 PRS
+o g e l e a V FIN COND PL 1 PST
+o g e l e a V FIN COND PL 2 PRS
+o g e l e a V FIN COND PL 2 PST
+o g e l e a V FIN COND PL 3 PRS
+o g e l e a V FIN COND PL 3 PST
+o g e l e a V FIN COND SG 1 PRS
+o g e l e a V FIN COND SG 1 PST
+o g e l e a V FIN COND SG 2 PRS
+o g e l e a V FIN COND SG 2 PST
+o g e l e a V FIN COND SG 3 PRS
+o g e l e a V FIN COND SG 3 PST
+o g e l e a V FIN IND PL 1 FUT
+o g e l e a V FIN IND PL 1 PST
+o g e l e a V FIN IND PL 2 FUT
+o g e l e a V FIN IND PL 2 PST
+o g e l e a V FIN IND PL 3 FUT
+o g e l e a V FIN IND PL 3 PST
+o g e l e a V FIN IND SG 1 FUT
+o g e l e a V FIN IND SG 1 PST
+o g e l e a V FIN IND SG 2 FUT
+o g e l e a V FIN IND SG 2 PST
+o g e l e a V FIN IND SG 3 FUT
+o g e l e a V FIN IND SG 3 PST
+o g e l e a V HAB FIN IND PL 1 PRS
+o g e l e a V HAB FIN IND PL 2 PRS
+o g e l e a V HAB FIN IND PL 3 PRS
+o g e l e a V HAB FIN IND SG 1 PRS
+o g e l e a V HAB FIN IND SG 2 PRS
+o g e l e a V HAB FIN IND SG 3 PRS
+o g e l e a V INDF FIN IND PL 1 PRS
+o g e l e a V INDF FIN IND PL 2 PRS
+o g e l e a V INDF FIN IND PL 3 PRS
+o g e l e a V INDF FIN IND SG 1 PRS
+o g e l e a V INDF FIN IND SG 2 PRS
+o g e l e a V INDF FIN IND SG 3 PRS
+o g e l e a V PRF FIN IND PL 1 PST
+o g e l e a V PRF FIN IND PL 2 PST
+o g e l e a V PRF FIN IND PL 3 PST
+o g e l e a V PRF FIN IND SG 1 PST
+o g e l e a V PRF FIN IND SG 2 PST
+o g e l e a V PRF FIN IND SG 3 PST
+v u t a V DEF FIN IND PL 1 PRS
+v u t a V DEF FIN IND PL 2 PRS
+v u t a V DEF FIN IND PL 3 PRS
+v u t a V DEF FIN IND SG 1 PRS
+v u t a V DEF FIN IND SG 2 PRS
+v u t a V DEF FIN IND SG 3 PRS
+v u t a V FIN
+v u t a V FIN COND PL 1 PRS
+v u t a V FIN COND PL 1 PST
+v u t a V FIN COND PL 2 PRS
+v u t a V FIN COND PL 2 PST
+v u t a V FIN COND PL 3 PRS
+v u t a V FIN COND PL 3 PST
+v u t a V FIN COND SG 1 PRS
+v u t a V FIN COND SG 1 PST
+v u t a V FIN COND SG 2 PRS
+v u t a V FIN COND SG 2 PST
+v u t a V FIN COND SG 3 PRS
+v u t a V FIN COND SG 3 PST
+v u t a V FIN IND PL 1 FUT
+v u t a V FIN IND PL 1 PST
+v u t a V FIN IND PL 2 FUT
+v u t a V FIN IND PL 2 PST
+v u t a V FIN IND PL 3 FUT
+v u t a V FIN IND PL 3 PST
+v u t a V FIN IND SG 1 FUT
+v u t a V FIN IND SG 1 PST
+v u t a V FIN IND SG 2 FUT
+v u t a V FIN IND SG 2 PST
+v u t a V FIN IND SG 3 FUT
+v u t a V FIN IND SG 3 PST
+v u t a V HAB FIN IND PL 1 PRS
+v u t a V HAB FIN IND PL 2 PRS
+v u t a V HAB FIN IND PL 3 PRS
+v u t a V HAB FIN IND SG 1 PRS
+v u t a V HAB FIN IND SG 2 PRS
+v u t a V HAB FIN IND SG 3 PRS
+v u t a V INDF FIN IND PL 1 PRS
+v u t a V INDF FIN IND PL 2 PRS
+v u t a V INDF FIN IND PL 3 PRS
+v u t a V INDF FIN IND SG 1 PRS
+v u t a V INDF FIN IND SG 2 PRS
+v u t a V INDF FIN IND SG 3 PRS
+v u t a V PRF FIN IND PL 1 PST
+v u t a V PRF FIN IND PL 2 PST
+v u t a V PRF FIN IND PL 3 PST
+v u t a V PRF FIN IND SG 1 PST
+v u t a V PRF FIN IND SG 2 PST
+v u t a V PRF FIN IND SG 3 PST
+g o n g a V DEF FIN IND PL 1 PRS
+g o n g a V DEF FIN IND PL 2 PRS
+g o n g a V DEF FIN IND PL 3 PRS
+g o n g a V DEF FIN IND SG 1 PRS
+g o n g a V DEF FIN IND SG 2 PRS
+g o n g a V DEF FIN IND SG 3 PRS
+g o n g a V FIN
+g o n g a V FIN COND PL 1 PRS
+g o n g a V FIN COND PL 1 PST
+g o n g a V FIN COND PL 2 PRS
+g o n g a V FIN COND PL 2 PST
+g o n g a V FIN COND PL 3 PRS
+g o n g a V FIN COND PL 3 PST
+g o n g a V FIN COND SG 1 PRS
+g o n g a V FIN COND SG 1 PST
+g o n g a V FIN COND SG 2 PRS
+g o n g a V FIN COND SG 2 PST
+g o n g a V FIN COND SG 3 PRS
+g o n g a V FIN COND SG 3 PST
+g o n g a V FIN IND PL 1 FUT
+g o n g a V FIN IND PL 1 PST
+g o n g a V FIN IND PL 2 FUT
+g o n g a V FIN IND PL 2 PST
+g o n g a V FIN IND PL 3 FUT
+g o n g a V FIN IND PL 3 PST
+g o n g a V FIN IND SG 1 FUT
+g o n g a V FIN IND SG 1 PST
+g o n g a V FIN IND SG 2 FUT
+g o n g a V FIN IND SG 2 PST
+g o n g a V FIN IND SG 3 FUT
+g o n g a V FIN IND SG 3 PST
+g o n g a V HAB FIN IND PL 1 PRS
+g o n g a V HAB FIN IND PL 2 PRS
+g o n g a V HAB FIN IND PL 3 PRS
+g o n g a V HAB FIN IND SG 1 PRS
+g o n g a V HAB FIN IND SG 2 PRS
+g o n g a V HAB FIN IND SG 3 PRS
+g o n g a V INDF FIN IND PL 1 PRS
+g o n g a V INDF FIN IND PL 2 PRS
+g o n g a V INDF FIN IND PL 3 PRS
+g o n g a V INDF FIN IND SG 1 PRS
+g o n g a V INDF FIN IND SG 2 PRS
+g o n g a V INDF FIN IND SG 3 PRS
+g o n g a V PRF FIN IND PL 1 PST
+g o n g a V PRF FIN IND PL 2 PST
+g o n g a V PRF FIN IND PL 3 PST
+g o n g a V PRF FIN IND SG 1 PST
+g o n g a V PRF FIN IND SG 2 PST
+g o n g a V PRF FIN IND SG 3 PST
+s i k i l i z a V DEF FIN IND PL 1 PRS
+s i k i l i z a V DEF FIN IND PL 2 PRS
+s i k i l i z a V DEF FIN IND PL 3 PRS
+s i k i l i z a V DEF FIN IND SG 1 PRS
+s i k i l i z a V DEF FIN IND SG 2 PRS
+s i k i l i z a V DEF FIN IND SG 3 PRS
+s i k i l i z a V FIN
+s i k i l i z a V FIN COND PL 1 PRS
+s i k i l i z a V FIN COND PL 1 PST
+s i k i l i z a V FIN COND PL 2 PRS
+s i k i l i z a V FIN COND PL 2 PST
+s i k i l i z a V FIN COND PL 3 PRS
+s i k i l i z a V FIN COND PL 3 PST
+s i k i l i z a V FIN COND SG 1 PRS
+s i k i l i z a V FIN COND SG 1 PST
+s i k i l i z a V FIN COND SG 2 PRS
+s i k i l i z a V FIN COND SG 2 PST
+s i k i l i z a V FIN COND SG 3 PRS
+s i k i l i z a V FIN COND SG 3 PST
+s i k i l i z a V FIN IND PL 1 FUT
+s i k i l i z a V FIN IND PL 1 PST
+s i k i l i z a V FIN IND PL 2 FUT
+s i k i l i z a V FIN IND PL 2 PST
+s i k i l i z a V FIN IND PL 3 FUT
+s i k i l i z a V FIN IND PL 3 PST
+s i k i l i z a V FIN IND SG 1 FUT
+s i k i l i z a V FIN IND SG 1 PST
+s i k i l i z a V FIN IND SG 2 FUT
+s i k i l i z a V FIN IND SG 2 PST
+s i k i l i z a V FIN IND SG 3 FUT
+s i k i l i z a V FIN IND SG 3 PST
+s i k i l i z a V HAB FIN IND PL 1 PRS
+s i k i l i z a V HAB FIN IND PL 2 PRS
+s i k i l i z a V HAB FIN IND PL 3 PRS
+s i k i l i z a V HAB FIN IND SG 1 PRS
+s i k i l i z a V HAB FIN IND SG 2 PRS
+s i k i l i z a V HAB FIN IND SG 3 PRS
+s i k i l i z a V INDF FIN IND PL 1 PRS
+s i k i l i z a V INDF FIN IND PL 2 PRS
+s i k i l i z a V INDF FIN IND PL 3 PRS
+s i k i l i z a V INDF FIN IND SG 1 PRS
+s i k i l i z a V INDF FIN IND SG 2 PRS
+s i k i l i z a V INDF FIN IND SG 3 PRS
+s i k i l i z a V PRF FIN IND PL 1 PST
+s i k i l i z a V PRF FIN IND PL 2 PST
+s i k i l i z a V PRF FIN IND PL 3 PST
+s i k i l i z a V PRF FIN IND SG 1 PST
+s i k i l i z a V PRF FIN IND SG 2 PST
+s i k i l i z a V PRF FIN IND SG 3 PST
+c h a f y a V DEF FIN IND PL 1 PRS
+c h a f y a V DEF FIN IND PL 2 PRS
+c h a f y a V DEF FIN IND PL 3 PRS
+c h a f y a V DEF FIN IND SG 1 PRS
+c h a f y a V DEF FIN IND SG 2 PRS
+c h a f y a V DEF FIN IND SG 3 PRS
+c h a f y a V FIN
+c h a f y a V FIN COND PL 1 PRS
+c h a f y a V FIN COND PL 1 PST
+c h a f y a V FIN COND PL 2 PRS
+c h a f y a V FIN COND PL 2 PST
+c h a f y a V FIN COND PL 3 PRS
+c h a f y a V FIN COND PL 3 PST
+c h a f y a V FIN COND SG 1 PRS
+c h a f y a V FIN COND SG 1 PST
+c h a f y a V FIN COND SG 2 PRS
+c h a f y a V FIN COND SG 2 PST
+c h a f y a V FIN COND SG 3 PRS
+c h a f y a V FIN COND SG 3 PST
+c h a f y a V FIN IND PL 1 FUT
+c h a f y a V FIN IND PL 1 PST
+c h a f y a V FIN IND PL 2 FUT
+c h a f y a V FIN IND PL 2 PST
+c h a f y a V FIN IND PL 3 FUT
+c h a f y a V FIN IND PL 3 PST
+c h a f y a V FIN IND SG 1 FUT
+c h a f y a V FIN IND SG 1 PST
+c h a f y a V FIN IND SG 2 FUT
+c h a f y a V FIN IND SG 2 PST
+c h a f y a V FIN IND SG 3 FUT
+c h a f y a V FIN IND SG 3 PST
+c h a f y a V HAB FIN IND PL 1 PRS
+c h a f y a V HAB FIN IND PL 2 PRS
+c h a f y a V HAB FIN IND PL 3 PRS
+c h a f y a V HAB FIN IND SG 1 PRS
+c h a f y a V HAB FIN IND SG 2 PRS
+c h a f y a V HAB FIN IND SG 3 PRS
+c h a f y a V INDF FIN IND PL 1 PRS
+c h a f y a V INDF FIN IND PL 2 PRS
+c h a f y a V INDF FIN IND PL 3 PRS
+c h a f y a V INDF FIN IND SG 1 PRS
+c h a f y a V INDF FIN IND SG 2 PRS
+c h a f y a V INDF FIN IND SG 3 PRS
+c h a f y a V PRF FIN IND PL 1 PST
+c h a f y a V PRF FIN IND PL 2 PST
+c h a f y a V PRF FIN IND PL 3 PST
+c h a f y a V PRF FIN IND SG 1 PST
+c h a f y a V PRF FIN IND SG 2 PST
+c h a f y a V PRF FIN IND SG 3 PST
+c h a n g a n y a V DEF FIN IND PL 1 PRS
+c h a n g a n y a V DEF FIN IND PL 2 PRS
+c h a n g a n y a V DEF FIN IND PL 3 PRS
+c h a n g a n y a V DEF FIN IND SG 1 PRS
+c h a n g a n y a V DEF FIN IND SG 2 PRS
+c h a n g a n y a V DEF FIN IND SG 3 PRS
+c h a n g a n y a V FIN
+c h a n g a n y a V FIN COND PL 1 PRS
+c h a n g a n y a V FIN COND PL 1 PST
+c h a n g a n y a V FIN COND PL 2 PRS
+c h a n g a n y a V FIN COND PL 2 PST
+c h a n g a n y a V FIN COND PL 3 PRS
+c h a n g a n y a V FIN COND PL 3 PST
+c h a n g a n y a V FIN COND SG 1 PRS
+c h a n g a n y a V FIN COND SG 1 PST
+c h a n g a n y a V FIN COND SG 2 PRS
+c h a n g a n y a V FIN COND SG 2 PST
+c h a n g a n y a V FIN COND SG 3 PRS
+c h a n g a n y a V FIN COND SG 3 PST
+c h a n g a n y a V FIN IND PL 1 FUT
+c h a n g a n y a V FIN IND PL 1 PST
+c h a n g a n y a V FIN IND PL 2 FUT
+c h a n g a n y a V FIN IND PL 2 PST
+c h a n g a n y a V FIN IND PL 3 FUT
+c h a n g a n y a V FIN IND PL 3 PST
+c h a n g a n y a V FIN IND SG 1 FUT
+c h a n g a n y a V FIN IND SG 1 PST
+c h a n g a n y a V FIN IND SG 2 FUT
+c h a n g a n y a V FIN IND SG 2 PST
+c h a n g a n y a V FIN IND SG 3 FUT
+c h a n g a n y a V FIN IND SG 3 PST
+c h a n g a n y a V HAB FIN IND PL 1 PRS
+c h a n g a n y a V HAB FIN IND PL 2 PRS
+c h a n g a n y a V HAB FIN IND PL 3 PRS
+c h a n g a n y a V HAB FIN IND SG 1 PRS
+c h a n g a n y a V HAB FIN IND SG 2 PRS
+c h a n g a n y a V HAB FIN IND SG 3 PRS
+c h a n g a n y a V INDF FIN IND PL 1 PRS
+c h a n g a n y a V INDF FIN IND PL 2 PRS
+c h a n g a n y a V INDF FIN IND PL 3 PRS
+c h a n g a n y a V INDF FIN IND SG 1 PRS
+c h a n g a n y a V INDF FIN IND SG 2 PRS
+c h a n g a n y a V INDF FIN IND SG 3 PRS
+c h a n g a n y a V PRF FIN IND PL 1 PST
+c h a n g a n y a V PRF FIN IND PL 2 PST
+c h a n g a n y a V PRF FIN IND PL 3 PST
+c h a n g a n y a V PRF FIN IND SG 1 PST
+c h a n g a n y a V PRF FIN IND SG 2 PST
+c h a n g a n y a V PRF FIN IND SG 3 PST
+u l i z a V DEF FIN IND PL 1 PRS
+u l i z a V DEF FIN IND PL 2 PRS
+u l i z a V DEF FIN IND PL 3 PRS
+u l i z a V DEF FIN IND SG 1 PRS
+u l i z a V DEF FIN IND SG 2 PRS
+u l i z a V DEF FIN IND SG 3 PRS
+u l i z a V FIN
+u l i z a V FIN COND PL 1 PRS
+u l i z a V FIN COND PL 1 PST
+u l i z a V FIN COND PL 2 PRS
+u l i z a V FIN COND PL 2 PST
+u l i z a V FIN COND PL 3 PRS
+u l i z a V FIN COND PL 3 PST
+u l i z a V FIN COND SG 1 PRS
+u l i z a V FIN COND SG 1 PST
+u l i z a V FIN COND SG 2 PRS
+u l i z a V FIN COND SG 2 PST
+u l i z a V FIN COND SG 3 PRS
+u l i z a V FIN COND SG 3 PST
+u l i z a V FIN IND PL 1 FUT
+u l i z a V FIN IND PL 1 PST
+u l i z a V FIN IND PL 2 FUT
+u l i z a V FIN IND PL 2 PST
+u l i z a V FIN IND PL 3 FUT
+u l i z a V FIN IND PL 3 PST
+u l i z a V FIN IND SG 1 FUT
+u l i z a V FIN IND SG 1 PST
+u l i z a V FIN IND SG 2 FUT
+u l i z a V FIN IND SG 2 PST
+u l i z a V FIN IND SG 3 FUT
+u l i z a V FIN IND SG 3 PST
+u l i z a V HAB FIN IND PL 1 PRS
+u l i z a V HAB FIN IND PL 2 PRS
+u l i z a V HAB FIN IND PL 3 PRS
+u l i z a V HAB FIN IND SG 1 PRS
+u l i z a V HAB FIN IND SG 2 PRS
+u l i z a V HAB FIN IND SG 3 PRS
+u l i z a V INDF FIN IND PL 1 PRS
+u l i z a V INDF FIN IND PL 2 PRS
+u l i z a V INDF FIN IND PL 3 PRS
+u l i z a V INDF FIN IND SG 1 PRS
+u l i z a V INDF FIN IND SG 2 PRS
+u l i z a V INDF FIN IND SG 3 PRS
+u l i z a V PRF FIN IND PL 1 PST
+u l i z a V PRF FIN IND PL 2 PST
+u l i z a V PRF FIN IND PL 3 PST
+u l i z a V PRF FIN IND SG 1 PST
+u l i z a V PRF FIN IND SG 2 PST
+u l i z a V PRF FIN IND SG 3 PST
+p e a V DEF FIN IND PL 1 PRS
+p e a V DEF FIN IND PL 2 PRS
+p e a V DEF FIN IND PL 3 PRS
+p e a V DEF FIN IND SG 1 PRS
+p e a V DEF FIN IND SG 2 PRS
+p e a V DEF FIN IND SG 3 PRS
+p e a V FIN
+p e a V FIN COND PL 1 PRS
+p e a V FIN COND PL 1 PST
+p e a V FIN COND PL 2 PRS
+p e a V FIN COND PL 2 PST
+p e a V FIN COND PL 3 PRS
+p e a V FIN COND PL 3 PST
+p e a V FIN COND SG 1 PRS
+p e a V FIN COND SG 1 PST
+p e a V FIN COND SG 2 PRS
+p e a V FIN COND SG 2 PST
+p e a V FIN COND SG 3 PRS
+p e a V FIN COND SG 3 PST
+p e a V FIN IND PL 1 FUT
+p e a V FIN IND PL 1 PST
+p e a V FIN IND PL 2 FUT
+p e a V FIN IND PL 2 PST
+p e a V FIN IND PL 3 FUT
+p e a V FIN IND PL 3 PST
+p e a V FIN IND SG 1 FUT
+p e a V FIN IND SG 1 PST
+p e a V FIN IND SG 2 FUT
+p e a V FIN IND SG 2 PST
+p e a V FIN IND SG 3 FUT
+p e a V FIN IND SG 3 PST
+p e a V HAB FIN IND PL 1 PRS
+p e a V HAB FIN IND PL 2 PRS
+p e a V HAB FIN IND PL 3 PRS
+p e a V HAB FIN IND SG 1 PRS
+p e a V HAB FIN IND SG 2 PRS
+p e a V HAB FIN IND SG 3 PRS
+p e a V INDF FIN IND PL 1 PRS
+p e a V INDF FIN IND PL 2 PRS
+p e a V INDF FIN IND PL 3 PRS
+p e a V INDF FIN IND SG 1 PRS
+p e a V INDF FIN IND SG 2 PRS
+p e a V INDF FIN IND SG 3 PRS
+p e a V PRF FIN IND PL 1 PST
+p e a V PRF FIN IND PL 2 PST
+p e a V PRF FIN IND PL 3 PST
+p e a V PRF FIN IND SG 1 PST
+p e a V PRF FIN IND SG 2 PST
+p e a V PRF FIN IND SG 3 PST
+k u n j a V DEF FIN IND PL 1 PRS
+k u n j a V DEF FIN IND PL 2 PRS
+k u n j a V DEF FIN IND PL 3 PRS
+k u n j a V DEF FIN IND SG 1 PRS
+k u n j a V DEF FIN IND SG 2 PRS
+k u n j a V DEF FIN IND SG 3 PRS
+k u n j a V FIN
+k u n j a V FIN COND PL 1 PRS
+k u n j a V FIN COND PL 1 PST
+k u n j a V FIN COND PL 2 PRS
+k u n j a V FIN COND PL 2 PST
+k u n j a V FIN COND PL 3 PRS
+k u n j a V FIN COND PL 3 PST
+k u n j a V FIN COND SG 1 PRS
+k u n j a V FIN COND SG 1 PST
+k u n j a V FIN COND SG 2 PRS
+k u n j a V FIN COND SG 2 PST
+k u n j a V FIN COND SG 3 PRS
+k u n j a V FIN COND SG 3 PST
+k u n j a V FIN IND PL 1 FUT
+k u n j a V FIN IND PL 1 PST
+k u n j a V FIN IND PL 2 FUT
+k u n j a V FIN IND PL 2 PST
+k u n j a V FIN IND PL 3 FUT
+k u n j a V FIN IND PL 3 PST
+k u n j a V FIN IND SG 1 FUT
+k u n j a V FIN IND SG 1 PST
+k u n j a V FIN IND SG 2 FUT
+k u n j a V FIN IND SG 2 PST
+k u n j a V FIN IND SG 3 FUT
+k u n j a V FIN IND SG 3 PST
+k u n j a V HAB FIN IND PL 1 PRS
+k u n j a V HAB FIN IND PL 2 PRS
+k u n j a V HAB FIN IND PL 3 PRS
+k u n j a V HAB FIN IND SG 1 PRS
+k u n j a V HAB FIN IND SG 2 PRS
+k u n j a V HAB FIN IND SG 3 PRS
+k u n j a V INDF FIN IND PL 1 PRS
+k u n j a V INDF FIN IND PL 2 PRS
+k u n j a V INDF FIN IND PL 3 PRS
+k u n j a V INDF FIN IND SG 1 PRS
+k u n j a V INDF FIN IND SG 2 PRS
+k u n j a V INDF FIN IND SG 3 PRS
+k u n j a V PRF FIN IND PL 1 PST
+k u n j a V PRF FIN IND PL 2 PST
+k u n j a V PRF FIN IND PL 3 PST
+k u n j a V PRF FIN IND SG 1 PST
+k u n j a V PRF FIN IND SG 2 PST
+k u n j a V PRF FIN IND SG 3 PST
+c h u k i a V DEF FIN IND PL 1 PRS
+c h u k i a V DEF FIN IND PL 2 PRS
+c h u k i a V DEF FIN IND PL 3 PRS
+c h u k i a V DEF FIN IND SG 1 PRS
+c h u k i a V DEF FIN IND SG 2 PRS
+c h u k i a V DEF FIN IND SG 3 PRS
+c h u k i a V FIN
+c h u k i a V FIN COND PL 1 PRS
+c h u k i a V FIN COND PL 1 PST
+c h u k i a V FIN COND PL 2 PRS
+c h u k i a V FIN COND PL 2 PST
+c h u k i a V FIN COND PL 3 PRS
+c h u k i a V FIN COND PL 3 PST
+c h u k i a V FIN COND SG 1 PRS
+c h u k i a V FIN COND SG 1 PST
+c h u k i a V FIN COND SG 2 PRS
+c h u k i a V FIN COND SG 2 PST
+c h u k i a V FIN COND SG 3 PRS
+c h u k i a V FIN COND SG 3 PST
+c h u k i a V FIN IND PL 1 FUT
+c h u k i a V FIN IND PL 1 PST
+c h u k i a V FIN IND PL 2 FUT
+c h u k i a V FIN IND PL 2 PST
+c h u k i a V FIN IND PL 3 FUT
+c h u k i a V FIN IND PL 3 PST
+c h u k i a V FIN IND SG 1 FUT
+c h u k i a V FIN IND SG 1 PST
+c h u k i a V FIN IND SG 2 FUT
+c h u k i a V FIN IND SG 2 PST
+c h u k i a V FIN IND SG 3 FUT
+c h u k i a V FIN IND SG 3 PST
+c h u k i a V HAB FIN IND PL 1 PRS
+c h u k i a V HAB FIN IND PL 2 PRS
+c h u k i a V HAB FIN IND PL 3 PRS
+c h u k i a V HAB FIN IND SG 1 PRS
+c h u k i a V HAB FIN IND SG 2 PRS
+c h u k i a V HAB FIN IND SG 3 PRS
+c h u k i a V INDF FIN IND PL 1 PRS
+c h u k i a V INDF FIN IND PL 2 PRS
+c h u k i a V INDF FIN IND PL 3 PRS
+c h u k i a V INDF FIN IND SG 1 PRS
+c h u k i a V INDF FIN IND SG 2 PRS
+c h u k i a V INDF FIN IND SG 3 PRS
+c h u k i a V PRF FIN IND PL 1 PST
+c h u k i a V PRF FIN IND PL 2 PST
+c h u k i a V PRF FIN IND PL 3 PST
+c h u k i a V PRF FIN IND SG 1 PST
+c h u k i a V PRF FIN IND SG 2 PST
+c h u k i a V PRF FIN IND SG 3 PST
+i n u k a V DEF FIN IND PL 1 PRS
+i n u k a V DEF FIN IND PL 2 PRS
+i n u k a V DEF FIN IND PL 3 PRS
+i n u k a V DEF FIN IND SG 1 PRS
+i n u k a V DEF FIN IND SG 2 PRS
+i n u k a V DEF FIN IND SG 3 PRS
+i n u k a V FIN
+i n u k a V FIN COND PL 1 PRS
+i n u k a V FIN COND PL 1 PST
+i n u k a V FIN COND PL 2 PRS
+i n u k a V FIN COND PL 2 PST
+i n u k a V FIN COND PL 3 PRS
+i n u k a V FIN COND PL 3 PST
+i n u k a V FIN COND SG 1 PRS
+i n u k a V FIN COND SG 1 PST
+i n u k a V FIN COND SG 2 PRS
+i n u k a V FIN COND SG 2 PST
+i n u k a V FIN COND SG 3 PRS
+i n u k a V FIN COND SG 3 PST
+i n u k a V FIN IND PL 1 FUT
+i n u k a V FIN IND PL 1 PST
+i n u k a V FIN IND PL 2 FUT
+i n u k a V FIN IND PL 2 PST
+i n u k a V FIN IND PL 3 FUT
+i n u k a V FIN IND PL 3 PST
+i n u k a V FIN IND SG 1 FUT
+i n u k a V FIN IND SG 1 PST
+i n u k a V FIN IND SG 2 FUT
+i n u k a V FIN IND SG 2 PST
+i n u k a V FIN IND SG 3 FUT
+i n u k a V FIN IND SG 3 PST
+i n u k a V HAB FIN IND PL 1 PRS
+i n u k a V HAB FIN IND PL 2 PRS
+i n u k a V HAB FIN IND PL 3 PRS
+i n u k a V HAB FIN IND SG 1 PRS
+i n u k a V HAB FIN IND SG 2 PRS
+i n u k a V HAB FIN IND SG 3 PRS
+i n u k a V INDF FIN IND PL 1 PRS
+i n u k a V INDF FIN IND PL 2 PRS
+i n u k a V INDF FIN IND PL 3 PRS
+i n u k a V INDF FIN IND SG 1 PRS
+i n u k a V INDF FIN IND SG 2 PRS
+i n u k a V INDF FIN IND SG 3 PRS
+i n u k a V PRF FIN IND PL 1 PST
+i n u k a V PRF FIN IND PL 2 PST
+i n u k a V PRF FIN IND PL 3 PST
+i n u k a V PRF FIN IND SG 1 PST
+i n u k a V PRF FIN IND SG 2 PST
+i n u k a V PRF FIN IND SG 3 PST
+t a f u n a V DEF FIN IND PL 1 PRS
+t a f u n a V DEF FIN IND PL 2 PRS
+t a f u n a V DEF FIN IND PL 3 PRS
+t a f u n a V DEF FIN IND SG 1 PRS
+t a f u n a V DEF FIN IND SG 2 PRS
+t a f u n a V DEF FIN IND SG 3 PRS
+t a f u n a V FIN
+t a f u n a V FIN COND PL 1 PRS
+t a f u n a V FIN COND PL 1 PST
+t a f u n a V FIN COND PL 2 PRS
+t a f u n a V FIN COND PL 2 PST
+t a f u n a V FIN COND PL 3 PRS
+t a f u n a V FIN COND PL 3 PST
+t a f u n a V FIN COND SG 1 PRS
+t a f u n a V FIN COND SG 1 PST
+t a f u n a V FIN COND SG 2 PRS
+t a f u n a V FIN COND SG 2 PST
+t a f u n a V FIN COND SG 3 PRS
+t a f u n a V FIN COND SG 3 PST
+t a f u n a V FIN IND PL 1 FUT
+t a f u n a V FIN IND PL 1 PST
+t a f u n a V FIN IND PL 2 FUT
+t a f u n a V FIN IND PL 2 PST
+t a f u n a V FIN IND PL 3 FUT
+t a f u n a V FIN IND PL 3 PST
+t a f u n a V FIN IND SG 1 FUT
+t a f u n a V FIN IND SG 1 PST
+t a f u n a V FIN IND SG 2 FUT
+t a f u n a V FIN IND SG 2 PST
+t a f u n a V FIN IND SG 3 FUT
+t a f u n a V FIN IND SG 3 PST
+t a f u n a V HAB FIN IND PL 1 PRS
+t a f u n a V HAB FIN IND PL 2 PRS
+t a f u n a V HAB FIN IND PL 3 PRS
+t a f u n a V HAB FIN IND SG 1 PRS
+t a f u n a V HAB FIN IND SG 2 PRS
+t a f u n a V HAB FIN IND SG 3 PRS
+t a f u n a V INDF FIN IND PL 1 PRS
+t a f u n a V INDF FIN IND PL 2 PRS
+t a f u n a V INDF FIN IND PL 3 PRS
+t a f u n a V INDF FIN IND SG 1 PRS
+t a f u n a V INDF FIN IND SG 2 PRS
+t a f u n a V INDF FIN IND SG 3 PRS
+t a f u n a V PRF FIN IND PL 1 PST
+t a f u n a V PRF FIN IND PL 2 PST
+t a f u n a V PRF FIN IND PL 3 PST
+t a f u n a V PRF FIN IND SG 1 PST
+t a f u n a V PRF FIN IND SG 2 PST
+t a f u n a V PRF FIN IND SG 3 PST
+u w a V DEF FIN IND PL 1 PRS
+u w a V DEF FIN IND PL 2 PRS
+u w a V DEF FIN IND PL 3 PRS
+u w a V DEF FIN IND SG 1 PRS
+u w a V DEF FIN IND SG 2 PRS
+u w a V DEF FIN IND SG 3 PRS
+u w a V FIN
+u w a V FIN COND PL 1 PRS
+u w a V FIN COND PL 1 PST
+u w a V FIN COND PL 2 PRS
+u w a V FIN COND PL 2 PST
+u w a V FIN COND PL 3 PRS
+u w a V FIN COND PL 3 PST
+u w a V FIN COND SG 1 PRS
+u w a V FIN COND SG 1 PST
+u w a V FIN COND SG 2 PRS
+u w a V FIN COND SG 2 PST
+u w a V FIN COND SG 3 PRS
+u w a V FIN COND SG 3 PST
+u w a V FIN IND PL 1 FUT
+u w a V FIN IND PL 1 PST
+u w a V FIN IND PL 2 FUT
+u w a V FIN IND PL 2 PST
+u w a V FIN IND PL 3 FUT
+u w a V FIN IND PL 3 PST
+u w a V FIN IND SG 1 FUT
+u w a V FIN IND SG 1 PST
+u w a V FIN IND SG 2 FUT
+u w a V FIN IND SG 2 PST
+u w a V FIN IND SG 3 FUT
+u w a V FIN IND SG 3 PST
+u w a V HAB FIN IND PL 1 PRS
+u w a V HAB FIN IND PL 2 PRS
+u w a V HAB FIN IND PL 3 PRS
+u w a V HAB FIN IND SG 1 PRS
+u w a V HAB FIN IND SG 2 PRS
+u w a V HAB FIN IND SG 3 PRS
+u w a V INDF FIN IND PL 1 PRS
+u w a V INDF FIN IND PL 2 PRS
+u w a V INDF FIN IND PL 3 PRS
+u w a V INDF FIN IND SG 1 PRS
+u w a V INDF FIN IND SG 2 PRS
+u w a V INDF FIN IND SG 3 PRS
+u w a V PRF FIN IND PL 1 PST
+u w a V PRF FIN IND PL 2 PST
+u w a V PRF FIN IND PL 3 PST
+u w a V PRF FIN IND SG 1 PST
+u w a V PRF FIN IND SG 2 PST
+u w a V PRF FIN IND SG 3 PST
+p o t e a V DEF FIN IND PL 1 PRS
+p o t e a V DEF FIN IND PL 2 PRS
+p o t e a V DEF FIN IND PL 3 PRS
+p o t e a V DEF FIN IND SG 1 PRS
+p o t e a V DEF FIN IND SG 2 PRS
+p o t e a V DEF FIN IND SG 3 PRS
+p o t e a V FIN
+p o t e a V FIN COND PL 1 PRS
+p o t e a V FIN COND PL 1 PST
+p o t e a V FIN COND PL 2 PRS
+p o t e a V FIN COND PL 2 PST
+p o t e a V FIN COND PL 3 PRS
+p o t e a V FIN COND PL 3 PST
+p o t e a V FIN COND SG 1 PRS
+p o t e a V FIN COND SG 1 PST
+p o t e a V FIN COND SG 2 PRS
+p o t e a V FIN COND SG 2 PST
+p o t e a V FIN COND SG 3 PRS
+p o t e a V FIN COND SG 3 PST
+p o t e a V FIN IND PL 1 FUT
+p o t e a V FIN IND PL 1 PST
+p o t e a V FIN IND PL 2 FUT
+p o t e a V FIN IND PL 2 PST
+p o t e a V FIN IND PL 3 FUT
+p o t e a V FIN IND PL 3 PST
+p o t e a V FIN IND SG 1 FUT
+p o t e a V FIN IND SG 1 PST
+p o t e a V FIN IND SG 2 FUT
+p o t e a V FIN IND SG 2 PST
+p o t e a V FIN IND SG 3 FUT
+p o t e a V FIN IND SG 3 PST
+p o t e a V HAB FIN IND PL 1 PRS
+p o t e a V HAB FIN IND PL 2 PRS
+p o t e a V HAB FIN IND PL 3 PRS
+p o t e a V HAB FIN IND SG 1 PRS
+p o t e a V HAB FIN IND SG 2 PRS
+p o t e a V HAB FIN IND SG 3 PRS
+p o t e a V INDF FIN IND PL 1 PRS
+p o t e a V INDF FIN IND PL 2 PRS
+p o t e a V INDF FIN IND PL 3 PRS
+p o t e a V INDF FIN IND SG 1 PRS
+p o t e a V INDF FIN IND SG 2 PRS
+p o t e a V INDF FIN IND SG 3 PRS
+p o t e a V PRF FIN IND PL 1 PST
+p o t e a V PRF FIN IND PL 2 PST
+p o t e a V PRF FIN IND PL 3 PST
+p o t e a V PRF FIN IND SG 1 PST
+p o t e a V PRF FIN IND SG 2 PST
+p o t e a V PRF FIN IND SG 3 PST
+s e m a V DEF FIN IND PL 1 PRS
+s e m a V DEF FIN IND PL 2 PRS
+s e m a V DEF FIN IND PL 3 PRS
+s e m a V DEF FIN IND SG 1 PRS
+s e m a V DEF FIN IND SG 2 PRS
+s e m a V DEF FIN IND SG 3 PRS
+s e m a V FIN
+s e m a V FIN COND PL 1 PRS
+s e m a V FIN COND PL 1 PST
+s e m a V FIN COND PL 2 PRS
+s e m a V FIN COND PL 2 PST
+s e m a V FIN COND PL 3 PRS
+s e m a V FIN COND PL 3 PST
+s e m a V FIN COND SG 1 PRS
+s e m a V FIN COND SG 1 PST
+s e m a V FIN COND SG 2 PRS
+s e m a V FIN COND SG 2 PST
+s e m a V FIN COND SG 3 PRS
+s e m a V FIN COND SG 3 PST
+s e m a V FIN IND PL 1 FUT
+s e m a V FIN IND PL 1 PST
+s e m a V FIN IND PL 2 FUT
+s e m a V FIN IND PL 2 PST
+s e m a V FIN IND PL 3 FUT
+s e m a V FIN IND PL 3 PST
+s e m a V FIN IND SG 1 FUT
+s e m a V FIN IND SG 1 PST
+s e m a V FIN IND SG 2 FUT
+s e m a V FIN IND SG 2 PST
+s e m a V FIN IND SG 3 FUT
+s e m a V FIN IND SG 3 PST
+s e m a V HAB FIN IND PL 1 PRS
+s e m a V HAB FIN IND PL 2 PRS
+s e m a V HAB FIN IND PL 3 PRS
+s e m a V HAB FIN IND SG 1 PRS
+s e m a V HAB FIN IND SG 2 PRS
+s e m a V HAB FIN IND SG 3 PRS
+s e m a V INDF FIN IND PL 1 PRS
+s e m a V INDF FIN IND PL 2 PRS
+s e m a V INDF FIN IND PL 3 PRS
+s e m a V INDF FIN IND SG 1 PRS
+s e m a V INDF FIN IND SG 2 PRS
+s e m a V INDF FIN IND SG 3 PRS
+s e m a V PRF FIN IND PL 1 PST
+s e m a V PRF FIN IND PL 2 PST
+s e m a V PRF FIN IND PL 3 PST
+s e m a V PRF FIN IND SG 1 PST
+s e m a V PRF FIN IND SG 2 PST
+s e m a V PRF FIN IND SG 3 PST
+n g o j a V DEF FIN IND PL 1 PRS
+n g o j a V DEF FIN IND PL 2 PRS
+n g o j a V DEF FIN IND PL 3 PRS
+n g o j a V DEF FIN IND SG 1 PRS
+n g o j a V DEF FIN IND SG 2 PRS
+n g o j a V DEF FIN IND SG 3 PRS
+n g o j a V FIN
+n g o j a V FIN COND PL 1 PRS
+n g o j a V FIN COND PL 1 PST
+n g o j a V FIN COND PL 2 PRS
+n g o j a V FIN COND PL 2 PST
+n g o j a V FIN COND PL 3 PRS
+n g o j a V FIN COND PL 3 PST
+n g o j a V FIN COND SG 1 PRS
+n g o j a V FIN COND SG 1 PST
+n g o j a V FIN COND SG 2 PRS
+n g o j a V FIN COND SG 2 PST
+n g o j a V FIN COND SG 3 PRS
+n g o j a V FIN COND SG 3 PST
+n g o j a V FIN IND PL 1 FUT
+n g o j a V FIN IND PL 1 PST
+n g o j a V FIN IND PL 2 FUT
+n g o j a V FIN IND PL 2 PST
+n g o j a V FIN IND PL 3 FUT
+n g o j a V FIN IND PL 3 PST
+n g o j a V FIN IND SG 1 FUT
+n g o j a V FIN IND SG 1 PST
+n g o j a V FIN IND SG 2 FUT
+n g o j a V FIN IND SG 2 PST
+n g o j a V FIN IND SG 3 FUT
+n g o j a V FIN IND SG 3 PST
+n g o j a V HAB FIN IND PL 1 PRS
+n g o j a V HAB FIN IND PL 2 PRS
+n g o j a V HAB FIN IND PL 3 PRS
+n g o j a V HAB FIN IND SG 1 PRS
+n g o j a V HAB FIN IND SG 2 PRS
+n g o j a V HAB FIN IND SG 3 PRS
+n g o j a V INDF FIN IND PL 1 PRS
+n g o j a V INDF FIN IND PL 2 PRS
+n g o j a V INDF FIN IND PL 3 PRS
+n g o j a V INDF FIN IND SG 1 PRS
+n g o j a V INDF FIN IND SG 2 PRS
+n g o j a V INDF FIN IND SG 3 PRS
+n g o j a V PRF FIN IND PL 1 PST
+n g o j a V PRF FIN IND PL 2 PST
+n g o j a V PRF FIN IND PL 3 PST
+n g o j a V PRF FIN IND SG 1 PST
+n g o j a V PRF FIN IND SG 2 PST
+n g o j a V PRF FIN IND SG 3 PST
+p u n g u z a V DEF FIN IND PL 1 PRS
+p u n g u z a V DEF FIN IND PL 2 PRS
+p u n g u z a V DEF FIN IND PL 3 PRS
+p u n g u z a V DEF FIN IND SG 1 PRS
+p u n g u z a V DEF FIN IND SG 2 PRS
+p u n g u z a V DEF FIN IND SG 3 PRS
+p u n g u z a V FIN
+p u n g u z a V FIN COND PL 1 PRS
+p u n g u z a V FIN COND PL 1 PST
+p u n g u z a V FIN COND PL 2 PRS
+p u n g u z a V FIN COND PL 2 PST
+p u n g u z a V FIN COND PL 3 PRS
+p u n g u z a V FIN COND PL 3 PST
+p u n g u z a V FIN COND SG 1 PRS
+p u n g u z a V FIN COND SG 1 PST
+p u n g u z a V FIN COND SG 2 PRS
+p u n g u z a V FIN COND SG 2 PST
+p u n g u z a V FIN COND SG 3 PRS
+p u n g u z a V FIN COND SG 3 PST
+p u n g u z a V FIN IND PL 1 FUT
+p u n g u z a V FIN IND PL 1 PST
+p u n g u z a V FIN IND PL 2 FUT
+p u n g u z a V FIN IND PL 2 PST
+p u n g u z a V FIN IND PL 3 FUT
+p u n g u z a V FIN IND PL 3 PST
+p u n g u z a V FIN IND SG 1 FUT
+p u n g u z a V FIN IND SG 1 PST
+p u n g u z a V FIN IND SG 2 FUT
+p u n g u z a V FIN IND SG 2 PST
+p u n g u z a V FIN IND SG 3 FUT
+p u n g u z a V FIN IND SG 3 PST
+p u n g u z a V HAB FIN IND PL 1 PRS
+p u n g u z a V HAB FIN IND PL 2 PRS
+p u n g u z a V HAB FIN IND PL 3 PRS
+p u n g u z a V HAB FIN IND SG 1 PRS
+p u n g u z a V HAB FIN IND SG 2 PRS
+p u n g u z a V HAB FIN IND SG 3 PRS
+p u n g u z a V INDF FIN IND PL 1 PRS
+p u n g u z a V INDF FIN IND PL 2 PRS
+p u n g u z a V INDF FIN IND PL 3 PRS
+p u n g u z a V INDF FIN IND SG 1 PRS
+p u n g u z a V INDF FIN IND SG 2 PRS
+p u n g u z a V INDF FIN IND SG 3 PRS
+p u n g u z a V PRF FIN IND PL 1 PST
+p u n g u z a V PRF FIN IND PL 2 PST
+p u n g u z a V PRF FIN IND PL 3 PST
+p u n g u z a V PRF FIN IND SG 1 PST
+p u n g u z a V PRF FIN IND SG 2 PST
+p u n g u z a V PRF FIN IND SG 3 PST
+p o n d a V DEF FIN IND PL 1 PRS
+p o n d a V DEF FIN IND PL 2 PRS
+p o n d a V DEF FIN IND PL 3 PRS
+p o n d a V DEF FIN IND SG 1 PRS
+p o n d a V DEF FIN IND SG 2 PRS
+p o n d a V DEF FIN IND SG 3 PRS
+p o n d a V FIN
+p o n d a V FIN COND PL 1 PRS
+p o n d a V FIN COND PL 1 PST
+p o n d a V FIN COND PL 2 PRS
+p o n d a V FIN COND PL 2 PST
+p o n d a V FIN COND PL 3 PRS
+p o n d a V FIN COND PL 3 PST
+p o n d a V FIN COND SG 1 PRS
+p o n d a V FIN COND SG 1 PST
+p o n d a V FIN COND SG 2 PRS
+p o n d a V FIN COND SG 2 PST
+p o n d a V FIN COND SG 3 PRS
+p o n d a V FIN COND SG 3 PST
+p o n d a V FIN IND PL 1 FUT
+p o n d a V FIN IND PL 1 PST
+p o n d a V FIN IND PL 2 FUT
+p o n d a V FIN IND PL 2 PST
+p o n d a V FIN IND PL 3 FUT
+p o n d a V FIN IND PL 3 PST
+p o n d a V FIN IND SG 1 FUT
+p o n d a V FIN IND SG 1 PST
+p o n d a V FIN IND SG 2 FUT
+p o n d a V FIN IND SG 2 PST
+p o n d a V FIN IND SG 3 FUT
+p o n d a V FIN IND SG 3 PST
+p o n d a V HAB FIN IND PL 1 PRS
+p o n d a V HAB FIN IND PL 2 PRS
+p o n d a V HAB FIN IND PL 3 PRS
+p o n d a V HAB FIN IND SG 1 PRS
+p o n d a V HAB FIN IND SG 2 PRS
+p o n d a V HAB FIN IND SG 3 PRS
+p o n d a V INDF FIN IND PL 1 PRS
+p o n d a V INDF FIN IND PL 2 PRS
+p o n d a V INDF FIN IND PL 3 PRS
+p o n d a V INDF FIN IND SG 1 PRS
+p o n d a V INDF FIN IND SG 2 PRS
+p o n d a V INDF FIN IND SG 3 PRS
+p o n d a V PRF FIN IND PL 1 PST
+p o n d a V PRF FIN IND PL 2 PST
+p o n d a V PRF FIN IND PL 3 PST
+p o n d a V PRF FIN IND SG 1 PST
+p o n d a V PRF FIN IND SG 2 PST
+p o n d a V PRF FIN IND SG 3 PST
+c h a p i s h a V DEF FIN IND PL 1 PRS
+c h a p i s h a V DEF FIN IND PL 2 PRS
+c h a p i s h a V DEF FIN IND PL 3 PRS
+c h a p i s h a V DEF FIN IND SG 1 PRS
+c h a p i s h a V DEF FIN IND SG 2 PRS
+c h a p i s h a V DEF FIN IND SG 3 PRS
+c h a p i s h a V FIN
+c h a p i s h a V FIN COND PL 1 PRS
+c h a p i s h a V FIN COND PL 1 PST
+c h a p i s h a V FIN COND PL 2 PRS
+c h a p i s h a V FIN COND PL 2 PST
+c h a p i s h a V FIN COND PL 3 PRS
+c h a p i s h a V FIN COND PL 3 PST
+c h a p i s h a V FIN COND SG 1 PRS
+c h a p i s h a V FIN COND SG 1 PST
+c h a p i s h a V FIN COND SG 2 PRS
+c h a p i s h a V FIN COND SG 2 PST
+c h a p i s h a V FIN COND SG 3 PRS
+c h a p i s h a V FIN COND SG 3 PST
+c h a p i s h a V FIN IND PL 1 FUT
+c h a p i s h a V FIN IND PL 1 PST
+c h a p i s h a V FIN IND PL 2 FUT
+c h a p i s h a V FIN IND PL 2 PST
+c h a p i s h a V FIN IND PL 3 FUT
+c h a p i s h a V FIN IND PL 3 PST
+c h a p i s h a V FIN IND SG 1 FUT
+c h a p i s h a V FIN IND SG 1 PST
+c h a p i s h a V FIN IND SG 2 FUT
+c h a p i s h a V FIN IND SG 2 PST
+c h a p i s h a V FIN IND SG 3 FUT
+c h a p i s h a V FIN IND SG 3 PST
+c h a p i s h a V HAB FIN IND PL 1 PRS
+c h a p i s h a V HAB FIN IND PL 2 PRS
+c h a p i s h a V HAB FIN IND PL 3 PRS
+c h a p i s h a V HAB FIN IND SG 1 PRS
+c h a p i s h a V HAB FIN IND SG 2 PRS
+c h a p i s h a V HAB FIN IND SG 3 PRS
+c h a p i s h a V INDF FIN IND PL 1 PRS
+c h a p i s h a V INDF FIN IND PL 2 PRS
+c h a p i s h a V INDF FIN IND PL 3 PRS
+c h a p i s h a V INDF FIN IND SG 1 PRS
+c h a p i s h a V INDF FIN IND SG 2 PRS
+c h a p i s h a V INDF FIN IND SG 3 PRS
+c h a p i s h a V PRF FIN IND PL 1 PST
+c h a p i s h a V PRF FIN IND PL 2 PST
+c h a p i s h a V PRF FIN IND PL 3 PST
+c h a p i s h a V PRF FIN IND SG 1 PST
+c h a p i s h a V PRF FIN IND SG 2 PST
+c h a p i s h a V PRF FIN IND SG 3 PST
+f a g i a V DEF FIN IND PL 1 PRS
+f a g i a V DEF FIN IND PL 2 PRS
+f a g i a V DEF FIN IND PL 3 PRS
+f a g i a V DEF FIN IND SG 1 PRS
+f a g i a V DEF FIN IND SG 2 PRS
+f a g i a V DEF FIN IND SG 3 PRS
+f a g i a V FIN
+f a g i a V FIN COND PL 1 PRS
+f a g i a V FIN COND PL 1 PST
+f a g i a V FIN COND PL 2 PRS
+f a g i a V FIN COND PL 2 PST
+f a g i a V FIN COND PL 3 PRS
+f a g i a V FIN COND PL 3 PST
+f a g i a V FIN COND SG 1 PRS
+f a g i a V FIN COND SG 1 PST
+f a g i a V FIN COND SG 2 PRS
+f a g i a V FIN COND SG 2 PST
+f a g i a V FIN COND SG 3 PRS
+f a g i a V FIN COND SG 3 PST
+f a g i a V FIN IND PL 1 FUT
+f a g i a V FIN IND PL 1 PST
+f a g i a V FIN IND PL 2 FUT
+f a g i a V FIN IND PL 2 PST
+f a g i a V FIN IND PL 3 FUT
+f a g i a V FIN IND PL 3 PST
+f a g i a V FIN IND SG 1 FUT
+f a g i a V FIN IND SG 1 PST
+f a g i a V FIN IND SG 2 FUT
+f a g i a V FIN IND SG 2 PST
+f a g i a V FIN IND SG 3 FUT
+f a g i a V FIN IND SG 3 PST
+f a g i a V HAB FIN IND PL 1 PRS
+f a g i a V HAB FIN IND PL 2 PRS
+f a g i a V HAB FIN IND PL 3 PRS
+f a g i a V HAB FIN IND SG 1 PRS
+f a g i a V HAB FIN IND SG 2 PRS
+f a g i a V HAB FIN IND SG 3 PRS
+f a g i a V INDF FIN IND PL 1 PRS
+f a g i a V INDF FIN IND PL 2 PRS
+f a g i a V INDF FIN IND PL 3 PRS
+f a g i a V INDF FIN IND SG 1 PRS
+f a g i a V INDF FIN IND SG 2 PRS
+f a g i a V INDF FIN IND SG 3 PRS
+f a g i a V PRF FIN IND PL 1 PST
+f a g i a V PRF FIN IND PL 2 PST
+f a g i a V PRF FIN IND PL 3 PST
+f a g i a V PRF FIN IND SG 1 PST
+f a g i a V PRF FIN IND SG 2 PST
+f a g i a V PRF FIN IND SG 3 PST
+p a m b u a V DEF FIN IND PL 1 PRS
+p a m b u a V DEF FIN IND PL 2 PRS
+p a m b u a V DEF FIN IND PL 3 PRS
+p a m b u a V DEF FIN IND SG 1 PRS
+p a m b u a V DEF FIN IND SG 2 PRS
+p a m b u a V DEF FIN IND SG 3 PRS
+p a m b u a V FIN
+p a m b u a V FIN COND PL 1 PRS
+p a m b u a V FIN COND PL 1 PST
+p a m b u a V FIN COND PL 2 PRS
+p a m b u a V FIN COND PL 2 PST
+p a m b u a V FIN COND PL 3 PRS
+p a m b u a V FIN COND PL 3 PST
+p a m b u a V FIN COND SG 1 PRS
+p a m b u a V FIN COND SG 1 PST
+p a m b u a V FIN COND SG 2 PRS
+p a m b u a V FIN COND SG 2 PST
+p a m b u a V FIN COND SG 3 PRS
+p a m b u a V FIN COND SG 3 PST
+p a m b u a V FIN IND PL 1 FUT
+p a m b u a V FIN IND PL 1 PST
+p a m b u a V FIN IND PL 2 FUT
+p a m b u a V FIN IND PL 2 PST
+p a m b u a V FIN IND PL 3 FUT
+p a m b u a V FIN IND PL 3 PST
+p a m b u a V FIN IND SG 1 FUT
+p a m b u a V FIN IND SG 1 PST
+p a m b u a V FIN IND SG 2 FUT
+p a m b u a V FIN IND SG 2 PST
+p a m b u a V FIN IND SG 3 FUT
+p a m b u a V FIN IND SG 3 PST
+p a m b u a V HAB FIN IND PL 1 PRS
+p a m b u a V HAB FIN IND PL 2 PRS
+p a m b u a V HAB FIN IND PL 3 PRS
+p a m b u a V HAB FIN IND SG 1 PRS
+p a m b u a V HAB FIN IND SG 2 PRS
+p a m b u a V HAB FIN IND SG 3 PRS
+p a m b u a V INDF FIN IND PL 1 PRS
+p a m b u a V INDF FIN IND PL 2 PRS
+p a m b u a V INDF FIN IND PL 3 PRS
+p a m b u a V INDF FIN IND SG 1 PRS
+p a m b u a V INDF FIN IND SG 2 PRS
+p a m b u a V INDF FIN IND SG 3 PRS
+p a m b u a V PRF FIN IND PL 1 PST
+p a m b u a V PRF FIN IND PL 2 PST
+p a m b u a V PRF FIN IND PL 3 PST
+p a m b u a V PRF FIN IND SG 1 PST
+p a m b u a V PRF FIN IND SG 2 PST
+p a m b u a V PRF FIN IND SG 3 PST
+u z a V DEF FIN IND PL 1 PRS
+u z a V DEF FIN IND PL 2 PRS
+u z a V DEF FIN IND PL 3 PRS
+u z a V DEF FIN IND SG 1 PRS
+u z a V DEF FIN IND SG 2 PRS
+u z a V DEF FIN IND SG 3 PRS
+u z a V FIN
+u z a V FIN COND PL 1 PRS
+u z a V FIN COND PL 1 PST
+u z a V FIN COND PL 2 PRS
+u z a V FIN COND PL 2 PST
+u z a V FIN COND PL 3 PRS
+u z a V FIN COND PL 3 PST
+u z a V FIN COND SG 1 PRS
+u z a V FIN COND SG 1 PST
+u z a V FIN COND SG 2 PRS
+u z a V FIN COND SG 2 PST
+u z a V FIN COND SG 3 PRS
+u z a V FIN COND SG 3 PST
+u z a V FIN IND PL 1 FUT
+u z a V FIN IND PL 1 PST
+u z a V FIN IND PL 2 FUT
+u z a V FIN IND PL 2 PST
+u z a V FIN IND PL 3 FUT
+u z a V FIN IND PL 3 PST
+u z a V FIN IND SG 1 FUT
+u z a V FIN IND SG 1 PST
+u z a V FIN IND SG 2 FUT
+u z a V FIN IND SG 2 PST
+u z a V FIN IND SG 3 FUT
+u z a V FIN IND SG 3 PST
+u z a V HAB FIN IND PL 1 PRS
+u z a V HAB FIN IND PL 2 PRS
+u z a V HAB FIN IND PL 3 PRS
+u z a V HAB FIN IND SG 1 PRS
+u z a V HAB FIN IND SG 2 PRS
+u z a V HAB FIN IND SG 3 PRS
+u z a V INDF FIN IND PL 1 PRS
+u z a V INDF FIN IND PL 2 PRS
+u z a V INDF FIN IND PL 3 PRS
+u z a V INDF FIN IND SG 1 PRS
+u z a V INDF FIN IND SG 2 PRS
+u z a V INDF FIN IND SG 3 PRS
+u z a V PRF FIN IND PL 1 PST
+u z a V PRF FIN IND PL 2 PST
+u z a V PRF FIN IND PL 3 PST
+u z a V PRF FIN IND SG 1 PST
+u z a V PRF FIN IND SG 2 PST
+u z a V PRF FIN IND SG 3 PST
+k a m a t a V DEF FIN IND PL 1 PRS
+k a m a t a V DEF FIN IND PL 2 PRS
+k a m a t a V DEF FIN IND PL 3 PRS
+k a m a t a V DEF FIN IND SG 1 PRS
+k a m a t a V DEF FIN IND SG 2 PRS
+k a m a t a V DEF FIN IND SG 3 PRS
+k a m a t a V FIN
+k a m a t a V FIN COND PL 1 PRS
+k a m a t a V FIN COND PL 1 PST
+k a m a t a V FIN COND PL 2 PRS
+k a m a t a V FIN COND PL 2 PST
+k a m a t a V FIN COND PL 3 PRS
+k a m a t a V FIN COND PL 3 PST
+k a m a t a V FIN COND SG 1 PRS
+k a m a t a V FIN COND SG 1 PST
+k a m a t a V FIN COND SG 2 PRS
+k a m a t a V FIN COND SG 2 PST
+k a m a t a V FIN COND SG 3 PRS
+k a m a t a V FIN COND SG 3 PST
+k a m a t a V FIN IND PL 1 FUT
+k a m a t a V FIN IND PL 1 PST
+k a m a t a V FIN IND PL 2 FUT
+k a m a t a V FIN IND PL 2 PST
+k a m a t a V FIN IND PL 3 FUT
+k a m a t a V FIN IND PL 3 PST
+k a m a t a V FIN IND SG 1 FUT
+k a m a t a V FIN IND SG 1 PST
+k a m a t a V FIN IND SG 2 FUT
+k a m a t a V FIN IND SG 2 PST
+k a m a t a V FIN IND SG 3 FUT
+k a m a t a V FIN IND SG 3 PST
+k a m a t a V HAB FIN IND PL 1 PRS
+k a m a t a V HAB FIN IND PL 2 PRS
+k a m a t a V HAB FIN IND PL 3 PRS
+k a m a t a V HAB FIN IND SG 1 PRS
+k a m a t a V HAB FIN IND SG 2 PRS
+k a m a t a V HAB FIN IND SG 3 PRS
+k a m a t a V INDF FIN IND PL 1 PRS
+k a m a t a V INDF FIN IND PL 2 PRS
+k a m a t a V INDF FIN IND PL 3 PRS
+k a m a t a V INDF FIN IND SG 1 PRS
+k a m a t a V INDF FIN IND SG 2 PRS
+k a m a t a V INDF FIN IND SG 3 PRS
+k a m a t a V PRF FIN IND PL 1 PST
+k a m a t a V PRF FIN IND PL 2 PST
+k a m a t a V PRF FIN IND PL 3 PST
+k a m a t a V PRF FIN IND SG 1 PST
+k a m a t a V PRF FIN IND SG 2 PST
+k a m a t a V PRF FIN IND SG 3 PST
+s a g a V DEF FIN IND PL 1 PRS
+s a g a V DEF FIN IND PL 2 PRS
+s a g a V DEF FIN IND PL 3 PRS
+s a g a V DEF FIN IND SG 1 PRS
+s a g a V DEF FIN IND SG 2 PRS
+s a g a V DEF FIN IND SG 3 PRS
+s a g a V FIN
+s a g a V FIN COND PL 1 PRS
+s a g a V FIN COND PL 1 PST
+s a g a V FIN COND PL 2 PRS
+s a g a V FIN COND PL 2 PST
+s a g a V FIN COND PL 3 PRS
+s a g a V FIN COND PL 3 PST
+s a g a V FIN COND SG 1 PRS
+s a g a V FIN COND SG 1 PST
+s a g a V FIN COND SG 2 PRS
+s a g a V FIN COND SG 2 PST
+s a g a V FIN COND SG 3 PRS
+s a g a V FIN COND SG 3 PST
+s a g a V FIN IND PL 1 FUT
+s a g a V FIN IND PL 1 PST
+s a g a V FIN IND PL 2 FUT
+s a g a V FIN IND PL 2 PST
+s a g a V FIN IND PL 3 FUT
+s a g a V FIN IND PL 3 PST
+s a g a V FIN IND SG 1 FUT
+s a g a V FIN IND SG 1 PST
+s a g a V FIN IND SG 2 FUT
+s a g a V FIN IND SG 2 PST
+s a g a V FIN IND SG 3 FUT
+s a g a V FIN IND SG 3 PST
+s a g a V HAB FIN IND PL 1 PRS
+s a g a V HAB FIN IND PL 2 PRS
+s a g a V HAB FIN IND PL 3 PRS
+s a g a V HAB FIN IND SG 1 PRS
+s a g a V HAB FIN IND SG 2 PRS
+s a g a V HAB FIN IND SG 3 PRS
+s a g a V INDF FIN IND PL 1 PRS
+s a g a V INDF FIN IND PL 2 PRS
+s a g a V INDF FIN IND PL 3 PRS
+s a g a V INDF FIN IND SG 1 PRS
+s a g a V INDF FIN IND SG 2 PRS
+s a g a V INDF FIN IND SG 3 PRS
+s a g a V PRF FIN IND PL 1 PST
+s a g a V PRF FIN IND PL 2 PST
+s a g a V PRF FIN IND PL 3 PST
+s a g a V PRF FIN IND SG 1 PST
+s a g a V PRF FIN IND SG 2 PST
+s a g a V PRF FIN IND SG 3 PST
+g u s a V DEF FIN IND PL 1 PRS
+g u s a V DEF FIN IND PL 2 PRS
+g u s a V DEF FIN IND PL 3 PRS
+g u s a V DEF FIN IND SG 1 PRS
+g u s a V DEF FIN IND SG 2 PRS
+g u s a V DEF FIN IND SG 3 PRS
+g u s a V FIN
+g u s a V FIN COND PL 1 PRS
+g u s a V FIN COND PL 1 PST
+g u s a V FIN COND PL 2 PRS
+g u s a V FIN COND PL 2 PST
+g u s a V FIN COND PL 3 PRS
+g u s a V FIN COND PL 3 PST
+g u s a V FIN COND SG 1 PRS
+g u s a V FIN COND SG 1 PST
+g u s a V FIN COND SG 2 PRS
+g u s a V FIN COND SG 2 PST
+g u s a V FIN COND SG 3 PRS
+g u s a V FIN COND SG 3 PST
+g u s a V FIN IND PL 1 FUT
+g u s a V FIN IND PL 1 PST
+g u s a V FIN IND PL 2 FUT
+g u s a V FIN IND PL 2 PST
+g u s a V FIN IND PL 3 FUT
+g u s a V FIN IND PL 3 PST
+g u s a V FIN IND SG 1 FUT
+g u s a V FIN IND SG 1 PST
+g u s a V FIN IND SG 2 FUT
+g u s a V FIN IND SG 2 PST
+g u s a V FIN IND SG 3 FUT
+g u s a V FIN IND SG 3 PST
+g u s a V HAB FIN IND PL 1 PRS
+g u s a V HAB FIN IND PL 2 PRS
+g u s a V HAB FIN IND PL 3 PRS
+g u s a V HAB FIN IND SG 1 PRS
+g u s a V HAB FIN IND SG 2 PRS
+g u s a V HAB FIN IND SG 3 PRS
+g u s a V INDF FIN IND PL 1 PRS
+g u s a V INDF FIN IND PL 2 PRS
+g u s a V INDF FIN IND PL 3 PRS
+g u s a V INDF FIN IND SG 1 PRS
+g u s a V INDF FIN IND SG 2 PRS
+g u s a V INDF FIN IND SG 3 PRS
+g u s a V PRF FIN IND PL 1 PST
+g u s a V PRF FIN IND PL 2 PST
+g u s a V PRF FIN IND PL 3 PST
+g u s a V PRF FIN IND SG 1 PST
+g u s a V PRF FIN IND SG 2 PST
+g u s a V PRF FIN IND SG 3 PST
+j i f u n z a V DEF FIN IND PL 1 PRS
+j i f u n z a V DEF FIN IND PL 2 PRS
+j i f u n z a V DEF FIN IND PL 3 PRS
+j i f u n z a V DEF FIN IND SG 1 PRS
+j i f u n z a V DEF FIN IND SG 2 PRS
+j i f u n z a V DEF FIN IND SG 3 PRS
+j i f u n z a V FIN
+j i f u n z a V FIN COND PL 1 PRS
+j i f u n z a V FIN COND PL 1 PST
+j i f u n z a V FIN COND PL 2 PRS
+j i f u n z a V FIN COND PL 2 PST
+j i f u n z a V FIN COND PL 3 PRS
+j i f u n z a V FIN COND PL 3 PST
+j i f u n z a V FIN COND SG 1 PRS
+j i f u n z a V FIN COND SG 1 PST
+j i f u n z a V FIN COND SG 2 PRS
+j i f u n z a V FIN COND SG 2 PST
+j i f u n z a V FIN COND SG 3 PRS
+j i f u n z a V FIN COND SG 3 PST
+j i f u n z a V FIN IND PL 1 FUT
+j i f u n z a V FIN IND PL 1 PST
+j i f u n z a V FIN IND PL 2 FUT
+j i f u n z a V FIN IND PL 2 PST
+j i f u n z a V FIN IND PL 3 FUT
+j i f u n z a V FIN IND PL 3 PST
+j i f u n z a V FIN IND SG 1 FUT
+j i f u n z a V FIN IND SG 1 PST
+j i f u n z a V FIN IND SG 2 FUT
+j i f u n z a V FIN IND SG 2 PST
+j i f u n z a V FIN IND SG 3 FUT
+j i f u n z a V FIN IND SG 3 PST
+j i f u n z a V HAB FIN IND PL 1 PRS
+j i f u n z a V HAB FIN IND PL 2 PRS
+j i f u n z a V HAB FIN IND PL 3 PRS
+j i f u n z a V HAB FIN IND SG 1 PRS
+j i f u n z a V HAB FIN IND SG 2 PRS
+j i f u n z a V HAB FIN IND SG 3 PRS
+j i f u n z a V INDF FIN IND PL 1 PRS
+j i f u n z a V INDF FIN IND PL 2 PRS
+j i f u n z a V INDF FIN IND PL 3 PRS
+j i f u n z a V INDF FIN IND SG 1 PRS
+j i f u n z a V INDF FIN IND SG 2 PRS
+j i f u n z a V INDF FIN IND SG 3 PRS
+j i f u n z a V PRF FIN IND PL 1 PST
+j i f u n z a V PRF FIN IND PL 2 PST
+j i f u n z a V PRF FIN IND PL 3 PST
+j i f u n z a V PRF FIN IND SG 1 PST
+j i f u n z a V PRF FIN IND SG 2 PST
+j i f u n z a V PRF FIN IND SG 3 PST
+t a z a m a V DEF FIN IND PL 1 PRS
+t a z a m a V DEF FIN IND PL 2 PRS
+t a z a m a V DEF FIN IND PL 3 PRS
+t a z a m a V DEF FIN IND SG 1 PRS
+t a z a m a V DEF FIN IND SG 2 PRS
+t a z a m a V DEF FIN IND SG 3 PRS
+t a z a m a V FIN
+t a z a m a V FIN COND PL 1 PRS
+t a z a m a V FIN COND PL 1 PST
+t a z a m a V FIN COND PL 2 PRS
+t a z a m a V FIN COND PL 2 PST
+t a z a m a V FIN COND PL 3 PRS
+t a z a m a V FIN COND PL 3 PST
+t a z a m a V FIN COND SG 1 PRS
+t a z a m a V FIN COND SG 1 PST
+t a z a m a V FIN COND SG 2 PRS
+t a z a m a V FIN COND SG 2 PST
+t a z a m a V FIN COND SG 3 PRS
+t a z a m a V FIN COND SG 3 PST
+t a z a m a V FIN IND PL 1 FUT
+t a z a m a V FIN IND PL 1 PST
+t a z a m a V FIN IND PL 2 FUT
+t a z a m a V FIN IND PL 2 PST
+t a z a m a V FIN IND PL 3 FUT
+t a z a m a V FIN IND PL 3 PST
+t a z a m a V FIN IND SG 1 FUT
+t a z a m a V FIN IND SG 1 PST
+t a z a m a V FIN IND SG 2 FUT
+t a z a m a V FIN IND SG 2 PST
+t a z a m a V FIN IND SG 3 FUT
+t a z a m a V FIN IND SG 3 PST
+t a z a m a V HAB FIN IND PL 1 PRS
+t a z a m a V HAB FIN IND PL 2 PRS
+t a z a m a V HAB FIN IND PL 3 PRS
+t a z a m a V HAB FIN IND SG 1 PRS
+t a z a m a V HAB FIN IND SG 2 PRS
+t a z a m a V HAB FIN IND SG 3 PRS
+t a z a m a V INDF FIN IND PL 1 PRS
+t a z a m a V INDF FIN IND PL 2 PRS
+t a z a m a V INDF FIN IND PL 3 PRS
+t a z a m a V INDF FIN IND SG 1 PRS
+t a z a m a V INDF FIN IND SG 2 PRS
+t a z a m a V INDF FIN IND SG 3 PRS
+t a z a m a V PRF FIN IND PL 1 PST
+t a z a m a V PRF FIN IND PL 2 PST
+t a z a m a V PRF FIN IND PL 3 PST
+t a z a m a V PRF FIN IND SG 1 PST
+t a z a m a V PRF FIN IND SG 2 PST
+t a z a m a V PRF FIN IND SG 3 PST
+o n d o a V DEF FIN IND PL 1 PRS
+o n d o a V DEF FIN IND PL 2 PRS
+o n d o a V DEF FIN IND PL 3 PRS
+o n d o a V DEF FIN IND SG 1 PRS
+o n d o a V DEF FIN IND SG 2 PRS
+o n d o a V DEF FIN IND SG 3 PRS
+o n d o a V FIN
+o n d o a V FIN COND PL 1 PRS
+o n d o a V FIN COND PL 1 PST
+o n d o a V FIN COND PL 2 PRS
+o n d o a V FIN COND PL 2 PST
+o n d o a V FIN COND PL 3 PRS
+o n d o a V FIN COND PL 3 PST
+o n d o a V FIN COND SG 1 PRS
+o n d o a V FIN COND SG 1 PST
+o n d o a V FIN COND SG 2 PRS
+o n d o a V FIN COND SG 2 PST
+o n d o a V FIN COND SG 3 PRS
+o n d o a V FIN COND SG 3 PST
+o n d o a V FIN IND PL 1 FUT
+o n d o a V FIN IND PL 1 PST
+o n d o a V FIN IND PL 2 FUT
+o n d o a V FIN IND PL 2 PST
+o n d o a V FIN IND PL 3 FUT
+o n d o a V FIN IND PL 3 PST
+o n d o a V FIN IND SG 1 FUT
+o n d o a V FIN IND SG 1 PST
+o n d o a V FIN IND SG 2 FUT
+o n d o a V FIN IND SG 2 PST
+o n d o a V FIN IND SG 3 FUT
+o n d o a V FIN IND SG 3 PST
+o n d o a V HAB FIN IND PL 1 PRS
+o n d o a V HAB FIN IND PL 2 PRS
+o n d o a V HAB FIN IND PL 3 PRS
+o n d o a V HAB FIN IND SG 1 PRS
+o n d o a V HAB FIN IND SG 2 PRS
+o n d o a V HAB FIN IND SG 3 PRS
+o n d o a V INDF FIN IND PL 1 PRS
+o n d o a V INDF FIN IND PL 2 PRS
+o n d o a V INDF FIN IND PL 3 PRS
+o n d o a V INDF FIN IND SG 1 PRS
+o n d o a V INDF FIN IND SG 2 PRS
+o n d o a V INDF FIN IND SG 3 PRS
+o n d o a V PRF FIN IND PL 1 PST
+o n d o a V PRF FIN IND PL 2 PST
+o n d o a V PRF FIN IND PL 3 PST
+o n d o a V PRF FIN IND SG 1 PST
+o n d o a V PRF FIN IND SG 2 PST
+o n d o a V PRF FIN IND SG 3 PST
+k i m b i a V DEF FIN IND PL 1 PRS
+k i m b i a V DEF FIN IND PL 2 PRS
+k i m b i a V DEF FIN IND PL 3 PRS
+k i m b i a V DEF FIN IND SG 1 PRS
+k i m b i a V DEF FIN IND SG 2 PRS
+k i m b i a V DEF FIN IND SG 3 PRS
+k i m b i a V FIN
+k i m b i a V FIN COND PL 1 PRS
+k i m b i a V FIN COND PL 1 PST
+k i m b i a V FIN COND PL 2 PRS
+k i m b i a V FIN COND PL 2 PST
+k i m b i a V FIN COND PL 3 PRS
+k i m b i a V FIN COND PL 3 PST
+k i m b i a V FIN COND SG 1 PRS
+k i m b i a V FIN COND SG 1 PST
+k i m b i a V FIN COND SG 2 PRS
+k i m b i a V FIN COND SG 2 PST
+k i m b i a V FIN COND SG 3 PRS
+k i m b i a V FIN COND SG 3 PST
+k i m b i a V FIN IND PL 1 FUT
+k i m b i a V FIN IND PL 1 PST
+k i m b i a V FIN IND PL 2 FUT
+k i m b i a V FIN IND PL 2 PST
+k i m b i a V FIN IND PL 3 FUT
+k i m b i a V FIN IND PL 3 PST
+k i m b i a V FIN IND SG 1 FUT
+k i m b i a V FIN IND SG 1 PST
+k i m b i a V FIN IND SG 2 FUT
+k i m b i a V FIN IND SG 2 PST
+k i m b i a V FIN IND SG 3 FUT
+k i m b i a V FIN IND SG 3 PST
+k i m b i a V HAB FIN IND PL 1 PRS
+k i m b i a V HAB FIN IND PL 2 PRS
+k i m b i a V HAB FIN IND PL 3 PRS
+k i m b i a V HAB FIN IND SG 1 PRS
+k i m b i a V HAB FIN IND SG 2 PRS
+k i m b i a V HAB FIN IND SG 3 PRS
+k i m b i a V INDF FIN IND PL 1 PRS
+k i m b i a V INDF FIN IND PL 2 PRS
+k i m b i a V INDF FIN IND PL 3 PRS
+k i m b i a V INDF FIN IND SG 1 PRS
+k i m b i a V INDF FIN IND SG 2 PRS
+k i m b i a V INDF FIN IND SG 3 PRS
+k i m b i a V PRF FIN IND PL 1 PST
+k i m b i a V PRF FIN IND PL 2 PST
+k i m b i a V PRF FIN IND PL 3 PST
+k i m b i a V PRF FIN IND SG 1 PST
+k i m b i a V PRF FIN IND SG 2 PST
+k i m b i a V PRF FIN IND SG 3 PST
+a n z a V DEF FIN IND PL 1 PRS
+a n z a V DEF FIN IND PL 2 PRS
+a n z a V DEF FIN IND PL 3 PRS
+a n z a V DEF FIN IND SG 1 PRS
+a n z a V DEF FIN IND SG 2 PRS
+a n z a V DEF FIN IND SG 3 PRS
+a n z a V FIN
+a n z a V FIN COND PL 1 PRS
+a n z a V FIN COND PL 1 PST
+a n z a V FIN COND PL 2 PRS
+a n z a V FIN COND PL 2 PST
+a n z a V FIN COND PL 3 PRS
+a n z a V FIN COND PL 3 PST
+a n z a V FIN COND SG 1 PRS
+a n z a V FIN COND SG 1 PST
+a n z a V FIN COND SG 2 PRS
+a n z a V FIN COND SG 2 PST
+a n z a V FIN COND SG 3 PRS
+a n z a V FIN COND SG 3 PST
+a n z a V FIN IND PL 1 FUT
+a n z a V FIN IND PL 1 PST
+a n z a V FIN IND PL 2 FUT
+a n z a V FIN IND PL 2 PST
+a n z a V FIN IND PL 3 FUT
+a n z a V FIN IND PL 3 PST
+a n z a V FIN IND SG 1 FUT
+a n z a V FIN IND SG 1 PST
+a n z a V FIN IND SG 2 FUT
+a n z a V FIN IND SG 2 PST
+a n z a V FIN IND SG 3 FUT
+a n z a V FIN IND SG 3 PST
+a n z a V HAB FIN IND PL 1 PRS
+a n z a V HAB FIN IND PL 2 PRS
+a n z a V HAB FIN IND PL 3 PRS
+a n z a V HAB FIN IND SG 1 PRS
+a n z a V HAB FIN IND SG 2 PRS
+a n z a V HAB FIN IND SG 3 PRS
+a n z a V INDF FIN IND PL 1 PRS
+a n z a V INDF FIN IND PL 2 PRS
+a n z a V INDF FIN IND PL 3 PRS
+a n z a V INDF FIN IND SG 1 PRS
+a n z a V INDF FIN IND SG 2 PRS
+a n z a V INDF FIN IND SG 3 PRS
+a n z a V PRF FIN IND PL 1 PST
+a n z a V PRF FIN IND PL 2 PST
+a n z a V PRF FIN IND PL 3 PST
+a n z a V PRF FIN IND SG 1 PST
+a n z a V PRF FIN IND SG 2 PST
+a n z a V PRF FIN IND SG 3 PST
+e l e w a V DEF FIN IND PL 1 PRS
+e l e w a V DEF FIN IND PL 2 PRS
+e l e w a V DEF FIN IND PL 3 PRS
+e l e w a V DEF FIN IND SG 1 PRS
+e l e w a V DEF FIN IND SG 2 PRS
+e l e w a V DEF FIN IND SG 3 PRS
+e l e w a V FIN
+e l e w a V FIN COND PL 1 PRS
+e l e w a V FIN COND PL 1 PST
+e l e w a V FIN COND PL 2 PRS
+e l e w a V FIN COND PL 2 PST
+e l e w a V FIN COND PL 3 PRS
+e l e w a V FIN COND PL 3 PST
+e l e w a V FIN COND SG 1 PRS
+e l e w a V FIN COND SG 1 PST
+e l e w a V FIN COND SG 2 PRS
+e l e w a V FIN COND SG 2 PST
+e l e w a V FIN COND SG 3 PRS
+e l e w a V FIN COND SG 3 PST
+e l e w a V FIN IND PL 1 FUT
+e l e w a V FIN IND PL 1 PST
+e l e w a V FIN IND PL 2 FUT
+e l e w a V FIN IND PL 2 PST
+e l e w a V FIN IND PL 3 FUT
+e l e w a V FIN IND PL 3 PST
+e l e w a V FIN IND SG 1 FUT
+e l e w a V FIN IND SG 1 PST
+e l e w a V FIN IND SG 2 FUT
+e l e w a V FIN IND SG 2 PST
+e l e w a V FIN IND SG 3 FUT
+e l e w a V FIN IND SG 3 PST
+e l e w a V HAB FIN IND PL 1 PRS
+e l e w a V HAB FIN IND PL 2 PRS
+e l e w a V HAB FIN IND PL 3 PRS
+e l e w a V HAB FIN IND SG 1 PRS
+e l e w a V HAB FIN IND SG 2 PRS
+e l e w a V HAB FIN IND SG 3 PRS
+e l e w a V INDF FIN IND PL 1 PRS
+e l e w a V INDF FIN IND PL 2 PRS
+e l e w a V INDF FIN IND PL 3 PRS
+e l e w a V INDF FIN IND SG 1 PRS
+e l e w a V INDF FIN IND SG 2 PRS
+e l e w a V INDF FIN IND SG 3 PRS
+e l e w a V PRF FIN IND PL 1 PST
+e l e w a V PRF FIN IND PL 2 PST
+e l e w a V PRF FIN IND PL 3 PST
+e l e w a V PRF FIN IND SG 1 PST
+e l e w a V PRF FIN IND SG 2 PST
+e l e w a V PRF FIN IND SG 3 PST
+k a m i l i s h a V DEF FIN IND PL 1 PRS
+k a m i l i s h a V DEF FIN IND PL 2 PRS
+k a m i l i s h a V DEF FIN IND PL 3 PRS
+k a m i l i s h a V DEF FIN IND SG 1 PRS
+k a m i l i s h a V DEF FIN IND SG 2 PRS
+k a m i l i s h a V DEF FIN IND SG 3 PRS
+k a m i l i s h a V FIN
+k a m i l i s h a V FIN COND PL 1 PRS
+k a m i l i s h a V FIN COND PL 1 PST
+k a m i l i s h a V FIN COND PL 2 PRS
+k a m i l i s h a V FIN COND PL 2 PST
+k a m i l i s h a V FIN COND PL 3 PRS
+k a m i l i s h a V FIN COND PL 3 PST
+k a m i l i s h a V FIN COND SG 1 PRS
+k a m i l i s h a V FIN COND SG 1 PST
+k a m i l i s h a V FIN COND SG 2 PRS
+k a m i l i s h a V FIN COND SG 2 PST
+k a m i l i s h a V FIN COND SG 3 PRS
+k a m i l i s h a V FIN COND SG 3 PST
+k a m i l i s h a V FIN IND PL 1 FUT
+k a m i l i s h a V FIN IND PL 1 PST
+k a m i l i s h a V FIN IND PL 2 FUT
+k a m i l i s h a V FIN IND PL 2 PST
+k a m i l i s h a V FIN IND PL 3 FUT
+k a m i l i s h a V FIN IND PL 3 PST
+k a m i l i s h a V FIN IND SG 1 FUT
+k a m i l i s h a V FIN IND SG 1 PST
+k a m i l i s h a V FIN IND SG 2 FUT
+k a m i l i s h a V FIN IND SG 2 PST
+k a m i l i s h a V FIN IND SG 3 FUT
+k a m i l i s h a V FIN IND SG 3 PST
+k a m i l i s h a V HAB FIN IND PL 1 PRS
+k a m i l i s h a V HAB FIN IND PL 2 PRS
+k a m i l i s h a V HAB FIN IND PL 3 PRS
+k a m i l i s h a V HAB FIN IND SG 1 PRS
+k a m i l i s h a V HAB FIN IND SG 2 PRS
+k a m i l i s h a V HAB FIN IND SG 3 PRS
+k a m i l i s h a V INDF FIN IND PL 1 PRS
+k a m i l i s h a V INDF FIN IND PL 2 PRS
+k a m i l i s h a V INDF FIN IND PL 3 PRS
+k a m i l i s h a V INDF FIN IND SG 1 PRS
+k a m i l i s h a V INDF FIN IND SG 2 PRS
+k a m i l i s h a V INDF FIN IND SG 3 PRS
+k a m i l i s h a V PRF FIN IND PL 1 PST
+k a m i l i s h a V PRF FIN IND PL 2 PST
+k a m i l i s h a V PRF FIN IND PL 3 PST
+k a m i l i s h a V PRF FIN IND SG 1 PST
+k a m i l i s h a V PRF FIN IND SG 2 PST
+k a m i l i s h a V PRF FIN IND SG 3 PST
+o s h a V DEF FIN IND PL 1 PRS
+o s h a V DEF FIN IND PL 2 PRS
+o s h a V DEF FIN IND PL 3 PRS
+o s h a V DEF FIN IND SG 1 PRS
+o s h a V DEF FIN IND SG 2 PRS
+o s h a V DEF FIN IND SG 3 PRS
+o s h a V FIN
+o s h a V FIN COND PL 1 PRS
+o s h a V FIN COND PL 1 PST
+o s h a V FIN COND PL 2 PRS
+o s h a V FIN COND PL 2 PST
+o s h a V FIN COND PL 3 PRS
+o s h a V FIN COND PL 3 PST
+o s h a V FIN COND SG 1 PRS
+o s h a V FIN COND SG 1 PST
+o s h a V FIN COND SG 2 PRS
+o s h a V FIN COND SG 2 PST
+o s h a V FIN COND SG 3 PRS
+o s h a V FIN COND SG 3 PST
+o s h a V FIN IND PL 1 FUT
+o s h a V FIN IND PL 1 PST
+o s h a V FIN IND PL 2 FUT
+o s h a V FIN IND PL 2 PST
+o s h a V FIN IND PL 3 FUT
+o s h a V FIN IND PL 3 PST
+o s h a V FIN IND SG 1 FUT
+o s h a V FIN IND SG 1 PST
+o s h a V FIN IND SG 2 FUT
+o s h a V FIN IND SG 2 PST
+o s h a V FIN IND SG 3 FUT
+o s h a V FIN IND SG 3 PST
+o s h a V HAB FIN IND PL 1 PRS
+o s h a V HAB FIN IND PL 2 PRS
+o s h a V HAB FIN IND PL 3 PRS
+o s h a V HAB FIN IND SG 1 PRS
+o s h a V HAB FIN IND SG 2 PRS
+o s h a V HAB FIN IND SG 3 PRS
+o s h a V INDF FIN IND PL 1 PRS
+o s h a V INDF FIN IND PL 2 PRS
+o s h a V INDF FIN IND PL 3 PRS
+o s h a V INDF FIN IND SG 1 PRS
+o s h a V INDF FIN IND SG 2 PRS
+o s h a V INDF FIN IND SG 3 PRS
+o s h a V PRF FIN IND PL 1 PST
+o s h a V PRF FIN IND PL 2 PST
+o s h a V PRF FIN IND PL 3 PST
+o s h a V PRF FIN IND SG 1 PST
+o s h a V PRF FIN IND SG 2 PST
+o s h a V PRF FIN IND SG 3 PST
+p a a V DEF FIN IND PL 1 PRS
+p a a V DEF FIN IND PL 2 PRS
+p a a V DEF FIN IND PL 3 PRS
+p a a V DEF FIN IND SG 1 PRS
+p a a V DEF FIN IND SG 2 PRS
+p a a V DEF FIN IND SG 3 PRS
+p a a V FIN
+p a a V FIN COND PL 1 PRS
+p a a V FIN COND PL 1 PST
+p a a V FIN COND PL 2 PRS
+p a a V FIN COND PL 2 PST
+p a a V FIN COND PL 3 PRS
+p a a V FIN COND PL 3 PST
+p a a V FIN COND SG 1 PRS
+p a a V FIN COND SG 1 PST
+p a a V FIN COND SG 2 PRS
+p a a V FIN COND SG 2 PST
+p a a V FIN COND SG 3 PRS
+p a a V FIN COND SG 3 PST
+p a a V FIN IND PL 1 FUT
+p a a V FIN IND PL 1 PST
+p a a V FIN IND PL 2 FUT
+p a a V FIN IND PL 2 PST
+p a a V FIN IND PL 3 FUT
+p a a V FIN IND PL 3 PST
+p a a V FIN IND SG 1 FUT
+p a a V FIN IND SG 1 PST
+p a a V FIN IND SG 2 FUT
+p a a V FIN IND SG 2 PST
+p a a V FIN IND SG 3 FUT
+p a a V FIN IND SG 3 PST
+p a a V HAB FIN IND PL 1 PRS
+p a a V HAB FIN IND PL 2 PRS
+p a a V HAB FIN IND PL 3 PRS
+p a a V HAB FIN IND SG 1 PRS
+p a a V HAB FIN IND SG 2 PRS
+p a a V HAB FIN IND SG 3 PRS
+p a a V INDF FIN IND PL 1 PRS
+p a a V INDF FIN IND PL 2 PRS
+p a a V INDF FIN IND PL 3 PRS
+p a a V INDF FIN IND SG 1 PRS
+p a a V INDF FIN IND SG 2 PRS
+p a a V INDF FIN IND SG 3 PRS
+p a a V PRF FIN IND PL 1 PST
+p a a V PRF FIN IND PL 2 PST
+p a a V PRF FIN IND PL 3 PST
+p a a V PRF FIN IND SG 1 PST
+p a a V PRF FIN IND SG 2 PST
+p a a V PRF FIN IND SG 3 PST
+e n d e s h a V DEF FIN IND PL 1 PRS
+e n d e s h a V DEF FIN IND PL 2 PRS
+e n d e s h a V DEF FIN IND PL 3 PRS
+e n d e s h a V DEF FIN IND SG 1 PRS
+e n d e s h a V DEF FIN IND SG 2 PRS
+e n d e s h a V DEF FIN IND SG 3 PRS
+e n d e s h a V FIN
+e n d e s h a V FIN COND PL 1 PRS
+e n d e s h a V FIN COND PL 1 PST
+e n d e s h a V FIN COND PL 2 PRS
+e n d e s h a V FIN COND PL 2 PST
+e n d e s h a V FIN COND PL 3 PRS
+e n d e s h a V FIN COND PL 3 PST
+e n d e s h a V FIN COND SG 1 PRS
+e n d e s h a V FIN COND SG 1 PST
+e n d e s h a V FIN COND SG 2 PRS
+e n d e s h a V FIN COND SG 2 PST
+e n d e s h a V FIN COND SG 3 PRS
+e n d e s h a V FIN COND SG 3 PST
+e n d e s h a V FIN IND PL 1 FUT
+e n d e s h a V FIN IND PL 1 PST
+e n d e s h a V FIN IND PL 2 FUT
+e n d e s h a V FIN IND PL 2 PST
+e n d e s h a V FIN IND PL 3 FUT
+e n d e s h a V FIN IND PL 3 PST
+e n d e s h a V FIN IND SG 1 FUT
+e n d e s h a V FIN IND SG 1 PST
+e n d e s h a V FIN IND SG 2 FUT
+e n d e s h a V FIN IND SG 2 PST
+e n d e s h a V FIN IND SG 3 FUT
+e n d e s h a V FIN IND SG 3 PST
+e n d e s h a V HAB FIN IND PL 1 PRS
+e n d e s h a V HAB FIN IND PL 2 PRS
+e n d e s h a V HAB FIN IND PL 3 PRS
+e n d e s h a V HAB FIN IND SG 1 PRS
+e n d e s h a V HAB FIN IND SG 2 PRS
+e n d e s h a V HAB FIN IND SG 3 PRS
+e n d e s h a V INDF FIN IND PL 1 PRS
+e n d e s h a V INDF FIN IND PL 2 PRS
+e n d e s h a V INDF FIN IND PL 3 PRS
+e n d e s h a V INDF FIN IND SG 1 PRS
+e n d e s h a V INDF FIN IND SG 2 PRS
+e n d e s h a V INDF FIN IND SG 3 PRS
+e n d e s h a V PRF FIN IND PL 1 PST
+e n d e s h a V PRF FIN IND PL 2 PST
+e n d e s h a V PRF FIN IND PL 3 PST
+e n d e s h a V PRF FIN IND SG 1 PST
+e n d e s h a V PRF FIN IND SG 2 PST
+e n d e s h a V PRF FIN IND SG 3 PST
+k u m b u k a V DEF FIN IND PL 1 PRS
+k u m b u k a V DEF FIN IND PL 2 PRS
+k u m b u k a V DEF FIN IND PL 3 PRS
+k u m b u k a V DEF FIN IND SG 1 PRS
+k u m b u k a V DEF FIN IND SG 2 PRS
+k u m b u k a V DEF FIN IND SG 3 PRS
+k u m b u k a V FIN
+k u m b u k a V FIN COND PL 1 PRS
+k u m b u k a V FIN COND PL 1 PST
+k u m b u k a V FIN COND PL 2 PRS
+k u m b u k a V FIN COND PL 2 PST
+k u m b u k a V FIN COND PL 3 PRS
+k u m b u k a V FIN COND PL 3 PST
+k u m b u k a V FIN COND SG 1 PRS
+k u m b u k a V FIN COND SG 1 PST
+k u m b u k a V FIN COND SG 2 PRS
+k u m b u k a V FIN COND SG 2 PST
+k u m b u k a V FIN COND SG 3 PRS
+k u m b u k a V FIN COND SG 3 PST
+k u m b u k a V FIN IND PL 1 FUT
+k u m b u k a V FIN IND PL 1 PST
+k u m b u k a V FIN IND PL 2 FUT
+k u m b u k a V FIN IND PL 2 PST
+k u m b u k a V FIN IND PL 3 FUT
+k u m b u k a V FIN IND PL 3 PST
+k u m b u k a V FIN IND SG 1 FUT
+k u m b u k a V FIN IND SG 1 PST
+k u m b u k a V FIN IND SG 2 FUT
+k u m b u k a V FIN IND SG 2 PST
+k u m b u k a V FIN IND SG 3 FUT
+k u m b u k a V FIN IND SG 3 PST
+k u m b u k a V HAB FIN IND PL 1 PRS
+k u m b u k a V HAB FIN IND PL 2 PRS
+k u m b u k a V HAB FIN IND PL 3 PRS
+k u m b u k a V HAB FIN IND SG 1 PRS
+k u m b u k a V HAB FIN IND SG 2 PRS
+k u m b u k a V HAB FIN IND SG 3 PRS
+k u m b u k a V INDF FIN IND PL 1 PRS
+k u m b u k a V INDF FIN IND PL 2 PRS
+k u m b u k a V INDF FIN IND PL 3 PRS
+k u m b u k a V INDF FIN IND SG 1 PRS
+k u m b u k a V INDF FIN IND SG 2 PRS
+k u m b u k a V INDF FIN IND SG 3 PRS
+k u m b u k a V PRF FIN IND PL 1 PST
+k u m b u k a V PRF FIN IND PL 2 PST
+k u m b u k a V PRF FIN IND PL 3 PST
+k u m b u k a V PRF FIN IND SG 1 PST
+k u m b u k a V PRF FIN IND SG 2 PST
+k u m b u k a V PRF FIN IND SG 3 PST
+m w i t a V DEF FIN IND PL 1 PRS
+m w i t a V DEF FIN IND PL 2 PRS
+m w i t a V DEF FIN IND PL 3 PRS
+m w i t a V DEF FIN IND SG 1 PRS
+m w i t a V DEF FIN IND SG 2 PRS
+m w i t a V DEF FIN IND SG 3 PRS
+m w i t a V FIN
+m w i t a V FIN COND PL 1 PRS
+m w i t a V FIN COND PL 1 PST
+m w i t a V FIN COND PL 2 PRS
+m w i t a V FIN COND PL 2 PST
+m w i t a V FIN COND PL 3 PRS
+m w i t a V FIN COND PL 3 PST
+m w i t a V FIN COND SG 1 PRS
+m w i t a V FIN COND SG 1 PST
+m w i t a V FIN COND SG 2 PRS
+m w i t a V FIN COND SG 2 PST
+m w i t a V FIN COND SG 3 PRS
+m w i t a V FIN COND SG 3 PST
+m w i t a V FIN IND PL 1 FUT
+m w i t a V FIN IND PL 1 PST
+m w i t a V FIN IND PL 2 FUT
+m w i t a V FIN IND PL 2 PST
+m w i t a V FIN IND PL 3 FUT
+m w i t a V FIN IND PL 3 PST
+m w i t a V FIN IND SG 1 FUT
+m w i t a V FIN IND SG 1 PST
+m w i t a V FIN IND SG 2 FUT
+m w i t a V FIN IND SG 2 PST
+m w i t a V FIN IND SG 3 FUT
+m w i t a V FIN IND SG 3 PST
+m w i t a V HAB FIN IND PL 1 PRS
+m w i t a V HAB FIN IND PL 2 PRS
+m w i t a V HAB FIN IND PL 3 PRS
+m w i t a V HAB FIN IND SG 1 PRS
+m w i t a V HAB FIN IND SG 2 PRS
+m w i t a V HAB FIN IND SG 3 PRS
+m w i t a V INDF FIN IND PL 1 PRS
+m w i t a V INDF FIN IND PL 2 PRS
+m w i t a V INDF FIN IND PL 3 PRS
+m w i t a V INDF FIN IND SG 1 PRS
+m w i t a V INDF FIN IND SG 2 PRS
+m w i t a V INDF FIN IND SG 3 PRS
+m w i t a V PRF FIN IND PL 1 PST
+m w i t a V PRF FIN IND PL 2 PST
+m w i t a V PRF FIN IND PL 3 PST
+m w i t a V PRF FIN IND SG 1 PST
+m w i t a V PRF FIN IND SG 2 PST
+m w i t a V PRF FIN IND SG 3 PST
+c h i m b a V DEF FIN IND PL 1 PRS
+c h i m b a V DEF FIN IND PL 2 PRS
+c h i m b a V DEF FIN IND PL 3 PRS
+c h i m b a V DEF FIN IND SG 1 PRS
+c h i m b a V DEF FIN IND SG 2 PRS
+c h i m b a V DEF FIN IND SG 3 PRS
+c h i m b a V FIN
+c h i m b a V FIN COND PL 1 PRS
+c h i m b a V FIN COND PL 1 PST
+c h i m b a V FIN COND PL 2 PRS
+c h i m b a V FIN COND PL 2 PST
+c h i m b a V FIN COND PL 3 PRS
+c h i m b a V FIN COND PL 3 PST
+c h i m b a V FIN COND SG 1 PRS
+c h i m b a V FIN COND SG 1 PST
+c h i m b a V FIN COND SG 2 PRS
+c h i m b a V FIN COND SG 2 PST
+c h i m b a V FIN COND SG 3 PRS
+c h i m b a V FIN COND SG 3 PST
+c h i m b a V FIN IND PL 1 FUT
+c h i m b a V FIN IND PL 1 PST
+c h i m b a V FIN IND PL 2 FUT
+c h i m b a V FIN IND PL 2 PST
+c h i m b a V FIN IND PL 3 FUT
+c h i m b a V FIN IND PL 3 PST
+c h i m b a V FIN IND SG 1 FUT
+c h i m b a V FIN IND SG 1 PST
+c h i m b a V FIN IND SG 2 FUT
+c h i m b a V FIN IND SG 2 PST
+c h i m b a V FIN IND SG 3 FUT
+c h i m b a V FIN IND SG 3 PST
+c h i m b a V HAB FIN IND PL 1 PRS
+c h i m b a V HAB FIN IND PL 2 PRS
+c h i m b a V HAB FIN IND PL 3 PRS
+c h i m b a V HAB FIN IND SG 1 PRS
+c h i m b a V HAB FIN IND SG 2 PRS
+c h i m b a V HAB FIN IND SG 3 PRS
+c h i m b a V INDF FIN IND PL 1 PRS
+c h i m b a V INDF FIN IND PL 2 PRS
+c h i m b a V INDF FIN IND PL 3 PRS
+c h i m b a V INDF FIN IND SG 1 PRS
+c h i m b a V INDF FIN IND SG 2 PRS
+c h i m b a V INDF FIN IND SG 3 PRS
+c h i m b a V PRF FIN IND PL 1 PST
+c h i m b a V PRF FIN IND PL 2 PST
+c h i m b a V PRF FIN IND PL 3 PST
+c h i m b a V PRF FIN IND SG 1 PST
+c h i m b a V PRF FIN IND SG 2 PST
+c h i m b a V PRF FIN IND SG 3 PST
+k w a r u z a V DEF FIN IND PL 1 PRS
+k w a r u z a V DEF FIN IND PL 2 PRS
+k w a r u z a V DEF FIN IND PL 3 PRS
+k w a r u z a V DEF FIN IND SG 1 PRS
+k w a r u z a V DEF FIN IND SG 2 PRS
+k w a r u z a V DEF FIN IND SG 3 PRS
+k w a r u z a V FIN
+k w a r u z a V FIN COND PL 1 PRS
+k w a r u z a V FIN COND PL 1 PST
+k w a r u z a V FIN COND PL 2 PRS
+k w a r u z a V FIN COND PL 2 PST
+k w a r u z a V FIN COND PL 3 PRS
+k w a r u z a V FIN COND PL 3 PST
+k w a r u z a V FIN COND SG 1 PRS
+k w a r u z a V FIN COND SG 1 PST
+k w a r u z a V FIN COND SG 2 PRS
+k w a r u z a V FIN COND SG 2 PST
+k w a r u z a V FIN COND SG 3 PRS
+k w a r u z a V FIN COND SG 3 PST
+k w a r u z a V FIN IND PL 1 FUT
+k w a r u z a V FIN IND PL 1 PST
+k w a r u z a V FIN IND PL 2 FUT
+k w a r u z a V FIN IND PL 2 PST
+k w a r u z a V FIN IND PL 3 FUT
+k w a r u z a V FIN IND PL 3 PST
+k w a r u z a V FIN IND SG 1 FUT
+k w a r u z a V FIN IND SG 1 PST
+k w a r u z a V FIN IND SG 2 FUT
+k w a r u z a V FIN IND SG 2 PST
+k w a r u z a V FIN IND SG 3 FUT
+k w a r u z a V FIN IND SG 3 PST
+k w a r u z a V HAB FIN IND PL 1 PRS
+k w a r u z a V HAB FIN IND PL 2 PRS
+k w a r u z a V HAB FIN IND PL 3 PRS
+k w a r u z a V HAB FIN IND SG 1 PRS
+k w a r u z a V HAB FIN IND SG 2 PRS
+k w a r u z a V HAB FIN IND SG 3 PRS
+k w a r u z a V INDF FIN IND PL 1 PRS
+k w a r u z a V INDF FIN IND PL 2 PRS
+k w a r u z a V INDF FIN IND PL 3 PRS
+k w a r u z a V INDF FIN IND SG 1 PRS
+k w a r u z a V INDF FIN IND SG 2 PRS
+k w a r u z a V INDF FIN IND SG 3 PRS
+k w a r u z a V PRF FIN IND PL 1 PST
+k w a r u z a V PRF FIN IND PL 2 PST
+k w a r u z a V PRF FIN IND PL 3 PST
+k w a r u z a V PRF FIN IND SG 1 PST
+k w a r u z a V PRF FIN IND SG 2 PST
+k w a r u z a V PRF FIN IND SG 3 PST
+f u a t a V DEF FIN IND PL 1 PRS
+f u a t a V DEF FIN IND PL 2 PRS
+f u a t a V DEF FIN IND PL 3 PRS
+f u a t a V DEF FIN IND SG 1 PRS
+f u a t a V DEF FIN IND SG 2 PRS
+f u a t a V DEF FIN IND SG 3 PRS
+f u a t a V FIN
+f u a t a V FIN COND PL 1 PRS
+f u a t a V FIN COND PL 1 PST
+f u a t a V FIN COND PL 2 PRS
+f u a t a V FIN COND PL 2 PST
+f u a t a V FIN COND PL 3 PRS
+f u a t a V FIN COND PL 3 PST
+f u a t a V FIN COND SG 1 PRS
+f u a t a V FIN COND SG 1 PST
+f u a t a V FIN COND SG 2 PRS
+f u a t a V FIN COND SG 2 PST
+f u a t a V FIN COND SG 3 PRS
+f u a t a V FIN COND SG 3 PST
+f u a t a V FIN IND PL 1 FUT
+f u a t a V FIN IND PL 1 PST
+f u a t a V FIN IND PL 2 FUT
+f u a t a V FIN IND PL 2 PST
+f u a t a V FIN IND PL 3 FUT
+f u a t a V FIN IND PL 3 PST
+f u a t a V FIN IND SG 1 FUT
+f u a t a V FIN IND SG 1 PST
+f u a t a V FIN IND SG 2 FUT
+f u a t a V FIN IND SG 2 PST
+f u a t a V FIN IND SG 3 FUT
+f u a t a V FIN IND SG 3 PST
+f u a t a V HAB FIN IND PL 1 PRS
+f u a t a V HAB FIN IND PL 2 PRS
+f u a t a V HAB FIN IND PL 3 PRS
+f u a t a V HAB FIN IND SG 1 PRS
+f u a t a V HAB FIN IND SG 2 PRS
+f u a t a V HAB FIN IND SG 3 PRS
+f u a t a V INDF FIN IND PL 1 PRS
+f u a t a V INDF FIN IND PL 2 PRS
+f u a t a V INDF FIN IND PL 3 PRS
+f u a t a V INDF FIN IND SG 1 PRS
+f u a t a V INDF FIN IND SG 2 PRS
+f u a t a V INDF FIN IND SG 3 PRS
+f u a t a V PRF FIN IND PL 1 PST
+f u a t a V PRF FIN IND PL 2 PST
+f u a t a V PRF FIN IND PL 3 PST
+f u a t a V PRF FIN IND SG 1 PST
+f u a t a V PRF FIN IND SG 2 PST
+f u a t a V PRF FIN IND SG 3 PST
+e n d a V DEF FIN IND PL 1 PRS
+e n d a V DEF FIN IND PL 2 PRS
+e n d a V DEF FIN IND PL 3 PRS
+e n d a V DEF FIN IND SG 1 PRS
+e n d a V DEF FIN IND SG 2 PRS
+e n d a V DEF FIN IND SG 3 PRS
+e n d a V FIN
+e n d a V FIN COND PL 1 PRS
+e n d a V FIN COND PL 1 PST
+e n d a V FIN COND PL 2 PRS
+e n d a V FIN COND PL 2 PST
+e n d a V FIN COND PL 3 PRS
+e n d a V FIN COND PL 3 PST
+e n d a V FIN COND SG 1 PRS
+e n d a V FIN COND SG 1 PST
+e n d a V FIN COND SG 2 PRS
+e n d a V FIN COND SG 2 PST
+e n d a V FIN COND SG 3 PRS
+e n d a V FIN COND SG 3 PST
+e n d a V FIN IND PL 1 FUT
+e n d a V FIN IND PL 1 PST
+e n d a V FIN IND PL 2 FUT
+e n d a V FIN IND PL 2 PST
+e n d a V FIN IND PL 3 FUT
+e n d a V FIN IND PL 3 PST
+e n d a V FIN IND SG 1 FUT
+e n d a V FIN IND SG 1 PST
+e n d a V FIN IND SG 2 FUT
+e n d a V FIN IND SG 2 PST
+e n d a V FIN IND SG 3 FUT
+e n d a V FIN IND SG 3 PST
+e n d a V HAB FIN IND PL 1 PRS
+e n d a V HAB FIN IND PL 2 PRS
+e n d a V HAB FIN IND PL 3 PRS
+e n d a V HAB FIN IND SG 1 PRS
+e n d a V HAB FIN IND SG 2 PRS
+e n d a V HAB FIN IND SG 3 PRS
+e n d a V INDF FIN IND PL 1 PRS
+e n d a V INDF FIN IND PL 2 PRS
+e n d a V INDF FIN IND PL 3 PRS
+e n d a V INDF FIN IND SG 1 PRS
+e n d a V INDF FIN IND SG 2 PRS
+e n d a V INDF FIN IND SG 3 PRS
+e n d a V PRF FIN IND PL 1 PST
+e n d a V PRF FIN IND PL 2 PST
+e n d a V PRF FIN IND PL 3 PST
+e n d a V PRF FIN IND SG 1 PST
+e n d a V PRF FIN IND SG 2 PST
+e n d a V PRF FIN IND SG 3 PST
+i n u a V DEF FIN IND PL 1 PRS
+i n u a V DEF FIN IND PL 2 PRS
+i n u a V DEF FIN IND PL 3 PRS
+i n u a V DEF FIN IND SG 1 PRS
+i n u a V DEF FIN IND SG 2 PRS
+i n u a V DEF FIN IND SG 3 PRS
+i n u a V FIN
+i n u a V FIN COND PL 1 PRS
+i n u a V FIN COND PL 1 PST
+i n u a V FIN COND PL 2 PRS
+i n u a V FIN COND PL 2 PST
+i n u a V FIN COND PL 3 PRS
+i n u a V FIN COND PL 3 PST
+i n u a V FIN COND SG 1 PRS
+i n u a V FIN COND SG 1 PST
+i n u a V FIN COND SG 2 PRS
+i n u a V FIN COND SG 2 PST
+i n u a V FIN COND SG 3 PRS
+i n u a V FIN COND SG 3 PST
+i n u a V FIN IND PL 1 FUT
+i n u a V FIN IND PL 1 PST
+i n u a V FIN IND PL 2 FUT
+i n u a V FIN IND PL 2 PST
+i n u a V FIN IND PL 3 FUT
+i n u a V FIN IND PL 3 PST
+i n u a V FIN IND SG 1 FUT
+i n u a V FIN IND SG 1 PST
+i n u a V FIN IND SG 2 FUT
+i n u a V FIN IND SG 2 PST
+i n u a V FIN IND SG 3 FUT
+i n u a V FIN IND SG 3 PST
+i n u a V HAB FIN IND PL 1 PRS
+i n u a V HAB FIN IND PL 2 PRS
+i n u a V HAB FIN IND PL 3 PRS
+i n u a V HAB FIN IND SG 1 PRS
+i n u a V HAB FIN IND SG 2 PRS
+i n u a V HAB FIN IND SG 3 PRS
+i n u a V INDF FIN IND PL 1 PRS
+i n u a V INDF FIN IND PL 2 PRS
+i n u a V INDF FIN IND PL 3 PRS
+i n u a V INDF FIN IND SG 1 PRS
+i n u a V INDF FIN IND SG 2 PRS
+i n u a V INDF FIN IND SG 3 PRS
+i n u a V PRF FIN IND PL 1 PST
+i n u a V PRF FIN IND PL 2 PST
+i n u a V PRF FIN IND PL 3 PST
+i n u a V PRF FIN IND SG 1 PST
+i n u a V PRF FIN IND SG 2 PST
+i n u a V PRF FIN IND SG 3 PST
+a n d i k a V DEF FIN IND PL 1 PRS
+a n d i k a V DEF FIN IND PL 2 PRS
+a n d i k a V DEF FIN IND PL 3 PRS
+a n d i k a V DEF FIN IND SG 1 PRS
+a n d i k a V DEF FIN IND SG 2 PRS
+a n d i k a V DEF FIN IND SG 3 PRS
+a n d i k a V FIN
+a n d i k a V FIN COND PL 1 PRS
+a n d i k a V FIN COND PL 1 PST
+a n d i k a V FIN COND PL 2 PRS
+a n d i k a V FIN COND PL 2 PST
+a n d i k a V FIN COND PL 3 PRS
+a n d i k a V FIN COND PL 3 PST
+a n d i k a V FIN COND SG 1 PRS
+a n d i k a V FIN COND SG 1 PST
+a n d i k a V FIN COND SG 2 PRS
+a n d i k a V FIN COND SG 2 PST
+a n d i k a V FIN COND SG 3 PRS
+a n d i k a V FIN COND SG 3 PST
+a n d i k a V FIN IND PL 1 FUT
+a n d i k a V FIN IND PL 1 PST
+a n d i k a V FIN IND PL 2 FUT
+a n d i k a V FIN IND PL 2 PST
+a n d i k a V FIN IND PL 3 FUT
+a n d i k a V FIN IND PL 3 PST
+a n d i k a V FIN IND SG 1 FUT
+a n d i k a V FIN IND SG 1 PST
+a n d i k a V FIN IND SG 2 FUT
+a n d i k a V FIN IND SG 2 PST
+a n d i k a V FIN IND SG 3 FUT
+a n d i k a V FIN IND SG 3 PST
+a n d i k a V HAB FIN IND PL 1 PRS
+a n d i k a V HAB FIN IND PL 2 PRS
+a n d i k a V HAB FIN IND PL 3 PRS
+a n d i k a V HAB FIN IND SG 1 PRS
+a n d i k a V HAB FIN IND SG 2 PRS
+a n d i k a V HAB FIN IND SG 3 PRS
+a n d i k a V INDF FIN IND PL 1 PRS
+a n d i k a V INDF FIN IND PL 2 PRS
+a n d i k a V INDF FIN IND PL 3 PRS
+a n d i k a V INDF FIN IND SG 1 PRS
+a n d i k a V INDF FIN IND SG 2 PRS
+a n d i k a V INDF FIN IND SG 3 PRS
+a n d i k a V PRF FIN IND PL 1 PST
+a n d i k a V PRF FIN IND PL 2 PST
+a n d i k a V PRF FIN IND PL 3 PST
+a n d i k a V PRF FIN IND SG 1 PST
+a n d i k a V PRF FIN IND SG 2 PST
+a n d i k a V PRF FIN IND SG 3 PST
+j u a V DEF FIN IND PL 1 PRS
+j u a V DEF FIN IND PL 2 PRS
+j u a V DEF FIN IND PL 3 PRS
+j u a V DEF FIN IND SG 1 PRS
+j u a V DEF FIN IND SG 2 PRS
+j u a V DEF FIN IND SG 3 PRS
+j u a V FIN
+j u a V FIN COND PL 1 PRS
+j u a V FIN COND PL 1 PST
+j u a V FIN COND PL 2 PRS
+j u a V FIN COND PL 2 PST
+j u a V FIN COND PL 3 PRS
+j u a V FIN COND PL 3 PST
+j u a V FIN COND SG 1 PRS
+j u a V FIN COND SG 1 PST
+j u a V FIN COND SG 2 PRS
+j u a V FIN COND SG 2 PST
+j u a V FIN COND SG 3 PRS
+j u a V FIN COND SG 3 PST
+j u a V FIN IND PL 1 FUT
+j u a V FIN IND PL 1 PST
+j u a V FIN IND PL 2 FUT
+j u a V FIN IND PL 2 PST
+j u a V FIN IND PL 3 FUT
+j u a V FIN IND PL 3 PST
+j u a V FIN IND SG 1 FUT
+j u a V FIN IND SG 1 PST
+j u a V FIN IND SG 2 FUT
+j u a V FIN IND SG 2 PST
+j u a V FIN IND SG 3 FUT
+j u a V FIN IND SG 3 PST
+j u a V HAB FIN IND PL 1 PRS
+j u a V HAB FIN IND PL 2 PRS
+j u a V HAB FIN IND PL 3 PRS
+j u a V HAB FIN IND SG 1 PRS
+j u a V HAB FIN IND SG 2 PRS
+j u a V HAB FIN IND SG 3 PRS
+j u a V INDF FIN IND PL 1 PRS
+j u a V INDF FIN IND PL 2 PRS
+j u a V INDF FIN IND PL 3 PRS
+j u a V INDF FIN IND SG 1 PRS
+j u a V INDF FIN IND SG 2 PRS
+j u a V INDF FIN IND SG 3 PRS
+j u a V PRF FIN IND PL 1 PST
+j u a V PRF FIN IND PL 2 PST
+j u a V PRF FIN IND PL 3 PST
+j u a V PRF FIN IND SG 1 PST
+j u a V PRF FIN IND SG 2 PST
+j u a V PRF FIN IND SG 3 PST
+s a i d i a V DEF FIN IND PL 1 PRS
+s a i d i a V DEF FIN IND PL 2 PRS
+s a i d i a V DEF FIN IND PL 3 PRS
+s a i d i a V DEF FIN IND SG 1 PRS
+s a i d i a V DEF FIN IND SG 2 PRS
+s a i d i a V DEF FIN IND SG 3 PRS
+s a i d i a V FIN
+s a i d i a V FIN COND PL 1 PRS
+s a i d i a V FIN COND PL 1 PST
+s a i d i a V FIN COND PL 2 PRS
+s a i d i a V FIN COND PL 2 PST
+s a i d i a V FIN COND PL 3 PRS
+s a i d i a V FIN COND PL 3 PST
+s a i d i a V FIN COND SG 1 PRS
+s a i d i a V FIN COND SG 1 PST
+s a i d i a V FIN COND SG 2 PRS
+s a i d i a V FIN COND SG 2 PST
+s a i d i a V FIN COND SG 3 PRS
+s a i d i a V FIN COND SG 3 PST
+s a i d i a V FIN IND PL 1 FUT
+s a i d i a V FIN IND PL 1 PST
+s a i d i a V FIN IND PL 2 FUT
+s a i d i a V FIN IND PL 2 PST
+s a i d i a V FIN IND PL 3 FUT
+s a i d i a V FIN IND PL 3 PST
+s a i d i a V FIN IND SG 1 FUT
+s a i d i a V FIN IND SG 1 PST
+s a i d i a V FIN IND SG 2 FUT
+s a i d i a V FIN IND SG 2 PST
+s a i d i a V FIN IND SG 3 FUT
+s a i d i a V FIN IND SG 3 PST
+s a i d i a V HAB FIN IND PL 1 PRS
+s a i d i a V HAB FIN IND PL 2 PRS
+s a i d i a V HAB FIN IND PL 3 PRS
+s a i d i a V HAB FIN IND SG 1 PRS
+s a i d i a V HAB FIN IND SG 2 PRS
+s a i d i a V HAB FIN IND SG 3 PRS
+s a i d i a V INDF FIN IND PL 1 PRS
+s a i d i a V INDF FIN IND PL 2 PRS
+s a i d i a V INDF FIN IND PL 3 PRS
+s a i d i a V INDF FIN IND SG 1 PRS
+s a i d i a V INDF FIN IND SG 2 PRS
+s a i d i a V INDF FIN IND SG 3 PRS
+s a i d i a V PRF FIN IND PL 1 PST
+s a i d i a V PRF FIN IND PL 2 PST
+s a i d i a V PRF FIN IND PL 3 PST
+s a i d i a V PRF FIN IND SG 1 PST
+s a i d i a V PRF FIN IND SG 2 PST
+s a i d i a V PRF FIN IND SG 3 PST
+t e n g e n e z a V DEF FIN IND PL 1 PRS
+t e n g e n e z a V DEF FIN IND PL 2 PRS
+t e n g e n e z a V DEF FIN IND PL 3 PRS
+t e n g e n e z a V DEF FIN IND SG 1 PRS
+t e n g e n e z a V DEF FIN IND SG 2 PRS
+t e n g e n e z a V DEF FIN IND SG 3 PRS
+t e n g e n e z a V FIN
+t e n g e n e z a V FIN COND PL 1 PRS
+t e n g e n e z a V FIN COND PL 1 PST
+t e n g e n e z a V FIN COND PL 2 PRS
+t e n g e n e z a V FIN COND PL 2 PST
+t e n g e n e z a V FIN COND PL 3 PRS
+t e n g e n e z a V FIN COND PL 3 PST
+t e n g e n e z a V FIN COND SG 1 PRS
+t e n g e n e z a V FIN COND SG 1 PST
+t e n g e n e z a V FIN COND SG 2 PRS
+t e n g e n e z a V FIN COND SG 2 PST
+t e n g e n e z a V FIN COND SG 3 PRS
+t e n g e n e z a V FIN COND SG 3 PST
+t e n g e n e z a V FIN IND PL 1 FUT
+t e n g e n e z a V FIN IND PL 1 PST
+t e n g e n e z a V FIN IND PL 2 FUT
+t e n g e n e z a V FIN IND PL 2 PST
+t e n g e n e z a V FIN IND PL 3 FUT
+t e n g e n e z a V FIN IND PL 3 PST
+t e n g e n e z a V FIN IND SG 1 FUT
+t e n g e n e z a V FIN IND SG 1 PST
+t e n g e n e z a V FIN IND SG 2 FUT
+t e n g e n e z a V FIN IND SG 2 PST
+t e n g e n e z a V FIN IND SG 3 FUT
+t e n g e n e z a V FIN IND SG 3 PST
+t e n g e n e z a V HAB FIN IND PL 1 PRS
+t e n g e n e z a V HAB FIN IND PL 2 PRS
+t e n g e n e z a V HAB FIN IND PL 3 PRS
+t e n g e n e z a V HAB FIN IND SG 1 PRS
+t e n g e n e z a V HAB FIN IND SG 2 PRS
+t e n g e n e z a V HAB FIN IND SG 3 PRS
+t e n g e n e z a V INDF FIN IND PL 1 PRS
+t e n g e n e z a V INDF FIN IND PL 2 PRS
+t e n g e n e z a V INDF FIN IND PL 3 PRS
+t e n g e n e z a V INDF FIN IND SG 1 PRS
+t e n g e n e z a V INDF FIN IND SG 2 PRS
+t e n g e n e z a V INDF FIN IND SG 3 PRS
+t e n g e n e z a V PRF FIN IND PL 1 PST
+t e n g e n e z a V PRF FIN IND PL 2 PST
+t e n g e n e z a V PRF FIN IND PL 3 PST
+t e n g e n e z a V PRF FIN IND SG 1 PST
+t e n g e n e z a V PRF FIN IND SG 2 PST
+t e n g e n e z a V PRF FIN IND SG 3 PST
+p a n g u z a V DEF FIN IND PL 1 PRS
+p a n g u z a V DEF FIN IND PL 2 PRS
+p a n g u z a V DEF FIN IND PL 3 PRS
+p a n g u z a V DEF FIN IND SG 1 PRS
+p a n g u z a V DEF FIN IND SG 2 PRS
+p a n g u z a V DEF FIN IND SG 3 PRS
+p a n g u z a V FIN
+p a n g u z a V FIN COND PL 1 PRS
+p a n g u z a V FIN COND PL 1 PST
+p a n g u z a V FIN COND PL 2 PRS
+p a n g u z a V FIN COND PL 2 PST
+p a n g u z a V FIN COND PL 3 PRS
+p a n g u z a V FIN COND PL 3 PST
+p a n g u z a V FIN COND SG 1 PRS
+p a n g u z a V FIN COND SG 1 PST
+p a n g u z a V FIN COND SG 2 PRS
+p a n g u z a V FIN COND SG 2 PST
+p a n g u z a V FIN COND SG 3 PRS
+p a n g u z a V FIN COND SG 3 PST
+p a n g u z a V FIN IND PL 1 FUT
+p a n g u z a V FIN IND PL 1 PST
+p a n g u z a V FIN IND PL 2 FUT
+p a n g u z a V FIN IND PL 2 PST
+p a n g u z a V FIN IND PL 3 FUT
+p a n g u z a V FIN IND PL 3 PST
+p a n g u z a V FIN IND SG 1 FUT
+p a n g u z a V FIN IND SG 1 PST
+p a n g u z a V FIN IND SG 2 FUT
+p a n g u z a V FIN IND SG 2 PST
+p a n g u z a V FIN IND SG 3 FUT
+p a n g u z a V FIN IND SG 3 PST
+p a n g u z a V HAB FIN IND PL 1 PRS
+p a n g u z a V HAB FIN IND PL 2 PRS
+p a n g u z a V HAB FIN IND PL 3 PRS
+p a n g u z a V HAB FIN IND SG 1 PRS
+p a n g u z a V HAB FIN IND SG 2 PRS
+p a n g u z a V HAB FIN IND SG 3 PRS
+p a n g u z a V INDF FIN IND PL 1 PRS
+p a n g u z a V INDF FIN IND PL 2 PRS
+p a n g u z a V INDF FIN IND PL 3 PRS
+p a n g u z a V INDF FIN IND SG 1 PRS
+p a n g u z a V INDF FIN IND SG 2 PRS
+p a n g u z a V INDF FIN IND SG 3 PRS
+p a n g u z a V PRF FIN IND PL 1 PST
+p a n g u z a V PRF FIN IND PL 2 PST
+p a n g u z a V PRF FIN IND PL 3 PST
+p a n g u z a V PRF FIN IND SG 1 PST
+p a n g u z a V PRF FIN IND SG 2 PST
+p a n g u z a V PRF FIN IND SG 3 PST
+n u n u a V DEF FIN IND PL 1 PRS
+n u n u a V DEF FIN IND PL 2 PRS
+n u n u a V DEF FIN IND PL 3 PRS
+n u n u a V DEF FIN IND SG 1 PRS
+n u n u a V DEF FIN IND SG 2 PRS
+n u n u a V DEF FIN IND SG 3 PRS
+n u n u a V FIN
+n u n u a V FIN COND PL 1 PRS
+n u n u a V FIN COND PL 1 PST
+n u n u a V FIN COND PL 2 PRS
+n u n u a V FIN COND PL 2 PST
+n u n u a V FIN COND PL 3 PRS
+n u n u a V FIN COND PL 3 PST
+n u n u a V FIN COND SG 1 PRS
+n u n u a V FIN COND SG 1 PST
+n u n u a V FIN COND SG 2 PRS
+n u n u a V FIN COND SG 2 PST
+n u n u a V FIN COND SG 3 PRS
+n u n u a V FIN COND SG 3 PST
+n u n u a V FIN IND PL 1 FUT
+n u n u a V FIN IND PL 1 PST
+n u n u a V FIN IND PL 2 FUT
+n u n u a V FIN IND PL 2 PST
+n u n u a V FIN IND PL 3 FUT
+n u n u a V FIN IND PL 3 PST
+n u n u a V FIN IND SG 1 FUT
+n u n u a V FIN IND SG 1 PST
+n u n u a V FIN IND SG 2 FUT
+n u n u a V FIN IND SG 2 PST
+n u n u a V FIN IND SG 3 FUT
+n u n u a V FIN IND SG 3 PST
+n u n u a V HAB FIN IND PL 1 PRS
+n u n u a V HAB FIN IND PL 2 PRS
+n u n u a V HAB FIN IND PL 3 PRS
+n u n u a V HAB FIN IND SG 1 PRS
+n u n u a V HAB FIN IND SG 2 PRS
+n u n u a V HAB FIN IND SG 3 PRS
+n u n u a V INDF FIN IND PL 1 PRS
+n u n u a V INDF FIN IND PL 2 PRS
+n u n u a V INDF FIN IND PL 3 PRS
+n u n u a V INDF FIN IND SG 1 PRS
+n u n u a V INDF FIN IND SG 2 PRS
+n u n u a V INDF FIN IND SG 3 PRS
+n u n u a V PRF FIN IND PL 1 PST
+n u n u a V PRF FIN IND PL 2 PST
+n u n u a V PRF FIN IND PL 3 PST
+n u n u a V PRF FIN IND SG 1 PST
+n u n u a V PRF FIN IND SG 2 PST
+n u n u a V PRF FIN IND SG 3 PST
+l a l a V DEF FIN IND PL 1 PRS
+l a l a V DEF FIN IND PL 2 PRS
+l a l a V DEF FIN IND PL 3 PRS
+l a l a V DEF FIN IND SG 1 PRS
+l a l a V DEF FIN IND SG 2 PRS
+l a l a V DEF FIN IND SG 3 PRS
+l a l a V FIN
+l a l a V FIN COND PL 1 PRS
+l a l a V FIN COND PL 1 PST
+l a l a V FIN COND PL 2 PRS
+l a l a V FIN COND PL 2 PST
+l a l a V FIN COND PL 3 PRS
+l a l a V FIN COND PL 3 PST
+l a l a V FIN COND SG 1 PRS
+l a l a V FIN COND SG 1 PST
+l a l a V FIN COND SG 2 PRS
+l a l a V FIN COND SG 2 PST
+l a l a V FIN COND SG 3 PRS
+l a l a V FIN COND SG 3 PST
+l a l a V FIN IND PL 1 FUT
+l a l a V FIN IND PL 1 PST
+l a l a V FIN IND PL 2 FUT
+l a l a V FIN IND PL 2 PST
+l a l a V FIN IND PL 3 FUT
+l a l a V FIN IND PL 3 PST
+l a l a V FIN IND SG 1 FUT
+l a l a V FIN IND SG 1 PST
+l a l a V FIN IND SG 2 FUT
+l a l a V FIN IND SG 2 PST
+l a l a V FIN IND SG 3 FUT
+l a l a V FIN IND SG 3 PST
+l a l a V HAB FIN IND PL 1 PRS
+l a l a V HAB FIN IND PL 2 PRS
+l a l a V HAB FIN IND PL 3 PRS
+l a l a V HAB FIN IND SG 1 PRS
+l a l a V HAB FIN IND SG 2 PRS
+l a l a V HAB FIN IND SG 3 PRS
+l a l a V INDF FIN IND PL 1 PRS
+l a l a V INDF FIN IND PL 2 PRS
+l a l a V INDF FIN IND PL 3 PRS
+l a l a V INDF FIN IND SG 1 PRS
+l a l a V INDF FIN IND SG 2 PRS
+l a l a V INDF FIN IND SG 3 PRS
+l a l a V PRF FIN IND PL 1 PST
+l a l a V PRF FIN IND PL 2 PST
+l a l a V PRF FIN IND PL 3 PST
+l a l a V PRF FIN IND SG 1 PST
+l a l a V PRF FIN IND SG 2 PST
+l a l a V PRF FIN IND SG 3 PST
+o t a V DEF FIN IND PL 1 PRS
+o t a V DEF FIN IND PL 2 PRS
+o t a V DEF FIN IND PL 3 PRS
+o t a V DEF FIN IND SG 1 PRS
+o t a V DEF FIN IND SG 2 PRS
+o t a V DEF FIN IND SG 3 PRS
+o t a V FIN
+o t a V FIN COND PL 1 PRS
+o t a V FIN COND PL 1 PST
+o t a V FIN COND PL 2 PRS
+o t a V FIN COND PL 2 PST
+o t a V FIN COND PL 3 PRS
+o t a V FIN COND PL 3 PST
+o t a V FIN COND SG 1 PRS
+o t a V FIN COND SG 1 PST
+o t a V FIN COND SG 2 PRS
+o t a V FIN COND SG 2 PST
+o t a V FIN COND SG 3 PRS
+o t a V FIN COND SG 3 PST
+o t a V FIN IND PL 1 FUT
+o t a V FIN IND PL 1 PST
+o t a V FIN IND PL 2 FUT
+o t a V FIN IND PL 2 PST
+o t a V FIN IND PL 3 FUT
+o t a V FIN IND PL 3 PST
+o t a V FIN IND SG 1 FUT
+o t a V FIN IND SG 1 PST
+o t a V FIN IND SG 2 FUT
+o t a V FIN IND SG 2 PST
+o t a V FIN IND SG 3 FUT
+o t a V FIN IND SG 3 PST
+o t a V HAB FIN IND PL 1 PRS
+o t a V HAB FIN IND PL 2 PRS
+o t a V HAB FIN IND PL 3 PRS
+o t a V HAB FIN IND SG 1 PRS
+o t a V HAB FIN IND SG 2 PRS
+o t a V HAB FIN IND SG 3 PRS
+o t a V INDF FIN IND PL 1 PRS
+o t a V INDF FIN IND PL 2 PRS
+o t a V INDF FIN IND PL 3 PRS
+o t a V INDF FIN IND SG 1 PRS
+o t a V INDF FIN IND SG 2 PRS
+o t a V INDF FIN IND SG 3 PRS
+o t a V PRF FIN IND PL 1 PST
+o t a V PRF FIN IND PL 2 PST
+o t a V PRF FIN IND PL 3 PST
+o t a V PRF FIN IND SG 1 PST
+o t a V PRF FIN IND SG 2 PST
+o t a V PRF FIN IND SG 3 PST
+f u n g a V DEF FIN IND PL 1 PRS
+f u n g a V DEF FIN IND PL 2 PRS
+f u n g a V DEF FIN IND PL 3 PRS
+f u n g a V DEF FIN IND SG 1 PRS
+f u n g a V DEF FIN IND SG 2 PRS
+f u n g a V DEF FIN IND SG 3 PRS
+f u n g a V FIN
+f u n g a V FIN COND PL 1 PRS
+f u n g a V FIN COND PL 1 PST
+f u n g a V FIN COND PL 2 PRS
+f u n g a V FIN COND PL 2 PST
+f u n g a V FIN COND PL 3 PRS
+f u n g a V FIN COND PL 3 PST
+f u n g a V FIN COND SG 1 PRS
+f u n g a V FIN COND SG 1 PST
+f u n g a V FIN COND SG 2 PRS
+f u n g a V FIN COND SG 2 PST
+f u n g a V FIN COND SG 3 PRS
+f u n g a V FIN COND SG 3 PST
+f u n g a V FIN IND PL 1 FUT
+f u n g a V FIN IND PL 1 PST
+f u n g a V FIN IND PL 2 FUT
+f u n g a V FIN IND PL 2 PST
+f u n g a V FIN IND PL 3 FUT
+f u n g a V FIN IND PL 3 PST
+f u n g a V FIN IND SG 1 FUT
+f u n g a V FIN IND SG 1 PST
+f u n g a V FIN IND SG 2 FUT
+f u n g a V FIN IND SG 2 PST
+f u n g a V FIN IND SG 3 FUT
+f u n g a V FIN IND SG 3 PST
+f u n g a V HAB FIN IND PL 1 PRS
+f u n g a V HAB FIN IND PL 2 PRS
+f u n g a V HAB FIN IND PL 3 PRS
+f u n g a V HAB FIN IND SG 1 PRS
+f u n g a V HAB FIN IND SG 2 PRS
+f u n g a V HAB FIN IND SG 3 PRS
+f u n g a V INDF FIN IND PL 1 PRS
+f u n g a V INDF FIN IND PL 2 PRS
+f u n g a V INDF FIN IND PL 3 PRS
+f u n g a V INDF FIN IND SG 1 PRS
+f u n g a V INDF FIN IND SG 2 PRS
+f u n g a V INDF FIN IND SG 3 PRS
+f u n g a V PRF FIN IND PL 1 PST
+f u n g a V PRF FIN IND PL 2 PST
+f u n g a V PRF FIN IND PL 3 PST
+f u n g a V PRF FIN IND SG 1 PST
+f u n g a V PRF FIN IND SG 2 PST
+f u n g a V PRF FIN IND SG 3 PST
+t a k a V DEF FIN IND PL 1 PRS
+t a k a V DEF FIN IND PL 2 PRS
+t a k a V DEF FIN IND PL 3 PRS
+t a k a V DEF FIN IND SG 1 PRS
+t a k a V DEF FIN IND SG 2 PRS
+t a k a V DEF FIN IND SG 3 PRS
+t a k a V FIN
+t a k a V FIN COND PL 1 PRS
+t a k a V FIN COND PL 1 PST
+t a k a V FIN COND PL 2 PRS
+t a k a V FIN COND PL 2 PST
+t a k a V FIN COND PL 3 PRS
+t a k a V FIN COND PL 3 PST
+t a k a V FIN COND SG 1 PRS
+t a k a V FIN COND SG 1 PST
+t a k a V FIN COND SG 2 PRS
+t a k a V FIN COND SG 2 PST
+t a k a V FIN COND SG 3 PRS
+t a k a V FIN COND SG 3 PST
+t a k a V FIN IND PL 1 FUT
+t a k a V FIN IND PL 1 PST
+t a k a V FIN IND PL 2 FUT
+t a k a V FIN IND PL 2 PST
+t a k a V FIN IND PL 3 FUT
+t a k a V FIN IND PL 3 PST
+t a k a V FIN IND SG 1 FUT
+t a k a V FIN IND SG 1 PST
+t a k a V FIN IND SG 2 FUT
+t a k a V FIN IND SG 2 PST
+t a k a V FIN IND SG 3 FUT
+t a k a V FIN IND SG 3 PST
+t a k a V HAB FIN IND PL 1 PRS
+t a k a V HAB FIN IND PL 2 PRS
+t a k a V HAB FIN IND PL 3 PRS
+t a k a V HAB FIN IND SG 1 PRS
+t a k a V HAB FIN IND SG 2 PRS
+t a k a V HAB FIN IND SG 3 PRS
+t a k a V INDF FIN IND PL 1 PRS
+t a k a V INDF FIN IND PL 2 PRS
+t a k a V INDF FIN IND PL 3 PRS
+t a k a V INDF FIN IND SG 1 PRS
+t a k a V INDF FIN IND SG 2 PRS
+t a k a V INDF FIN IND SG 3 PRS
+t a k a V PRF FIN IND PL 1 PST
+t a k a V PRF FIN IND PL 2 PST
+t a k a V PRF FIN IND PL 3 PST
+t a k a V PRF FIN IND SG 1 PST
+t a k a V PRF FIN IND SG 2 PST
+t a k a V PRF FIN IND SG 3 PST
+o n a V DEF FIN IND PL 1 PRS
+o n a V DEF FIN IND PL 2 PRS
+o n a V DEF FIN IND PL 3 PRS
+o n a V DEF FIN IND SG 1 PRS
+o n a V DEF FIN IND SG 2 PRS
+o n a V DEF FIN IND SG 3 PRS
+o n a V FIN
+o n a V FIN COND PL 1 PRS
+o n a V FIN COND PL 1 PST
+o n a V FIN COND PL 2 PRS
+o n a V FIN COND PL 2 PST
+o n a V FIN COND PL 3 PRS
+o n a V FIN COND PL 3 PST
+o n a V FIN COND SG 1 PRS
+o n a V FIN COND SG 1 PST
+o n a V FIN COND SG 2 PRS
+o n a V FIN COND SG 2 PST
+o n a V FIN COND SG 3 PRS
+o n a V FIN COND SG 3 PST
+o n a V FIN IND PL 1 FUT
+o n a V FIN IND PL 1 PST
+o n a V FIN IND PL 2 FUT
+o n a V FIN IND PL 2 PST
+o n a V FIN IND PL 3 FUT
+o n a V FIN IND PL 3 PST
+o n a V FIN IND SG 1 FUT
+o n a V FIN IND SG 1 PST
+o n a V FIN IND SG 2 FUT
+o n a V FIN IND SG 2 PST
+o n a V FIN IND SG 3 FUT
+o n a V FIN IND SG 3 PST
+o n a V HAB FIN IND PL 1 PRS
+o n a V HAB FIN IND PL 2 PRS
+o n a V HAB FIN IND PL 3 PRS
+o n a V HAB FIN IND SG 1 PRS
+o n a V HAB FIN IND SG 2 PRS
+o n a V HAB FIN IND SG 3 PRS
+o n a V INDF FIN IND PL 1 PRS
+o n a V INDF FIN IND PL 2 PRS
+o n a V INDF FIN IND PL 3 PRS
+o n a V INDF FIN IND SG 1 PRS
+o n a V INDF FIN IND SG 2 PRS
+o n a V INDF FIN IND SG 3 PRS
+o n a V PRF FIN IND PL 1 PST
+o n a V PRF FIN IND PL 2 PST
+o n a V PRF FIN IND PL 3 PST
+o n a V PRF FIN IND SG 1 PST
+o n a V PRF FIN IND SG 2 PST
+o n a V PRF FIN IND SG 3 PST
+l i a V DEF FIN IND PL 1 PRS
+l i a V DEF FIN IND PL 2 PRS
+l i a V DEF FIN IND PL 3 PRS
+l i a V DEF FIN IND SG 1 PRS
+l i a V DEF FIN IND SG 2 PRS
+l i a V DEF FIN IND SG 3 PRS
+l i a V FIN
+l i a V FIN COND PL 1 PRS
+l i a V FIN COND PL 1 PST
+l i a V FIN COND PL 2 PRS
+l i a V FIN COND PL 2 PST
+l i a V FIN COND PL 3 PRS
+l i a V FIN COND PL 3 PST
+l i a V FIN COND SG 1 PRS
+l i a V FIN COND SG 1 PST
+l i a V FIN COND SG 2 PRS
+l i a V FIN COND SG 2 PST
+l i a V FIN COND SG 3 PRS
+l i a V FIN COND SG 3 PST
+l i a V FIN IND PL 1 FUT
+l i a V FIN IND PL 1 PST
+l i a V FIN IND PL 2 FUT
+l i a V FIN IND PL 2 PST
+l i a V FIN IND PL 3 FUT
+l i a V FIN IND PL 3 PST
+l i a V FIN IND SG 1 FUT
+l i a V FIN IND SG 1 PST
+l i a V FIN IND SG 2 FUT
+l i a V FIN IND SG 2 PST
+l i a V FIN IND SG 3 FUT
+l i a V FIN IND SG 3 PST
+l i a V HAB FIN IND PL 1 PRS
+l i a V HAB FIN IND PL 2 PRS
+l i a V HAB FIN IND PL 3 PRS
+l i a V HAB FIN IND SG 1 PRS
+l i a V HAB FIN IND SG 2 PRS
+l i a V HAB FIN IND SG 3 PRS
+l i a V INDF FIN IND PL 1 PRS
+l i a V INDF FIN IND PL 2 PRS
+l i a V INDF FIN IND PL 3 PRS
+l i a V INDF FIN IND SG 1 PRS
+l i a V INDF FIN IND SG 2 PRS
+l i a V INDF FIN IND SG 3 PRS
+l i a V PRF FIN IND PL 1 PST
+l i a V PRF FIN IND PL 2 PST
+l i a V PRF FIN IND PL 3 PST
+l i a V PRF FIN IND SG 1 PST
+l i a V PRF FIN IND SG 2 PST
+l i a V PRF FIN IND SG 3 PST
+a n g u k a V DEF FIN IND PL 1 PRS
+a n g u k a V DEF FIN IND PL 2 PRS
+a n g u k a V DEF FIN IND PL 3 PRS
+a n g u k a V DEF FIN IND SG 1 PRS
+a n g u k a V DEF FIN IND SG 2 PRS
+a n g u k a V DEF FIN IND SG 3 PRS
+a n g u k a V FIN
+a n g u k a V FIN COND PL 1 PRS
+a n g u k a V FIN COND PL 1 PST
+a n g u k a V FIN COND PL 2 PRS
+a n g u k a V FIN COND PL 2 PST
+a n g u k a V FIN COND PL 3 PRS
+a n g u k a V FIN COND PL 3 PST
+a n g u k a V FIN COND SG 1 PRS
+a n g u k a V FIN COND SG 1 PST
+a n g u k a V FIN COND SG 2 PRS
+a n g u k a V FIN COND SG 2 PST
+a n g u k a V FIN COND SG 3 PRS
+a n g u k a V FIN COND SG 3 PST
+a n g u k a V FIN IND PL 1 FUT
+a n g u k a V FIN IND PL 1 PST
+a n g u k a V FIN IND PL 2 FUT
+a n g u k a V FIN IND PL 2 PST
+a n g u k a V FIN IND PL 3 FUT
+a n g u k a V FIN IND PL 3 PST
+a n g u k a V FIN IND SG 1 FUT
+a n g u k a V FIN IND SG 1 PST
+a n g u k a V FIN IND SG 2 FUT
+a n g u k a V FIN IND SG 2 PST
+a n g u k a V FIN IND SG 3 FUT
+a n g u k a V FIN IND SG 3 PST
+a n g u k a V HAB FIN IND PL 1 PRS
+a n g u k a V HAB FIN IND PL 2 PRS
+a n g u k a V HAB FIN IND PL 3 PRS
+a n g u k a V HAB FIN IND SG 1 PRS
+a n g u k a V HAB FIN IND SG 2 PRS
+a n g u k a V HAB FIN IND SG 3 PRS
+a n g u k a V INDF FIN IND PL 1 PRS
+a n g u k a V INDF FIN IND PL 2 PRS
+a n g u k a V INDF FIN IND PL 3 PRS
+a n g u k a V INDF FIN IND SG 1 PRS
+a n g u k a V INDF FIN IND SG 2 PRS
+a n g u k a V INDF FIN IND SG 3 PRS
+a n g u k a V PRF FIN IND PL 1 PST
+a n g u k a V PRF FIN IND PL 2 PST
+a n g u k a V PRF FIN IND PL 3 PST
+a n g u k a V PRF FIN IND SG 1 PST
+a n g u k a V PRF FIN IND SG 2 PST
+a n g u k a V PRF FIN IND SG 3 PST
+s h i k i l i a V DEF FIN IND PL 1 PRS
+s h i k i l i a V DEF FIN IND PL 2 PRS
+s h i k i l i a V DEF FIN IND PL 3 PRS
+s h i k i l i a V DEF FIN IND SG 1 PRS
+s h i k i l i a V DEF FIN IND SG 2 PRS
+s h i k i l i a V DEF FIN IND SG 3 PRS
+s h i k i l i a V FIN
+s h i k i l i a V FIN COND PL 1 PRS
+s h i k i l i a V FIN COND PL 1 PST
+s h i k i l i a V FIN COND PL 2 PRS
+s h i k i l i a V FIN COND PL 2 PST
+s h i k i l i a V FIN COND PL 3 PRS
+s h i k i l i a V FIN COND PL 3 PST
+s h i k i l i a V FIN COND SG 1 PRS
+s h i k i l i a V FIN COND SG 1 PST
+s h i k i l i a V FIN COND SG 2 PRS
+s h i k i l i a V FIN COND SG 2 PST
+s h i k i l i a V FIN COND SG 3 PRS
+s h i k i l i a V FIN COND SG 3 PST
+s h i k i l i a V FIN IND PL 1 FUT
+s h i k i l i a V FIN IND PL 1 PST
+s h i k i l i a V FIN IND PL 2 FUT
+s h i k i l i a V FIN IND PL 2 PST
+s h i k i l i a V FIN IND PL 3 FUT
+s h i k i l i a V FIN IND PL 3 PST
+s h i k i l i a V FIN IND SG 1 FUT
+s h i k i l i a V FIN IND SG 1 PST
+s h i k i l i a V FIN IND SG 2 FUT
+s h i k i l i a V FIN IND SG 2 PST
+s h i k i l i a V FIN IND SG 3 FUT
+s h i k i l i a V FIN IND SG 3 PST
+s h i k i l i a V HAB FIN IND PL 1 PRS
+s h i k i l i a V HAB FIN IND PL 2 PRS
+s h i k i l i a V HAB FIN IND PL 3 PRS
+s h i k i l i a V HAB FIN IND SG 1 PRS
+s h i k i l i a V HAB FIN IND SG 2 PRS
+s h i k i l i a V HAB FIN IND SG 3 PRS
+s h i k i l i a V INDF FIN IND PL 1 PRS
+s h i k i l i a V INDF FIN IND PL 2 PRS
+s h i k i l i a V INDF FIN IND PL 3 PRS
+s h i k i l i a V INDF FIN IND SG 1 PRS
+s h i k i l i a V INDF FIN IND SG 2 PRS
+s h i k i l i a V INDF FIN IND SG 3 PRS
+s h i k i l i a V PRF FIN IND PL 1 PST
+s h i k i l i a V PRF FIN IND PL 2 PST
+s h i k i l i a V PRF FIN IND PL 3 PST
+s h i k i l i a V PRF FIN IND SG 1 PST
+s h i k i l i a V PRF FIN IND SG 2 PST
+s h i k i l i a V PRF FIN IND SG 3 PST
+c h o m a V DEF FIN IND PL 1 PRS
+c h o m a V DEF FIN IND PL 2 PRS
+c h o m a V DEF FIN IND PL 3 PRS
+c h o m a V DEF FIN IND SG 1 PRS
+c h o m a V DEF FIN IND SG 2 PRS
+c h o m a V DEF FIN IND SG 3 PRS
+c h o m a V FIN
+c h o m a V FIN COND PL 1 PRS
+c h o m a V FIN COND PL 1 PST
+c h o m a V FIN COND PL 2 PRS
+c h o m a V FIN COND PL 2 PST
+c h o m a V FIN COND PL 3 PRS
+c h o m a V FIN COND PL 3 PST
+c h o m a V FIN COND SG 1 PRS
+c h o m a V FIN COND SG 1 PST
+c h o m a V FIN COND SG 2 PRS
+c h o m a V FIN COND SG 2 PST
+c h o m a V FIN COND SG 3 PRS
+c h o m a V FIN COND SG 3 PST
+c h o m a V FIN IND PL 1 FUT
+c h o m a V FIN IND PL 1 PST
+c h o m a V FIN IND PL 2 FUT
+c h o m a V FIN IND PL 2 PST
+c h o m a V FIN IND PL 3 FUT
+c h o m a V FIN IND PL 3 PST
+c h o m a V FIN IND SG 1 FUT
+c h o m a V FIN IND SG 1 PST
+c h o m a V FIN IND SG 2 FUT
+c h o m a V FIN IND SG 2 PST
+c h o m a V FIN IND SG 3 FUT
+c h o m a V FIN IND SG 3 PST
+c h o m a V HAB FIN IND PL 1 PRS
+c h o m a V HAB FIN IND PL 2 PRS
+c h o m a V HAB FIN IND PL 3 PRS
+c h o m a V HAB FIN IND SG 1 PRS
+c h o m a V HAB FIN IND SG 2 PRS
+c h o m a V HAB FIN IND SG 3 PRS
+c h o m a V INDF FIN IND PL 1 PRS
+c h o m a V INDF FIN IND PL 2 PRS
+c h o m a V INDF FIN IND PL 3 PRS
+c h o m a V INDF FIN IND SG 1 PRS
+c h o m a V INDF FIN IND SG 2 PRS
+c h o m a V INDF FIN IND SG 3 PRS
+c h o m a V PRF FIN IND PL 1 PST
+c h o m a V PRF FIN IND PL 2 PST
+c h o m a V PRF FIN IND PL 3 PST
+c h o m a V PRF FIN IND SG 1 PST
+c h o m a V PRF FIN IND SG 2 PST
+c h o m a V PRF FIN IND SG 3 PST
+l e t a V DEF FIN IND PL 1 PRS
+l e t a V DEF FIN IND PL 2 PRS
+l e t a V DEF FIN IND PL 3 PRS
+l e t a V DEF FIN IND SG 1 PRS
+l e t a V DEF FIN IND SG 2 PRS
+l e t a V DEF FIN IND SG 3 PRS
+l e t a V FIN
+l e t a V FIN COND PL 1 PRS
+l e t a V FIN COND PL 1 PST
+l e t a V FIN COND PL 2 PRS
+l e t a V FIN COND PL 2 PST
+l e t a V FIN COND PL 3 PRS
+l e t a V FIN COND PL 3 PST
+l e t a V FIN COND SG 1 PRS
+l e t a V FIN COND SG 1 PST
+l e t a V FIN COND SG 2 PRS
+l e t a V FIN COND SG 2 PST
+l e t a V FIN COND SG 3 PRS
+l e t a V FIN COND SG 3 PST
+l e t a V FIN IND PL 1 FUT
+l e t a V FIN IND PL 1 PST
+l e t a V FIN IND PL 2 FUT
+l e t a V FIN IND PL 2 PST
+l e t a V FIN IND PL 3 FUT
+l e t a V FIN IND PL 3 PST
+l e t a V FIN IND SG 1 FUT
+l e t a V FIN IND SG 1 PST
+l e t a V FIN IND SG 2 FUT
+l e t a V FIN IND SG 2 PST
+l e t a V FIN IND SG 3 FUT
+l e t a V FIN IND SG 3 PST
+l e t a V HAB FIN IND PL 1 PRS
+l e t a V HAB FIN IND PL 2 PRS
+l e t a V HAB FIN IND PL 3 PRS
+l e t a V HAB FIN IND SG 1 PRS
+l e t a V HAB FIN IND SG 2 PRS
+l e t a V HAB FIN IND SG 3 PRS
+l e t a V INDF FIN IND PL 1 PRS
+l e t a V INDF FIN IND PL 2 PRS
+l e t a V INDF FIN IND PL 3 PRS
+l e t a V INDF FIN IND SG 1 PRS
+l e t a V INDF FIN IND SG 2 PRS
+l e t a V INDF FIN IND SG 3 PRS
+l e t a V PRF FIN IND PL 1 PST
+l e t a V PRF FIN IND PL 2 PST
+l e t a V PRF FIN IND PL 3 PST
+l e t a V PRF FIN IND SG 1 PST
+l e t a V PRF FIN IND SG 2 PST
+l e t a V PRF FIN IND SG 3 PST
+p i g a V DEF FIN IND PL 1 PRS
+p i g a V DEF FIN IND PL 2 PRS
+p i g a V DEF FIN IND PL 3 PRS
+p i g a V DEF FIN IND SG 1 PRS
+p i g a V DEF FIN IND SG 2 PRS
+p i g a V DEF FIN IND SG 3 PRS
+p i g a V FIN
+p i g a V FIN COND PL 1 PRS
+p i g a V FIN COND PL 1 PST
+p i g a V FIN COND PL 2 PRS
+p i g a V FIN COND PL 2 PST
+p i g a V FIN COND PL 3 PRS
+p i g a V FIN COND PL 3 PST
+p i g a V FIN COND SG 1 PRS
+p i g a V FIN COND SG 1 PST
+p i g a V FIN COND SG 2 PRS
+p i g a V FIN COND SG 2 PST
+p i g a V FIN COND SG 3 PRS
+p i g a V FIN COND SG 3 PST
+p i g a V FIN IND PL 1 FUT
+p i g a V FIN IND PL 1 PST
+p i g a V FIN IND PL 2 FUT
+p i g a V FIN IND PL 2 PST
+p i g a V FIN IND PL 3 FUT
+p i g a V FIN IND PL 3 PST
+p i g a V FIN IND SG 1 FUT
+p i g a V FIN IND SG 1 PST
+p i g a V FIN IND SG 2 FUT
+p i g a V FIN IND SG 2 PST
+p i g a V FIN IND SG 3 FUT
+p i g a V FIN IND SG 3 PST
+p i g a V HAB FIN IND PL 1 PRS
+p i g a V HAB FIN IND PL 2 PRS
+p i g a V HAB FIN IND PL 3 PRS
+p i g a V HAB FIN IND SG 1 PRS
+p i g a V HAB FIN IND SG 2 PRS
+p i g a V HAB FIN IND SG 3 PRS
+p i g a V INDF FIN IND PL 1 PRS
+p i g a V INDF FIN IND PL 2 PRS
+p i g a V INDF FIN IND PL 3 PRS
+p i g a V INDF FIN IND SG 1 PRS
+p i g a V INDF FIN IND SG 2 PRS
+p i g a V INDF FIN IND SG 3 PRS
+p i g a V PRF FIN IND PL 1 PST
+p i g a V PRF FIN IND PL 2 PST
+p i g a V PRF FIN IND PL 3 PST
+p i g a V PRF FIN IND SG 1 PST
+p i g a V PRF FIN IND SG 2 PST
+p i g a V PRF FIN IND SG 3 PST
+f a n y a V DEF FIN IND PL 1 PRS
+f a n y a V DEF FIN IND PL 2 PRS
+f a n y a V DEF FIN IND PL 3 PRS
+f a n y a V DEF FIN IND SG 1 PRS
+f a n y a V DEF FIN IND SG 2 PRS
+f a n y a V DEF FIN IND SG 3 PRS
+f a n y a V FIN
+f a n y a V FIN COND PL 1 PRS
+f a n y a V FIN COND PL 1 PST
+f a n y a V FIN COND PL 2 PRS
+f a n y a V FIN COND PL 2 PST
+f a n y a V FIN COND PL 3 PRS
+f a n y a V FIN COND PL 3 PST
+f a n y a V FIN COND SG 1 PRS
+f a n y a V FIN COND SG 1 PST
+f a n y a V FIN COND SG 2 PRS
+f a n y a V FIN COND SG 2 PST
+f a n y a V FIN COND SG 3 PRS
+f a n y a V FIN COND SG 3 PST
+f a n y a V FIN IND PL 1 FUT
+f a n y a V FIN IND PL 1 PST
+f a n y a V FIN IND PL 2 FUT
+f a n y a V FIN IND PL 2 PST
+f a n y a V FIN IND PL 3 FUT
+f a n y a V FIN IND PL 3 PST
+f a n y a V FIN IND SG 1 FUT
+f a n y a V FIN IND SG 1 PST
+f a n y a V FIN IND SG 2 FUT
+f a n y a V FIN IND SG 2 PST
+f a n y a V FIN IND SG 3 FUT
+f a n y a V FIN IND SG 3 PST
+f a n y a V HAB FIN IND PL 1 PRS
+f a n y a V HAB FIN IND PL 2 PRS
+f a n y a V HAB FIN IND PL 3 PRS
+f a n y a V HAB FIN IND SG 1 PRS
+f a n y a V HAB FIN IND SG 2 PRS
+f a n y a V HAB FIN IND SG 3 PRS
+f a n y a V INDF FIN IND PL 1 PRS
+f a n y a V INDF FIN IND PL 2 PRS
+f a n y a V INDF FIN IND PL 3 PRS
+f a n y a V INDF FIN IND SG 1 PRS
+f a n y a V INDF FIN IND SG 2 PRS
+f a n y a V INDF FIN IND SG 3 PRS
+f a n y a V PRF FIN IND PL 1 PST
+f a n y a V PRF FIN IND PL 2 PST
+f a n y a V PRF FIN IND PL 3 PST
+f a n y a V PRF FIN IND SG 1 PST
+f a n y a V PRF FIN IND SG 2 PST
+f a n y a V PRF FIN IND SG 3 PST
+z a a V DEF FIN IND PL 1 PRS
+z a a V DEF FIN IND PL 2 PRS
+z a a V DEF FIN IND PL 3 PRS
+z a a V DEF FIN IND SG 1 PRS
+z a a V DEF FIN IND SG 2 PRS
+z a a V DEF FIN IND SG 3 PRS
+z a a V FIN
+z a a V FIN COND PL 1 PRS
+z a a V FIN COND PL 1 PST
+z a a V FIN COND PL 2 PRS
+z a a V FIN COND PL 2 PST
+z a a V FIN COND PL 3 PRS
+z a a V FIN COND PL 3 PST
+z a a V FIN COND SG 1 PRS
+z a a V FIN COND SG 1 PST
+z a a V FIN COND SG 2 PRS
+z a a V FIN COND SG 2 PST
+z a a V FIN COND SG 3 PRS
+z a a V FIN COND SG 3 PST
+z a a V FIN IND PL 1 FUT
+z a a V FIN IND PL 1 PST
+z a a V FIN IND PL 2 FUT
+z a a V FIN IND PL 2 PST
+z a a V FIN IND PL 3 FUT
+z a a V FIN IND PL 3 PST
+z a a V FIN IND SG 1 FUT
+z a a V FIN IND SG 1 PST
+z a a V FIN IND SG 2 FUT
+z a a V FIN IND SG 2 PST
+z a a V FIN IND SG 3 FUT
+z a a V FIN IND SG 3 PST
+z a a V HAB FIN IND PL 1 PRS
+z a a V HAB FIN IND PL 2 PRS
+z a a V HAB FIN IND PL 3 PRS
+z a a V HAB FIN IND SG 1 PRS
+z a a V HAB FIN IND SG 2 PRS
+z a a V HAB FIN IND SG 3 PRS
+z a a V INDF FIN IND PL 1 PRS
+z a a V INDF FIN IND PL 2 PRS
+z a a V INDF FIN IND PL 3 PRS
+z a a V INDF FIN IND SG 1 PRS
+z a a V INDF FIN IND SG 2 PRS
+z a a V INDF FIN IND SG 3 PRS
+z a a V PRF FIN IND PL 1 PST
+z a a V PRF FIN IND PL 2 PST
+z a a V PRF FIN IND PL 3 PST
+z a a V PRF FIN IND SG 1 PST
+z a a V PRF FIN IND SG 2 PST
+z a a V PRF FIN IND SG 3 PST
+k o h o a V DEF FIN IND PL 1 PRS
+k o h o a V DEF FIN IND PL 2 PRS
+k o h o a V DEF FIN IND PL 3 PRS
+k o h o a V DEF FIN IND SG 1 PRS
+k o h o a V DEF FIN IND SG 2 PRS
+k o h o a V DEF FIN IND SG 3 PRS
+k o h o a V FIN
+k o h o a V FIN COND PL 1 PRS
+k o h o a V FIN COND PL 1 PST
+k o h o a V FIN COND PL 2 PRS
+k o h o a V FIN COND PL 2 PST
+k o h o a V FIN COND PL 3 PRS
+k o h o a V FIN COND PL 3 PST
+k o h o a V FIN COND SG 1 PRS
+k o h o a V FIN COND SG 1 PST
+k o h o a V FIN COND SG 2 PRS
+k o h o a V FIN COND SG 2 PST
+k o h o a V FIN COND SG 3 PRS
+k o h o a V FIN COND SG 3 PST
+k o h o a V FIN IND PL 1 FUT
+k o h o a V FIN IND PL 1 PST
+k o h o a V FIN IND PL 2 FUT
+k o h o a V FIN IND PL 2 PST
+k o h o a V FIN IND PL 3 FUT
+k o h o a V FIN IND PL 3 PST
+k o h o a V FIN IND SG 1 FUT
+k o h o a V FIN IND SG 1 PST
+k o h o a V FIN IND SG 2 FUT
+k o h o a V FIN IND SG 2 PST
+k o h o a V FIN IND SG 3 FUT
+k o h o a V FIN IND SG 3 PST
+k o h o a V HAB FIN IND PL 1 PRS
+k o h o a V HAB FIN IND PL 2 PRS
+k o h o a V HAB FIN IND PL 3 PRS
+k o h o a V HAB FIN IND SG 1 PRS
+k o h o a V HAB FIN IND SG 2 PRS
+k o h o a V HAB FIN IND SG 3 PRS
+k o h o a V INDF FIN IND PL 1 PRS
+k o h o a V INDF FIN IND PL 2 PRS
+k o h o a V INDF FIN IND PL 3 PRS
+k o h o a V INDF FIN IND SG 1 PRS
+k o h o a V INDF FIN IND SG 2 PRS
+k o h o a V INDF FIN IND SG 3 PRS
+k o h o a V PRF FIN IND PL 1 PST
+k o h o a V PRF FIN IND PL 2 PST
+k o h o a V PRF FIN IND PL 3 PST
+k o h o a V PRF FIN IND SG 1 PST
+k o h o a V PRF FIN IND SG 2 PST
+k o h o a V PRF FIN IND SG 3 PST
+s i n z i a V DEF FIN IND PL 1 PRS
+s i n z i a V DEF FIN IND PL 2 PRS
+s i n z i a V DEF FIN IND PL 3 PRS
+s i n z i a V DEF FIN IND SG 1 PRS
+s i n z i a V DEF FIN IND SG 2 PRS
+s i n z i a V DEF FIN IND SG 3 PRS
+s i n z i a V FIN
+s i n z i a V FIN COND PL 1 PRS
+s i n z i a V FIN COND PL 1 PST
+s i n z i a V FIN COND PL 2 PRS
+s i n z i a V FIN COND PL 2 PST
+s i n z i a V FIN COND PL 3 PRS
+s i n z i a V FIN COND PL 3 PST
+s i n z i a V FIN COND SG 1 PRS
+s i n z i a V FIN COND SG 1 PST
+s i n z i a V FIN COND SG 2 PRS
+s i n z i a V FIN COND SG 2 PST
+s i n z i a V FIN COND SG 3 PRS
+s i n z i a V FIN COND SG 3 PST
+s i n z i a V FIN IND PL 1 FUT
+s i n z i a V FIN IND PL 1 PST
+s i n z i a V FIN IND PL 2 FUT
+s i n z i a V FIN IND PL 2 PST
+s i n z i a V FIN IND PL 3 FUT
+s i n z i a V FIN IND PL 3 PST
+s i n z i a V FIN IND SG 1 FUT
+s i n z i a V FIN IND SG 1 PST
+s i n z i a V FIN IND SG 2 FUT
+s i n z i a V FIN IND SG 2 PST
+s i n z i a V FIN IND SG 3 FUT
+s i n z i a V FIN IND SG 3 PST
+s i n z i a V HAB FIN IND PL 1 PRS
+s i n z i a V HAB FIN IND PL 2 PRS
+s i n z i a V HAB FIN IND PL 3 PRS
+s i n z i a V HAB FIN IND SG 1 PRS
+s i n z i a V HAB FIN IND SG 2 PRS
+s i n z i a V HAB FIN IND SG 3 PRS
+s i n z i a V INDF FIN IND PL 1 PRS
+s i n z i a V INDF FIN IND PL 2 PRS
+s i n z i a V INDF FIN IND PL 3 PRS
+s i n z i a V INDF FIN IND SG 1 PRS
+s i n z i a V INDF FIN IND SG 2 PRS
+s i n z i a V INDF FIN IND SG 3 PRS
+s i n z i a V PRF FIN IND PL 1 PST
+s i n z i a V PRF FIN IND PL 2 PST
+s i n z i a V PRF FIN IND PL 3 PST
+s i n z i a V PRF FIN IND SG 1 PST
+s i n z i a V PRF FIN IND SG 2 PST
+s i n z i a V PRF FIN IND SG 3 PST
+f i c h a V DEF FIN IND PL 1 PRS
+f i c h a V DEF FIN IND PL 2 PRS
+f i c h a V DEF FIN IND PL 3 PRS
+f i c h a V DEF FIN IND SG 1 PRS
+f i c h a V DEF FIN IND SG 2 PRS
+f i c h a V DEF FIN IND SG 3 PRS
+f i c h a V FIN
+f i c h a V FIN COND PL 1 PRS
+f i c h a V FIN COND PL 1 PST
+f i c h a V FIN COND PL 2 PRS
+f i c h a V FIN COND PL 2 PST
+f i c h a V FIN COND PL 3 PRS
+f i c h a V FIN COND PL 3 PST
+f i c h a V FIN COND SG 1 PRS
+f i c h a V FIN COND SG 1 PST
+f i c h a V FIN COND SG 2 PRS
+f i c h a V FIN COND SG 2 PST
+f i c h a V FIN COND SG 3 PRS
+f i c h a V FIN COND SG 3 PST
+f i c h a V FIN IND PL 1 FUT
+f i c h a V FIN IND PL 1 PST
+f i c h a V FIN IND PL 2 FUT
+f i c h a V FIN IND PL 2 PST
+f i c h a V FIN IND PL 3 FUT
+f i c h a V FIN IND PL 3 PST
+f i c h a V FIN IND SG 1 FUT
+f i c h a V FIN IND SG 1 PST
+f i c h a V FIN IND SG 2 FUT
+f i c h a V FIN IND SG 2 PST
+f i c h a V FIN IND SG 3 FUT
+f i c h a V FIN IND SG 3 PST
+f i c h a V HAB FIN IND PL 1 PRS
+f i c h a V HAB FIN IND PL 2 PRS
+f i c h a V HAB FIN IND PL 3 PRS
+f i c h a V HAB FIN IND SG 1 PRS
+f i c h a V HAB FIN IND SG 2 PRS
+f i c h a V HAB FIN IND SG 3 PRS
+f i c h a V INDF FIN IND PL 1 PRS
+f i c h a V INDF FIN IND PL 2 PRS
+f i c h a V INDF FIN IND PL 3 PRS
+f i c h a V INDF FIN IND SG 1 PRS
+f i c h a V INDF FIN IND SG 2 PRS
+f i c h a V INDF FIN IND SG 3 PRS
+f i c h a V PRF FIN IND PL 1 PST
+f i c h a V PRF FIN IND PL 2 PST
+f i c h a V PRF FIN IND PL 3 PST
+f i c h a V PRF FIN IND SG 1 PST
+f i c h a V PRF FIN IND SG 2 PST
+f i c h a V PRF FIN IND SG 3 PST
+o m b a V DEF FIN IND PL 1 PRS
+o m b a V DEF FIN IND PL 2 PRS
+o m b a V DEF FIN IND PL 3 PRS
+o m b a V DEF FIN IND SG 1 PRS
+o m b a V DEF FIN IND SG 2 PRS
+o m b a V DEF FIN IND SG 3 PRS
+o m b a V FIN
+o m b a V FIN COND PL 1 PRS
+o m b a V FIN COND PL 1 PST
+o m b a V FIN COND PL 2 PRS
+o m b a V FIN COND PL 2 PST
+o m b a V FIN COND PL 3 PRS
+o m b a V FIN COND PL 3 PST
+o m b a V FIN COND SG 1 PRS
+o m b a V FIN COND SG 1 PST
+o m b a V FIN COND SG 2 PRS
+o m b a V FIN COND SG 2 PST
+o m b a V FIN COND SG 3 PRS
+o m b a V FIN COND SG 3 PST
+o m b a V FIN IND PL 1 FUT
+o m b a V FIN IND PL 1 PST
+o m b a V FIN IND PL 2 FUT
+o m b a V FIN IND PL 2 PST
+o m b a V FIN IND PL 3 FUT
+o m b a V FIN IND PL 3 PST
+o m b a V FIN IND SG 1 FUT
+o m b a V FIN IND SG 1 PST
+o m b a V FIN IND SG 2 FUT
+o m b a V FIN IND SG 2 PST
+o m b a V FIN IND SG 3 FUT
+o m b a V FIN IND SG 3 PST
+o m b a V HAB FIN IND PL 1 PRS
+o m b a V HAB FIN IND PL 2 PRS
+o m b a V HAB FIN IND PL 3 PRS
+o m b a V HAB FIN IND SG 1 PRS
+o m b a V HAB FIN IND SG 2 PRS
+o m b a V HAB FIN IND SG 3 PRS
+o m b a V INDF FIN IND PL 1 PRS
+o m b a V INDF FIN IND PL 2 PRS
+o m b a V INDF FIN IND PL 3 PRS
+o m b a V INDF FIN IND SG 1 PRS
+o m b a V INDF FIN IND SG 2 PRS
+o m b a V INDF FIN IND SG 3 PRS
+o m b a V PRF FIN IND PL 1 PST
+o m b a V PRF FIN IND PL 2 PST
+o m b a V PRF FIN IND PL 3 PST
+o m b a V PRF FIN IND SG 1 PST
+o m b a V PRF FIN IND SG 2 PST
+o m b a V PRF FIN IND SG 3 PST
+a m b i a V DEF FIN IND PL 1 PRS
+a m b i a V DEF FIN IND PL 2 PRS
+a m b i a V DEF FIN IND PL 3 PRS
+a m b i a V DEF FIN IND SG 1 PRS
+a m b i a V DEF FIN IND SG 2 PRS
+a m b i a V DEF FIN IND SG 3 PRS
+a m b i a V FIN
+a m b i a V FIN COND PL 1 PRS
+a m b i a V FIN COND PL 1 PST
+a m b i a V FIN COND PL 2 PRS
+a m b i a V FIN COND PL 2 PST
+a m b i a V FIN COND PL 3 PRS
+a m b i a V FIN COND PL 3 PST
+a m b i a V FIN COND SG 1 PRS
+a m b i a V FIN COND SG 1 PST
+a m b i a V FIN COND SG 2 PRS
+a m b i a V FIN COND SG 2 PST
+a m b i a V FIN COND SG 3 PRS
+a m b i a V FIN COND SG 3 PST
+a m b i a V FIN IND PL 1 FUT
+a m b i a V FIN IND PL 1 PST
+a m b i a V FIN IND PL 2 FUT
+a m b i a V FIN IND PL 2 PST
+a m b i a V FIN IND PL 3 FUT
+a m b i a V FIN IND PL 3 PST
+a m b i a V FIN IND SG 1 FUT
+a m b i a V FIN IND SG 1 PST
+a m b i a V FIN IND SG 2 FUT
+a m b i a V FIN IND SG 2 PST
+a m b i a V FIN IND SG 3 FUT
+a m b i a V FIN IND SG 3 PST
+a m b i a V HAB FIN IND PL 1 PRS
+a m b i a V HAB FIN IND PL 2 PRS
+a m b i a V HAB FIN IND PL 3 PRS
+a m b i a V HAB FIN IND SG 1 PRS
+a m b i a V HAB FIN IND SG 2 PRS
+a m b i a V HAB FIN IND SG 3 PRS
+a m b i a V INDF FIN IND PL 1 PRS
+a m b i a V INDF FIN IND PL 2 PRS
+a m b i a V INDF FIN IND PL 3 PRS
+a m b i a V INDF FIN IND SG 1 PRS
+a m b i a V INDF FIN IND SG 2 PRS
+a m b i a V INDF FIN IND SG 3 PRS
+a m b i a V PRF FIN IND PL 1 PST
+a m b i a V PRF FIN IND PL 2 PST
+a m b i a V PRF FIN IND PL 3 PST
+a m b i a V PRF FIN IND SG 1 PST
+a m b i a V PRF FIN IND SG 2 PST
+a m b i a V PRF FIN IND SG 3 PST
+p i g g e s m i f a m a j a u a g s COPY
+i a u k u c o i t a COPY
+n i h e k u f u a o b i c h COPY
+e p u g t u h t h u o COPY
+a c z i a COPY
+u c h f m n g n t a u a a f a COPY
+a s h k n a c u i a u a t a COPY
+e o n o t u n e k i b COPY
+m e i h u u l i t z i t COPY
+n a o e t u l u COPY
+w a a l COPY
+a n a t u h j a p i h n a s i COPY
+m a k h p u COPY
+n i l s i d i COPY
+w a u a g COPY
+m h u n n j m n a w t u t c COPY
+e f a y m l i n a a s n i c h p COPY
+a m e m a m a e i m e e h u j m a i u COPY
+a a u a i f u g COPY
+g e p n a s n n i h a COPY
+w a n m a l i m u a n n COPY
+m b i a m e h m n g f COPY
+n i a a i c h f w a l COPY
+t u h v COPY
+v u l i t n u e n a u t a n a n g e COPY
+i k a u a o e u a o b COPY
+u h u w u m e a u i n t u t o i n g c COPY
+m m e o p a n u t u l g a l c COPY
+k u l l t u m u a c u a s m COPY
+u a o e l i j COPY
+i a l a a k a COPY
+n g e s m e n COPY
+h u a d e t e g e v u n i t i COPY
+e p a m e l m b i u p o d COPY
+i k w r i m e a COPY
+g e e d e k u w a h i COPY
+a a j f a n a g m e t n COPY
+i l e n a f a a h u w a l i m COPY
+u u e m w t m h u i m m e e COPY
+l i l l e k i b u s a d m n g o COPY
+i m w t n d a t u h v m e z a COPY
+t u a h e u z COPY
+u l i i a a m i COPY
+u n g n i t a h e s a d i a n a COPY
+n a o h u a s i e o g n i h z COPY
+w a t k i t a u u h u o COPY
+w a a s e s i z COPY
+n a k i f a y COPY
+a n u u l i s i COPY
+n a n n e k u g a l j COPY
+g e k t h u c o l i t f COPY
+a l i a COPY
+b a i n g l COPY
+a v u a m e t k COPY
+h u g n i n COPY
+n e z n a u a t u m j COPY
+a l i t a p s h u n a h COPY
+a k u j n i l s COPY
+u n a g u t a l i u i n a t f COPY
+m a j m e v t COPY
+a l i g k u f g m a s i COPY
+m e u a e v u a COPY
+u a s n u w i h u o e p o l i p g COPY
+h u m i i v n a t f a s h w a n j COPY
+u l i i e s e a m a z a COPY
+e z t a p n i a e a s h w a m c COPY
+m h u z COPY
+g e l a h u p t a l i t COPY
+h u f g COPY
+k u z a n a n o u n a l u a o d COPY
+k u n a g e p g COPY
+a c h p u h u h COPY
+h u p m COPY
+u a u a t u a o COPY
+w a l z m n a t COPY
+l i k o g e o n o t e u a t COPY
+u m w n a p t u h u g t u n l COPY
+i f u t i n g o COPY
+a n u u n i n e o m b n i n v COPY
+u k a a m e k a m a e n a p t u n g z COPY
+k u a g COPY
+u m e z t a k t u t i COPY
+n i a n t u m a n COPY
+d o n y a a f c h i b COPY
+u t a w i u w h u i COPY
+h u o u a s t u m l u l e a COPY
+u u w COPY
+u a z a m e p a COPY
+g a l p g e m w a a l COPY
+t a k n u a c a COPY
+m a j w a h t s i n a t k COPY
+e c h k a a c g a l m w a t j COPY
+u a j f n a c a a a COPY
+a m a COPY
+h u s g i n u t u n z m h u h n i l i COPY
+u k i b g e t f COPY
+a h u s COPY
+n a c a m n a h e s e COPY
+k u c o COPY
+k u f n t u n l a a a g COPY
+n i t e m a k a COPY
+k u p n COPY
+g e t k a t a o a t a a COPY
+a l i a h u s a n g v a l i l COPY
+k i e a t u n i a j f COPY
+i a e e t a s n i k a i COPY
+w a m v n i h a m a p n COPY
+u i n k n u a l i k t COPY
+w a h k COPY
+t a e h u c u a a e COPY
+t u a n COPY
+u o g h u n n COPY
+t a t e v u k u j a t a t z t u l m COPY
+t u l j g e e e COPY
+i n a i t a p a m e t u n a n COPY
+a t a l a v i n a i a h u t COPY
+u a k a a t k u a l l COPY
+i a s m m e m i e n e a COPY
+o m i t a g i l a a u m b COPY
+i n g a COPY
+w a n v u c h n COPY
+n a e t u l g COPY
+l i j f a a l t t u a m e l e COPY
+a c h k h u v i u l l i g t u t COPY
+a k w n a f a m e m i m a u a n g m COPY
+n a s t u a w i a a z COPY
+a a z a k u k a i t a h m a p n COPY
+u n a t e m w t COPY
+a o m t a p a n g m COPY
+m a p m n g a y COPY
+t u a e t u n n COPY
+i m e i l i i i n g t i t a e COPY
+a k u u m b k COPY
+h u l a COPY
+m m e h n g e z t u m n a n g f COPY
+u a p t n a k t COPY
+n i h z u p o d k u z u h u s COPY
+n i l s m e e d i n g o k u u COPY
+m m e l w a a o i t a l a n a m COPY
+t u n t e g u a t a COPY
+t u n z n i h a COPY
+p o n a k u s k n a n o COPY
+m n a g s h i u g u a u e a a p a COPY
+u h u w a a u COPY
+n i h n n i t c k u s g h u e COPY
+t u n j h u s k t u n c COPY
+m e o d COPY
+k u f c n i l t g a l e t u l z COPY
+g e p t t u m u t a u n i h u COPY
+a t a w m a o a u m e t a z a COPY
+i l i g COPY
+t u h t COPY
+e s a d i f a y COPY
+a l i m a p COPY
+m e e d n i t m COPY
+w a l i a g o COPY
+u a a d a c h p w a COPY
+i t a h COPY
+i u l e k u j t u n c i a u COPY
+m e s i m a p e t e g m h u u COPY
+k u m i a a o h COPY
+a m e e w a m s m e u COPY
+t a n f a g a t a e d COPY
+u k a u n a g m e o h COPY
+y a u t a m m a o b u n g n COPY
+a c h k g e z a COPY
+g e z i n a h a a z a COPY
+t u m a l i c i t a l w a t o COPY
+h u o a u p i n d a l i a b COPY
+i v u l i s n n i l k COPY
+t a k a i l e c h a g t u l o COPY
+i p u g i f a i c h i w a m k COPY
+a t a t u a n n l i p g COPY
+i a k a n g e t COPY
+i a f w a m n i a c o e p o e m l i s COPY
+t a p g j i i p a g COPY
+k a m a h e e l COPY
+i h u u n i m a n g u a k u p t COPY
+t u m c g a l s i l i o t a k a COPY
+t a p t w a n p t u m a a k w r COPY
+w a a m a m e l i i m l i i n a a d COPY
+t u n s i v u m e c i COPY
+a l e n d i a i n a o COPY
+i n g l i n g k i l i m COPY
+h u g s l i m i i n u a h u n n COPY
+t a e a l i l m a p i a j f COPY
+i t a m h i m i m e i f COPY
+h u k a i n g t a a k h COPY
+d e s a t u n c n i n l COPY
+g e f c a s e a COPY
+t a o e g e s g s i n i m i COPY
+i i g e e e COPY
+m m e z n a t f COPY
+i l i t i m e s COPY
+i a k n a n i h v l i k m COPY
+l i g n a a o e COPY
+u n a h u i t a k m e u t a s n COPY
+k u c u m l i g a m a COPY
+e f u n u w a a g e k t o t COPY
+n g e o g e c u h u s k COPY
+n a u i m n a w COPY
+a h u s COPY
+t a c u e f a y m e p n n i n g COPY
+t u l i u f a i g e p t COPY
+m n a i a f i h a s a a COPY
+u f a y e c i s i z COPY
+l i o b p a m m m e o m b i a s i z COPY
+n a f g u l i l u a f a e n a COPY
+u m e n a e n t a e e k o o COPY
+n i n f m l i l m n a n COPY
+s h i i p a a a t i n a m COPY
+e e e p i n a o e t u a h COPY
+h u o h e n d s n i m n e a m COPY
+u l i l t u h g g e o a a j f COPY
+h u s k COPY
+u a g s i p i COPY
+u j g e o a i m e s u n a z COPY
+u m e h i p i a e z COPY
+i n a s a p o e m a v COPY
+i l i g COPY
+a f u a COPY
+a c h l i o d m l i m m a m i COPY
+m h u o COPY
+l i f a a r u a w a n f COPY
+n a f n u n g u a p i a o n COPY
+m a a m a k a u n a w i a o b COPY
+h u v t COPY
+m n g c t a o d i h u s COPY
+i t a a m h u o t a o h COPY
+w a n f n i h p a a e d COPY
+m e e k u v t g a n n a v a n g z COPY
+i a f a m h u m t u t g n i n m COPY
+m a z a m a t z COPY
+m m e t t u m m a m i k u e COPY
+m a l l e p i a w a l z w a l g COPY
+u p o d u o m a COPY
+u a n o a a o b n a k t COPY
+t a v t o n d u m e m t u t c COPY
+a g o COPY
+a u l z m a n o e n d i f u COPY
+e t t a s i COPY
+u n g s a k a a g e t f COPY
+m t a l u n g j m b u COPY
+n a u a g e a COPY
+a k o o g e p n COPY
+m a v t u i n a u v u t u n l COPY
+m a l a l i v h u k a u k o o COPY
+h u t n COPY
+k w i m e w COPY
+u a c a u l w a t p w a m s COPY
+w a a l COPY
+a p a u e l u h u t COPY
+m h u z COPY
+m a i e f a i COPY
+m h u u p e e e l COPY
+u a c u a n g e m a t n COPY
+t a v a n g o w a a a COPY
+i m e h o n g t u a t COPY
+m e e d COPY
+h u t z i z e i n k i s h k COPY
+u t a u u a m i m n a o COPY
+m i l s a a j u h u m a z COPY
+g e g s g e k m n d COPY
+n g e a k a a a k a a t u m v COPY
+w a l p m a t n COPY
+n a t n u n a u COPY
+u m e z k i l a COPY
+n i n i g a l u COPY
+m l i t l i k a n a g COPY
+i h u i t u l k t u m k i a t n COPY
+n a c i o t h u a z COPY
+n a a k u i m n a e h u c u u k a i COPY
+c h o i l i h a g u m a a z g e p g COPY
+t u h g w a a m m e z u e l w COPY
+w a a u i h u g m n a o COPY
+u l e a k u p m u n g c COPY
+i k a n i n a COPY
+l e t a n g i k a m k u k h a l i t COPY
+o j a l i l f u n a u a s i COPY
+u a l a i i n k n a c a n i h s COPY
+n i n a COPY
+w a n k i p u g i k i a c COPY
+n i l k u v u k u t f n i h COPY
+n i n e t u h a COPY
+a n g k i o s l i p t w a h m g a l s COPY
+i n g j t u t g i n g e COPY
+k u f c h u e d COPY
+e f i h m e p g COPY
+n u k i e n COPY
+l i g p a COPY
+n j a i p m n a w COPY
+n g u u h u m COPY
+u e n a COPY
+f u n a n a u i f i c a e g u COPY
+m a l l t u l g z a m t u l t COPY
+g e f a k u a z i k u j w a h g COPY
+g e a a o a u h u l t u m s COPY
+u p m a k h i l a a j i f n COPY
+e j i COPY
+g e n z w a m k COPY
+m m e u a k w r COPY
+m e l e p u COPY
+a h u l a f i h i a o b w a m a COPY
+i d d e s a e j i n i a g COPY
+g e l a u n g i m w u n a w COPY
+i a k t a t e t u l n m l i z COPY
+a n g p n a e e e o s t u t s COPY
+i t e g t a f c l i l l COPY
+n i h m l i g COPY
+t a p m g e p m l i o h m e g n COPY
+w a m n k u p t COPY
+n i h v n i a m m a s n COPY
+m i l s m a l l e j i COPY
+k o h a s i z i e n COPY
+a t e g i f u l i c i COPY
+m n a s w a n n m t u m e z n i h l COPY
+g a l n u a p m a u h u i a k m COPY
+t a p a a o t COPY
+e t a i n a u n i a w COPY
+i n g a a p u i s i i n d COPY
+u t a u COPY
+l i t f w a m z i t a g u t a g COPY
+n z g e g m n a z k u a g i j i COPY
+i f i COPY
+a a s t u l j COPY
+w a h i n a j COPY
+k u i k u k a u a t z COPY
+t a a d l i n a s k COPY
+l i v t k u o b COPY
+k u a a k u d e e c h m e t a u COPY
+i a c o l i v t m l i a k u p m COPY
+i k n a v t z a h u c h u a z COPY
+u a u a n a p a g e t COPY
+a n g g COPY
+w a m e n a c l i l i l l m a k h COPY
+t u l o a k a a k u p a k u o d COPY
+e u l COPY
+e e g e j a COPY
+t a v t g a l k g e z c h u COPY
+t a k h t u n f a g o e k a a COPY
+e k w u h u a COPY
+s e m m a v t i n g i f u n a t a COPY
+f y g e u a w a n m i a s i t a a g COPY
+t u l k COPY
+v u t COPY
+i a k m e s i z u a p m COPY
+u n j m h u l COPY
+u o n o k o h a t a k m COPY
+h u g s i a a b n i h c k u p n COPY
+m m e h m e o h w a l i COPY
+m a t h u c w a t g u h u i m a f n COPY
+i t e g u a n i t a f c n u n COPY
+i a n u i a u m e p n i l t COPY
+k u o a u n z e p i a m a l l COPY
+m a t z n i m COPY
+e s e a a z a j u COPY
+t u h f e c h f COPY
+n j i m e a n a o b COPY
+t a f n h u n COPY
+t u h u w a m p COPY
+u h u a a a n i a a a d COPY
+i u a m e g COPY
+a a f g n i m e a i n k COPY
+u a l a m e o d m e j a u n g e COPY
+m n u t e t u n s m n g n COPY
+h o m n a n o u a g o j COPY
+g e t f COPY
+i k w k o a s i i COPY
+a a s i COPY
+u h u n COPY
+t a s n COPY
+w a n i m h u h COPY
+p a n t u t s k u f c COPY
+i d i s i h o a l i h e o t t u m s COPY
+k u k l i s m COPY
+u a s j a m b a e n e a g a l n COPY
+a k a e j u m e u i COPY
+l i i i s a a COPY
+m w i a a m e o i m e o k u v t COPY
+l i m i l i s i u f u t COPY
+i f u z n z i COPY
+a t a n l i a j i k u o a COPY
+e a n a a h u i a l i z COPY
+a r e n e n i n e a l i t u p o COPY
+u n u u a t t u m z z a m COPY
+a c a l i l COPY
+i e n e m a k n l i n n i a t z COPY
+u a c m n g u m a s n COPY
+u t n i l c i k w r a a u i COPY
+u a f c n g e g a s i z COPY
+e i n m e k h u e n o n d l i c COPY
+d o a i t a g m a l l COPY
+u i n u n a u COPY
+i h u z n i m c t u l l g a n COPY
+g e j f u m u n a t u n k a a t f COPY
+i m b a e a n i COPY
+h u w a l e u l i h COPY
+z i a i a l t n a k h a a v COPY
+l i n o g e s i l i a d l i e e COPY
+h a n a COPY
+e e l p o n a m e o a n i l a COPY
+w a l e o m b COPY
+a n g k m n a e u f a y t a e e COPY
+m e n i l c u n g k COPY
+t a p n n i l COPY
+t u i a f w a a w h u a g i a o e COPY
+m t a m g e e i a t k u t a u COPY
+i v u a a p o o n g COPY
+e i n t u t s j i i n a e COPY
+t u h o e t a u i a z a COPY
+u g n i l e g a l g COPY
+i f i h COPY
+t u l a i l a a u a o b h u t COPY
+a n a l n i h o COPY
+n i h p k i l t a n COPY
+n i h f n i l z k u e b i n a p COPY
+l i t k COPY
+i t a s u o n i n z a m a s n COPY
+u a k n COPY
+h i m n g c COPY
+k o h a a k u u l i g l i p m h u o e COPY
+i p u g k u f n COPY
+u k w h u s k COPY
+t u h j m e j COPY
+n a l e p u COPY
+i h u o m a c a u a g s n a i u COPY
+t u a t g e g COPY
+e t e n a a z COPY
+u n g o e j u a l i t a m e t i h u o COPY
+n i m j i a l l u k a i COPY
+e e l w a a n COPY
+n i t v l i u h u l t COPY
+i a a b i a e COPY
+t a g h u e COPY
+m e k h f a g COPY
+w a l u n i n f m n g k k u o e COPY
+g e v i a m i COPY
+t a p m g e k d e s u a f g a c h k COPY
+a g i l i u n a t i t a i COPY
+k u k a u n a u COPY
+i s t a p a g a l f w a t o COPY
+i m w t n a f k u p g g e f g COPY
+h u k m i a s m COPY
+t a n o a n g k COPY
+u a p a t u h m COPY
+e u z a s a d COPY
+i j t u h z COPY
+i a o e u l i m h i k n a o d COPY
+w a a h COPY
+k u i u e s m a u a e p o COPY
+k u i f u a COPY
+g e t k s e m COPY
+m e g COPY
+n i a i COPY
+k u p n o m b n g e h COPY
+u n g v COPY
+m a s a a n a COPY
+t u l j n i a w COPY
+e o m a l i k h COPY
+a l i z f y m e i u COPY
+a z i o s a n a f g n a p n COPY
+t a u h u j f u w a k i a COPY
+g e c o k u o n i m a e e n e COPY
+a h u m COPY
+a f u g l a n a l l COPY
+u n u u o n e t a u m e v t h u p g COPY
+g a l m h u g e l a i f m e o e COPY
+w a n t COPY
+t a z m u a n a h u m i u m w COPY
+i a f c u a s k e o g t u m s COPY
+a n a m a k t COPY
+m a s k u s m n a a COPY
+n d i a a n g p m e l l COPY
+t a o b n i m t c h a COPY
+a j i d e s a a a z a t a s k COPY
+u k a a COPY
+a k i b n a j a a h u u u t a w COPY
+e k a i a t a e u a u i e o s COPY
+a g i p o d i t a i m e a g COPY
+m a i u a i n k u c h f l i g n COPY
+e p o d COPY
+m e m m e s n e n g n w a t COPY
+e t a a n a u a g o t a o h t a t COPY
+p i a l i e COPY
+g e p g m e p o n d COPY
+g u k a t a m COPY
+m h u k u e l i p c h a i COPY
+m n g t COPY
+t u h m m l i t u a w t u n p COPY
+n i h t a k a n a n u m w t COPY
+w a h i i t e a p e h u o e COPY
+k u k a n a e e t u h f g e u a COPY
+g e t n l i s k u o d COPY
+t a a b n a f c m w i u p o e COPY
+t a a t a n n a j i e p m t a w COPY
+i n u u a t a g p a f a COPY
+k u i l e a u l a a a m b COPY
+u a s n a l w a l u COPY
+m a j a n z i a h u m COPY
+n d o m e t z COPY
+a a k n n g e z a a u i COPY
+m e f c l i o b i a o s e m COPY
+m m i j i c m e z COPY
+a n u m e u u l m a p n COPY
+g e s n m e k t m a n n a n g COPY
+k u m u k u j i h w a m l COPY
+k u j a t a s u n g p u n a h l i a z COPY
+a h u t n i n c k u f g COPY
+a a s n a a t u s i z a v u n g f COPY
+k u n a m e k h COPY
+m t i a s g t u t f m a p a t u l n COPY
+l i u t e n u h u t COPY
+t a u l i m n a a k a e s t u h v COPY
+i m t u h v t a t COPY
+a l i e u m e m w a n a m e s COPY
+a n g o a t e g COPY
+g e a d i n g t COPY
+w a h i v u COPY
+i n a i i a l l COPY
+i p o e u p a b a a p n i n a t COPY
+n a u i p i s a e p u g COPY
+m l i n COPY
+t a a g m m e u h u t k COPY
+e t a p o i m e e t a i u a n d k COPY
+k u g n s h a p a n i h k u a f a COPY
+u n a u m w i m a z a COPY
+a l i s n g e w COPY
+u v u k u a d COPY
+p a i k o o n i e c h n h u s n COPY
+m n g a n a o b m h u e COPY
+m e m i g e i u u a o d a n z COPY
+t a s n n i h a COPY
+i a a e e l t u t t COPY
+f u n a a c a k u a d COPY
+u i n a u a l t a z a n a p a COPY
+m a e d t u t o COPY
+v u t g e z a COPY
+u a t k u n g s w a l c COPY
+u m t u a i m a p n u l a a COPY
+u f u h u n n COPY
+a k o u a t f i t a e l i f a COPY
+i n a u f COPY
+v u n a l t a e o j w a h v a a n a COPY
+m m e t h a p s o h l i s i COPY
+n a f n a t a n m a c u COPY
+u a f c COPY
+p o n a g e a u l i l m e p n COPY
+i m e a m n a a n i l u COPY
+g e l l a n a l COPY
+m a t z u t a e m a f a COPY
+h u c COPY
+i n g c n i t t COPY
+t u a h COPY
+l i l i n w a l k m e e e COPY
+i a a g COPY
+g u z m e g i g u m l i l h u c COPY
+w a m k i t a h n i l n k o h a COPY
+u l a a a k a i t a n COPY
+z a m u s e a u n z g e c u a p o d COPY
+d i e z COPY
+u e n a t a c o t u h c k u c u COPY
+a p o COPY
+e t a k u s l i f c a a o d COPY
+a a j a p u n u COPY
+m t a t w a t k n a z t u n f COPY
+i n a w u h u n w a l e i a z a COPY
+t u h o m e p g u n u COPY
+k w a t a a b u v u a i k i i COPY
+m e a d u a k t COPY
+n i a o w a l u k u j a g e t n COPY
+n a j f t a j a w a a e COPY
+m e e e t u m g w a n z g a l t COPY
+w a a l COPY
+u n g p i f a y a a o w a t f COPY
+m a l t n i h o g e m e t a COPY
+a n a m u m e i COPY
+n a t n h u p t COPY
+m a c o e k a c h i b COPY
+m l i w m a a b e a m i COPY
+t u t u y a m a t z COPY
+n a m i c h p COPY
+n i n k g e k h e s i t u a e COPY
+i a a a a s m o a u a f a COPY
+u m e l i k o o i l i w l i k a COPY
+i n g c g a l i COPY
+m e e d m a u i n i m c COPY
+h u k a i l i w n a p t COPY
+h u a z COPY
+g e g n g e k n a k a a COPY
+i n g u u t a a COPY
+i k u n g e u n a o a COPY
+t u n e m n g z COPY
+m e a b w a a m l i f a COPY
+u s a d u s a n d i e n e a COPY
+u z a a c COPY
+i n g n n i h c r u z COPY
+a n a a COPY
+a l g e k w a l j COPY
+m t a o m n g n COPY
+m e v t a a k h COPY
+i t a a COPY
+m e n o e c h n a k o a n a a COPY
+p a a u a n o l i s m l i s g COPY
+t a c o w a n v g a l g COPY
+a t a z u l i s i l i l COPY
+u a j n z a k o m m e g w a l u n g g COPY
+t u n k e w a e m w l i v a n d COPY
+m a c t u h t COPY
+n y u a s m u t a h a g u a COPY
+m a s n n a o b e n d t u l o COPY
+u l i l m n g g COPY
+i k i n i m o u s h i m e z COPY
+n a p a i g o a n g t COPY
+k u c k u v t h u s n w a m f COPY
+u n a m a g o w a h s COPY
+a a f c g e j a g e f n a m e z COPY
+t u m m a n g k u o m COPY
+a m i i a p i COPY
+t a u i n i n k COPY
+e l a l i l l i u u n a e u k a a COPY
+h a n a l i t u a l l COPY
+i g u a n a t m a o a a k t t u a z COPY
+w a l p g e i u a m e u a k i b COPY
+i m w t e k a w a h v m e k n COPY
+u m e l u a a g w a m p COPY
+i a k m n a a b COPY
+h u o d COPY
+z i g a l z COPY
+l i c u n a g h u t f h u p a COPY
+h u k a n a l l m a l k u t COPY
+i k a t a n COPY
+t u n a w a m j t u t w a h u COPY
+w a h c i a p m u m e e COPY
+u a i a f a i COPY
+i n a n e z a COPY
+h u k a COPY
+a a e n g e l h u l g a l l COPY
+a s m a c o a a c g e o b i a j a COPY
+w a n i COPY
+a k u j h u a d COPY
+a k o o a o n o h u c u COPY
+e f i h m a o d i o g COPY
+u g g o n COPY
+m a s g n a j t u l u COPY
+p u n u e j i i v u n a s n e k a a COPY
+t u l j g e j a e n a COPY
+e c h k t a c i a c h COPY
+k u t n COPY
+m a u e a n a COPY
+k a m l a t e g COPY
+i p o d e s a COPY
+n a t e o m i l w a l c m a j f COPY
+h u l g e s g COPY
+u l i n COPY
+a a s m m e c COPY
+h u g n k u c i COPY
+w a a a e m w t a a o h m e t COPY
+t a p g m n g p n i h v COPY
+i n g v u n u m h u u m e h COPY
+m l i e w a n k COPY
+m l i n e n u u m e f g i m e a COPY
+t a f g a n g m i n g z n i h s COPY
+w a t k l i f g u m e z m e u a COPY
+n d e h m a k a w a n m COPY
+k u p m f y a COPY
+t a k n m l i g o m m n a e COPY
+g e c o COPY
+e u n a g a l u a s m t u h l COPY
+e t a t u a z t u t g u n a COPY
+m e v u h u n m n a u u t a l COPY
+m a v t u m e l e s e a m h u t COPY
+p i p i a s i z o g w a n z m e n n COPY
+a t a i i a m i g a l t u a m COPY
+g e a d u m e u COPY
+u a k m i n a g a v u n i a n t a t k COPY
+i m e w e o i k a i s a w a n v COPY
+t a l e k a COPY
+a h u w COPY
+a t a a n i l i COPY
+m e f c g e p u a a b COPY
+u a s a k u b f a n g e p u k u j COPY
+a k i b COPY
+a g o m t a m COPY
+a o t n i n u COPY
+n i l m u a u COPY
+a h u u n a c o COPY
+t a p g COPY
+a s e a n g e l COPY
+a c h k n i n c n a u i COPY
+u l i i t e n a k o o i m e g COPY
+t u l k p i s a g a l m l i h COPY
+m h u m COPY
+p a m u i i t a z a COPY
+h u g n a f n COPY
+i a n i g e g n u t a COPY
+k u g s e i u l COPY
+h i i n a e k a n a s m COPY
+u t a g i a g i j COPY
+m e i a f u a COPY
+a a n a n i t l t u m n COPY
+i a f g u t a w COPY
+t a p m n a s g w a h n COPY
+i n g k y a a m e l COPY
+a a n a a a n n u l i i COPY
+h u j a t a c a a u w m n a o a e COPY
+l i s m a e a a k a u e COPY
+i a v u l i z m e f g COPY
+i a f u a f i a i u COPY
+n i n i u a p n a f c COPY
+a f a i a l l a l i e s h k u l a COPY
+g e l t l i i u o n i l i s COPY
+m e c COPY
+m a p e n g j w a l t k a COPY
+u h u w n a c u COPY
+i o i a t n a a u u o m a e l a COPY
+a o s a n i m u n a t k a a u COPY
+u o s a u v w a l c a a e e s h a COPY
+g a n a n i m s COPY
+u c h k l i m i n i t o COPY
+a m b a e n g j COPY
+u l i a i a o COPY
+t a m h u h g a l e g e z a COPY
+n a c o i a c o n i m i u g u COPY
+u a f a i c h m i m e l COPY
+i a j n i n COPY
+a j i m h u l COPY
+w a t c n a g s COPY
+g e k n n a k a COPY
+a h u s t a g j a u s e COPY
+k u l l m h u w t a n t u t p COPY
+i l e a m a l a COPY
+a f a y w i t i a p a COPY
+g i a w a a t w a m t COPY
+e l e u l i t a o h u n a h COPY
+i a f a t a f a COPY
+u p i a i z a k u k n COPY
+i m e z t a v a l a h i k l n i a m COPY
+j a i o m a t a o h COPY
+t u a m t a u i a s a g e v t COPY
+n a t z i n a z n i n i COPY
+e s e a n j a k u o d t u l t COPY
+i f u t l i v t a n g u COPY
+l i s g z a m h u m i COPY
+r u i g o g g i n a j a i i COPY
+g e u i n k COPY
+t a k h n a l l i a o d COPY
+m b a g u a m n g o COPY
+b a i p e i z a w a h f i a s m COPY
+l i p m g e m i e f u t COPY
+h u g s g e l l l i v i a v i n g z COPY
+w a a n n i l l COPY
+l i i o h o COPY
+k u k n a t a e z w a h a COPY
+e i i n a w n d e m a k t k u a z COPY
+i a t f m m e z COPY
+m h u m a h u s p a n u COPY
+k u g s a c h COPY
+e e n e a r u n d e v u COPY
+u p i k u s n COPY
+e f a g a l o m a g u n a h a a j COPY
+u s i i h u e m b u a COPY
+m l i u i n a e t u h s COPY
+m h u e a m a h u p a u f COPY
+m e k h a c h p COPY
+u a l t u n a a a p a g a m w t COPY
+n i l g a m e a o a m n l i k n i h g COPY
+l i t k i e n a t a i t u n l COPY
+t u h p w a n v l i v t a a t z COPY
+i p i a a p o d COPY
+h u t k a k i COPY
+w a l f COPY
+g e f a e m a l i m i COPY
+u t u a o a m t a t n a p m COPY
+n a t a p o e g e k n COPY
+u s i i e o m a a p u g COPY
+w a n f w a a i m m e a COPY
+e k i b a l i n o s COPY
+a a t k m e e d COPY
+n i t m a o g l a a t n u k u j COPY
+h u s i a u i a t a s u a l t COPY
+n a t m a s k m a t z i a p a COPY
+k u t z a a u a d o a u t a n g a l f COPY
+t u l l m m e z w a h g e g u a f c COPY
+h u m i k u k COPY
+g a l i w a m o a g i o g s h a COPY
+u h u h a m e t i a i COPY
+a m e l n i m n COPY
+n a p n m a p m n a a g e n n COPY
+h u a z u a p g e l i e k u COPY
+a f u a i n a a i t a m w i a COPY
+e m w t i f i n g e t COPY
+e s i m a l l a p n a a b i l i o COPY
+b i n a o a i p a b COPY
+i p u t a z m n a t COPY
+f i c a COPY
+a a t t a i i a s m COPY
+n a o k u k n n a i COPY
+i j a f w a n e e m p e a h u e COPY
+l i o t u h i COPY
+l i o a w a m z i h u l c h u a n g i COPY
+m n g m h i g u z COPY
+l i a s i n COPY
+u j u t u a m COPY
+a o n o k u f m t a h COPY
+a m b a h u o COPY
+e i n k t u h t COPY
+t u m i n i h s u a l p i g COPY
+t a p g n i l s t u m s n a z a COPY
+i t a t h a f a u p a t u h l m t a i COPY
+l i o e a n g g t a s m COPY
+h u f a n i l i l i o e a n d COPY
+e u l w a l o COPY
+u k w r k u f n m m e h l i s COPY
+n g e l i o b a l a s e COPY
+u o g l i u a COPY
+h u o a a s h k w a l u m e i COPY
+a h u z u k a w a t s COPY
+u g o j u COPY
+l i k t a o n t u l g COPY
+w a h a g a l n COPY
+n i n i i l i t COPY
+m t a a n i m e f COPY
+k u o b e o g u l e t a a b COPY
+f i c a i z a i s h a i d h u l a COPY
+e k o l i s a COPY
+t a a u a m i g a l c COPY
+m a f c p e a COPY
+a k u l i i u COPY
+n g e o n g e g e m COPY
+u a t z a r u COPY
+i l i s l i s g a h u COPY
+n i m a m w i a a v u a i n a COPY
+g a l i a e m m e e COPY
+e f u t COPY
+w a l s a g COPY
+o j a n i n s a h u w k u c u COPY
+m n a u m e p g COPY
+l i a g u h u i COPY
+i a s n m a m i k u o h w a t v COPY
+g e n o i j i COPY
+n a j a w a h i l i c o COPY
+i n g u i n a a COPY
+k u j f i a c a e i n i a k COPY
+l a l u a k n COPY
+a a o a p u o m COPY
+n a i u i t a a n i t l i f a h u u i COPY
+n y s a g n i m i COPY
+m i l s s a g m a s i COPY
+i u l z n a s k t a a b a a s i COPY
+h a f t a p n a k i t u n g g e l COPY
+u p a COPY
+l i c o a o s a m a s i COPY
+a t a w m e l g a l e COPY
+u c h p COPY
+e f a y m e s n g a i COPY
+i u z a l i m n a s g u p a b m i l COPY
+t a e w a t u COPY
+n a z a COPY
+s a t e n COPY
+e t e g a l f COPY
+k o a k w r COPY
+n g u a i e n a i t a a k u m i COPY
+w a a n t u t e m a p g m n g j COPY
+t a k t g e s m m w n a l l u a t n COPY
+t u m s f u a h a f a COPY
+n i a a e k a l i t z i k u b COPY
+h u t f i t m e c i b i a u o g COPY
+g e g i a o e h u k m COPY
+k u p i h u z i h u w COPY
+a a n n m t a z g a l k n i a t COPY
+u h u m COPY
+g o a i n a COPY
+a g u a l i l t m a l l COPY
+u c h p d e s u i a h o t n u a COPY
+t u t m m l i w e o s a COPY
+m a o b w a h e COPY
+m a l l t a s g COPY
+m n g e e n u COPY
+t a u a g k u p t a i d a COPY
+r u z a a g n p i s a u t a a COPY
+s h i t a k i a m i COPY
+u p i a t a l a w a n l a j u n i h z COPY
+t u m e i p i a COPY
+u o s i p a g a a j f COPY
+u a j i c h f COPY
+l i n o u m e h a n a h m a t k COPY
+m e k a e c h f COPY
+w a t n i n v t e n e COPY
+u e n e i h u g m n a l COPY
+i s e a a a l l COPY
+f u n n i m p t u a g i a n i COPY
+n i a t h u u COPY
+a e n a i v u COPY
+u e n e a s n j COPY
+i p a b h u v COPY
+i p u g h u p a COPY
+a e a u l z e j i u COPY
+a f i a e e COPY
+w a n e t a j a i s a COPY
+a o n o m a t k w a l u t u h z COPY
+n a o a COPY
+i o e m a m h u e h u i u COPY
+m e j f u t a s n g e a s i k u c h COPY
+m t a t i n u l i o COPY
+m t a s i l i e COPY
+l i a g u h u j u i t n i n f COPY
+m e e d h u c a COPY
+n i m f g e i u j i f n COPY
+i m e a a p m COPY
+n i a w COPY
+a n g u k u s g COPY
+u a t f m a u l i g e t h u c o COPY
+k u a z a u z i l e m n a u COPY
+t a k h m m e a COPY
+g a n a u f a i n i t n b u a COPY
+l i o a a e n a COPY
+f u n a w a h n u a o b COPY
+l i o e u e n a m a f g COPY
+a o m a t u l l COPY
+i t a s e p i t u a z COPY
+k u n o t u t v COPY
+t u l i m e a w a n COPY
+l i u i m e f n k u u COPY
+t a n n t a l t g e v COPY
+l i k h w a a g l i i m n a j i COPY
+n i a e COPY
+u a k t h u u i COPY
+i a a k u l a COPY
+g a l i j i f n COPY
+a a n u e a m i u t a h COPY
+h u k h COPY
+i a s g n i m u u l a a u a c COPY
+n a o h u n g n a p a g n i t p COPY
+a k a h u o a COPY
+e p a g COPY
+i a s n k u e d i a n o COPY
+a o k u z a i a z a l i a d i c h p COPY
+n a o e COPY
+w a h j m e u m a k n COPY
+g e e e w a h l m e p COPY
+n a a b e o g l k u g t a m a s i z COPY
+u k u j t u h COPY
+i j i c h n COPY
+a a f g m e n n COPY
+i j i u COPY
+a z t u t i h u m e n COPY
+m a g t u t i u n u u u h u COPY
+u t a w m a o n a j f a a t COPY
+w a h o u s i i COPY
+k u m n i n h a n r u z COPY
+l i s k u j i n a a t u h e n i l i COPY
+l i f n a v u a m e l i p n COPY
+u e l i s i m w t COPY
+i k i e e l w n e z COPY
+u p i h u f l i s u n z COPY
+e l u h u z m l i h u a g u c h m COPY
+k u l l m a a g n a t n e o t u e n COPY
+w a m i a s k a h u h w a n i COPY
+t a s n u c h f a n a h h u e e COPY
+w a m a n i n o m l i t l i s g COPY
+a m i u c h k COPY
+i t a m t u a w COPY
+w a n u m a c o COPY
+a l i a a n g s e l a a m i COPY
+t u m o m e p m e k w COPY
+k u p a i t a a COPY
+i a s i t a c o n a COPY
+u a i u m e s k u a u i a a z COPY
+i j i u g e COPY
+l i t n a n g p n z a COPY
+a a u a COPY
+m n a w COPY
+i g u a i l i w a k i m a k COPY
+n a m h u k n u a s n g a l s m a v t COPY
+a r u a h u l t COPY
+i a o d n i h g COPY
+i a o a k u s g e e n a g e l l COPY
+l a u n g l f i c n i l m w a m m COPY
+n a p t k u o b COPY
+a a o b t a f n m t a u COPY
+n u n a i a p t COPY
+n i t z COPY
+i e n a COPY
+u p a b t a m i t u a n a t a l COPY
+n i m j g e i i n g a COPY
+w a m l n i t t h i k i a s k COPY
+g a l l a i n k i l i z a a i u COPY
+a i n k w a l k t a o a t a m COPY
+i m e i m e o h u k u b COPY
+u m e s COPY
+u a f g t u m t a j n i l t COPY
+n g e o e t e h u f n a f a y COPY
+u a p g a l k COPY
+u a s n u n u a a k t COPY
+a k o o k a m t u m z COPY
+m n g f m e i u e l h u s h u k h COPY
+u t a w n a i k u k n m h u a COPY
+n a a z u a n o l i n i t j COPY
+n d l i k t i k i i t a k t m a o d COPY
+n i a h a p a a n a s COPY
+m n g l a f a i COPY
+n i m z m a j f i g o a z u g u COPY
+a a m i i a a b g a l v w a n k COPY
+a a p m e i u w a l k COPY
+i a u m a t n d o a u l i h COPY
+n a s n n i l s u a k h u a c a a p COPY
+t a k h e k i a a g COPY
+s i a u l i f a y a a u COPY
+d a i a u a COPY
+o t e COPY
+n i a i a l e COPY
+n i m a COPY
+e f u g m n a e h i m a COPY
+n g e u g e m i i o s a COPY
+a a v t t a s k k u z COPY
+w a t e n a a d k w n i h g COPY
+n a o w a m j e n u t a z f i a c h m COPY
+n a f n u j i u a a n n COPY
+i a f a t a t COPY
+h u c u l i l a u z i m b COPY
+n a n o u l i l e m COPY
+m i p o t n i t k COPY
+i a o b p o n i h f COPY
+l i s m h u e k a i COPY
+u l i s i c h m COPY
+a l i u COPY
+n a k m t a n COPY
+t u t m h u f g m e o COPY
+h u f g g a l o n g o COPY
+k u o e COPY
+t u l p a l i l i v n a v t COPY
+t u n n w a a t COPY
+a h u w m n a o t u n j COPY
+g a l z e l i u p e COPY
+a t a g o j a t u l t COPY
+u v u j i i g o g i t a a a m COPY
+i u l z COPY
+l i k u u m e i k u c i COPY
+i k u w a h s COPY
+i a l l n i n e e w a w a m c d e COPY
+t u t l n i l v u v u n i m e COPY
+t u t o a a j f i n u a n i m l COPY
+w a h u i m e w i m e t u l i e COPY
+m e c a h u a g COPY
+i p i a a k i k u l a a s h k COPY
+i p a n i t f k u o e t a o h COPY
+n a u t a z o j a COPY
+n a c a COPY
+a v u a n a c COPY
+u a p g i n g u a o m a COPY
+u o m a a m i a a a z COPY
+b u a k u g k u v g e j i h u s COPY
+m e l u c h m a a s m COPY
+m e j f a p a b i a a z COPY
+a n a s a h u o h a n m h u h g e l COPY
+a r u a l i e COPY
+i s a a u n g t t u t a l i COPY
+d i g e a b g e o b t u l t COPY
+e p i w a m l a h m t a n g a l m COPY
+a n g g a o s COPY
+u n g v m a j a u m e t a l i g COPY
+i a t z i h u e l i COPY
+i o s a n a e u t e a f i COPY
+l i o d w a m t n a k m COPY
+l i m COPY
+i s i z i h u m a a f a y a n a m COPY
+m e v w a m g COPY
+a p a g a t a z t a n COPY
+n a c l i c a COPY
+m h u w n a l a i l a a COPY
+l i l a h u t f a n a s a l i t COPY
+h u t z k u k h COPY
+n a k m n g e g i e l w COPY
+i p u n i t j COPY
+t a s m a o m a COPY
+a l i w a j u t u t j COPY
+e e n e u a o d COPY
+a a s k u t a COPY
+u p a m e e d COPY
+e e l w COPY
+n g e t a h u g u n g n COPY
+u l i l k o h a COPY
+t u t o i a c o w a l g COPY
+i t a z g e a d COPY
+n a n o m e a z e k a a COPY
+n a e e i k o o a a i h u l u a n u COPY
+e p a g k u e e k i l z COPY
+i k w l i s m u t a w COPY
+m e l a COPY
+i a u i e p u s i n i j i f n COPY
+m l i t g e o m e v t i a t w i t COPY
+u a s COPY
+u u l h u o b u h u z COPY
+i n a g n a k h n i t c n a o h COPY
+k i a t u m p COPY
+m n a u l i g i a t f g e p g COPY
+g e s j u t u l c c h a COPY
+n i a n u a a b i a z a a a f a COPY
+u n g o a a c u COPY
+e p o d e l u s a d t u n n t u l COPY
+n i l p a o g g a l o n i m COPY
+i c h f n i n o i s h k w a n a COPY
+i h u u COPY
+n a c i s i i n i l p m a s COPY
+z i m n g e a c h k m a c o h u p COPY
+t a s m l i p m k u COPY
+a u l n a o b COPY
+m l i t n z h a f a i f a y COPY
+h u l l w a a l i a z a k u m i COPY
+n i a g i t a l p a n u COPY
+e m a a l i n m a l a COPY
+k u p g n a f a COPY
+u a i u h a p s u o g e c o k u p g COPY
+n i m c w i a l e a COPY
+i a l a i h u o COPY
+t u h l a a s k COPY
+i p o e m e n COPY
+i n g p w a h k u n a e COPY
+a a k a e l w t u l o COPY
+m m e g i n z a COPY
+u f i h n i l e k u b a m e u COPY
+k u m i i m e e COPY
+t u l s w a h e u o t w a l e COPY
+n a z m a n o COPY
+w a l e i a i u a c a w a t a m a f a COPY
+g e e d j u g o n a l e a a a v COPY
+k u c l i g n i t o COPY
+i n z a k a a COPY
+n a p m a l i z COPY
+n a a d u l i w u s i i g a COPY
+n a a b a p u COPY
+l i u a l i a z COPY
+g e e d a a a h u l a COPY
+u t a e g e l l COPY
+a m e i i a j a o n g w a l a COPY
+e o g l COPY
+k u s g k u e e h u s m COPY
+n i h k t u l f n i n n COPY
+m a t z m l u n g t i z l e w COPY
+u o g l n i t n COPY
+g e k h i g a a n y COPY
+a r u a t a o COPY
+m l i m a a f g w a l e m e l l COPY
+t a l t COPY
+i a t n e k o o COPY
+m e o b w a t COPY
+i n g t u o n o COPY
+a n a COPY
+n u n a u s a d w a h u t a k m COPY
+h u c COPY
+h u j a COPY
+s i n i k i m i a k i b COPY
+a a o w a t g a a a b k u o h COPY
+k u p n i h o m n g v m h u s COPY
+a k e a n g a l i m h u g COPY
+u n g m COPY
+h u i u p a m COPY
+a a n n t u h z m n a e a a e e COPY
+n u t u l a u h u t COPY
+i n g l COPY
+u a o e w a t k COPY
+h u m i a a s k COPY
+m e v i p o d COPY
+m n a a COPY
+l i s u l e a n a k a u a m k u c COPY
+m a m i m e k a a d i k COPY
+o a g e e COPY
+t u t c COPY
+n a e m n g a e l i COPY
+w a m m a n g i n d i COPY
+n g u a o g i l i l COPY
+i h u z m e p a COPY
+m n g f COPY
+g e p a COPY
+m a g n m n a n a f a i e v u a COPY
+u n g i n i h j COPY
+a a o h COPY
+i h u o i t a g COPY
+m t a w i t a l n a c h u k t COPY
+a a o e n i l w a m z w a l z j u a COPY
+d o i f a y g i m a n i a j a COPY
+t a p i u w n i a i o g k u a b COPY
+a a f g COPY
+n i h c t u h o COPY
+n i n o e f i COPY
+l i k n m l i n n a c i u a p n COPY
+i l i m n i h v a p e t u h n COPY
+m a n m e l l g a l u COPY
+a a k t m e l t i a c o g a l g COPY
+p i g n i h o g e a g u m e n i t g COPY
+i t a h g e m i COPY
+t a j h u c a u a f n COPY
+t a f w a l t u m c i p i COPY
+w a r z p i s l i p a g e a g COPY
+n g e l m a c a w a n m m n a e COPY
+a a n u t u l e m h u t i p COPY
+u w a t u a h e a m i l i p m a a n u COPY
+i s i z i o t COPY
+l a u k u b COPY
+u f i t u l a t e d i a g e c h u j a COPY
+a p i h g e z a t a a c h p COPY
+m t a n a n g j t a l a COPY
+i a v t o t e u k i e k i b COPY
+t u l c a n g a w a n o COPY
+c h i m e p g j u a COPY
+l i l t u a e d l i k n h a p s COPY
+m t a t k u n a COPY
+u n a i h u a COPY
+g e o e a n u m n a l m n g z COPY
+u s i i n i t v a j u COPY
+n i m m u n a h g a l o COPY
+a j i w a l o g e v t n g e z COPY
+l i g i l i h a o s u a o d COPY
+u a l t u o g e s i u t a w e i n COPY
+i c h n t a k h COPY
+l i a d a a a z COPY
+g e a z a a o d COPY
+t u a s e f a y m n a w d e s a COPY
+e c h n g a l m COPY
+n a k m COPY
+m a o h i l i z COPY
+a u a v u h u p n m e l u e l COPY
+n i l v n g h a n i l a a w a l COPY
+a c h u a n e t a a n i m i COPY
+l i n o t u m a l i j f u a c u COPY
+n a f g t u l j COPY
+u a n u u m e n t u m k h u f c COPY
+c h i m n a h h u o b n g a i COPY
+n g e l t u l m e f u g u a e COPY
+i p u g n a p n k u k a h u t a t a i COPY
+g e o b h u n n COPY
+w i m a v t i p u COPY
+t u t g COPY
+i i n k u n g a m e s m t a c a COPY
+g e g n o m b a a j f COPY
+c h a g i k a n a p u a f g COPY
+g a l m u s i i i n a g COPY
+i m b a k u a b w a h l a m e l COPY
+h u g s COPY
+l i u n a p g w a l l b u a l i l COPY
+u j i k u j COPY
+t u t t t a j COPY
+m e k m b u n i l COPY
+u t e l i j a a a p g k u c o u h u a COPY
+n i h e m e t k COPY
+t u n u k u i u n g o k u v t COPY
+u u l z COPY
+a t a u i t a i u a o d COPY
+m e s g n i n i m n a h g e m i COPY
+w a n n h u n i h u n u s a COPY
+u h u o i a t n a a f a h u f l i o COPY
+h u o a COPY
+n a s n m h u o COPY
+i a v t COPY
+f u n a h u f a COPY
+a p o i z h u t f COPY
+a z n a s m u k i n i l f i c h f COPY
+w a t z t u n e i n g v n g e e COPY
+i m e o h u o d a a p m w a m j COPY
+w a a s COPY
+v u a a g s COPY
+v u t w i t a p g e c h COPY
+m a e e w m e o e COPY
+l i g n m e o u n g u u l i s e n e COPY
+u s i s i n i l p COPY
+m m e s m h u t g e f t a m e s n COPY
+m m e e u a m i a a s i COPY
+n d o COPY
+t a z i l i u w a m p a o n a f a y COPY
+n g e n e u l z t u a m g e l a COPY
+n u l i k m u m b k COPY
+n g u n i l k COPY
+m a p g COPY
+a k o m e e e m e a b COPY
+i p t u h f i h i j i g e v t COPY
+w a t m u a o b u p i a u n a g COPY
+i n a g n i t l w a a s COPY
+n a e d m e p a s e u k w r COPY
+m a t z m h u w i a g s COPY
+m a m s h t a v m n g i u l COPY
+t u t t n i n n i l e k u v t COPY
+i a a k i l z t a a d a n d COPY
+i t a w k u s m t a s k f u COPY
+o m b u e m e k h COPY
+t a e u n g o COPY
+m l i m u p o d COPY
+i p a g k u c o i s i i n g t u a o h COPY
+m n g f n i h g u u z i v u COPY
+t a s m i a k m m a k a m t a w COPY
+p a a a n a z COPY
+w a l p i a k a i n z a COPY
+s h a n a c a COPY
+a t u a g s COPY
+t a j a m a l m e j w a a t COPY
+n e n a s m d i k COPY
+e a m i m b a m t a i w a m i COPY
+i m e g a r u a t u n v m h u m COPY
+h u o i o m a k i i n a s COPY
+u a m i t u n v g e k COPY
+t u n i h i m a i n k n j u m e g COPY
+a k i i n w a n g n i a e COPY
+e e t a k a COPY
+g e p t w a t o a u a c h p u a a z COPY
+i h u s a c h k COPY
+e s h k u p n m n i m e e w a m a COPY
+w a h c i s COPY
+e t e m a t n e l i v COPY
+g e f g g e l i a v t COPY
+n a s k c h i COPY
+n a o h m e e h u s i COPY
+m a j t a c i u m e g COPY
+a l i i i f i h w a l k t a t f COPY
+m e m i a a f COPY
+n i n i a m e w n i a g COPY
+g e j f i a i COPY
+g a l c e m w t COPY
+h u o h n i t l COPY
+a n g o COPY
+a n g m m a l l m a COPY
+h u s k COPY
+t u m c m a e e COPY
+l i l t t u l v t u n z COPY
+m h u z n i m e n a s k t u l g COPY
+i m e n u a g s COPY
+w a a a c h a y COPY
+m e t k w a a t COPY
+n i a COPY
+i a f n m w g e k t i c h m COPY
+u v u t u l m k u p a g e z a COPY
+s a i COPY
+e n g c h o i a n a COPY
+e j i u h a f i s e a a h u m a l i m COPY
+a n y t a k n i t e g n a z a n g e l COPY
+l i s k k u f a e l i COPY
+a l i l m a o b w a a l COPY
+i k a i s e m COPY
+g e p e n e t a c i h u a b COPY
+g o n a COPY
+t a g k u n a h u k n COPY
+n i m g l i i w a m s COPY
+k a t i h u l m i l s l e a COPY
+u h u e h a n t u l n COPY
+t u n v a m e l i a z a w a a g COPY
+h u f m m e l w a a l COPY
+a a p m m e v t m b a a p u w a n s COPY
+l i o h m e s n u p a k u c s a COPY
+i a n m w i a m e p COPY
+i a c i a l a g e p g COPY
+k u l g e s m COPY
+h u i u m e s COPY
+n i t l u a i u COPY
+m e u a COPY
+g e c k u n o COPY
+n i m c t u m p g o j h u k COPY
+e o g l s h a k u j COPY
+l i a z COPY
+a a p n w a l z COPY
+e c h n s h i COPY
+i p a g e k u j h a p s u n a s COPY
+k u t f n a u a COPY
+n d e a a n a u k u j a m e COPY
+t a p m k w a u t u n e COPY
+i n a a s i k l i a t g e c o COPY
+k u s i a m e g l i j f t u m e COPY
+h u o d i a k COPY
+u l i e g e c u i p u a n g COPY
+k i m i COPY
+u t a a t a p t a h u t COPY
+u p e l t a g s l i p a COPY
+a f a y k u z a i l i t COPY
+m n a i COPY
+m e s n g e v t d e COPY
+c h i u a f g m a u e p a g COPY
+a n a i n a u a m a s m COPY
+i a z a i n g v i k i i COPY
+u a k e o g l i s n w a h s i k u j COPY
+t u m k t u n u i a f COPY
+a r i h u t u n o e e n a u j i COPY
+n i h o COPY
+i h u t t a l COPY
+i n a o e w a m e f c t a s i COPY
+h u i w a n s COPY
+a a n o w a a k u t a n n n i m k COPY
+k u c a COPY
+w a h g t u l z u h u m k u p n COPY
+w a l i m a g n s h i i h u k a COPY
+n i n f COPY
+w a h v a e w a l p g e s k a a j COPY
+b u u a u a a a s g m n g m t u m l COPY
+i a a g a t e g m e n i n u COPY
+m e m n a n n a n g t t u m z COPY
+w a r t u l z u l i i COPY
+m e o a h u n COPY
+n j a e k a a m a p t g e z a COPY
+u o m a a c h n h a n COPY
+i a g s k u m COPY
+o m u s h n i l c w a h t t a g s COPY
+a l i w COPY
+a a l l a f u t COPY
+s i n i a k a m n a e k u e h a n a COPY
+g o j u a s i e c h n COPY
+u a v n i t k u m e a m e f a COPY
+i l e e k o u j i n a l t a z m COPY
+t a k n p o n a u a o u n g s COPY
+m a z a h u l l m a s g COPY
+m n g e COPY
+i a k i c h f t u l f u a n a COPY
+i a o m a o b t a j a g e l l COPY
+e k i e s i z u i n a COPY
+k u i m e l t k u p g COPY
+u a f i a o d n i n a COPY
+n i t p COPY
+j u u n a m n d i s h a n i t p COPY
+i s a a g a l k COPY
+a c h m a l i t COPY
+n i a l n i a a COPY
+f a n l i e d n i m u h u k t COPY
+u s e a COPY
+h u a z a k i u n g z COPY
+i a k m l i s k n g e w l i j f COPY
+a m w i a k n COPY
+h a p s u e n a k u u i u a f c COPY
+g a n a i n g o COPY
+i l i l e a m i n d e n a p g COPY
+m e e d COPY
+u a s g a l i COPY
+i k w a n a t COPY
+m t a z u t a s COPY
+u a s i j i f n COPY
+m a v a k u h u o a a j a COPY
+u m i n g t COPY
+l i t k n i l o COPY
+h u a b t u a w h u s n COPY
+m a a z n g e h w a n g i a j COPY
+a n a s t u h g i l i g o m b COPY
+n y l i o d COPY
+g e o h n a p n e p e COPY
+i l i a c a m h u o t u t l COPY
+e g m a u COPY
+a n a g i a f a COPY
+e s a a COPY
+e o g l COPY
+n y a u a i u COPY
+m e g s g e p COPY
+w a m p a a c o n d o l i f n m a m COPY
+n i n f k u s n COPY
+l i u i n a e COPY
+i m e i n a a g COPY
+g e f n i v u a m a a z a a g COPY
+u a a i u l m a e u s i i COPY
+u c g e o i n z a COPY
+k u j f l i t z m m e h g a l a COPY
+u m e h a n g z a n i n a a COPY
+i a k m e e n n i t a s i t a g COPY
+h u a g e a m i COPY
+n i a a l i e g e j f COPY
+i u w h u i u COPY
+a a z a w i i m e e COPY
+m e f a a n d COPY
+p o t m e u i u m e e u a o e a a o COPY
+u s a h u n COPY
+u h u h t u m m k u s m a m e z COPY
+a a s n n a p a i l i n COPY
+n i m j i a f g u m e z COPY
+i n g t u l n COPY
+n a l l n a c a COPY
+l i t f p e a t a g s n i h p COPY
+w a n z m l i s o m b COPY
+e l e t a a g COPY
+a a f i a t k COPY
+t u l s i n u a COPY
+m w i COPY
+i k u j h u k n f a n a COPY
+w a l f h u k a i a l l d o a COPY
+u t a o a h u w n i t o COPY
+h u t n m e c i COPY
+u n g f m e s k h u t z l i p t COPY
+o n e u o g e u n g g a l i z COPY
+m e c u t a z m g e s k COPY
+a m w t COPY
+i m e n i h i m e z e f a y COPY
+g e a b e o t t u h l COPY
+n a f a a s e p a g m t a p a m COPY
+n a j i k i i n i h e COPY
+t u h v COPY
+d o a i s i i u n g v COPY
+a h u a n g e u u n j COPY
+u l i s k u z a i a z a m b a COPY
+u a s n COPY
+e w n g e l j i f COPY
+o g a k i b n i m s m e k m h u i u COPY
+e f i t u n z w a t e n i m f COPY
+m e f a COPY
+n g e e a s i i i c h n COPY
+a r u f u n COPY
+t u l s m i l i k o k u v COPY
+m a o e k u u a i a p g n a a g COPY
+a n g l n d e COPY
+g e a b i a i a a n n COPY
+a k u j a n g j t u m v COPY
+o h a n g i i t a m e p i a COPY
+m n g c u z a a i n t u m e COPY
+m a a COPY
+i a a t a l l COPY
+a i n i n g o a n a l u g o g COPY
+m m e m u h u i COPY
+a e n a m e l l t a g s e u z COPY
+n a j a n i t z COPY
+l i a z k o h a COPY
+u h u e a m e u a a t z COPY
+t u a m n i h u u h u u u c h f COPY
+t u n g u n u m a s n COPY
+i e l m e t n a a p l i i COPY
+a a c o COPY
+m n a z w a a s COPY
+a a t n a e l w COPY
+m a l t u o n n i n j COPY
+m a p g COPY
+a f a y e g u COPY
+n a g t u h n i v m e t n COPY
+n i n g a a k a COPY
+t u t v l i l i v t n i a COPY
+e e n a u a l a u s e a k i l z COPY
+u a c a COPY
+a k o o i m e z l i k m COPY
+u f a a n a z COPY
+l i i n i a l COPY
+m a k t i a c i k u e e k u c u COPY
+n a t n i m e g s a g COPY
+h u t f m e u COPY
+i t a t k a m i a l i m w COPY
+g e a g a n g u i n g p COPY
+i n u u m e g a p a a a n n COPY
+i e n i v u COPY
+n g u a u a g n o m a COPY
+o j g e l u f i h a a f c k u u i COPY
+n i a h a u l COPY
+u l e a n i t m u a o a i l i l COPY
+h u p n u a f g n i a h COPY
+l i c i t u l a g h u p n a z a COPY
+w a h c u a c o l i g a m e COPY
+h u j a h g e f c COPY
+t u t s h u m i l e t t a n o COPY
+i m w g e c a m n a g COPY
+k a m l u o g l k u v t u l p COPY
+k u k t u m e t COPY
+u t a n g e w i h u a COPY
+e l a a l i a m i u l a COPY
+g e g n a n d k o g e i a l l COPY
+k i l k o n g u a w a a u i l i z COPY
+g a l t t a l l COPY
+f u a h u n m a i c h a y COPY
+a t a u m l i m m a k m t a l l COPY
+l i l a n i t o m e t k COPY
+t a v t i a n n i a t COPY
+i g o COPY
+w a a t i m w a p a h a f n a j f COPY
+u u u g o g w a t f COPY
+m e t a a j a n a t n a a u n a a COPY
+i a i COPY
+i a g COPY
+n i h u w a n c COPY
+w a r e c h k a p i COPY
+k i a i h u n COPY
+o g e e n i t i h u m a i u k u m i COPY
+z a a i k w r i u z COPY
+n a z a a n a u a k n m t a w COPY
+t a c o a z a g e p a c h a i COPY
+a c h w a l u g a n a COPY
+i k a i i m e l a a o u j i u COPY
+e w a g e n z u n a h t u n u COPY
+u k a h u u COPY
+u h u COPY
+l i a g n d o i a u a c h k u a m COPY
+n i a m a n g c a t a p u n COPY
+i t a k a t e k a i t u a z COPY
+n g e u COPY
+t a p t e z a COPY
+i n a i o m b h a f COPY
+i a j f COPY
+t a s g l e a u o g l COPY
+m e s n i a k h COPY
+t u t i n u k u n g s w a t p COPY
+h a n u a n n COPY
+m b i u v u a m e l l u s r u t a f n COPY
+a f a t a m i m e a n i h c COPY
+n i t n m m e l COPY
+j i f m e z COPY
+h u a g COPY
+u h u m t a i m a i z a w a n m COPY
+g o n a o n e s h k COPY
+i s h k w a t i n i l s m e v t COPY
+w a l i a n a h COPY
+i c h p u a a COPY
+o m a h u g n i h u s COPY
+u h u e k u p a g a l g o m a u v u a COPY
+i n z a m a n COPY
+m n g z i a c a COPY
+w a h a g e a b COPY
+u a f a i n g i COPY
+a l i h w a l g k u e d l i j f COPY
+w a m v t u m t a a t n COPY
+a n g l COPY
+u a a g u k a a g e s g w a l p COPY
+u t a z m n a h w a t a a s a d COPY
+m n g i w a t s n a e d COPY
+i m e i u g m n a z COPY
+h u k m COPY
+i h u l COPY
+s a i i u n a w COPY
+g e f u l a h u o b COPY
+i p i COPY
+k u n o g e c a w a l m m e o h COPY
+m n g l m e t f t a l l n d i a COPY
+u t a g n g e a COPY
+g e p a a a s n w a n j a u l z COPY
+a a p a l e a COPY
+c h i b e n g j COPY
+i k o m b a COPY
+i s a a i v h u z a e o m COPY
+n g e u g a l j m e k h n i m p COPY
+h u v t u p e g a l j i a n n COPY
+t u m m m e o e a o s a COPY
+u o n o i s a a e c h f COPY
+i a o h m m p i h u s COPY
+e m k u f h u f c COPY
+n a z t u m j COPY
+u g o g i f a i i u l w a m p COPY
+l i p t m e a z p e a e n u u COPY
+l i f g m l i w a m e z a a COPY
+m e s g a l i w COPY
+m l i e m e e d n i h c COPY
+e n d s f y w a t u i f i t u m n COPY
+w a r z g a l g i a l t m a a z COPY
+a a n a u n g i l i s g COPY
+e s e m a k t u h u e i a o d COPY
+g e n z COPY
+t u h i COPY
+a a m i t u n e m a c COPY
+m n g u p a i u l i n g u m a p t COPY
+e l a l i s n i a n a COPY
+i n a t l i o b w a l e COPY
+m e t n n g o u m b k m e p t i l e COPY
+u p u g s i k l u a u p u g a l i i COPY
+a m e m e n d COPY
+b a l i s COPY
+e f m a e e l i k m COPY
+m l l i v COPY
+n i n f t u n c COPY
+g e f d e s COPY
+u l i n a k w r COPY
+a t a g m e k h COPY
+i t a s i c h m i a s k n i m p COPY
+t a f n e s i z COPY
+e z a COPY
+i n a s COPY
+h u t n a k t k u g s t u m e COPY
+a n a w COPY
+u t a a g e l l g e c u COPY
+u l i l u a m h u g COPY
+i a i t a f a a h u COPY
+l i s g g a l l COPY
+a v m e p g COPY
+e k a w a l e e f COPY
+i a e t u l i b i a COPY
+a a a g u n a m g o n a g e k a COPY
+u l i s w a t v a a w a a n t a o b COPY
+i a c o m n g u COPY
+t u m l a j t u n g w a a u COPY
+w a h j h u k n i k a n a h k u n COPY
+m t a n COPY
+i a c o a n g n COPY
+h a n i u l z l i f n m h u e COPY
+t a s n u t COPY
+g e k k u g n COPY
+m e n n a u a g a l z t a g w a r z COPY
+a n a e n i m COPY
+i a p u p e u n g j a t a g t a o b COPY
+a l m a s i COPY
+g e t m a a g COPY
+a t a t u m a COPY
+a k i m e a d n a u a n d i a COPY
+u k a a w a h c g a l t COPY
+i o n t a o e f u COPY
+i f u g l i s n COPY
+i h u g m e v a r a n g f COPY
+m e a b k u p w a h l COPY
+j i f a u COPY
+g e i u m e e e u n z g e a g r u z COPY
+u a c i COPY
+n i n t u p i COPY
+i o n o r u z u h u m e k u COPY
+w a n c a l i z i n g COPY
+i h i p o d COPY
+l i k t u n l COPY
+l i m i u i n COPY
+l i e d COPY
+n i a e t e g i s i COPY
+a a n i n g e a COPY
+e k i t u n m a f u t COPY
+o j e f a e o g a f i COPY
+p o n e c h i m e l m a o t u t z COPY
+m a t f n i m j i g a e w t u a COPY
+n i a g COPY
+m e o h u a s m e s a a i s a d COPY
+s i n i m n a m b u a a o b COPY
+u a n n m a o b a s e w a a m COPY
+d i a n g e g i a s COPY
+a n a z i m w u k o o COPY
+u o s a a s h k COPY
+i f i h t a c o u a o e n i m o COPY
+l i f n a n a o COPY
+t a s k COPY
+g e l l a k w a i n k t e n l i k a COPY
+t u t j m a o k a m t m n a a a m e o COPY
+t a k n w a m f COPY
+t a l a COPY
+n g e h a g u a COPY
+i l i m n g g b i e e n e COPY
+a n d k m a c a h m l i e t a s COPY
+a s h k a l a a COPY
+k u p m p i g e s i i COPY
+w a h s g e s m i n a w h a k u m COPY
+h u t m i l n a l t a n u i a p COPY
+k u p m a n a w COPY
+l i a b a p o COPY
+i t a g COPY
+m n g i a m e l k u c i COPY
+i p a COPY
+i t a u COPY
+h u s i m e a d i h u t COPY
+w a l i o g l e t a a n i m c COPY
+g e t k t a s COPY
+a t e g n g e h e s i i COPY
+n a k a g e i u i t a COPY
+m a n w a l s n j l i j a u u l COPY
+i g u a m e l a w a m e COPY
+a a o d a v u COPY
+u p u g e n n COPY
+e s a a o t e COPY
+f i a a e e l i e COPY
+a a n u a k a u a f a COPY
+a a p a h u k m COPY
+m b a n g a i t u a i u l i o COPY
+w a m z i a g COPY
+h u j f e p o e n j COPY
+n i m z COPY
+a a s k u h u e a m m a k COPY
+a a s g u t a u n i n j COPY
+i f u t COPY
+n a m i w a m a n g a i COPY
+l i s n i e a t a i i a n COPY
+t u t l i n a n c h o a w a t n COPY
+a f y w a a h u n g v COPY
+a h u t COPY
+i l i g COPY
+a m e z n g a y COPY
+e g n a e e m e a z e o n o COPY
+n i m p t u n i n i m j COPY
+k u a b u a k n m m e h k i m i COPY
+n a k t COPY
+s i n l i a d g e p n COPY
+w a m n n i l f i f u COPY
+u k u j m e u a g e p n COPY
+e a n a a m e u k u u a COPY
+i m e a COPY
+m e a b m e z COPY
+l i n n u m e m n i l e COPY
+e l i n a m u a m i COPY
+k w t u l n o t COPY
+n i n i t u l e u a c a m e i COPY
+e s k u v d e s a COPY
+e s a a i h u i m a c u u v u COPY
+a a a b COPY
+e k i b i a s i a a f c m e c u COPY
+m a k a e s i i o g u v u p a m u COPY
+n a u i a a i k u c i u a a d COPY
+g e c a a k l e t n i l g a m e g COPY
+a f u a u k a a COPY
+g e o b COPY
+t u a e COPY
+t a a z t a t z e i n a COPY
+m h u l u n COPY
+a l i o a h u n h u o e COPY
+i n a g k w a COPY
+g a l s COPY
+i l e l i f g i a a b COPY
+m a j COPY
+k u t z i m e u t u l g COPY
+a s h k w a t u g a l k a u z COPY
+w a l j h u o t a k a COPY
+a h u l COPY
+m n a n COPY
+a a e d i t u t k g e s i t a z a COPY
+m b u p a n u i s i h u o COPY
+a o g l n a s n t u m u m a f a COPY
+t u m t l i s g e e d i a c u COPY
+t a o e a p a g i a f a t u l k COPY
+m l i n COPY
+m a f a w a l p u l a i d COPY
+m e c o a l i o a a f COPY
+u g t u t s m e z a l i k t COPY
+m n a u n g e e e k a COPY
+n i a l i p o COPY
+m a e u p a COPY
+n i m i n g z COPY
+m n g c h i m a m e f g t u t m COPY
+g a l g e w a t a f g m b COPY
+i t a n h i m COPY
+i o n o k u g n i k i b COPY
+n i t a b u COPY
+g a l a COPY
+a n u u COPY
+k u p a i n g c l i m i COPY
+i s h i h u h e s a g a l c COPY
+a s a a n i m z a k a m a o d n g a i COPY
+n i l k o t e COPY
+i o g g e c a a t a g g a l j COPY
+i p a g m n g k COPY
+e c h l i k h t a c a u p u g COPY
+m e l a e t a a COPY
+u m w t i n g k l i f c COPY
+i k i i n a z u p u k u a g COPY
+e f u g COPY
+a f u g i t e g u l a COPY
+n i t e t a o a u t e COPY
+m a f g e p n u p a b a n g i COPY
+a v u w a l a o m b e o n u a o a COPY
+w a m o w a l z n i n j i n a e COPY
+w a h a i o g l h u t k COPY
+k u e d u t a n g e a m e w u a v COPY
+l i l t a l a a COPY
+g o n t u h c g e l u k w r COPY
+n a p a u s e COPY
+g e p m g a l v COPY
+m a j f w a a COPY
+t u t s i k u b g e o h p i s a COPY
+l i t n i n g z u h m a n COPY
+m a m a a c a i a c o u a t k COPY
+i o s e f i g e k t a z a COPY
+u n g g f a COPY
+e z a i m e g l i f n COPY
+e t a n i n t a a p COPY
+w a n c k u k u s a d i p a COPY
+i a t z COPY
+f u a a a p a b t u n i w a m f COPY
+u p i a i a o e COPY
+n i i a t f a z COPY
+t u h s t a f c u j i COPY
+n i g e l l a a o d u a f a t a f n COPY
+n i m a n g e s e l a j i COPY
+a n a n p a n u i n g k m h u a COPY
+i m e s f a n t u t g g e k h COPY
+t a c i k u s i i a n a COPY
+n i t s t a k h i g o g COPY
+w a n s w a l n COPY
+u o t i a g i c h COPY
+u a p t u o n o a h u m COPY
+m t a s i g a w a n z k i m COPY
+m n a n a n g m n i n m COPY
+u o a n a e n a g s COPY
+w a t g e o d m m e l i a m n COPY
+i a s i a o g l t u h c h u t f COPY
+w a l l n i t n d i a COPY
+o n g e s e a COPY
+a a f g w a l t n a k a i a o b COPY
+e g o g a m i COPY
+e u t u t n h o m a n a w u m e n COPY
+n i h f i t a w a n d COPY
+a t a h i k i i a t a COPY
+m w l i k t p a n u t a u h u n n COPY
+m h u i n i h z i n a n COPY
+a n a i j i i a a t u t l i t a m COPY
+a m e i COPY
+u o m a COPY
+i a t z g e o e COPY
+o n g u a f c i t a COPY
+a a k m m e t n COPY
+d a a n g e c h o a m e n COPY
+a p a b n a c i a e l a p a COPY
+g e g e f a i a o s i n g i COPY
+n i n a m a t f u a m w a h n COPY
+a u l z h u n COPY
+h u c k u g s a n g t COPY
+w a m c s h m n a w COPY
+u p i a l i e n a k a m l i t u a n o COPY
+u l i t COPY
+u e l w u e n e a l i s COPY
+h o m g e e g a l z m e c u COPY
+m n g j i k i t a e d COPY
+n a c i l a m a t n m t a s COPY
+a n g u COPY
+u a a z m w i a COPY
+n a o d g e n a m a t a c i COPY
+a a m i n g o t u l m COPY
+e k o o a t a a u m e m COPY
+w a n z COPY
+m n g m t a c i COPY
+t a n o a c h f COPY
+t u a t g a l c n i t m i a c i COPY
+a n g o m a s n a c h p COPY
+a s n a t n z a m COPY
+w a n a m a o h COPY
+a a g s z i a COPY
+m e g s m n g c COPY
+u f a i m e k a COPY
+m n a u k u g l i s k w a t g COPY
+w a a u u a j a m h u o COPY
+n g e a c h i n i l l m t a n COPY
+i k w r u u t a e d u h u u COPY
+l i t n a h u i e k u j a a g COPY
+m n a w m n g z w a n l COPY
+d o a c h k k u a g m e c a COPY
+m e p n i a a z t a n o COPY
+l i o m l i n n i h z COPY
+w a n g COPY
+n i h u t z i s a a a a u n i a e COPY
+i e l a a o e COPY
+m e a a j f m a a b a k w c h i COPY
+a a p a a t f COPY
+n i m k n i h u t u h t COPY
+u o m n i n z k u l a COPY
+i k w r t u a m a a a z u a o e COPY
+m e t z t u m i o m a COPY
+e e n m a g s m a v COPY
+t u h t i t a m COPY
+g e m i COPY
+a s h k n a z COPY
+i p u p o e COPY
+w a t g u t a l m e n COPY
+w a l e a j i u m h u a g e c COPY
+i m e n t u h z m e p a a s e a COPY
+f u i a c COPY
+u o g a o g l COPY
+k u l t n i t z COPY
+a a v t u m e o i n a s i e COPY
+m m e o a m e h COPY
+h u i u i a s n a t a t COPY
+p a n u t a f w a n o i a t f COPY
+i h u i a h u a g e z a a o n o COPY
+a u i a a d COPY
+i s a a h u n n l i g COPY
+a h u s t a c a n g e e a o m a COPY
+g o n a m e a n a l t COPY
+m a k n COPY
+i n g m m t a s a a o COPY
+a h u t t a p n e z a a k e l COPY
+a p u m a p a u o s a u l e a m a t f COPY
+i n g f a c h m k u c i n u n COPY
+t u a m i z a m a a d COPY
+m b u w a h e t a l a a f n n a k n COPY
+i f a i m a a z COPY
+a f a i a o COPY
+m a v u m b k a a o COPY
+i a k n j u a n g m g e j f u p o e COPY
+t a s n n i a t a h u n k i l z COPY
+m a o d i n a l COPY
+k u l a COPY
+u a l t m e e d n g e m u l i z COPY
+u a t f m e j m n a m COPY
+i l i h e f a y t u m u COPY
+h u f t a z m t a p n a l e a COPY
+b u a e k a u m b COPY
+d a a n g f a a l t u l l COPY
+a m e n l i f k u s COPY
+a a p n i t a i a n a e n i l n COPY
+n i n a p a g COPY
+m e o d g e s g k u u COPY
+i m e e u k i b i n g n m e i COPY
+a n d k e a n i e n d s k u p m COPY
+u p i t u n n p a a m l i i COPY
+n a a z n i l a i p o d m h u w COPY
+m e i u g a l v g o s i m a e e COPY
+u a s i g e a z a s i z w a a m COPY
+u a c u a a p a e p a u a u i COPY
+u s a a t u l g k u s k g e g s COPY
+a a p t e k w i p e a m e w COPY
+a l i u l i z u l i h w a m u COPY
+n j e o g l COPY
+t u t s t u a h COPY
+a z a t u n v a m e a n a s COPY
+l i a i n g a m n g s m a t n COPY
+n i n s m n g m n g e l i o d COPY
+i k o n i a z e f u COPY
+m h a f l i k h a u z a a u i n g z COPY
+m i i k i i i n u n a e COPY
+a v u a m g e e d COPY
+n i t l COPY
+e o s a COPY
+a n a t u n a z i l i u h u a g COPY
+i n g e l i l l t u h v COPY
+g e s n n i t t n i t g a a o e COPY
+o s u n g o f a n k u k m COPY
+e s a d COPY
+m a f a COPY
+t a a b n i h g m e l l g a l j COPY
+n g e a m a c o m l i t c h i m h u COPY
+n g e t COPY
+g o j h u f c COPY
+a m e i p e a w a l g k o h a i m e s COPY

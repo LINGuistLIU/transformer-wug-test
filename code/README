@@ -1,0 +1,9 @@
+- "dummy_lemma_generation" stores the code we use to generate +cop-2k-char and +copy-2k-substr data.
+
+- "hallucination" stores the code we use to generate +hall-2k-char and +hall-2k-substr data.
+
+- "inflection_model" stores the code we use to train the inflection model and make predictions.
+
+- "eval.ipynb" is the code we use for evaluation.
+
+NOTE: Please adjust the working and data directionary to run the code. All data have been provided in data.zip.

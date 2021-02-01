@@ -1,0 +1,4747 @@
+h i a V HAB+PRF NEG PRS
+h i a V HAB+PRF NEG PST
+h i a V HAB+PRF PRS
+h i a V HAB+PRF PST
+h i a V HAB+PROG NEG PRS
+h i a V HAB+PROG NEG PST
+h i a V HAB+PROG PRS
+h i a V HAB+PROG PST
+h i a V HAB FUT
+h i a V HAB NEG FUT
+h i a V HAB NEG PRS
+h i a V HAB NEG PST
+h i a V HAB PRS
+h i a V HAB PST
+h i a V IMP NEG PRS
+h i a V IMP PRS
+h i a V NEG PRS LGSPEC1
+h i a V NEG PST+IMMED
+h i a V NEG PST LGSPEC1
+h i a V NFIN
+h i a V PRF NEG PRS+IMMED
+h i a V PRF NEG PRS LGSPEC1
+h i a V PRF NEG PST+IMMED
+h i a V PRF NEG PST LGSPEC1
+h i a V PRF PRS+IMMED
+h i a V PRF PRS LGSPEC1
+h i a V PRF PST+IMMED
+h i a V PRF PST LGSPEC1
+h i a V PROG NEG PRS+IMMED
+h i a V PROG NEG PRS LGSPEC1
+h i a V PROG NEG PST+IMMED
+h i a V PROG NEG PST LGSPEC1
+h i a V PROG PRS+IMMED
+h i a V PROG PRS LGSPEC1
+h i a V PROG PST+IMMED
+h i a V PROG PST LGSPEC1
+h i a V PRS LGSPEC1
+h i a V PST+IMMED
+h i a V PST LGSPEC1
+h i a V SBJV NEG PRS
+h i a V SBJV PRS
+h a t a V HAB+PRF NEG PRS
+h a t a V HAB+PRF NEG PST
+h a t a V HAB+PRF PRS
+h a t a V HAB+PRF PST
+h a t a V HAB+PROG NEG PRS
+h a t a V HAB+PROG NEG PST
+h a t a V HAB+PROG PRS
+h a t a V HAB+PROG PST
+h a t a V HAB FUT
+h a t a V HAB NEG FUT
+h a t a V HAB NEG PRS
+h a t a V HAB NEG PST
+h a t a V HAB PRS
+h a t a V HAB PST
+h a t a V IMP NEG PRS
+h a t a V IMP PRS
+h a t a V NEG PRS LGSPEC1
+h a t a V NEG PST+IMMED
+h a t a V NEG PST LGSPEC1
+h a t a V NFIN
+h a t a V PRF NEG PRS+IMMED
+h a t a V PRF NEG PRS LGSPEC1
+h a t a V PRF NEG PST+IMMED
+h a t a V PRF NEG PST LGSPEC1
+h a t a V PRF PRS+IMMED
+h a t a V PRF PRS LGSPEC1
+h a t a V PRF PST+IMMED
+h a t a V PRF PST LGSPEC1
+h a t a V PROG NEG PRS+IMMED
+h a t a V PROG NEG PRS LGSPEC1
+h a t a V PROG NEG PST+IMMED
+h a t a V PROG NEG PST LGSPEC1
+h a t a V PROG PRS+IMMED
+h a t a V PROG PRS LGSPEC1
+h a t a V PROG PST+IMMED
+h a t a V PROG PST LGSPEC1
+h a t a V PRS LGSPEC1
+h a t a V PST+IMMED
+h a t a V PST LGSPEC1
+h a t a V SBJV NEG PRS
+h a t a V SBJV PRS
+g u _ n s u V HAB+PRF NEG PRS
+g u _ n s u V HAB+PRF NEG PST
+g u _ n s u V HAB+PRF PRS
+g u _ n s u V HAB+PRF PST
+g u _ n s u V HAB+PROG NEG PRS
+g u _ n s u V HAB+PROG NEG PST
+g u _ n s u V HAB+PROG PRS
+g u _ n s u V HAB+PROG PST
+g u _ n s u V HAB FUT
+g u _ n s u V HAB NEG FUT
+g u _ n s u V HAB NEG PRS
+g u _ n s u V HAB NEG PST
+g u _ n s u V HAB PRS
+g u _ n s u V HAB PST
+g u _ n s u V IMP NEG PRS
+g u _ n s u V IMP PRS
+g u _ n s u V NEG PRS LGSPEC1
+g u _ n s u V NEG PST+IMMED
+g u _ n s u V NEG PST LGSPEC1
+g u _ n s u V NFIN
+g u _ n s u V PRF NEG PRS+IMMED
+g u _ n s u V PRF NEG PRS LGSPEC1
+g u _ n s u V PRF NEG PST+IMMED
+g u _ n s u V PRF NEG PST LGSPEC1
+g u _ n s u V PRF PRS+IMMED
+g u _ n s u V PRF PRS LGSPEC1
+g u _ n s u V PRF PST+IMMED
+g u _ n s u V PRF PST LGSPEC1
+g u _ n s u V PROG NEG PRS+IMMED
+g u _ n s u V PROG NEG PRS LGSPEC1
+g u _ n s u V PROG NEG PST+IMMED
+g u _ n s u V PROG NEG PST LGSPEC1
+g u _ n s u V PROG PRS+IMMED
+g u _ n s u V PROG PRS LGSPEC1
+g u _ n s u V PROG PST+IMMED
+g u _ n s u V PROG PST LGSPEC1
+g u _ n s u V PRS LGSPEC1
+g u _ n s u V PST+IMMED
+g u _ n s u V PST LGSPEC1
+g u _ n s u V SBJV NEG PRS
+g u _ n s u V SBJV PRS
+k e k a m u V HAB+PRF NEG PRS
+k e k a m u V HAB+PRF NEG PST
+k e k a m u V HAB+PRF PRS
+k e k a m u V HAB+PRF PST
+k e k a m u V HAB+PROG NEG PRS
+k e k a m u V HAB+PROG NEG PST
+k e k a m u V HAB+PROG PRS
+k e k a m u V HAB+PROG PST
+k e k a m u V HAB FUT
+k e k a m u V HAB NEG FUT
+k e k a m u V HAB NEG PRS
+k e k a m u V HAB NEG PST
+k e k a m u V HAB PRS
+k e k a m u V HAB PST
+k e k a m u V IMP NEG PRS
+k e k a m u V IMP PRS
+k e k a m u V NEG PRS LGSPEC1
+k e k a m u V NEG PST+IMMED
+k e k a m u V NEG PST LGSPEC1
+k e k a m u V NFIN
+k e k a m u V PRF NEG PRS+IMMED
+k e k a m u V PRF NEG PRS LGSPEC1
+k e k a m u V PRF NEG PST+IMMED
+k e k a m u V PRF NEG PST LGSPEC1
+k e k a m u V PRF PRS+IMMED
+k e k a m u V PRF PRS LGSPEC1
+k e k a m u V PRF PST+IMMED
+k e k a m u V PRF PST LGSPEC1
+k e k a m u V PROG NEG PRS+IMMED
+k e k a m u V PROG NEG PRS LGSPEC1
+k e k a m u V PROG NEG PST+IMMED
+k e k a m u V PROG NEG PST LGSPEC1
+k e k a m u V PROG PRS+IMMED
+k e k a m u V PROG PRS LGSPEC1
+k e k a m u V PROG PST+IMMED
+k e k a m u V PROG PST LGSPEC1
+k e k a m u V PRS LGSPEC1
+k e k a m u V PST+IMMED
+k e k a m u V PST LGSPEC1
+k e k a m u V SBJV NEG PRS
+k e k a m u V SBJV PRS
+d i V HAB+PRF NEG PRS
+d i V HAB+PRF NEG PST
+d i V HAB+PRF PRS
+d i V HAB+PRF PST
+d i V HAB+PROG NEG PRS
+d i V HAB+PROG NEG PST
+d i V HAB+PROG PRS
+d i V HAB+PROG PST
+d i V HAB FUT
+d i V HAB NEG FUT
+d i V HAB NEG PRS
+d i V HAB NEG PST
+d i V HAB PRS
+d i V HAB PST
+d i V IMP NEG PRS
+d i V IMP PRS
+d i V NEG PRS LGSPEC1
+d i V NEG PST+IMMED
+d i V NEG PST LGSPEC1
+d i V NFIN
+d i V PRF NEG PRS+IMMED
+d i V PRF NEG PRS LGSPEC1
+d i V PRF NEG PST+IMMED
+d i V PRF NEG PST LGSPEC1
+d i V PRF PRS+IMMED
+d i V PRF PRS LGSPEC1
+d i V PRF PST+IMMED
+d i V PRF PST LGSPEC1
+d i V PROG NEG PRS+IMMED
+d i V PROG NEG PRS LGSPEC1
+d i V PROG NEG PST+IMMED
+d i V PROG NEG PST LGSPEC1
+d i V PROG PRS+IMMED
+d i V PROG PRS LGSPEC1
+d i V PROG PST+IMMED
+d i V PROG PST LGSPEC1
+d i V PRS LGSPEC1
+d i V PST+IMMED
+d i V PST LGSPEC1
+d i V SBJV NEG PRS
+d i V SBJV PRS
+f r a V HAB+PRF NEG PRS
+f r a V HAB+PRF NEG PST
+f r a V HAB+PRF PRS
+f r a V HAB+PRF PST
+f r a V HAB+PROG NEG PRS
+f r a V HAB+PROG NEG PST
+f r a V HAB+PROG PRS
+f r a V HAB+PROG PST
+f r a V HAB FUT
+f r a V HAB NEG FUT
+f r a V HAB NEG PRS
+f r a V HAB NEG PST
+f r a V HAB PRS
+f r a V HAB PST
+f r a V IMP NEG PRS
+f r a V IMP PRS
+f r a V NEG PRS LGSPEC1
+f r a V NEG PST+IMMED
+f r a V NEG PST LGSPEC1
+f r a V NFIN
+f r a V PRF NEG PRS+IMMED
+f r a V PRF NEG PRS LGSPEC1
+f r a V PRF NEG PST+IMMED
+f r a V PRF NEG PST LGSPEC1
+f r a V PRF PRS+IMMED
+f r a V PRF PRS LGSPEC1
+f r a V PRF PST+IMMED
+f r a V PRF PST LGSPEC1
+f r a V PROG NEG PRS+IMMED
+f r a V PROG NEG PRS LGSPEC1
+f r a V PROG NEG PST+IMMED
+f r a V PROG NEG PST LGSPEC1
+f r a V PROG PRS+IMMED
+f r a V PROG PRS LGSPEC1
+f r a V PROG PST+IMMED
+f r a V PROG PST LGSPEC1
+f r a V PRS LGSPEC1
+f r a V PST+IMMED
+f r a V PST LGSPEC1
+f r a V SBJV NEG PRS
+f r a V SBJV PRS
+t w e r ɛ w V HAB+PRF NEG PRS
+t w e r ɛ w V HAB+PRF NEG PST
+t w e r ɛ w V HAB+PRF PRS
+t w e r ɛ w V HAB+PRF PST
+t w e r ɛ w V HAB+PROG NEG PRS
+t w e r ɛ w V HAB+PROG NEG PST
+t w e r ɛ w V HAB+PROG PRS
+t w e r ɛ w V HAB+PROG PST
+t w e r ɛ w V HAB FUT
+t w e r ɛ w V HAB NEG FUT
+t w e r ɛ w V HAB NEG PRS
+t w e r ɛ w V HAB NEG PST
+t w e r ɛ w V HAB PRS
+t w e r ɛ w V HAB PST
+t w e r ɛ w V IMP NEG PRS
+t w e r ɛ w V IMP PRS
+t w e r ɛ w V NEG PRS LGSPEC1
+t w e r ɛ w V NEG PST+IMMED
+t w e r ɛ w V NEG PST LGSPEC1
+t w e r ɛ w V NFIN
+t w e r ɛ w V PRF NEG PRS+IMMED
+t w e r ɛ w V PRF NEG PRS LGSPEC1
+t w e r ɛ w V PRF NEG PST+IMMED
+t w e r ɛ w V PRF NEG PST LGSPEC1
+t w e r ɛ w V PRF PRS+IMMED
+t w e r ɛ w V PRF PRS LGSPEC1
+t w e r ɛ w V PRF PST+IMMED
+t w e r ɛ w V PRF PST LGSPEC1
+t w e r ɛ w V PROG NEG PRS+IMMED
+t w e r ɛ w V PROG NEG PRS LGSPEC1
+t w e r ɛ w V PROG NEG PST+IMMED
+t w e r ɛ w V PROG NEG PST LGSPEC1
+t w e r ɛ w V PROG PRS+IMMED
+t w e r ɛ w V PROG PRS LGSPEC1
+t w e r ɛ w V PROG PST+IMMED
+t w e r ɛ w V PROG PST LGSPEC1
+t w e r ɛ w V PRS LGSPEC1
+t w e r ɛ w V PST+IMMED
+t w e r ɛ w V PST LGSPEC1
+t w e r ɛ w V SBJV NEG PRS
+t w e r ɛ w V SBJV PRS
+t a f e e r e V HAB+PRF NEG PRS
+t a f e e r e V HAB+PRF NEG PST
+t a f e e r e V HAB+PRF PRS
+t a f e e r e V HAB+PRF PST
+t a f e e r e V HAB+PROG NEG PRS
+t a f e e r e V HAB+PROG NEG PST
+t a f e e r e V HAB+PROG PRS
+t a f e e r e V HAB+PROG PST
+t a f e e r e V HAB FUT
+t a f e e r e V HAB NEG FUT
+t a f e e r e V HAB NEG PRS
+t a f e e r e V HAB NEG PST
+t a f e e r e V HAB PRS
+t a f e e r e V HAB PST
+t a f e e r e V IMP NEG PRS
+t a f e e r e V IMP PRS
+t a f e e r e V NEG PRS LGSPEC1
+t a f e e r e V NEG PST+IMMED
+t a f e e r e V NEG PST LGSPEC1
+t a f e e r e V NFIN
+t a f e e r e V PRF NEG PRS+IMMED
+t a f e e r e V PRF NEG PRS LGSPEC1
+t a f e e r e V PRF NEG PST+IMMED
+t a f e e r e V PRF NEG PST LGSPEC1
+t a f e e r e V PRF PRS+IMMED
+t a f e e r e V PRF PRS LGSPEC1
+t a f e e r e V PRF PST+IMMED
+t a f e e r e V PRF PST LGSPEC1
+t a f e e r e V PROG NEG PRS+IMMED
+t a f e e r e V PROG NEG PRS LGSPEC1
+t a f e e r e V PROG NEG PST+IMMED
+t a f e e r e V PROG NEG PST LGSPEC1
+t a f e e r e V PROG PRS+IMMED
+t a f e e r e V PROG PRS LGSPEC1
+t a f e e r e V PROG PST+IMMED
+t a f e e r e V PROG PST LGSPEC1
+t a f e e r e V PRS LGSPEC1
+t a f e e r e V PST+IMMED
+t a f e e r e V PST LGSPEC1
+t a f e e r e V SBJV NEG PRS
+t a f e e r e V SBJV PRS
+t a r e V HAB+PRF NEG PRS
+t a r e V HAB+PRF NEG PST
+t a r e V HAB+PRF PRS
+t a r e V HAB+PRF PST
+t a r e V HAB+PROG NEG PRS
+t a r e V HAB+PROG NEG PST
+t a r e V HAB+PROG PRS
+t a r e V HAB+PROG PST
+t a r e V HAB FUT
+t a r e V HAB NEG FUT
+t a r e V HAB NEG PRS
+t a r e V HAB NEG PST
+t a r e V HAB PRS
+t a r e V HAB PST
+t a r e V IMP NEG PRS
+t a r e V IMP PRS
+t a r e V NEG PRS LGSPEC1
+t a r e V NEG PST+IMMED
+t a r e V NEG PST LGSPEC1
+t a r e V NFIN
+t a r e V PRF NEG PRS+IMMED
+t a r e V PRF NEG PRS LGSPEC1
+t a r e V PRF NEG PST+IMMED
+t a r e V PRF NEG PST LGSPEC1
+t a r e V PRF PRS+IMMED
+t a r e V PRF PRS LGSPEC1
+t a r e V PRF PST+IMMED
+t a r e V PRF PST LGSPEC1
+t a r e V PROG NEG PRS+IMMED
+t a r e V PROG NEG PRS LGSPEC1
+t a r e V PROG NEG PST+IMMED
+t a r e V PROG NEG PST LGSPEC1
+t a r e V PROG PRS+IMMED
+t a r e V PROG PRS LGSPEC1
+t a r e V PROG PST+IMMED
+t a r e V PROG PST LGSPEC1
+t a r e V PRS LGSPEC1
+t a r e V PST+IMMED
+t a r e V PST LGSPEC1
+t a r e V SBJV NEG PRS
+t a r e V SBJV PRS
+b u e V HAB+PRF NEG PRS
+b u e V HAB+PRF NEG PST
+b u e V HAB+PRF PRS
+b u e V HAB+PRF PST
+b u e V HAB+PROG NEG PRS
+b u e V HAB+PROG NEG PST
+b u e V HAB+PROG PRS
+b u e V HAB+PROG PST
+b u e V HAB FUT
+b u e V HAB NEG FUT
+b u e V HAB NEG PRS
+b u e V HAB NEG PST
+b u e V HAB PRS
+b u e V HAB PST
+b u e V IMP NEG PRS
+b u e V IMP PRS
+b u e V NEG PRS LGSPEC1
+b u e V NEG PST+IMMED
+b u e V NEG PST LGSPEC1
+b u e V NFIN
+b u e V PRF NEG PRS+IMMED
+b u e V PRF NEG PRS LGSPEC1
+b u e V PRF NEG PST+IMMED
+b u e V PRF NEG PST LGSPEC1
+b u e V PRF PRS+IMMED
+b u e V PRF PRS LGSPEC1
+b u e V PRF PST+IMMED
+b u e V PRF PST LGSPEC1
+b u e V PROG NEG PRS+IMMED
+b u e V PROG NEG PRS LGSPEC1
+b u e V PROG NEG PST+IMMED
+b u e V PROG NEG PST LGSPEC1
+b u e V PROG PRS+IMMED
+b u e V PROG PRS LGSPEC1
+b u e V PROG PST+IMMED
+b u e V PROG PST LGSPEC1
+b u e V PRS LGSPEC1
+b u e V PST+IMMED
+b u e V PST LGSPEC1
+b u e V SBJV NEG PRS
+b u e V SBJV PRS
+k e n k a n V HAB+PRF NEG PRS
+k e n k a n V HAB+PRF NEG PST
+k e n k a n V HAB+PRF PRS
+k e n k a n V HAB+PRF PST
+k e n k a n V HAB+PROG NEG PRS
+k e n k a n V HAB+PROG NEG PST
+k e n k a n V HAB+PROG PRS
+k e n k a n V HAB+PROG PST
+k e n k a n V HAB FUT
+k e n k a n V HAB NEG FUT
+k e n k a n V HAB NEG PRS
+k e n k a n V HAB NEG PST
+k e n k a n V HAB PRS
+k e n k a n V HAB PST
+k e n k a n V IMP NEG PRS
+k e n k a n V IMP PRS
+k e n k a n V NEG PRS LGSPEC1
+k e n k a n V NEG PST+IMMED
+k e n k a n V NEG PST LGSPEC1
+k e n k a n V NFIN
+k e n k a n V PRF NEG PRS+IMMED
+k e n k a n V PRF NEG PRS LGSPEC1
+k e n k a n V PRF NEG PST+IMMED
+k e n k a n V PRF NEG PST LGSPEC1
+k e n k a n V PRF PRS+IMMED
+k e n k a n V PRF PRS LGSPEC1
+k e n k a n V PRF PST+IMMED
+k e n k a n V PRF PST LGSPEC1
+k e n k a n V PROG NEG PRS+IMMED
+k e n k a n V PROG NEG PRS LGSPEC1
+k e n k a n V PROG NEG PST+IMMED
+k e n k a n V PROG NEG PST LGSPEC1
+k e n k a n V PROG PRS+IMMED
+k e n k a n V PROG PRS LGSPEC1
+k e n k a n V PROG PST+IMMED
+k e n k a n V PROG PST LGSPEC1
+k e n k a n V PRS LGSPEC1
+k e n k a n V PST+IMMED
+k e n k a n V PST LGSPEC1
+k e n k a n V SBJV NEG PRS
+k e n k a n V SBJV PRS
+t ɔ _ n k o V HAB+PRF NEG PRS
+t ɔ _ n k o V HAB+PRF NEG PST
+t ɔ _ n k o V HAB+PRF PRS
+t ɔ _ n k o V HAB+PRF PST
+t ɔ _ n k o V HAB+PROG NEG PRS
+t ɔ _ n k o V HAB+PROG NEG PST
+t ɔ _ n k o V HAB+PROG PRS
+t ɔ _ n k o V HAB+PROG PST
+t ɔ _ n k o V HAB FUT
+t ɔ _ n k o V HAB NEG FUT
+t ɔ _ n k o V HAB NEG PRS
+t ɔ _ n k o V HAB NEG PST
+t ɔ _ n k o V HAB PRS
+t ɔ _ n k o V HAB PST
+t ɔ _ n k o V IMP NEG PRS
+t ɔ _ n k o V IMP PRS
+t ɔ _ n k o V NEG PRS LGSPEC1
+t ɔ _ n k o V NEG PST+IMMED
+t ɔ _ n k o V NEG PST LGSPEC1
+t ɔ _ n k o V NFIN
+t ɔ _ n k o V PRF NEG PRS+IMMED
+t ɔ _ n k o V PRF NEG PRS LGSPEC1
+t ɔ _ n k o V PRF NEG PST+IMMED
+t ɔ _ n k o V PRF NEG PST LGSPEC1
+t ɔ _ n k o V PRF PRS+IMMED
+t ɔ _ n k o V PRF PRS LGSPEC1
+t ɔ _ n k o V PRF PST+IMMED
+t ɔ _ n k o V PRF PST LGSPEC1
+t ɔ _ n k o V PROG NEG PRS+IMMED
+t ɔ _ n k o V PROG NEG PRS LGSPEC1
+t ɔ _ n k o V PROG NEG PST+IMMED
+t ɔ _ n k o V PROG NEG PST LGSPEC1
+t ɔ _ n k o V PROG PRS+IMMED
+t ɔ _ n k o V PROG PRS LGSPEC1
+t ɔ _ n k o V PROG PST+IMMED
+t ɔ _ n k o V PROG PST LGSPEC1
+t ɔ _ n k o V PRS LGSPEC1
+t ɔ _ n k o V PST+IMMED
+t ɔ _ n k o V PST LGSPEC1
+t ɔ _ n k o V SBJV NEG PRS
+t ɔ _ n k o V SBJV PRS
+y i V HAB+PRF NEG PRS
+y i V HAB+PRF NEG PST
+y i V HAB+PRF PRS
+y i V HAB+PRF PST
+y i V HAB+PROG NEG PRS
+y i V HAB+PROG NEG PST
+y i V HAB+PROG PRS
+y i V HAB+PROG PST
+y i V HAB FUT
+y i V HAB NEG FUT
+y i V HAB NEG PRS
+y i V HAB NEG PST
+y i V HAB PRS
+y i V HAB PST
+y i V IMP NEG PRS
+y i V IMP PRS
+y i V NEG PRS LGSPEC1
+y i V NEG PST+IMMED
+y i V NEG PST LGSPEC1
+y i V NFIN
+y i V PRF NEG PRS+IMMED
+y i V PRF NEG PRS LGSPEC1
+y i V PRF NEG PST+IMMED
+y i V PRF NEG PST LGSPEC1
+y i V PRF PRS+IMMED
+y i V PRF PRS LGSPEC1
+y i V PRF PST+IMMED
+y i V PRF PST LGSPEC1
+y i V PROG NEG PRS+IMMED
+y i V PROG NEG PRS LGSPEC1
+y i V PROG NEG PST+IMMED
+y i V PROG NEG PST LGSPEC1
+y i V PROG PRS+IMMED
+y i V PROG PRS LGSPEC1
+y i V PROG PST+IMMED
+y i V PROG PST LGSPEC1
+y i V PRS LGSPEC1
+y i V PST+IMMED
+y i V PST LGSPEC1
+y i V SBJV NEG PRS
+y i V SBJV PRS
+b o b ɔ w V HAB+PRF NEG PRS
+b o b ɔ w V HAB+PRF NEG PST
+b o b ɔ w V HAB+PRF PRS
+b o b ɔ w V HAB+PRF PST
+b o b ɔ w V HAB+PROG NEG PRS
+b o b ɔ w V HAB+PROG NEG PST
+b o b ɔ w V HAB+PROG PRS
+b o b ɔ w V HAB+PROG PST
+b o b ɔ w V HAB FUT
+b o b ɔ w V HAB NEG FUT
+b o b ɔ w V HAB NEG PRS
+b o b ɔ w V HAB NEG PST
+b o b ɔ w V HAB PRS
+b o b ɔ w V HAB PST
+b o b ɔ w V IMP NEG PRS
+b o b ɔ w V IMP PRS
+b o b ɔ w V NEG PRS LGSPEC1
+b o b ɔ w V NEG PST+IMMED
+b o b ɔ w V NEG PST LGSPEC1
+b o b ɔ w V NFIN
+b o b ɔ w V PRF NEG PRS+IMMED
+b o b ɔ w V PRF NEG PRS LGSPEC1
+b o b ɔ w V PRF NEG PST+IMMED
+b o b ɔ w V PRF NEG PST LGSPEC1
+b o b ɔ w V PRF PRS+IMMED
+b o b ɔ w V PRF PRS LGSPEC1
+b o b ɔ w V PRF PST+IMMED
+b o b ɔ w V PRF PST LGSPEC1
+b o b ɔ w V PROG NEG PRS+IMMED
+b o b ɔ w V PROG NEG PRS LGSPEC1
+b o b ɔ w V PROG NEG PST+IMMED
+b o b ɔ w V PROG NEG PST LGSPEC1
+b o b ɔ w V PROG PRS+IMMED
+b o b ɔ w V PROG PRS LGSPEC1
+b o b ɔ w V PROG PST+IMMED
+b o b ɔ w V PROG PST LGSPEC1
+b o b ɔ w V PRS LGSPEC1
+b o b ɔ w V PST+IMMED
+b o b ɔ w V PST LGSPEC1
+b o b ɔ w V SBJV NEG PRS
+b o b ɔ w V SBJV PRS
+h u a V HAB+PRF NEG PRS
+h u a V HAB+PRF NEG PST
+h u a V HAB+PRF PRS
+h u a V HAB+PRF PST
+h u a V HAB+PROG NEG PRS
+h u a V HAB+PROG NEG PST
+h u a V HAB+PROG PRS
+h u a V HAB+PROG PST
+h u a V HAB FUT
+h u a V HAB NEG FUT
+h u a V HAB NEG PRS
+h u a V HAB NEG PST
+h u a V HAB PRS
+h u a V HAB PST
+h u a V IMP NEG PRS
+h u a V IMP PRS
+h u a V NEG PRS LGSPEC1
+h u a V NEG PST+IMMED
+h u a V NEG PST LGSPEC1
+h u a V NFIN
+h u a V PRF NEG PRS+IMMED
+h u a V PRF NEG PRS LGSPEC1
+h u a V PRF NEG PST+IMMED
+h u a V PRF NEG PST LGSPEC1
+h u a V PRF PRS+IMMED
+h u a V PRF PRS LGSPEC1
+h u a V PRF PST+IMMED
+h u a V PRF PST LGSPEC1
+h u a V PROG NEG PRS+IMMED
+h u a V PROG NEG PRS LGSPEC1
+h u a V PROG NEG PST+IMMED
+h u a V PROG NEG PST LGSPEC1
+h u a V PROG PRS+IMMED
+h u a V PROG PRS LGSPEC1
+h u a V PROG PST+IMMED
+h u a V PROG PST LGSPEC1
+h u a V PRS LGSPEC1
+h u a V PST+IMMED
+h u a V PST LGSPEC1
+h u a V SBJV NEG PRS
+h u a V SBJV PRS
+t ɔ V HAB+PRF NEG PRS
+t ɔ V HAB+PRF NEG PST
+t ɔ V HAB+PRF PRS
+t ɔ V HAB+PRF PST
+t ɔ V HAB+PROG NEG PRS
+t ɔ V HAB+PROG NEG PST
+t ɔ V HAB+PROG PRS
+t ɔ V HAB+PROG PST
+t ɔ V HAB FUT
+t ɔ V HAB NEG FUT
+t ɔ V HAB NEG PRS
+t ɔ V HAB NEG PST
+t ɔ V HAB PRS
+t ɔ V HAB PST
+t ɔ V IMP NEG PRS
+t ɔ V IMP PRS
+t ɔ V NEG PRS LGSPEC1
+t ɔ V NEG PST+IMMED
+t ɔ V NEG PST LGSPEC1
+t ɔ V NFIN
+t ɔ V PRF NEG PRS+IMMED
+t ɔ V PRF NEG PRS LGSPEC1
+t ɔ V PRF NEG PST+IMMED
+t ɔ V PRF NEG PST LGSPEC1
+t ɔ V PRF PRS+IMMED
+t ɔ V PRF PRS LGSPEC1
+t ɔ V PRF PST+IMMED
+t ɔ V PRF PST LGSPEC1
+t ɔ V PROG NEG PRS+IMMED
+t ɔ V PROG NEG PRS LGSPEC1
+t ɔ V PROG NEG PST+IMMED
+t ɔ V PROG NEG PST LGSPEC1
+t ɔ V PROG PRS+IMMED
+t ɔ V PROG PRS LGSPEC1
+t ɔ V PROG PST+IMMED
+t ɔ V PROG PST LGSPEC1
+t ɔ V PRS LGSPEC1
+t ɔ V PST+IMMED
+t ɔ V PST LGSPEC1
+t ɔ V SBJV NEG PRS
+t ɔ V SBJV PRS
+y ɛ _ a d w u m a V HAB+PRF NEG PRS
+y ɛ _ a d w u m a V HAB+PRF NEG PST
+y ɛ _ a d w u m a V HAB+PRF PRS
+y ɛ _ a d w u m a V HAB+PRF PST
+y ɛ _ a d w u m a V HAB+PROG NEG PRS
+y ɛ _ a d w u m a V HAB+PROG NEG PST
+y ɛ _ a d w u m a V HAB+PROG PRS
+y ɛ _ a d w u m a V HAB+PROG PST
+y ɛ _ a d w u m a V HAB FUT
+y ɛ _ a d w u m a V HAB NEG FUT
+y ɛ _ a d w u m a V HAB NEG PRS
+y ɛ _ a d w u m a V HAB NEG PST
+y ɛ _ a d w u m a V HAB PRS
+y ɛ _ a d w u m a V HAB PST
+y ɛ _ a d w u m a V IMP NEG PRS
+y ɛ _ a d w u m a V IMP PRS
+y ɛ _ a d w u m a V NEG PRS LGSPEC1
+y ɛ _ a d w u m a V NEG PST+IMMED
+y ɛ _ a d w u m a V NEG PST LGSPEC1
+y ɛ _ a d w u m a V NFIN
+y ɛ _ a d w u m a V PRF NEG PRS+IMMED
+y ɛ _ a d w u m a V PRF NEG PRS LGSPEC1
+y ɛ _ a d w u m a V PRF NEG PST+IMMED
+y ɛ _ a d w u m a V PRF NEG PST LGSPEC1
+y ɛ _ a d w u m a V PRF PRS+IMMED
+y ɛ _ a d w u m a V PRF PRS LGSPEC1
+y ɛ _ a d w u m a V PRF PST+IMMED
+y ɛ _ a d w u m a V PRF PST LGSPEC1
+y ɛ _ a d w u m a V PROG NEG PRS+IMMED
+y ɛ _ a d w u m a V PROG NEG PRS LGSPEC1
+y ɛ _ a d w u m a V PROG NEG PST+IMMED
+y ɛ _ a d w u m a V PROG NEG PST LGSPEC1
+y ɛ _ a d w u m a V PROG PRS+IMMED
+y ɛ _ a d w u m a V PROG PRS LGSPEC1
+y ɛ _ a d w u m a V PROG PST+IMMED
+y ɛ _ a d w u m a V PROG PST LGSPEC1
+y ɛ _ a d w u m a V PRS LGSPEC1
+y ɛ _ a d w u m a V PST+IMMED
+y ɛ _ a d w u m a V PST LGSPEC1
+y ɛ _ a d w u m a V SBJV NEG PRS
+y ɛ _ a d w u m a V SBJV PRS
+y i _ a y ɛ w V HAB+PRF NEG PRS
+y i _ a y ɛ w V HAB+PRF NEG PST
+y i _ a y ɛ w V HAB+PRF PRS
+y i _ a y ɛ w V HAB+PRF PST
+y i _ a y ɛ w V HAB+PROG NEG PRS
+y i _ a y ɛ w V HAB+PROG NEG PST
+y i _ a y ɛ w V HAB+PROG PRS
+y i _ a y ɛ w V HAB+PROG PST
+y i _ a y ɛ w V HAB FUT
+y i _ a y ɛ w V HAB NEG FUT
+y i _ a y ɛ w V HAB NEG PRS
+y i _ a y ɛ w V HAB NEG PST
+y i _ a y ɛ w V HAB PRS
+y i _ a y ɛ w V HAB PST
+y i _ a y ɛ w V IMP NEG PRS
+y i _ a y ɛ w V IMP PRS
+y i _ a y ɛ w V NEG PRS LGSPEC1
+y i _ a y ɛ w V NEG PST+IMMED
+y i _ a y ɛ w V NEG PST LGSPEC1
+y i _ a y ɛ w V NFIN
+y i _ a y ɛ w V PRF NEG PRS+IMMED
+y i _ a y ɛ w V PRF NEG PRS LGSPEC1
+y i _ a y ɛ w V PRF NEG PST+IMMED
+y i _ a y ɛ w V PRF NEG PST LGSPEC1
+y i _ a y ɛ w V PRF PRS+IMMED
+y i _ a y ɛ w V PRF PRS LGSPEC1
+y i _ a y ɛ w V PRF PST+IMMED
+y i _ a y ɛ w V PRF PST LGSPEC1
+y i _ a y ɛ w V PROG NEG PRS+IMMED
+y i _ a y ɛ w V PROG NEG PRS LGSPEC1
+y i _ a y ɛ w V PROG NEG PST+IMMED
+y i _ a y ɛ w V PROG NEG PST LGSPEC1
+y i _ a y ɛ w V PROG PRS+IMMED
+y i _ a y ɛ w V PROG PRS LGSPEC1
+y i _ a y ɛ w V PROG PST+IMMED
+y i _ a y ɛ w V PROG PST LGSPEC1
+y i _ a y ɛ w V PRS LGSPEC1
+y i _ a y ɛ w V PST+IMMED
+y i _ a y ɛ w V PST LGSPEC1
+y i _ a y ɛ w V SBJV NEG PRS
+y i _ a y ɛ w V SBJV PRS
+k y i r i V HAB+PRF NEG PRS
+k y i r i V HAB+PRF NEG PST
+k y i r i V HAB+PRF PRS
+k y i r i V HAB+PRF PST
+k y i r i V HAB+PROG NEG PRS
+k y i r i V HAB+PROG NEG PST
+k y i r i V HAB+PROG PRS
+k y i r i V HAB+PROG PST
+k y i r i V HAB FUT
+k y i r i V HAB NEG FUT
+k y i r i V HAB NEG PRS
+k y i r i V HAB NEG PST
+k y i r i V HAB PRS
+k y i r i V HAB PST
+k y i r i V IMP NEG PRS
+k y i r i V IMP PRS
+k y i r i V NEG PRS LGSPEC1
+k y i r i V NEG PST+IMMED
+k y i r i V NEG PST LGSPEC1
+k y i r i V NFIN
+k y i r i V PRF NEG PRS+IMMED
+k y i r i V PRF NEG PRS LGSPEC1
+k y i r i V PRF NEG PST+IMMED
+k y i r i V PRF NEG PST LGSPEC1
+k y i r i V PRF PRS+IMMED
+k y i r i V PRF PRS LGSPEC1
+k y i r i V PRF PST+IMMED
+k y i r i V PRF PST LGSPEC1
+k y i r i V PROG NEG PRS+IMMED
+k y i r i V PROG NEG PRS LGSPEC1
+k y i r i V PROG NEG PST+IMMED
+k y i r i V PROG NEG PST LGSPEC1
+k y i r i V PROG PRS+IMMED
+k y i r i V PROG PRS LGSPEC1
+k y i r i V PROG PST+IMMED
+k y i r i V PROG PST LGSPEC1
+k y i r i V PRS LGSPEC1
+k y i r i V PST+IMMED
+k y i r i V PST LGSPEC1
+k y i r i V SBJV NEG PRS
+k y i r i V SBJV PRS
+b i s a V HAB+PRF NEG PRS
+b i s a V HAB+PRF NEG PST
+b i s a V HAB+PRF PRS
+b i s a V HAB+PRF PST
+b i s a V HAB+PROG NEG PRS
+b i s a V HAB+PROG NEG PST
+b i s a V HAB+PROG PRS
+b i s a V HAB+PROG PST
+b i s a V HAB FUT
+b i s a V HAB NEG FUT
+b i s a V HAB NEG PRS
+b i s a V HAB NEG PST
+b i s a V HAB PRS
+b i s a V HAB PST
+b i s a V IMP NEG PRS
+b i s a V IMP PRS
+b i s a V NEG PRS LGSPEC1
+b i s a V NEG PST+IMMED
+b i s a V NEG PST LGSPEC1
+b i s a V NFIN
+b i s a V PRF NEG PRS+IMMED
+b i s a V PRF NEG PRS LGSPEC1
+b i s a V PRF NEG PST+IMMED
+b i s a V PRF NEG PST LGSPEC1
+b i s a V PRF PRS+IMMED
+b i s a V PRF PRS LGSPEC1
+b i s a V PRF PST+IMMED
+b i s a V PRF PST LGSPEC1
+b i s a V PROG NEG PRS+IMMED
+b i s a V PROG NEG PRS LGSPEC1
+b i s a V PROG NEG PST+IMMED
+b i s a V PROG NEG PST LGSPEC1
+b i s a V PROG PRS+IMMED
+b i s a V PROG PRS LGSPEC1
+b i s a V PROG PST+IMMED
+b i s a V PROG PST LGSPEC1
+b i s a V PRS LGSPEC1
+b i s a V PST+IMMED
+b i s a V PST LGSPEC1
+b i s a V SBJV NEG PRS
+b i s a V SBJV PRS
+s a w V HAB+PRF NEG PRS
+s a w V HAB+PRF NEG PST
+s a w V HAB+PRF PRS
+s a w V HAB+PRF PST
+s a w V HAB+PROG NEG PRS
+s a w V HAB+PROG NEG PST
+s a w V HAB+PROG PRS
+s a w V HAB+PROG PST
+s a w V HAB FUT
+s a w V HAB NEG FUT
+s a w V HAB NEG PRS
+s a w V HAB NEG PST
+s a w V HAB PRS
+s a w V HAB PST
+s a w V IMP NEG PRS
+s a w V IMP PRS
+s a w V NEG PRS LGSPEC1
+s a w V NEG PST+IMMED
+s a w V NEG PST LGSPEC1
+s a w V NFIN
+s a w V PRF NEG PRS+IMMED
+s a w V PRF NEG PRS LGSPEC1
+s a w V PRF NEG PST+IMMED
+s a w V PRF NEG PST LGSPEC1
+s a w V PRF PRS+IMMED
+s a w V PRF PRS LGSPEC1
+s a w V PRF PST+IMMED
+s a w V PRF PST LGSPEC1
+s a w V PROG NEG PRS+IMMED
+s a w V PROG NEG PRS LGSPEC1
+s a w V PROG NEG PST+IMMED
+s a w V PROG NEG PST LGSPEC1
+s a w V PROG PRS+IMMED
+s a w V PROG PRS LGSPEC1
+s a w V PROG PST+IMMED
+s a w V PROG PST LGSPEC1
+s a w V PRS LGSPEC1
+s a w V PST+IMMED
+s a w V PST LGSPEC1
+s a w V SBJV NEG PRS
+s a w V SBJV PRS
+m e n e V HAB+PRF NEG PRS
+m e n e V HAB+PRF NEG PST
+m e n e V HAB+PRF PRS
+m e n e V HAB+PRF PST
+m e n e V HAB+PROG NEG PRS
+m e n e V HAB+PROG NEG PST
+m e n e V HAB+PROG PRS
+m e n e V HAB+PROG PST
+m e n e V HAB FUT
+m e n e V HAB NEG FUT
+m e n e V HAB NEG PRS
+m e n e V HAB NEG PST
+m e n e V HAB PRS
+m e n e V HAB PST
+m e n e V IMP NEG PRS
+m e n e V IMP PRS
+m e n e V NEG PRS LGSPEC1
+m e n e V NEG PST+IMMED
+m e n e V NEG PST LGSPEC1
+m e n e V NFIN
+m e n e V PRF NEG PRS+IMMED
+m e n e V PRF NEG PRS LGSPEC1
+m e n e V PRF NEG PST+IMMED
+m e n e V PRF NEG PST LGSPEC1
+m e n e V PRF PRS+IMMED
+m e n e V PRF PRS LGSPEC1
+m e n e V PRF PST+IMMED
+m e n e V PRF PST LGSPEC1
+m e n e V PROG NEG PRS+IMMED
+m e n e V PROG NEG PRS LGSPEC1
+m e n e V PROG NEG PST+IMMED
+m e n e V PROG NEG PST LGSPEC1
+m e n e V PROG PRS+IMMED
+m e n e V PROG PRS LGSPEC1
+m e n e V PROG PST+IMMED
+m e n e V PROG PST LGSPEC1
+m e n e V PRS LGSPEC1
+m e n e V PST+IMMED
+m e n e V PST LGSPEC1
+m e n e V SBJV NEG PRS
+m e n e V SBJV PRS
+k u V HAB+PRF NEG PRS
+k u V HAB+PRF NEG PST
+k u V HAB+PRF PRS
+k u V HAB+PRF PST
+k u V HAB+PROG NEG PRS
+k u V HAB+PROG NEG PST
+k u V HAB+PROG PRS
+k u V HAB+PROG PST
+k u V HAB FUT
+k u V HAB NEG FUT
+k u V HAB NEG PRS
+k u V HAB NEG PST
+k u V HAB PRS
+k u V HAB PST
+k u V IMP NEG PRS
+k u V IMP PRS
+k u V NEG PRS LGSPEC1
+k u V NEG PST+IMMED
+k u V NEG PST LGSPEC1
+k u V NFIN
+k u V PRF NEG PRS+IMMED
+k u V PRF NEG PRS LGSPEC1
+k u V PRF NEG PST+IMMED
+k u V PRF NEG PST LGSPEC1
+k u V PRF PRS+IMMED
+k u V PRF PRS LGSPEC1
+k u V PRF PST+IMMED
+k u V PRF PST LGSPEC1
+k u V PROG NEG PRS+IMMED
+k u V PROG NEG PRS LGSPEC1
+k u V PROG NEG PST+IMMED
+k u V PROG NEG PST LGSPEC1
+k u V PROG PRS+IMMED
+k u V PROG PRS LGSPEC1
+k u V PROG PST+IMMED
+k u V PROG PST LGSPEC1
+k u V PRS LGSPEC1
+k u V PST+IMMED
+k u V PST LGSPEC1
+k u V SBJV NEG PRS
+k u V SBJV PRS
+f a V HAB+PRF NEG PRS
+f a V HAB+PRF NEG PST
+f a V HAB+PRF PRS
+f a V HAB+PRF PST
+f a V HAB+PROG NEG PRS
+f a V HAB+PROG NEG PST
+f a V HAB+PROG PRS
+f a V HAB+PROG PST
+f a V HAB FUT
+f a V HAB NEG FUT
+f a V HAB NEG PRS
+f a V HAB NEG PST
+f a V HAB PRS
+f a V HAB PST
+f a V IMP NEG PRS
+f a V IMP PRS
+f a V NEG PRS LGSPEC1
+f a V NEG PST+IMMED
+f a V NEG PST LGSPEC1
+f a V NFIN
+f a V PRF NEG PRS+IMMED
+f a V PRF NEG PRS LGSPEC1
+f a V PRF NEG PST+IMMED
+f a V PRF NEG PST LGSPEC1
+f a V PRF PRS+IMMED
+f a V PRF PRS LGSPEC1
+f a V PRF PST+IMMED
+f a V PRF PST LGSPEC1
+f a V PROG NEG PRS+IMMED
+f a V PROG NEG PRS LGSPEC1
+f a V PROG NEG PST+IMMED
+f a V PROG NEG PST LGSPEC1
+f a V PROG PRS+IMMED
+f a V PROG PRS LGSPEC1
+f a V PROG PST+IMMED
+f a V PROG PST LGSPEC1
+f a V PRS LGSPEC1
+f a V PST+IMMED
+f a V PST LGSPEC1
+f a V SBJV NEG PRS
+f a V SBJV PRS
+t ɔ n V HAB+PRF NEG PRS
+t ɔ n V HAB+PRF NEG PST
+t ɔ n V HAB+PRF PRS
+t ɔ n V HAB+PRF PST
+t ɔ n V HAB+PROG NEG PRS
+t ɔ n V HAB+PROG NEG PST
+t ɔ n V HAB+PROG PRS
+t ɔ n V HAB+PROG PST
+t ɔ n V HAB FUT
+t ɔ n V HAB NEG FUT
+t ɔ n V HAB NEG PRS
+t ɔ n V HAB NEG PST
+t ɔ n V HAB PRS
+t ɔ n V HAB PST
+t ɔ n V IMP NEG PRS
+t ɔ n V IMP PRS
+t ɔ n V NEG PRS LGSPEC1
+t ɔ n V NEG PST+IMMED
+t ɔ n V NEG PST LGSPEC1
+t ɔ n V NFIN
+t ɔ n V PRF NEG PRS+IMMED
+t ɔ n V PRF NEG PRS LGSPEC1
+t ɔ n V PRF NEG PST+IMMED
+t ɔ n V PRF NEG PST LGSPEC1
+t ɔ n V PRF PRS+IMMED
+t ɔ n V PRF PRS LGSPEC1
+t ɔ n V PRF PST+IMMED
+t ɔ n V PRF PST LGSPEC1
+t ɔ n V PROG NEG PRS+IMMED
+t ɔ n V PROG NEG PRS LGSPEC1
+t ɔ n V PROG NEG PST+IMMED
+t ɔ n V PROG NEG PST LGSPEC1
+t ɔ n V PROG PRS+IMMED
+t ɔ n V PROG PRS LGSPEC1
+t ɔ n V PROG PST+IMMED
+t ɔ n V PROG PST LGSPEC1
+t ɔ n V PRS LGSPEC1
+t ɔ n V PST+IMMED
+t ɔ n V PST LGSPEC1
+t ɔ n V SBJV NEG PRS
+t ɔ n V SBJV PRS
+t e n a V HAB+PRF NEG PRS
+t e n a V HAB+PRF NEG PST
+t e n a V HAB+PRF PRS
+t e n a V HAB+PRF PST
+t e n a V HAB+PROG NEG PRS
+t e n a V HAB+PROG NEG PST
+t e n a V HAB+PROG PRS
+t e n a V HAB+PROG PST
+t e n a V HAB FUT
+t e n a V HAB NEG FUT
+t e n a V HAB NEG PRS
+t e n a V HAB NEG PST
+t e n a V HAB PRS
+t e n a V HAB PST
+t e n a V IMP NEG PRS
+t e n a V IMP PRS
+t e n a V NEG PRS LGSPEC1
+t e n a V NEG PST+IMMED
+t e n a V NEG PST LGSPEC1
+t e n a V NFIN
+t e n a V PRF NEG PRS+IMMED
+t e n a V PRF NEG PRS LGSPEC1
+t e n a V PRF NEG PST+IMMED
+t e n a V PRF NEG PST LGSPEC1
+t e n a V PRF PRS+IMMED
+t e n a V PRF PRS LGSPEC1
+t e n a V PRF PST+IMMED
+t e n a V PRF PST LGSPEC1
+t e n a V PROG NEG PRS+IMMED
+t e n a V PROG NEG PRS LGSPEC1
+t e n a V PROG NEG PST+IMMED
+t e n a V PROG NEG PST LGSPEC1
+t e n a V PROG PRS+IMMED
+t e n a V PROG PRS LGSPEC1
+t e n a V PROG PST+IMMED
+t e n a V PROG PST LGSPEC1
+t e n a V PRS LGSPEC1
+t e n a V PST+IMMED
+t e n a V PST LGSPEC1
+t e n a V SBJV NEG PRS
+t e n a V SBJV PRS
+t e w V HAB+PRF NEG PRS
+t e w V HAB+PRF NEG PST
+t e w V HAB+PRF PRS
+t e w V HAB+PRF PST
+t e w V HAB+PROG NEG PRS
+t e w V HAB+PROG NEG PST
+t e w V HAB+PROG PRS
+t e w V HAB+PROG PST
+t e w V HAB FUT
+t e w V HAB NEG FUT
+t e w V HAB NEG PRS
+t e w V HAB NEG PST
+t e w V HAB PRS
+t e w V HAB PST
+t e w V IMP NEG PRS
+t e w V IMP PRS
+t e w V NEG PRS LGSPEC1
+t e w V NEG PST+IMMED
+t e w V NEG PST LGSPEC1
+t e w V NFIN
+t e w V PRF NEG PRS+IMMED
+t e w V PRF NEG PRS LGSPEC1
+t e w V PRF NEG PST+IMMED
+t e w V PRF NEG PST LGSPEC1
+t e w V PRF PRS+IMMED
+t e w V PRF PRS LGSPEC1
+t e w V PRF PST+IMMED
+t e w V PRF PST LGSPEC1
+t e w V PROG NEG PRS+IMMED
+t e w V PROG NEG PRS LGSPEC1
+t e w V PROG NEG PST+IMMED
+t e w V PROG NEG PST LGSPEC1
+t e w V PROG PRS+IMMED
+t e w V PROG PRS LGSPEC1
+t e w V PROG PST+IMMED
+t e w V PROG PST LGSPEC1
+t e w V PRS LGSPEC1
+t e w V PST+IMMED
+t e w V PST LGSPEC1
+t e w V SBJV NEG PRS
+t e w V SBJV PRS
+b a V HAB+PRF NEG PRS
+b a V HAB+PRF NEG PST
+b a V HAB+PRF PRS
+b a V HAB+PRF PST
+b a V HAB+PROG NEG PRS
+b a V HAB+PROG NEG PST
+b a V HAB+PROG PRS
+b a V HAB+PROG PST
+b a V HAB FUT
+b a V HAB NEG FUT
+b a V HAB NEG PRS
+b a V HAB NEG PST
+b a V HAB PRS
+b a V HAB PST
+b a V IMP NEG PRS
+b a V IMP PRS
+b a V NEG PRS LGSPEC1
+b a V NEG PST+IMMED
+b a V NEG PST LGSPEC1
+b a V NFIN
+b a V PRF NEG PRS+IMMED
+b a V PRF NEG PRS LGSPEC1
+b a V PRF NEG PST+IMMED
+b a V PRF NEG PST LGSPEC1
+b a V PRF PRS+IMMED
+b a V PRF PRS LGSPEC1
+b a V PRF PST+IMMED
+b a V PRF PST LGSPEC1
+b a V PROG NEG PRS+IMMED
+b a V PROG NEG PRS LGSPEC1
+b a V PROG NEG PST+IMMED
+b a V PROG NEG PST LGSPEC1
+b a V PROG PRS+IMMED
+b a V PROG PRS LGSPEC1
+b a V PROG PST+IMMED
+b a V PROG PST LGSPEC1
+b a V PRS LGSPEC1
+b a V PST+IMMED
+b a V PST LGSPEC1
+b a V SBJV NEG PRS
+b a V SBJV PRS
+n a n t e w V HAB+PRF NEG PRS
+n a n t e w V HAB+PRF NEG PST
+n a n t e w V HAB+PRF PRS
+n a n t e w V HAB+PRF PST
+n a n t e w V HAB+PROG NEG PRS
+n a n t e w V HAB+PROG NEG PST
+n a n t e w V HAB+PROG PRS
+n a n t e w V HAB+PROG PST
+n a n t e w V HAB FUT
+n a n t e w V HAB NEG FUT
+n a n t e w V HAB NEG PRS
+n a n t e w V HAB NEG PST
+n a n t e w V HAB PRS
+n a n t e w V HAB PST
+n a n t e w V IMP NEG PRS
+n a n t e w V IMP PRS
+n a n t e w V NEG PRS LGSPEC1
+n a n t e w V NEG PST+IMMED
+n a n t e w V NEG PST LGSPEC1
+n a n t e w V NFIN
+n a n t e w V PRF NEG PRS+IMMED
+n a n t e w V PRF NEG PRS LGSPEC1
+n a n t e w V PRF NEG PST+IMMED
+n a n t e w V PRF NEG PST LGSPEC1
+n a n t e w V PRF PRS+IMMED
+n a n t e w V PRF PRS LGSPEC1
+n a n t e w V PRF PST+IMMED
+n a n t e w V PRF PST LGSPEC1
+n a n t e w V PROG NEG PRS+IMMED
+n a n t e w V PROG NEG PRS LGSPEC1
+n a n t e w V PROG NEG PST+IMMED
+n a n t e w V PROG NEG PST LGSPEC1
+n a n t e w V PROG PRS+IMMED
+n a n t e w V PROG PRS LGSPEC1
+n a n t e w V PROG PST+IMMED
+n a n t e w V PROG PST LGSPEC1
+n a n t e w V PRS LGSPEC1
+n a n t e w V PST+IMMED
+n a n t e w V PST LGSPEC1
+n a n t e w V SBJV NEG PRS
+n a n t e w V SBJV PRS
+h u n t i V HAB+PRF NEG PRS
+h u n t i V HAB+PRF NEG PST
+h u n t i V HAB+PRF PRS
+h u n t i V HAB+PRF PST
+h u n t i V HAB+PROG NEG PRS
+h u n t i V HAB+PROG NEG PST
+h u n t i V HAB+PROG PRS
+h u n t i V HAB+PROG PST
+h u n t i V HAB FUT
+h u n t i V HAB NEG FUT
+h u n t i V HAB NEG PRS
+h u n t i V HAB NEG PST
+h u n t i V HAB PRS
+h u n t i V HAB PST
+h u n t i V IMP NEG PRS
+h u n t i V IMP PRS
+h u n t i V NEG PRS LGSPEC1
+h u n t i V NEG PST+IMMED
+h u n t i V NEG PST LGSPEC1
+h u n t i V NFIN
+h u n t i V PRF NEG PRS+IMMED
+h u n t i V PRF NEG PRS LGSPEC1
+h u n t i V PRF NEG PST+IMMED
+h u n t i V PRF NEG PST LGSPEC1
+h u n t i V PRF PRS+IMMED
+h u n t i V PRF PRS LGSPEC1
+h u n t i V PRF PST+IMMED
+h u n t i V PRF PST LGSPEC1
+h u n t i V PROG NEG PRS+IMMED
+h u n t i V PROG NEG PRS LGSPEC1
+h u n t i V PROG NEG PST+IMMED
+h u n t i V PROG NEG PST LGSPEC1
+h u n t i V PROG PRS+IMMED
+h u n t i V PROG PRS LGSPEC1
+h u n t i V PROG PST+IMMED
+h u n t i V PROG PST LGSPEC1
+h u n t i V PRS LGSPEC1
+h u n t i V PST+IMMED
+h u n t i V PST LGSPEC1
+h u n t i V SBJV NEG PRS
+h u n t i V SBJV PRS
+m a V HAB+PRF NEG PRS
+m a V HAB+PRF NEG PST
+m a V HAB+PRF PRS
+m a V HAB+PRF PST
+m a V HAB+PROG NEG PRS
+m a V HAB+PROG NEG PST
+m a V HAB+PROG PRS
+m a V HAB+PROG PST
+m a V HAB FUT
+m a V HAB NEG FUT
+m a V HAB NEG PRS
+m a V HAB NEG PST
+m a V HAB PRS
+m a V HAB PST
+m a V IMP NEG PRS
+m a V IMP PRS
+m a V NEG PRS LGSPEC1
+m a V NEG PST+IMMED
+m a V NEG PST LGSPEC1
+m a V NFIN
+m a V PRF NEG PRS+IMMED
+m a V PRF NEG PRS LGSPEC1
+m a V PRF NEG PST+IMMED
+m a V PRF NEG PST LGSPEC1
+m a V PRF PRS+IMMED
+m a V PRF PRS LGSPEC1
+m a V PRF PST+IMMED
+m a V PRF PST LGSPEC1
+m a V PROG NEG PRS+IMMED
+m a V PROG NEG PRS LGSPEC1
+m a V PROG NEG PST+IMMED
+m a V PROG NEG PST LGSPEC1
+m a V PROG PRS+IMMED
+m a V PROG PRS LGSPEC1
+m a V PROG PST+IMMED
+m a V PROG PST LGSPEC1
+m a V PRS LGSPEC1
+m a V PST+IMMED
+m a V PST LGSPEC1
+m a V SBJV NEG PRS
+m a V SBJV PRS
+d u a V HAB+PRF NEG PRS
+d u a V HAB+PRF NEG PST
+d u a V HAB+PRF PRS
+d u a V HAB+PRF PST
+d u a V HAB+PROG NEG PRS
+d u a V HAB+PROG NEG PST
+d u a V HAB+PROG PRS
+d u a V HAB+PROG PST
+d u a V HAB FUT
+d u a V HAB NEG FUT
+d u a V HAB NEG PRS
+d u a V HAB NEG PST
+d u a V HAB PRS
+d u a V HAB PST
+d u a V IMP NEG PRS
+d u a V IMP PRS
+d u a V NEG PRS LGSPEC1
+d u a V NEG PST+IMMED
+d u a V NEG PST LGSPEC1
+d u a V NFIN
+d u a V PRF NEG PRS+IMMED
+d u a V PRF NEG PRS LGSPEC1
+d u a V PRF NEG PST+IMMED
+d u a V PRF NEG PST LGSPEC1
+d u a V PRF PRS+IMMED
+d u a V PRF PRS LGSPEC1
+d u a V PRF PST+IMMED
+d u a V PRF PST LGSPEC1
+d u a V PROG NEG PRS+IMMED
+d u a V PROG NEG PRS LGSPEC1
+d u a V PROG NEG PST+IMMED
+d u a V PROG NEG PST LGSPEC1
+d u a V PROG PRS+IMMED
+d u a V PROG PRS LGSPEC1
+d u a V PROG PST+IMMED
+d u a V PROG PST LGSPEC1
+d u a V PRS LGSPEC1
+d u a V PST+IMMED
+d u a V PST LGSPEC1
+d u a V SBJV NEG PRS
+d u a V SBJV PRS
+h w ɛ V HAB+PRF NEG PRS
+h w ɛ V HAB+PRF NEG PST
+h w ɛ V HAB+PRF PRS
+h w ɛ V HAB+PRF PST
+h w ɛ V HAB+PROG NEG PRS
+h w ɛ V HAB+PROG NEG PST
+h w ɛ V HAB+PROG PRS
+h w ɛ V HAB+PROG PST
+h w ɛ V HAB FUT
+h w ɛ V HAB NEG FUT
+h w ɛ V HAB NEG PRS
+h w ɛ V HAB NEG PST
+h w ɛ V HAB PRS
+h w ɛ V HAB PST
+h w ɛ V IMP NEG PRS
+h w ɛ V IMP PRS
+h w ɛ V NEG PRS LGSPEC1
+h w ɛ V NEG PST+IMMED
+h w ɛ V NEG PST LGSPEC1
+h w ɛ V NFIN
+h w ɛ V PRF NEG PRS+IMMED
+h w ɛ V PRF NEG PRS LGSPEC1
+h w ɛ V PRF NEG PST+IMMED
+h w ɛ V PRF NEG PST LGSPEC1
+h w ɛ V PRF PRS+IMMED
+h w ɛ V PRF PRS LGSPEC1
+h w ɛ V PRF PST+IMMED
+h w ɛ V PRF PST LGSPEC1
+h w ɛ V PROG NEG PRS+IMMED
+h w ɛ V PROG NEG PRS LGSPEC1
+h w ɛ V PROG NEG PST+IMMED
+h w ɛ V PROG NEG PST LGSPEC1
+h w ɛ V PROG PRS+IMMED
+h w ɛ V PROG PRS LGSPEC1
+h w ɛ V PROG PST+IMMED
+h w ɛ V PROG PST LGSPEC1
+h w ɛ V PRS LGSPEC1
+h w ɛ V PST+IMMED
+h w ɛ V PST LGSPEC1
+h w ɛ V SBJV NEG PRS
+h w ɛ V SBJV PRS
+b ɔ V HAB+PRF NEG PRS
+b ɔ V HAB+PRF NEG PST
+b ɔ V HAB+PRF PRS
+b ɔ V HAB+PRF PST
+b ɔ V HAB+PROG NEG PRS
+b ɔ V HAB+PROG NEG PST
+b ɔ V HAB+PROG PRS
+b ɔ V HAB+PROG PST
+b ɔ V HAB FUT
+b ɔ V HAB NEG FUT
+b ɔ V HAB NEG PRS
+b ɔ V HAB NEG PST
+b ɔ V HAB PRS
+b ɔ V HAB PST
+b ɔ V IMP NEG PRS
+b ɔ V IMP PRS
+b ɔ V NEG PRS LGSPEC1
+b ɔ V NEG PST+IMMED
+b ɔ V NEG PST LGSPEC1
+b ɔ V NFIN
+b ɔ V PRF NEG PRS+IMMED
+b ɔ V PRF NEG PRS LGSPEC1
+b ɔ V PRF NEG PST+IMMED
+b ɔ V PRF NEG PST LGSPEC1
+b ɔ V PRF PRS+IMMED
+b ɔ V PRF PRS LGSPEC1
+b ɔ V PRF PST+IMMED
+b ɔ V PRF PST LGSPEC1
+b ɔ V PROG NEG PRS+IMMED
+b ɔ V PROG NEG PRS LGSPEC1
+b ɔ V PROG NEG PST+IMMED
+b ɔ V PROG NEG PST LGSPEC1
+b ɔ V PROG PRS+IMMED
+b ɔ V PROG PRS LGSPEC1
+b ɔ V PROG PST+IMMED
+b ɔ V PROG PST LGSPEC1
+b ɔ V PRS LGSPEC1
+b ɔ V PST+IMMED
+b ɔ V PST LGSPEC1
+b ɔ V SBJV NEG PRS
+b ɔ V SBJV PRS
+h u r u w V HAB+PRF NEG PRS
+h u r u w V HAB+PRF NEG PST
+h u r u w V HAB+PRF PRS
+h u r u w V HAB+PRF PST
+h u r u w V HAB+PROG NEG PRS
+h u r u w V HAB+PROG NEG PST
+h u r u w V HAB+PROG PRS
+h u r u w V HAB+PROG PST
+h u r u w V HAB FUT
+h u r u w V HAB NEG FUT
+h u r u w V HAB NEG PRS
+h u r u w V HAB NEG PST
+h u r u w V HAB PRS
+h u r u w V HAB PST
+h u r u w V IMP NEG PRS
+h u r u w V IMP PRS
+h u r u w V NEG PRS LGSPEC1
+h u r u w V NEG PST+IMMED
+h u r u w V NEG PST LGSPEC1
+h u r u w V NFIN
+h u r u w V PRF NEG PRS+IMMED
+h u r u w V PRF NEG PRS LGSPEC1
+h u r u w V PRF NEG PST+IMMED
+h u r u w V PRF NEG PST LGSPEC1
+h u r u w V PRF PRS+IMMED
+h u r u w V PRF PRS LGSPEC1
+h u r u w V PRF PST+IMMED
+h u r u w V PRF PST LGSPEC1
+h u r u w V PROG NEG PRS+IMMED
+h u r u w V PROG NEG PRS LGSPEC1
+h u r u w V PROG NEG PST+IMMED
+h u r u w V PROG NEG PST LGSPEC1
+h u r u w V PROG PRS+IMMED
+h u r u w V PROG PRS LGSPEC1
+h u r u w V PROG PST+IMMED
+h u r u w V PROG PST LGSPEC1
+h u r u w V PRS LGSPEC1
+h u r u w V PST+IMMED
+h u r u w V PST LGSPEC1
+h u r u w V SBJV NEG PRS
+h u r u w V SBJV PRS
+d a V HAB+PRF NEG PRS
+d a V HAB+PRF NEG PST
+d a V HAB+PRF PRS
+d a V HAB+PRF PST
+d a V HAB+PROG NEG PRS
+d a V HAB+PROG NEG PST
+d a V HAB+PROG PRS
+d a V HAB+PROG PST
+d a V HAB FUT
+d a V HAB NEG FUT
+d a V HAB NEG PRS
+d a V HAB NEG PST
+d a V HAB PRS
+d a V HAB PST
+d a V IMP NEG PRS
+d a V IMP PRS
+d a V NEG PRS LGSPEC1
+d a V NEG PST+IMMED
+d a V NEG PST LGSPEC1
+d a V NFIN
+d a V PRF NEG PRS+IMMED
+d a V PRF NEG PRS LGSPEC1
+d a V PRF NEG PST+IMMED
+d a V PRF NEG PST LGSPEC1
+d a V PRF PRS+IMMED
+d a V PRF PRS LGSPEC1
+d a V PRF PST+IMMED
+d a V PRF PST LGSPEC1
+d a V PROG NEG PRS+IMMED
+d a V PROG NEG PRS LGSPEC1
+d a V PROG NEG PST+IMMED
+d a V PROG NEG PST LGSPEC1
+d a V PROG PRS+IMMED
+d a V PROG PRS LGSPEC1
+d a V PROG PST+IMMED
+d a V PROG PST LGSPEC1
+d a V PRS LGSPEC1
+d a V PST+IMMED
+d a V PST LGSPEC1
+d a V SBJV NEG PRS
+d a V SBJV PRS
+p i a V HAB+PRF NEG PRS
+p i a V HAB+PRF NEG PST
+p i a V HAB+PRF PRS
+p i a V HAB+PRF PST
+p i a V HAB+PROG NEG PRS
+p i a V HAB+PROG NEG PST
+p i a V HAB+PROG PRS
+p i a V HAB+PROG PST
+p i a V HAB FUT
+p i a V HAB NEG FUT
+p i a V HAB NEG PRS
+p i a V HAB NEG PST
+p i a V HAB PRS
+p i a V HAB PST
+p i a V IMP NEG PRS
+p i a V IMP PRS
+p i a V NEG PRS LGSPEC1
+p i a V NEG PST+IMMED
+p i a V NEG PST LGSPEC1
+p i a V NFIN
+p i a V PRF NEG PRS+IMMED
+p i a V PRF NEG PRS LGSPEC1
+p i a V PRF NEG PST+IMMED
+p i a V PRF NEG PST LGSPEC1
+p i a V PRF PRS+IMMED
+p i a V PRF PRS LGSPEC1
+p i a V PRF PST+IMMED
+p i a V PRF PST LGSPEC1
+p i a V PROG NEG PRS+IMMED
+p i a V PROG NEG PRS LGSPEC1
+p i a V PROG NEG PST+IMMED
+p i a V PROG NEG PST LGSPEC1
+p i a V PROG PRS+IMMED
+p i a V PROG PRS LGSPEC1
+p i a V PROG PST+IMMED
+p i a V PROG PST LGSPEC1
+p i a V PRS LGSPEC1
+p i a V PST+IMMED
+p i a V PST LGSPEC1
+p i a V SBJV NEG PRS
+p i a V SBJV PRS
+h y i n a V HAB+PRF NEG PRS
+h y i n a V HAB+PRF NEG PST
+h y i n a V HAB+PRF PRS
+h y i n a V HAB+PRF PST
+h y i n a V HAB+PROG NEG PRS
+h y i n a V HAB+PROG NEG PST
+h y i n a V HAB+PROG PRS
+h y i n a V HAB+PROG PST
+h y i n a V HAB FUT
+h y i n a V HAB NEG FUT
+h y i n a V HAB NEG PRS
+h y i n a V HAB NEG PST
+h y i n a V HAB PRS
+h y i n a V HAB PST
+h y i n a V IMP NEG PRS
+h y i n a V IMP PRS
+h y i n a V NEG PRS LGSPEC1
+h y i n a V NEG PST+IMMED
+h y i n a V NEG PST LGSPEC1
+h y i n a V NFIN
+h y i n a V PRF NEG PRS+IMMED
+h y i n a V PRF NEG PRS LGSPEC1
+h y i n a V PRF NEG PST+IMMED
+h y i n a V PRF NEG PST LGSPEC1
+h y i n a V PRF PRS+IMMED
+h y i n a V PRF PRS LGSPEC1
+h y i n a V PRF PST+IMMED
+h y i n a V PRF PST LGSPEC1
+h y i n a V PROG NEG PRS+IMMED
+h y i n a V PROG NEG PRS LGSPEC1
+h y i n a V PROG NEG PST+IMMED
+h y i n a V PROG NEG PST LGSPEC1
+h y i n a V PROG PRS+IMMED
+h y i n a V PROG PRS LGSPEC1
+h y i n a V PROG PST+IMMED
+h y i n a V PROG PST LGSPEC1
+h y i n a V PRS LGSPEC1
+h y i n a V PST+IMMED
+h y i n a V PST LGSPEC1
+h y i n a V SBJV NEG PRS
+h y i n a V SBJV PRS
+t u _ n g u a n V HAB+PRF NEG PRS
+t u _ n g u a n V HAB+PRF NEG PST
+t u _ n g u a n V HAB+PRF PRS
+t u _ n g u a n V HAB+PRF PST
+t u _ n g u a n V HAB+PROG NEG PRS
+t u _ n g u a n V HAB+PROG NEG PST
+t u _ n g u a n V HAB+PROG PRS
+t u _ n g u a n V HAB+PROG PST
+t u _ n g u a n V HAB FUT
+t u _ n g u a n V HAB NEG FUT
+t u _ n g u a n V HAB NEG PRS
+t u _ n g u a n V HAB NEG PST
+t u _ n g u a n V HAB PRS
+t u _ n g u a n V HAB PST
+t u _ n g u a n V IMP NEG PRS
+t u _ n g u a n V IMP PRS
+t u _ n g u a n V NEG PRS LGSPEC1
+t u _ n g u a n V NEG PST+IMMED
+t u _ n g u a n V NEG PST LGSPEC1
+t u _ n g u a n V NFIN
+t u _ n g u a n V PRF NEG PRS+IMMED
+t u _ n g u a n V PRF NEG PRS LGSPEC1
+t u _ n g u a n V PRF NEG PST+IMMED
+t u _ n g u a n V PRF NEG PST LGSPEC1
+t u _ n g u a n V PRF PRS+IMMED
+t u _ n g u a n V PRF PRS LGSPEC1
+t u _ n g u a n V PRF PST+IMMED
+t u _ n g u a n V PRF PST LGSPEC1
+t u _ n g u a n V PROG NEG PRS+IMMED
+t u _ n g u a n V PROG NEG PRS LGSPEC1
+t u _ n g u a n V PROG NEG PST+IMMED
+t u _ n g u a n V PROG NEG PST LGSPEC1
+t u _ n g u a n V PROG PRS+IMMED
+t u _ n g u a n V PROG PRS LGSPEC1
+t u _ n g u a n V PROG PST+IMMED
+t u _ n g u a n V PROG PST LGSPEC1
+t u _ n g u a n V PRS LGSPEC1
+t u _ n g u a n V PST+IMMED
+t u _ n g u a n V PST LGSPEC1
+t u _ n g u a n V SBJV NEG PRS
+t u _ n g u a n V SBJV PRS
+s u m a V HAB+PRF NEG PRS
+s u m a V HAB+PRF NEG PST
+s u m a V HAB+PRF PRS
+s u m a V HAB+PRF PST
+s u m a V HAB+PROG NEG PRS
+s u m a V HAB+PROG NEG PST
+s u m a V HAB+PROG PRS
+s u m a V HAB+PROG PST
+s u m a V HAB FUT
+s u m a V HAB NEG FUT
+s u m a V HAB NEG PRS
+s u m a V HAB NEG PST
+s u m a V HAB PRS
+s u m a V HAB PST
+s u m a V IMP NEG PRS
+s u m a V IMP PRS
+s u m a V NEG PRS LGSPEC1
+s u m a V NEG PST+IMMED
+s u m a V NEG PST LGSPEC1
+s u m a V NFIN
+s u m a V PRF NEG PRS+IMMED
+s u m a V PRF NEG PRS LGSPEC1
+s u m a V PRF NEG PST+IMMED
+s u m a V PRF NEG PST LGSPEC1
+s u m a V PRF PRS+IMMED
+s u m a V PRF PRS LGSPEC1
+s u m a V PRF PST+IMMED
+s u m a V PRF PST LGSPEC1
+s u m a V PROG NEG PRS+IMMED
+s u m a V PROG NEG PRS LGSPEC1
+s u m a V PROG NEG PST+IMMED
+s u m a V PROG NEG PST LGSPEC1
+s u m a V PROG PRS+IMMED
+s u m a V PROG PRS LGSPEC1
+s u m a V PROG PST+IMMED
+s u m a V PROG PST LGSPEC1
+s u m a V PRS LGSPEC1
+s u m a V PST+IMMED
+s u m a V PST LGSPEC1
+s u m a V SBJV NEG PRS
+s u m a V SBJV PRS
+s i w V HAB+PRF NEG PRS
+s i w V HAB+PRF NEG PST
+s i w V HAB+PRF PRS
+s i w V HAB+PRF PST
+s i w V HAB+PROG NEG PRS
+s i w V HAB+PROG NEG PST
+s i w V HAB+PROG PRS
+s i w V HAB+PROG PST
+s i w V HAB FUT
+s i w V HAB NEG FUT
+s i w V HAB NEG PRS
+s i w V HAB NEG PST
+s i w V HAB PRS
+s i w V HAB PST
+s i w V IMP NEG PRS
+s i w V IMP PRS
+s i w V NEG PRS LGSPEC1
+s i w V NEG PST+IMMED
+s i w V NEG PST LGSPEC1
+s i w V NFIN
+s i w V PRF NEG PRS+IMMED
+s i w V PRF NEG PRS LGSPEC1
+s i w V PRF NEG PST+IMMED
+s i w V PRF NEG PST LGSPEC1
+s i w V PRF PRS+IMMED
+s i w V PRF PRS LGSPEC1
+s i w V PRF PST+IMMED
+s i w V PRF PST LGSPEC1
+s i w V PROG NEG PRS+IMMED
+s i w V PROG NEG PRS LGSPEC1
+s i w V PROG NEG PST+IMMED
+s i w V PROG NEG PST LGSPEC1
+s i w V PROG PRS+IMMED
+s i w V PROG PRS LGSPEC1
+s i w V PROG PST+IMMED
+s i w V PROG PST LGSPEC1
+s i w V PRS LGSPEC1
+s i w V PST+IMMED
+s i w V PST LGSPEC1
+s i w V SBJV NEG PRS
+s i w V SBJV PRS
+s o ɛ r V HAB+PRF NEG PRS
+s o ɛ r V HAB+PRF NEG PST
+s o ɛ r V HAB+PRF PRS
+s o ɛ r V HAB+PRF PST
+s o ɛ r V HAB+PROG NEG PRS
+s o ɛ r V HAB+PROG NEG PST
+s o ɛ r V HAB+PROG PRS
+s o ɛ r V HAB+PROG PST
+s o ɛ r V HAB FUT
+s o ɛ r V HAB NEG FUT
+s o ɛ r V HAB NEG PRS
+s o ɛ r V HAB NEG PST
+s o ɛ r V HAB PRS
+s o ɛ r V HAB PST
+s o ɛ r V IMP NEG PRS
+s o ɛ r V IMP PRS
+s o ɛ r V NEG PRS LGSPEC1
+s o ɛ r V NEG PST+IMMED
+s o ɛ r V NEG PST LGSPEC1
+s o ɛ r V NFIN
+s o ɛ r V PRF NEG PRS+IMMED
+s o ɛ r V PRF NEG PRS LGSPEC1
+s o ɛ r V PRF NEG PST+IMMED
+s o ɛ r V PRF NEG PST LGSPEC1
+s o ɛ r V PRF PRS+IMMED
+s o ɛ r V PRF PRS LGSPEC1
+s o ɛ r V PRF PST+IMMED
+s o ɛ r V PRF PST LGSPEC1
+s o ɛ r V PROG NEG PRS+IMMED
+s o ɛ r V PROG NEG PRS LGSPEC1
+s o ɛ r V PROG NEG PST+IMMED
+s o ɛ r V PROG NEG PST LGSPEC1
+s o ɛ r V PROG PRS+IMMED
+s o ɛ r V PROG PRS LGSPEC1
+s o ɛ r V PROG PST+IMMED
+s o ɛ r V PROG PST LGSPEC1
+s o ɛ r V PRS LGSPEC1
+s o ɛ r V PST+IMMED
+s o ɛ r V PST LGSPEC1
+s o ɛ r V SBJV NEG PRS
+s o ɛ r V SBJV PRS
+k y e r e ɛ w V HAB+PRF NEG PRS
+k y e r e ɛ w V HAB+PRF NEG PST
+k y e r e ɛ w V HAB+PRF PRS
+k y e r e ɛ w V HAB+PRF PST
+k y e r e ɛ w V HAB+PROG NEG PRS
+k y e r e ɛ w V HAB+PROG NEG PST
+k y e r e ɛ w V HAB+PROG PRS
+k y e r e ɛ w V HAB+PROG PST
+k y e r e ɛ w V HAB FUT
+k y e r e ɛ w V HAB NEG FUT
+k y e r e ɛ w V HAB NEG PRS
+k y e r e ɛ w V HAB NEG PST
+k y e r e ɛ w V HAB PRS
+k y e r e ɛ w V HAB PST
+k y e r e ɛ w V IMP NEG PRS
+k y e r e ɛ w V IMP PRS
+k y e r e ɛ w V NEG PRS LGSPEC1
+k y e r e ɛ w V NEG PST+IMMED
+k y e r e ɛ w V NEG PST LGSPEC1
+k y e r e ɛ w V NFIN
+k y e r e ɛ w V PRF NEG PRS+IMMED
+k y e r e ɛ w V PRF NEG PRS LGSPEC1
+k y e r e ɛ w V PRF NEG PST+IMMED
+k y e r e ɛ w V PRF NEG PST LGSPEC1
+k y e r e ɛ w V PRF PRS+IMMED
+k y e r e ɛ w V PRF PRS LGSPEC1
+k y e r e ɛ w V PRF PST+IMMED
+k y e r e ɛ w V PRF PST LGSPEC1
+k y e r e ɛ w V PROG NEG PRS+IMMED
+k y e r e ɛ w V PROG NEG PRS LGSPEC1
+k y e r e ɛ w V PROG NEG PST+IMMED
+k y e r e ɛ w V PROG NEG PST LGSPEC1
+k y e r e ɛ w V PROG PRS+IMMED
+k y e r e ɛ w V PROG PRS LGSPEC1
+k y e r e ɛ w V PROG PST+IMMED
+k y e r e ɛ w V PROG PST LGSPEC1
+k y e r e ɛ w V PRS LGSPEC1
+k y e r e ɛ w V PST+IMMED
+k y e r e ɛ w V PST LGSPEC1
+k y e r e ɛ w V SBJV NEG PRS
+k y e r e ɛ w V SBJV PRS
+f o w V HAB+PRF NEG PRS
+f o w V HAB+PRF NEG PST
+f o w V HAB+PRF PRS
+f o w V HAB+PRF PST
+f o w V HAB+PROG NEG PRS
+f o w V HAB+PROG NEG PST
+f o w V HAB+PROG PRS
+f o w V HAB+PROG PST
+f o w V HAB FUT
+f o w V HAB NEG FUT
+f o w V HAB NEG PRS
+f o w V HAB NEG PST
+f o w V HAB PRS
+f o w V HAB PST
+f o w V IMP NEG PRS
+f o w V IMP PRS
+f o w V NEG PRS LGSPEC1
+f o w V NEG PST+IMMED
+f o w V NEG PST LGSPEC1
+f o w V NFIN
+f o w V PRF NEG PRS+IMMED
+f o w V PRF NEG PRS LGSPEC1
+f o w V PRF NEG PST+IMMED
+f o w V PRF NEG PST LGSPEC1
+f o w V PRF PRS+IMMED
+f o w V PRF PRS LGSPEC1
+f o w V PRF PST+IMMED
+f o w V PRF PST LGSPEC1
+f o w V PROG NEG PRS+IMMED
+f o w V PROG NEG PRS LGSPEC1
+f o w V PROG NEG PST+IMMED
+f o w V PROG NEG PST LGSPEC1
+f o w V PROG PRS+IMMED
+f o w V PROG PRS LGSPEC1
+f o w V PROG PST+IMMED
+f o w V PROG PST LGSPEC1
+f o w V PRS LGSPEC1
+f o w V PST+IMMED
+f o w V PST LGSPEC1
+f o w V SBJV NEG PRS
+f o w V SBJV PRS
+d u m V HAB+PRF NEG PRS
+d u m V HAB+PRF NEG PST
+d u m V HAB+PRF PRS
+d u m V HAB+PRF PST
+d u m V HAB+PROG NEG PRS
+d u m V HAB+PROG NEG PST
+d u m V HAB+PROG PRS
+d u m V HAB+PROG PST
+d u m V HAB FUT
+d u m V HAB NEG FUT
+d u m V HAB NEG PRS
+d u m V HAB NEG PST
+d u m V HAB PRS
+d u m V HAB PST
+d u m V IMP NEG PRS
+d u m V IMP PRS
+d u m V NEG PRS LGSPEC1
+d u m V NEG PST+IMMED
+d u m V NEG PST LGSPEC1
+d u m V NFIN
+d u m V PRF NEG PRS+IMMED
+d u m V PRF NEG PRS LGSPEC1
+d u m V PRF NEG PST+IMMED
+d u m V PRF NEG PST LGSPEC1
+d u m V PRF PRS+IMMED
+d u m V PRF PRS LGSPEC1
+d u m V PRF PST+IMMED
+d u m V PRF PST LGSPEC1
+d u m V PROG NEG PRS+IMMED
+d u m V PROG NEG PRS LGSPEC1
+d u m V PROG NEG PST+IMMED
+d u m V PROG NEG PST LGSPEC1
+d u m V PROG PRS+IMMED
+d u m V PROG PRS LGSPEC1
+d u m V PROG PST+IMMED
+d u m V PROG PST LGSPEC1
+d u m V PRS LGSPEC1
+d u m V PST+IMMED
+d u m V PST LGSPEC1
+d u m V SBJV NEG PRS
+d u m V SBJV PRS
+d a _ a s e V HAB+PRF NEG PRS
+d a _ a s e V HAB+PRF NEG PST
+d a _ a s e V HAB+PRF PRS
+d a _ a s e V HAB+PRF PST
+d a _ a s e V HAB+PROG NEG PRS
+d a _ a s e V HAB+PROG NEG PST
+d a _ a s e V HAB+PROG PRS
+d a _ a s e V HAB+PROG PST
+d a _ a s e V HAB FUT
+d a _ a s e V HAB NEG FUT
+d a _ a s e V HAB NEG PRS
+d a _ a s e V HAB NEG PST
+d a _ a s e V HAB PRS
+d a _ a s e V HAB PST
+d a _ a s e V IMP NEG PRS
+d a _ a s e V IMP PRS
+d a _ a s e V NEG PRS LGSPEC1
+d a _ a s e V NEG PST+IMMED
+d a _ a s e V NEG PST LGSPEC1
+d a _ a s e V NFIN
+d a _ a s e V PRF NEG PRS+IMMED
+d a _ a s e V PRF NEG PRS LGSPEC1
+d a _ a s e V PRF NEG PST+IMMED
+d a _ a s e V PRF NEG PST LGSPEC1
+d a _ a s e V PRF PRS+IMMED
+d a _ a s e V PRF PRS LGSPEC1
+d a _ a s e V PRF PST+IMMED
+d a _ a s e V PRF PST LGSPEC1
+d a _ a s e V PROG NEG PRS+IMMED
+d a _ a s e V PROG NEG PRS LGSPEC1
+d a _ a s e V PROG NEG PST+IMMED
+d a _ a s e V PROG NEG PST LGSPEC1
+d a _ a s e V PROG PRS+IMMED
+d a _ a s e V PROG PRS LGSPEC1
+d a _ a s e V PROG PST+IMMED
+d a _ a s e V PROG PST LGSPEC1
+d a _ a s e V PRS LGSPEC1
+d a _ a s e V PST+IMMED
+d a _ a s e V PST LGSPEC1
+d a _ a s e V SBJV NEG PRS
+d a _ a s e V SBJV PRS
+m a _ s o V HAB+PRF NEG PRS
+m a _ s o V HAB+PRF NEG PST
+m a _ s o V HAB+PRF PRS
+m a _ s o V HAB+PRF PST
+m a _ s o V HAB+PROG NEG PRS
+m a _ s o V HAB+PROG NEG PST
+m a _ s o V HAB+PROG PRS
+m a _ s o V HAB+PROG PST
+m a _ s o V HAB FUT
+m a _ s o V HAB NEG FUT
+m a _ s o V HAB NEG PRS
+m a _ s o V HAB NEG PST
+m a _ s o V HAB PRS
+m a _ s o V HAB PST
+m a _ s o V IMP NEG PRS
+m a _ s o V IMP PRS
+m a _ s o V NEG PRS LGSPEC1
+m a _ s o V NEG PST+IMMED
+m a _ s o V NEG PST LGSPEC1
+m a _ s o V NFIN
+m a _ s o V PRF NEG PRS+IMMED
+m a _ s o V PRF NEG PRS LGSPEC1
+m a _ s o V PRF NEG PST+IMMED
+m a _ s o V PRF NEG PST LGSPEC1
+m a _ s o V PRF PRS+IMMED
+m a _ s o V PRF PRS LGSPEC1
+m a _ s o V PRF PST+IMMED
+m a _ s o V PRF PST LGSPEC1
+m a _ s o V PROG NEG PRS+IMMED
+m a _ s o V PROG NEG PRS LGSPEC1
+m a _ s o V PROG NEG PST+IMMED
+m a _ s o V PROG NEG PST LGSPEC1
+m a _ s o V PROG PRS+IMMED
+m a _ s o V PROG PRS LGSPEC1
+m a _ s o V PROG PST+IMMED
+m a _ s o V PROG PST LGSPEC1
+m a _ s o V PRS LGSPEC1
+m a _ s o V PST+IMMED
+m a _ s o V PST LGSPEC1
+m a _ s o V SBJV NEG PRS
+m a _ s o V SBJV PRS
+k a V HAB+PRF NEG PRS
+k a V HAB+PRF NEG PST
+k a V HAB+PRF PRS
+k a V HAB+PRF PST
+k a V HAB+PROG NEG PRS
+k a V HAB+PROG NEG PST
+k a V HAB+PROG PRS
+k a V HAB+PROG PST
+k a V HAB FUT
+k a V HAB NEG FUT
+k a V HAB NEG PRS
+k a V HAB NEG PST
+k a V HAB PRS
+k a V HAB PST
+k a V IMP NEG PRS
+k a V IMP PRS
+k a V NEG PRS LGSPEC1
+k a V NEG PST+IMMED
+k a V NEG PST LGSPEC1
+k a V NFIN
+k a V PRF NEG PRS+IMMED
+k a V PRF NEG PRS LGSPEC1
+k a V PRF NEG PST+IMMED
+k a V PRF NEG PST LGSPEC1
+k a V PRF PRS+IMMED
+k a V PRF PRS LGSPEC1
+k a V PRF PST+IMMED
+k a V PRF PST LGSPEC1
+k a V PROG NEG PRS+IMMED
+k a V PROG NEG PRS LGSPEC1
+k a V PROG NEG PST+IMMED
+k a V PROG NEG PST LGSPEC1
+k a V PROG PRS+IMMED
+k a V PROG PRS LGSPEC1
+k a V PROG PST+IMMED
+k a V PROG PST LGSPEC1
+k a V PRS LGSPEC1
+k a V PST+IMMED
+k a V PST LGSPEC1
+k a V SBJV NEG PRS
+k a V SBJV PRS
+t i e V HAB+PRF NEG PRS
+t i e V HAB+PRF NEG PST
+t i e V HAB+PRF PRS
+t i e V HAB+PRF PST
+t i e V HAB+PROG NEG PRS
+t i e V HAB+PROG NEG PST
+t i e V HAB+PROG PRS
+t i e V HAB+PROG PST
+t i e V HAB FUT
+t i e V HAB NEG FUT
+t i e V HAB NEG PRS
+t i e V HAB NEG PST
+t i e V HAB PRS
+t i e V HAB PST
+t i e V IMP NEG PRS
+t i e V IMP PRS
+t i e V NEG PRS LGSPEC1
+t i e V NEG PST+IMMED
+t i e V NEG PST LGSPEC1
+t i e V NFIN
+t i e V PRF NEG PRS+IMMED
+t i e V PRF NEG PRS LGSPEC1
+t i e V PRF NEG PST+IMMED
+t i e V PRF NEG PST LGSPEC1
+t i e V PRF PRS+IMMED
+t i e V PRF PRS LGSPEC1
+t i e V PRF PST+IMMED
+t i e V PRF PST LGSPEC1
+t i e V PROG NEG PRS+IMMED
+t i e V PROG NEG PRS LGSPEC1
+t i e V PROG NEG PST+IMMED
+t i e V PROG NEG PST LGSPEC1
+t i e V PROG PRS+IMMED
+t i e V PROG PRS LGSPEC1
+t i e V PROG PST+IMMED
+t i e V PROG PST LGSPEC1
+t i e V PRS LGSPEC1
+t i e V PST+IMMED
+t i e V PST LGSPEC1
+t i e V SBJV NEG PRS
+t i e V SBJV PRS
+h y ɛ _ a s e V HAB+PRF NEG PRS
+h y ɛ _ a s e V HAB+PRF NEG PST
+h y ɛ _ a s e V HAB+PRF PRS
+h y ɛ _ a s e V HAB+PRF PST
+h y ɛ _ a s e V HAB+PROG NEG PRS
+h y ɛ _ a s e V HAB+PROG NEG PST
+h y ɛ _ a s e V HAB+PROG PRS
+h y ɛ _ a s e V HAB+PROG PST
+h y ɛ _ a s e V HAB FUT
+h y ɛ _ a s e V HAB NEG FUT
+h y ɛ _ a s e V HAB NEG PRS
+h y ɛ _ a s e V HAB NEG PST
+h y ɛ _ a s e V HAB PRS
+h y ɛ _ a s e V HAB PST
+h y ɛ _ a s e V IMP NEG PRS
+h y ɛ _ a s e V IMP PRS
+h y ɛ _ a s e V NEG PRS LGSPEC1
+h y ɛ _ a s e V NEG PST+IMMED
+h y ɛ _ a s e V NEG PST LGSPEC1
+h y ɛ _ a s e V NFIN
+h y ɛ _ a s e V PRF NEG PRS+IMMED
+h y ɛ _ a s e V PRF NEG PRS LGSPEC1
+h y ɛ _ a s e V PRF NEG PST+IMMED
+h y ɛ _ a s e V PRF NEG PST LGSPEC1
+h y ɛ _ a s e V PRF PRS+IMMED
+h y ɛ _ a s e V PRF PRS LGSPEC1
+h y ɛ _ a s e V PRF PST+IMMED
+h y ɛ _ a s e V PRF PST LGSPEC1
+h y ɛ _ a s e V PROG NEG PRS+IMMED
+h y ɛ _ a s e V PROG NEG PRS LGSPEC1
+h y ɛ _ a s e V PROG NEG PST+IMMED
+h y ɛ _ a s e V PROG NEG PST LGSPEC1
+h y ɛ _ a s e V PROG PRS+IMMED
+h y ɛ _ a s e V PROG PRS LGSPEC1
+h y ɛ _ a s e V PROG PST+IMMED
+h y ɛ _ a s e V PROG PST LGSPEC1
+h y ɛ _ a s e V PRS LGSPEC1
+h y ɛ _ a s e V PST+IMMED
+h y ɛ _ a s e V PST LGSPEC1
+h y ɛ _ a s e V SBJV NEG PRS
+h y ɛ _ a s e V SBJV PRS
+s u o _ m u V HAB+PRF NEG PRS
+s u o _ m u V HAB+PRF NEG PST
+s u o _ m u V HAB+PRF PRS
+s u o _ m u V HAB+PRF PST
+s u o _ m u V HAB+PROG NEG PRS
+s u o _ m u V HAB+PROG NEG PST
+s u o _ m u V HAB+PROG PRS
+s u o _ m u V HAB+PROG PST
+s u o _ m u V HAB FUT
+s u o _ m u V HAB NEG FUT
+s u o _ m u V HAB NEG PRS
+s u o _ m u V HAB NEG PST
+s u o _ m u V HAB PRS
+s u o _ m u V HAB PST
+s u o _ m u V IMP NEG PRS
+s u o _ m u V IMP PRS
+s u o _ m u V NEG PRS LGSPEC1
+s u o _ m u V NEG PST+IMMED
+s u o _ m u V NEG PST LGSPEC1
+s u o _ m u V NFIN
+s u o _ m u V PRF NEG PRS+IMMED
+s u o _ m u V PRF NEG PRS LGSPEC1
+s u o _ m u V PRF NEG PST+IMMED
+s u o _ m u V PRF NEG PST LGSPEC1
+s u o _ m u V PRF PRS+IMMED
+s u o _ m u V PRF PRS LGSPEC1
+s u o _ m u V PRF PST+IMMED
+s u o _ m u V PRF PST LGSPEC1
+s u o _ m u V PROG NEG PRS+IMMED
+s u o _ m u V PROG NEG PRS LGSPEC1
+s u o _ m u V PROG NEG PST+IMMED
+s u o _ m u V PROG NEG PST LGSPEC1
+s u o _ m u V PROG PRS+IMMED
+s u o _ m u V PROG PRS LGSPEC1
+s u o _ m u V PROG PST+IMMED
+s u o _ m u V PROG PST LGSPEC1
+s u o _ m u V PRS LGSPEC1
+s u o _ m u V PST+IMMED
+s u o _ m u V PST LGSPEC1
+s u o _ m u V SBJV NEG PRS
+s u o _ m u V SBJV PRS
+s u a V HAB+PRF NEG PRS
+s u a V HAB+PRF NEG PST
+s u a V HAB+PRF PRS
+s u a V HAB+PRF PST
+s u a V HAB+PROG NEG PRS
+s u a V HAB+PROG NEG PST
+s u a V HAB+PROG PRS
+s u a V HAB+PROG PST
+s u a V HAB FUT
+s u a V HAB NEG FUT
+s u a V HAB NEG PRS
+s u a V HAB NEG PST
+s u a V HAB PRS
+s u a V HAB PST
+s u a V IMP NEG PRS
+s u a V IMP PRS
+s u a V NEG PRS LGSPEC1
+s u a V NEG PST+IMMED
+s u a V NEG PST LGSPEC1
+s u a V NFIN
+s u a V PRF NEG PRS+IMMED
+s u a V PRF NEG PRS LGSPEC1
+s u a V PRF NEG PST+IMMED
+s u a V PRF NEG PST LGSPEC1
+s u a V PRF PRS+IMMED
+s u a V PRF PRS LGSPEC1
+s u a V PRF PST+IMMED
+s u a V PRF PST LGSPEC1
+s u a V PROG NEG PRS+IMMED
+s u a V PROG NEG PRS LGSPEC1
+s u a V PROG NEG PST+IMMED
+s u a V PROG NEG PST LGSPEC1
+s u a V PROG PRS+IMMED
+s u a V PROG PRS LGSPEC1
+s u a V PROG PST+IMMED
+s u a V PROG PST LGSPEC1
+s u a V PRS LGSPEC1
+s u a V PST+IMMED
+s u a V PST LGSPEC1
+s u a V SBJV NEG PRS
+s u a V SBJV PRS
+b ɔ _ n s a m u V HAB+PRF NEG PRS
+b ɔ _ n s a m u V HAB+PRF NEG PST
+b ɔ _ n s a m u V HAB+PRF PRS
+b ɔ _ n s a m u V HAB+PRF PST
+b ɔ _ n s a m u V HAB+PROG NEG PRS
+b ɔ _ n s a m u V HAB+PROG NEG PST
+b ɔ _ n s a m u V HAB+PROG PRS
+b ɔ _ n s a m u V HAB+PROG PST
+b ɔ _ n s a m u V HAB FUT
+b ɔ _ n s a m u V HAB NEG FUT
+b ɔ _ n s a m u V HAB NEG PRS
+b ɔ _ n s a m u V HAB NEG PST
+b ɔ _ n s a m u V HAB PRS
+b ɔ _ n s a m u V HAB PST
+b ɔ _ n s a m u V IMP NEG PRS
+b ɔ _ n s a m u V IMP PRS
+b ɔ _ n s a m u V NEG PRS LGSPEC1
+b ɔ _ n s a m u V NEG PST+IMMED
+b ɔ _ n s a m u V NEG PST LGSPEC1
+b ɔ _ n s a m u V NFIN
+b ɔ _ n s a m u V PRF NEG PRS+IMMED
+b ɔ _ n s a m u V PRF NEG PRS LGSPEC1
+b ɔ _ n s a m u V PRF NEG PST+IMMED
+b ɔ _ n s a m u V PRF NEG PST LGSPEC1
+b ɔ _ n s a m u V PRF PRS+IMMED
+b ɔ _ n s a m u V PRF PRS LGSPEC1
+b ɔ _ n s a m u V PRF PST+IMMED
+b ɔ _ n s a m u V PRF PST LGSPEC1
+b ɔ _ n s a m u V PROG NEG PRS+IMMED
+b ɔ _ n s a m u V PROG NEG PRS LGSPEC1
+b ɔ _ n s a m u V PROG NEG PST+IMMED
+b ɔ _ n s a m u V PROG NEG PST LGSPEC1
+b ɔ _ n s a m u V PROG PRS+IMMED
+b ɔ _ n s a m u V PROG PRS LGSPEC1
+b ɔ _ n s a m u V PROG PST+IMMED
+b ɔ _ n s a m u V PROG PST LGSPEC1
+b ɔ _ n s a m u V PRS LGSPEC1
+b ɔ _ n s a m u V PST+IMMED
+b ɔ _ n s a m u V PST LGSPEC1
+b ɔ _ n s a m u V SBJV NEG PRS
+b ɔ _ n s a m u V SBJV PRS
+t u t u V HAB+PRF NEG PRS
+t u t u V HAB+PRF NEG PST
+t u t u V HAB+PRF PRS
+t u t u V HAB+PRF PST
+t u t u V HAB+PROG NEG PRS
+t u t u V HAB+PROG NEG PST
+t u t u V HAB+PROG PRS
+t u t u V HAB+PROG PST
+t u t u V HAB FUT
+t u t u V HAB NEG FUT
+t u t u V HAB NEG PRS
+t u t u V HAB NEG PST
+t u t u V HAB PRS
+t u t u V HAB PST
+t u t u V IMP NEG PRS
+t u t u V IMP PRS
+t u t u V NEG PRS LGSPEC1
+t u t u V NEG PST+IMMED
+t u t u V NEG PST LGSPEC1
+t u t u V NFIN
+t u t u V PRF NEG PRS+IMMED
+t u t u V PRF NEG PRS LGSPEC1
+t u t u V PRF NEG PST+IMMED
+t u t u V PRF NEG PST LGSPEC1
+t u t u V PRF PRS+IMMED
+t u t u V PRF PRS LGSPEC1
+t u t u V PRF PST+IMMED
+t u t u V PRF PST LGSPEC1
+t u t u V PROG NEG PRS+IMMED
+t u t u V PROG NEG PRS LGSPEC1
+t u t u V PROG NEG PST+IMMED
+t u t u V PROG NEG PST LGSPEC1
+t u t u V PROG PRS+IMMED
+t u t u V PROG PRS LGSPEC1
+t u t u V PROG PST+IMMED
+t u t u V PROG PST LGSPEC1
+t u t u V PRS LGSPEC1
+t u t u V PST+IMMED
+t u t u V PST LGSPEC1
+t u t u V SBJV NEG PRS
+t u t u V SBJV PRS
+s e r e w V HAB+PRF NEG PRS
+s e r e w V HAB+PRF NEG PST
+s e r e w V HAB+PRF PRS
+s e r e w V HAB+PRF PST
+s e r e w V HAB+PROG NEG PRS
+s e r e w V HAB+PROG NEG PST
+s e r e w V HAB+PROG PRS
+s e r e w V HAB+PROG PST
+s e r e w V HAB FUT
+s e r e w V HAB NEG FUT
+s e r e w V HAB NEG PRS
+s e r e w V HAB NEG PST
+s e r e w V HAB PRS
+s e r e w V HAB PST
+s e r e w V IMP NEG PRS
+s e r e w V IMP PRS
+s e r e w V NEG PRS LGSPEC1
+s e r e w V NEG PST+IMMED
+s e r e w V NEG PST LGSPEC1
+s e r e w V NFIN
+s e r e w V PRF NEG PRS+IMMED
+s e r e w V PRF NEG PRS LGSPEC1
+s e r e w V PRF NEG PST+IMMED
+s e r e w V PRF NEG PST LGSPEC1
+s e r e w V PRF PRS+IMMED
+s e r e w V PRF PRS LGSPEC1
+s e r e w V PRF PST+IMMED
+s e r e w V PRF PST LGSPEC1
+s e r e w V PROG NEG PRS+IMMED
+s e r e w V PROG NEG PRS LGSPEC1
+s e r e w V PROG NEG PST+IMMED
+s e r e w V PROG NEG PST LGSPEC1
+s e r e w V PROG PRS+IMMED
+s e r e w V PROG PRS LGSPEC1
+s e r e w V PROG PST+IMMED
+s e r e w V PROG PST LGSPEC1
+s e r e w V PRS LGSPEC1
+s e r e w V PST+IMMED
+s e r e w V PST LGSPEC1
+s e r e w V SBJV NEG PRS
+s e r e w V SBJV PRS
+f r ɛ V HAB+PRF NEG PRS
+f r ɛ V HAB+PRF NEG PST
+f r ɛ V HAB+PRF PRS
+f r ɛ V HAB+PRF PST
+f r ɛ V HAB+PROG NEG PRS
+f r ɛ V HAB+PROG NEG PST
+f r ɛ V HAB+PROG PRS
+f r ɛ V HAB+PROG PST
+f r ɛ V HAB FUT
+f r ɛ V HAB NEG FUT
+f r ɛ V HAB NEG PRS
+f r ɛ V HAB NEG PST
+f r ɛ V HAB PRS
+f r ɛ V HAB PST
+f r ɛ V IMP NEG PRS
+f r ɛ V IMP PRS
+f r ɛ V NEG PRS LGSPEC1
+f r ɛ V NEG PST+IMMED
+f r ɛ V NEG PST LGSPEC1
+f r ɛ V NFIN
+f r ɛ V PRF NEG PRS+IMMED
+f r ɛ V PRF NEG PRS LGSPEC1
+f r ɛ V PRF NEG PST+IMMED
+f r ɛ V PRF NEG PST LGSPEC1
+f r ɛ V PRF PRS+IMMED
+f r ɛ V PRF PRS LGSPEC1
+f r ɛ V PRF PST+IMMED
+f r ɛ V PRF PST LGSPEC1
+f r ɛ V PROG NEG PRS+IMMED
+f r ɛ V PROG NEG PRS LGSPEC1
+f r ɛ V PROG NEG PST+IMMED
+f r ɛ V PROG NEG PST LGSPEC1
+f r ɛ V PROG PRS+IMMED
+f r ɛ V PROG PRS LGSPEC1
+f r ɛ V PROG PST+IMMED
+f r ɛ V PROG PST LGSPEC1
+f r ɛ V PRS LGSPEC1
+f r ɛ V PST+IMMED
+f r ɛ V PST LGSPEC1
+f r ɛ V SBJV NEG PRS
+f r ɛ V SBJV PRS
+y e w V HAB+PRF NEG PRS
+y e w V HAB+PRF NEG PST
+y e w V HAB+PRF PRS
+y e w V HAB+PRF PST
+y e w V HAB+PROG NEG PRS
+y e w V HAB+PROG NEG PST
+y e w V HAB+PROG PRS
+y e w V HAB+PROG PST
+y e w V HAB FUT
+y e w V HAB NEG FUT
+y e w V HAB NEG PRS
+y e w V HAB NEG PST
+y e w V HAB PRS
+y e w V HAB PST
+y e w V IMP NEG PRS
+y e w V IMP PRS
+y e w V NEG PRS LGSPEC1
+y e w V NEG PST+IMMED
+y e w V NEG PST LGSPEC1
+y e w V NFIN
+y e w V PRF NEG PRS+IMMED
+y e w V PRF NEG PRS LGSPEC1
+y e w V PRF NEG PST+IMMED
+y e w V PRF NEG PST LGSPEC1
+y e w V PRF PRS+IMMED
+y e w V PRF PRS LGSPEC1
+y e w V PRF PST+IMMED
+y e w V PRF PST LGSPEC1
+y e w V PROG NEG PRS+IMMED
+y e w V PROG NEG PRS LGSPEC1
+y e w V PROG NEG PST+IMMED
+y e w V PROG NEG PST LGSPEC1
+y e w V PROG PRS+IMMED
+y e w V PROG PRS LGSPEC1
+y e w V PROG PST+IMMED
+y e w V PROG PST LGSPEC1
+y e w V PRS LGSPEC1
+y e w V PST+IMMED
+y e w V PST LGSPEC1
+y e w V SBJV NEG PRS
+y e w V SBJV PRS
+s a n V HAB+PRF NEG PRS
+s a n V HAB+PRF NEG PST
+s a n V HAB+PRF PRS
+s a n V HAB+PRF PST
+s a n V HAB+PROG NEG PRS
+s a n V HAB+PROG NEG PST
+s a n V HAB+PROG PRS
+s a n V HAB+PROG PST
+s a n V HAB FUT
+s a n V HAB NEG FUT
+s a n V HAB NEG PRS
+s a n V HAB NEG PST
+s a n V HAB PRS
+s a n V HAB PST
+s a n V IMP NEG PRS
+s a n V IMP PRS
+s a n V NEG PRS LGSPEC1
+s a n V NEG PST+IMMED
+s a n V NEG PST LGSPEC1
+s a n V NFIN
+s a n V PRF NEG PRS+IMMED
+s a n V PRF NEG PRS LGSPEC1
+s a n V PRF NEG PST+IMMED
+s a n V PRF NEG PST LGSPEC1
+s a n V PRF PRS+IMMED
+s a n V PRF PRS LGSPEC1
+s a n V PRF PST+IMMED
+s a n V PRF PST LGSPEC1
+s a n V PROG NEG PRS+IMMED
+s a n V PROG NEG PRS LGSPEC1
+s a n V PROG NEG PST+IMMED
+s a n V PROG NEG PST LGSPEC1
+s a n V PROG PRS+IMMED
+s a n V PROG PRS LGSPEC1
+s a n V PROG PST+IMMED
+s a n V PROG PST LGSPEC1
+s a n V PRS LGSPEC1
+s a n V PST+IMMED
+s a n V PST LGSPEC1
+s a n V SBJV NEG PRS
+s a n V SBJV PRS
+h u a n e V HAB+PRF NEG PRS
+h u a n e V HAB+PRF NEG PST
+h u a n e V HAB+PRF PRS
+h u a n e V HAB+PRF PST
+h u a n e V HAB+PROG NEG PRS
+h u a n e V HAB+PROG NEG PST
+h u a n e V HAB+PROG PRS
+h u a n e V HAB+PROG PST
+h u a n e V HAB FUT
+h u a n e V HAB NEG FUT
+h u a n e V HAB NEG PRS
+h u a n e V HAB NEG PST
+h u a n e V HAB PRS
+h u a n e V HAB PST
+h u a n e V IMP NEG PRS
+h u a n e V IMP PRS
+h u a n e V NEG PRS LGSPEC1
+h u a n e V NEG PST+IMMED
+h u a n e V NEG PST LGSPEC1
+h u a n e V NFIN
+h u a n e V PRF NEG PRS+IMMED
+h u a n e V PRF NEG PRS LGSPEC1
+h u a n e V PRF NEG PST+IMMED
+h u a n e V PRF NEG PST LGSPEC1
+h u a n e V PRF PRS+IMMED
+h u a n e V PRF PRS LGSPEC1
+h u a n e V PRF PST+IMMED
+h u a n e V PRF PST LGSPEC1
+h u a n e V PROG NEG PRS+IMMED
+h u a n e V PROG NEG PRS LGSPEC1
+h u a n e V PROG NEG PST+IMMED
+h u a n e V PROG NEG PST LGSPEC1
+h u a n e V PROG PRS+IMMED
+h u a n e V PROG PRS LGSPEC1
+h u a n e V PROG PST+IMMED
+h u a n e V PROG PST LGSPEC1
+h u a n e V PRS LGSPEC1
+h u a n e V PST+IMMED
+h u a n e V PST LGSPEC1
+h u a n e V SBJV NEG PRS
+h u a n e V SBJV PRS
+w i e V HAB+PRF NEG PRS
+w i e V HAB+PRF NEG PST
+w i e V HAB+PRF PRS
+w i e V HAB+PRF PST
+w i e V HAB+PROG NEG PRS
+w i e V HAB+PROG NEG PST
+w i e V HAB+PROG PRS
+w i e V HAB+PROG PST
+w i e V HAB FUT
+w i e V HAB NEG FUT
+w i e V HAB NEG PRS
+w i e V HAB NEG PST
+w i e V HAB PRS
+w i e V HAB PST
+w i e V IMP NEG PRS
+w i e V IMP PRS
+w i e V NEG PRS LGSPEC1
+w i e V NEG PST+IMMED
+w i e V NEG PST LGSPEC1
+w i e V NFIN
+w i e V PRF NEG PRS+IMMED
+w i e V PRF NEG PRS LGSPEC1
+w i e V PRF NEG PST+IMMED
+w i e V PRF NEG PST LGSPEC1
+w i e V PRF PRS+IMMED
+w i e V PRF PRS LGSPEC1
+w i e V PRF PST+IMMED
+w i e V PRF PST LGSPEC1
+w i e V PROG NEG PRS+IMMED
+w i e V PROG NEG PRS LGSPEC1
+w i e V PROG NEG PST+IMMED
+w i e V PROG NEG PST LGSPEC1
+w i e V PROG PRS+IMMED
+w i e V PROG PRS LGSPEC1
+w i e V PROG PST+IMMED
+w i e V PROG PST LGSPEC1
+w i e V PRS LGSPEC1
+w i e V PST+IMMED
+w i e V PST LGSPEC1
+w i e V SBJV NEG PRS
+w i e V SBJV PRS
+h w e h w ɛ V HAB+PRF NEG PRS
+h w e h w ɛ V HAB+PRF NEG PST
+h w e h w ɛ V HAB+PRF PRS
+h w e h w ɛ V HAB+PRF PST
+h w e h w ɛ V HAB+PROG NEG PRS
+h w e h w ɛ V HAB+PROG NEG PST
+h w e h w ɛ V HAB+PROG PRS
+h w e h w ɛ V HAB+PROG PST
+h w e h w ɛ V HAB FUT
+h w e h w ɛ V HAB NEG FUT
+h w e h w ɛ V HAB NEG PRS
+h w e h w ɛ V HAB NEG PST
+h w e h w ɛ V HAB PRS
+h w e h w ɛ V HAB PST
+h w e h w ɛ V IMP NEG PRS
+h w e h w ɛ V IMP PRS
+h w e h w ɛ V NEG PRS LGSPEC1
+h w e h w ɛ V NEG PST+IMMED
+h w e h w ɛ V NEG PST LGSPEC1
+h w e h w ɛ V NFIN
+h w e h w ɛ V PRF NEG PRS+IMMED
+h w e h w ɛ V PRF NEG PRS LGSPEC1
+h w e h w ɛ V PRF NEG PST+IMMED
+h w e h w ɛ V PRF NEG PST LGSPEC1
+h w e h w ɛ V PRF PRS+IMMED
+h w e h w ɛ V PRF PRS LGSPEC1
+h w e h w ɛ V PRF PST+IMMED
+h w e h w ɛ V PRF PST LGSPEC1
+h w e h w ɛ V PROG NEG PRS+IMMED
+h w e h w ɛ V PROG NEG PRS LGSPEC1
+h w e h w ɛ V PROG NEG PST+IMMED
+h w e h w ɛ V PROG NEG PST LGSPEC1
+h w e h w ɛ V PROG PRS+IMMED
+h w e h w ɛ V PROG PRS LGSPEC1
+h w e h w ɛ V PROG PST+IMMED
+h w e h w ɛ V PROG PST LGSPEC1
+h w e h w ɛ V PRS LGSPEC1
+h w e h w ɛ V PST+IMMED
+h w e h w ɛ V PST LGSPEC1
+h w e h w ɛ V SBJV NEG PRS
+h w e h w ɛ V SBJV PRS
+t w e V HAB+PRF NEG PRS
+t w e V HAB+PRF NEG PST
+t w e V HAB+PRF PRS
+t w e V HAB+PRF PST
+t w e V HAB+PROG NEG PRS
+t w e V HAB+PROG NEG PST
+t w e V HAB+PROG PRS
+t w e V HAB+PROG PST
+t w e V HAB FUT
+t w e V HAB NEG FUT
+t w e V HAB NEG PRS
+t w e V HAB NEG PST
+t w e V HAB PRS
+t w e V HAB PST
+t w e V IMP NEG PRS
+t w e V IMP PRS
+t w e V NEG PRS LGSPEC1
+t w e V NEG PST+IMMED
+t w e V NEG PST LGSPEC1
+t w e V NFIN
+t w e V PRF NEG PRS+IMMED
+t w e V PRF NEG PRS LGSPEC1
+t w e V PRF NEG PST+IMMED
+t w e V PRF NEG PST LGSPEC1
+t w e V PRF PRS+IMMED
+t w e V PRF PRS LGSPEC1
+t w e V PRF PST+IMMED
+t w e V PRF PST LGSPEC1
+t w e V PROG NEG PRS+IMMED
+t w e V PROG NEG PRS LGSPEC1
+t w e V PROG NEG PST+IMMED
+t w e V PROG NEG PST LGSPEC1
+t w e V PROG PRS+IMMED
+t w e V PROG PRS LGSPEC1
+t w e V PROG PST+IMMED
+t w e V PROG PST LGSPEC1
+t w e V PRS LGSPEC1
+t w e V PST+IMMED
+t w e V PST LGSPEC1
+t w e V SBJV NEG PRS
+t w e V SBJV PRS
+k a s a V HAB+PRF NEG PRS
+k a s a V HAB+PRF NEG PST
+k a s a V HAB+PRF PRS
+k a s a V HAB+PRF PST
+k a s a V HAB+PROG NEG PRS
+k a s a V HAB+PROG NEG PST
+k a s a V HAB+PROG PRS
+k a s a V HAB+PROG PST
+k a s a V HAB FUT
+k a s a V HAB NEG FUT
+k a s a V HAB NEG PRS
+k a s a V HAB NEG PST
+k a s a V HAB PRS
+k a s a V HAB PST
+k a s a V IMP NEG PRS
+k a s a V IMP PRS
+k a s a V NEG PRS LGSPEC1
+k a s a V NEG PST+IMMED
+k a s a V NEG PST LGSPEC1
+k a s a V NFIN
+k a s a V PRF NEG PRS+IMMED
+k a s a V PRF NEG PRS LGSPEC1
+k a s a V PRF NEG PST+IMMED
+k a s a V PRF NEG PST LGSPEC1
+k a s a V PRF PRS+IMMED
+k a s a V PRF PRS LGSPEC1
+k a s a V PRF PST+IMMED
+k a s a V PRF PST LGSPEC1
+k a s a V PROG NEG PRS+IMMED
+k a s a V PROG NEG PRS LGSPEC1
+k a s a V PROG NEG PST+IMMED
+k a s a V PROG NEG PST LGSPEC1
+k a s a V PROG PRS+IMMED
+k a s a V PROG PRS LGSPEC1
+k a s a V PROG PST+IMMED
+k a s a V PROG PST LGSPEC1
+k a s a V PRS LGSPEC1
+k a s a V PST+IMMED
+k a s a V PST LGSPEC1
+k a s a V SBJV NEG PRS
+k a s a V SBJV PRS
+p e p a V HAB+PRF NEG PRS
+p e p a V HAB+PRF NEG PST
+p e p a V HAB+PRF PRS
+p e p a V HAB+PRF PST
+p e p a V HAB+PROG NEG PRS
+p e p a V HAB+PROG NEG PST
+p e p a V HAB+PROG PRS
+p e p a V HAB+PROG PST
+p e p a V HAB FUT
+p e p a V HAB NEG FUT
+p e p a V HAB NEG PRS
+p e p a V HAB NEG PST
+p e p a V HAB PRS
+p e p a V HAB PST
+p e p a V IMP NEG PRS
+p e p a V IMP PRS
+p e p a V NEG PRS LGSPEC1
+p e p a V NEG PST+IMMED
+p e p a V NEG PST LGSPEC1
+p e p a V NFIN
+p e p a V PRF NEG PRS+IMMED
+p e p a V PRF NEG PRS LGSPEC1
+p e p a V PRF NEG PST+IMMED
+p e p a V PRF NEG PST LGSPEC1
+p e p a V PRF PRS+IMMED
+p e p a V PRF PRS LGSPEC1
+p e p a V PRF PST+IMMED
+p e p a V PRF PST LGSPEC1
+p e p a V PROG NEG PRS+IMMED
+p e p a V PROG NEG PRS LGSPEC1
+p e p a V PROG NEG PST+IMMED
+p e p a V PROG NEG PST LGSPEC1
+p e p a V PROG PRS+IMMED
+p e p a V PROG PRS LGSPEC1
+p e p a V PROG PST+IMMED
+p e p a V PROG PST LGSPEC1
+p e p a V PRS LGSPEC1
+p e p a V PST+IMMED
+p e p a V PST LGSPEC1
+p e p a V SBJV NEG PRS
+p e p a V SBJV PRS
+b o r o V HAB+PRF NEG PRS
+b o r o V HAB+PRF NEG PST
+b o r o V HAB+PRF PRS
+b o r o V HAB+PRF PST
+b o r o V HAB+PROG NEG PRS
+b o r o V HAB+PROG NEG PST
+b o r o V HAB+PROG PRS
+b o r o V HAB+PROG PST
+b o r o V HAB FUT
+b o r o V HAB NEG FUT
+b o r o V HAB NEG PRS
+b o r o V HAB NEG PST
+b o r o V HAB PRS
+b o r o V HAB PST
+b o r o V IMP NEG PRS
+b o r o V IMP PRS
+b o r o V NEG PRS LGSPEC1
+b o r o V NEG PST+IMMED
+b o r o V NEG PST LGSPEC1
+b o r o V NFIN
+b o r o V PRF NEG PRS+IMMED
+b o r o V PRF NEG PRS LGSPEC1
+b o r o V PRF NEG PST+IMMED
+b o r o V PRF NEG PST LGSPEC1
+b o r o V PRF PRS+IMMED
+b o r o V PRF PRS LGSPEC1
+b o r o V PRF PST+IMMED
+b o r o V PRF PST LGSPEC1
+b o r o V PROG NEG PRS+IMMED
+b o r o V PROG NEG PRS LGSPEC1
+b o r o V PROG NEG PST+IMMED
+b o r o V PROG NEG PST LGSPEC1
+b o r o V PROG PRS+IMMED
+b o r o V PROG PRS LGSPEC1
+b o r o V PROG PST+IMMED
+b o r o V PROG PST LGSPEC1
+b o r o V PRS LGSPEC1
+b o r o V PST+IMMED
+b o r o V PST LGSPEC1
+b o r o V SBJV NEG PRS
+b o r o V SBJV PRS
+s o _ d a e V HAB+PRF NEG PRS
+s o _ d a e V HAB+PRF NEG PST
+s o _ d a e V HAB+PRF PRS
+s o _ d a e V HAB+PRF PST
+s o _ d a e V HAB+PROG NEG PRS
+s o _ d a e V HAB+PROG NEG PST
+s o _ d a e V HAB+PROG PRS
+s o _ d a e V HAB+PROG PST
+s o _ d a e V HAB FUT
+s o _ d a e V HAB NEG FUT
+s o _ d a e V HAB NEG PRS
+s o _ d a e V HAB NEG PST
+s o _ d a e V HAB PRS
+s o _ d a e V HAB PST
+s o _ d a e V IMP NEG PRS
+s o _ d a e V IMP PRS
+s o _ d a e V NEG PRS LGSPEC1
+s o _ d a e V NEG PST+IMMED
+s o _ d a e V NEG PST LGSPEC1
+s o _ d a e V NFIN
+s o _ d a e V PRF NEG PRS+IMMED
+s o _ d a e V PRF NEG PRS LGSPEC1
+s o _ d a e V PRF NEG PST+IMMED
+s o _ d a e V PRF NEG PST LGSPEC1
+s o _ d a e V PRF PRS+IMMED
+s o _ d a e V PRF PRS LGSPEC1
+s o _ d a e V PRF PST+IMMED
+s o _ d a e V PRF PST LGSPEC1
+s o _ d a e V PROG NEG PRS+IMMED
+s o _ d a e V PROG NEG PRS LGSPEC1
+s o _ d a e V PROG NEG PST+IMMED
+s o _ d a e V PROG NEG PST LGSPEC1
+s o _ d a e V PROG PRS+IMMED
+s o _ d a e V PROG PRS LGSPEC1
+s o _ d a e V PROG PST+IMMED
+s o _ d a e V PROG PST LGSPEC1
+s o _ d a e V PRS LGSPEC1
+s o _ d a e V PST+IMMED
+s o _ d a e V PST LGSPEC1
+s o _ d a e V SBJV NEG PRS
+s o _ d a e V SBJV PRS
+h o h o r o V HAB+PRF NEG PRS
+h o h o r o V HAB+PRF NEG PST
+h o h o r o V HAB+PRF PRS
+h o h o r o V HAB+PRF PST
+h o h o r o V HAB+PROG NEG PRS
+h o h o r o V HAB+PROG NEG PST
+h o h o r o V HAB+PROG PRS
+h o h o r o V HAB+PROG PST
+h o h o r o V HAB FUT
+h o h o r o V HAB NEG FUT
+h o h o r o V HAB NEG PRS
+h o h o r o V HAB NEG PST
+h o h o r o V HAB PRS
+h o h o r o V HAB PST
+h o h o r o V IMP NEG PRS
+h o h o r o V IMP PRS
+h o h o r o V NEG PRS LGSPEC1
+h o h o r o V NEG PST+IMMED
+h o h o r o V NEG PST LGSPEC1
+h o h o r o V NFIN
+h o h o r o V PRF NEG PRS+IMMED
+h o h o r o V PRF NEG PRS LGSPEC1
+h o h o r o V PRF NEG PST+IMMED
+h o h o r o V PRF NEG PST LGSPEC1
+h o h o r o V PRF PRS+IMMED
+h o h o r o V PRF PRS LGSPEC1
+h o h o r o V PRF PST+IMMED
+h o h o r o V PRF PST LGSPEC1
+h o h o r o V PROG NEG PRS+IMMED
+h o h o r o V PROG NEG PRS LGSPEC1
+h o h o r o V PROG NEG PST+IMMED
+h o h o r o V PROG NEG PST LGSPEC1
+h o h o r o V PROG PRS+IMMED
+h o h o r o V PROG PRS LGSPEC1
+h o h o r o V PROG PST+IMMED
+h o h o r o V PROG PST LGSPEC1
+h o h o r o V PRS LGSPEC1
+h o h o r o V PST+IMMED
+h o h o r o V PST LGSPEC1
+h o h o r o V SBJV NEG PRS
+h o h o r o V SBJV PRS
+t g p r n w V SBJV NEG PRS
+t u d p V HAB+PROG NEG PST
+s u y _ k u V HAB NEG FUT
+k m e m a n V SBJV PRS
+k y e r e b w V HAB+PROG NEG PRS
+r ɛ r o V NEG PST+IMMED
+_ i e V NFIN
+s y _ V HAB NEG PST
+h b h o ɛ o V PRF NEG PRS+IMMED
+h h k ɛ u ɛ V HAB+PRF PRS
+k n n k e n V HAB FUT
+y a r e V HAB PST
+t a k n f r e V PRF NEG PRS LGSPEC1
+s i _ p d e V SBJV PRS
+t ɔ _ n k o V HAB NEG PST
+s u i _ s u V HAB FUT
+p m e V HAB+PROG NEG PST
+r _ n a V PROG PST+IMMED
+n n n y e w V IMP PRS
+f o m V SBJV PRS
+d h _ u s e V HAB+PRF NEG PST
+h u a n e V HAB+PRF PST
+p e t _ t V HAB NEG FUT
+s h w V SBJV NEG PRS
+t y e i ɛ w V HAB+PRF PST
+_ p e V NEG PRS LGSPEC1
+t ɔ _ n h o V HAB+PRF NEG PRS
+s k r e s V HAB+PRF PRS
+t a r e V PRF NEG PRS+IMMED
+g i n V PROG PRS LGSPEC1
+u y s n b V IMP NEG PRS
+f o w V PRF NEG PST+IMMED
+h ɔ f a a V PRF NEG PST+IMMED
+k y e o w ɛ w V PRF PRS+IMMED
+p g e V PST LGSPEC1
+k r e r e i w V PROG NEG PRS LGSPEC1
+s h r e f V PROG NEG PRS LGSPEC1
+f e g d V SBJV PRS
+f p d V PROG PRS LGSPEC1
+s a n V PST LGSPEC1
+b ɔ m u b i f u V PROG PRS LGSPEC1
+m u e V PROG NEG PST+IMMED
+m b n w V PRF PST+IMMED
+h u _ V HAB+PROG PST
+w w r k p V PRF NEG PRS+IMMED
+g d _ n ɔ u V HAB+PRF PST
+t o u d ɔ o V PRF NEG PRS+IMMED
+y g n n d ɔ u m a V NFIN
+r r ɔ V HAB PRS
+k y g r _ u w V HAB+PROG PRS
+y k a n e V PRF NEG PRS+IMMED
+b y i f s V NEG PST+IMMED
+k p g a m u V PROG PRS LGSPEC1
+k r h a m u V HAB+PRF NEG PRS
+k k k a m u V PROG NEG PRS+IMMED
+a b e V NEG PRS LGSPEC1
+h y k _ a s e V HAB PST
+w ɛ m g i V HAB NEG FUT
+s k a V SBJV PRS
+b t k a V HAB+PRF NEG PRS
+s t b h V HAB NEG FUT
+d i _ a w e V PRF NEG PST+IMMED
+t e y V HAB+PROG NEG PST
+p i a V PROG PRS+IMMED
+h t w o r o V PRF PRS+IMMED
+w a r e V PRF NEG PST+IMMED
+t s o V HAB+PROG NEG PST
+h k i V PRS LGSPEC1
+e p a V HAB+PROG NEG PRS
+d u _ a s e V HAB NEG FUT
+g a f b o V HAB NEG PST
+k y e f d ɛ w V PRF PST+IMMED
+t ɔ n V HAB+PROG PST
+s g o _ m u V PRF NEG PRS+IMMED
+s d w d ɛ e V NEG PST+IMMED
+f r ɛ V SBJV PRS
+d n _ w s e V PROG NEG PRS+IMMED
+n a n t e w V PROG NEG PRS+IMMED
+s u _ ɔ r u V PRF PST+IMMED
+h e m V PRF PST LGSPEC1
+e e n a V SBJV NEG PRS
+g i a V PRF PST+IMMED
+m r h e V PST+IMMED
+t e n y V PRF NEG PST LGSPEC1
+s u o _ m u V IMP PRS
+t h _ t k o V PRF NEG PRS+IMMED
+k y i r i V PROG NEG PST LGSPEC1
+n a w t e w V PRF PRS LGSPEC1
+s m w V PROG PST LGSPEC1
+k e m b V NEG PST+IMMED
+s o n V PROG PRS LGSPEC1
+ɛ ɛ w V HAB+PRF NEG PRS
+t w d V HAB FUT
+s a i V PRF PST+IMMED
+g ɔ y f ɔ u V PROG PST+IMMED
+g i _ n t u V HAB NEG PST
+s i w V SBJV PRS
+g a m V HAB NEG PRS
+m e n i V HAB+PROG NEG PST
+m a _ i o V HAB NEG FUT
+y a ɛ a e t w V PRF NEG PST+IMMED
+s a s _ V PROG NEG PRS LGSPEC1
+m y s i r V NEG PST LGSPEC1
+s i _ V PROG NEG PRS LGSPEC1
+h i s f V PROG NEG PST+IMMED
+h u _ V PRF NEG PRS LGSPEC1
+h y i _ ɛ V PRF NEG PST LGSPEC1
+f r a V PST+IMMED
+s i d V SBJV NEG PRS
+f a w V IMP PRS
+t ɔ e m ɛ w V PROG NEG PRS LGSPEC1
+s u m a V PST+IMMED
+s a n V PROG PRS+IMMED
+s a f V PRF PRS LGSPEC1
+h o h o r o V HAB NEG FUT
+t ɔ k r k o V PROG PRS+IMMED
+g t g n a V HAB+PRF PST
+b ɔ y n s g m u V PROG NEG PRS+IMMED
+t w b r g w V NEG PRS LGSPEC1
+s u f V PST LGSPEC1
+s s d o V HAB PRS
+t u t V PRF NEG PRS LGSPEC1
+k y e r e ɛ w V PROG NEG PST LGSPEC1
+y a r e V SBJV NEG PRS
+n ɔ n t r w V PST+IMMED
+t t w V PRF NEG PST+IMMED
+_ i e V HAB NEG FUT
+ɛ o w V PROG NEG PRS+IMMED
+s i w V PROG NEG PST LGSPEC1
+n i n f u w V HAB+PROG PRS
+k a d f m u V NEG PRS LGSPEC1
+t e t m V PRF NEG PRS+IMMED
+y m _ a _ ɛ w V HAB FUT
+g u d u V PRF NEG PRS LGSPEC1
+y ɛ _ i d _ u m a V PRF PRS LGSPEC1
+t u t u V HAB+PROG PST
+t ɔ _ a a o V HAB PST
+y a _ s a V HAB+PROG PST
+k e g ɔ m u V HAB+PROG NEG PRS
+m ɛ a e V HAB PRS
+k y i r i V PRF PST+IMMED
+n a ɔ s e w V PROG PRS LGSPEC1
+k s y ɔ m u V PROG PST LGSPEC1
+h ɛ t b a V PRF NEG PST+IMMED
+r g i k o V NEG PST LGSPEC1
+d ɔ s a V HAB NEG FUT
+d u y V SBJV PRS
+h w k n w ɛ V PRF NEG PST+IMMED
+b e f n e V PROG PST LGSPEC1
+n a i t h w V SBJV NEG PRS
+s u o o o u V PRF NEG PST LGSPEC1
+n a s ɔ w w V PST LGSPEC1
+s o ɛ t V HAB+PROG PRS
+r e w V PROG NEG PST LGSPEC1
+t a f e e a e V PRF PRS+IMMED
+t a ɔ h t ɛ e V IMP PRS
+f y ɛ V PRS LGSPEC1
+y ɛ _ a m w u h a V PROG PRS+IMMED
+h b a V HAB+PROG PRS
+t a a e h r e V PRF PST LGSPEC1
+k a s s V HAB+PROG NEG PRS
+u u n i V PRF PST+IMMED
+y e p V PRF PRS+IMMED
+h y i n a V HAB+PROG PST
+t e r e w V HAB PRS
+s o w w V NEG PRS LGSPEC1
+t a d o e r e V PST+IMMED
+o f a V HAB NEG PRS
+s k w V HAB+PROG PST
+h o r o V HAB FUT
+p i a V IMP NEG PRS
+h n a n e V PROG PRS LGSPEC1
+u _ w V PRF PST+IMMED
+y ɛ _ _ d w n f a V HAB+PRF NEG PST
+i w ɛ V PRF PRS+IMMED
+b i b d w V HAB+PRF NEG PRS
+p o m V HAB+PROG PST
+y o _ n d w u m a V PROG PST+IMMED
+ɛ e w V HAB+PROG NEG PST
+d a p V HAB+PROG PRS
+d a t d s e V PRF PRS+IMMED
+y e f V HAB+PROG PRS
+k e k a m u V HAB NEG FUT
+_ a a V NEG PST+IMMED
+g u _ k s u V HAB+PRF PRS
+d f y m V SBJV NEG PRS
+d a f a k e V NEG PST LGSPEC1
+h o b k s ɛ V PROG NEG PRS+IMMED
+h y i n a V PROG NEG PRS+IMMED
+y ɔ _ a k d w V PROG NEG PST LGSPEC1
+t u e V HAB+PROG PST
+t e n d V HAB+PRF NEG PST
+h o ɛ V HAB NEG PST
+ɛ u n n e V PST LGSPEC1
+p e p a V HAB+PROG NEG PRS
+g ɔ n V PRF PST+IMMED
+t u p h e u f n V HAB+PROG PST
+s i w V PRF NEG PST LGSPEC1
+t e n a V HAB NEG PST
+i i y V NEG PST LGSPEC1
+n a y t ɛ w V HAB+PROG NEG PRS
+s u a V PST+IMMED
+k a s a V SBJV NEG PRS
+t i e V NEG PRS LGSPEC1
+f r n V PROG PST LGSPEC1
+r a t V PRF NEG PRS+IMMED
+p e p w V NEG PRS LGSPEC1
+t a r b V HAB+PROG NEG PRS
+k s e r e ɛ w V HAB+PROG NEG PST
+_ ɛ e V PROG PST+IMMED
+t ɔ n V HAB FUT
+h u d a r o V PROG NEG PRS LGSPEC1
+m i b V HAB+PRF NEG PST
+ɔ u f V PRF NEG PST+IMMED
+g e n e V PROG NEG PST LGSPEC1
+b f _ o s k g u V SBJV NEG PRS
+k p r _ g u V PRF PST LGSPEC1
+t n g n f ɔ m n V HAB+PROG NEG PST
+s h w V HAB+PROG NEG PRS
+s ɔ y V HAB FUT
+_ e m e V PRF NEG PRS+IMMED
+s a w V PROG PRS+IMMED
+s i ɔ ɔ ɔ u V PST+IMMED
+o t _ t k V HAB NEG FUT
+n a n y e w V HAB NEG PST
+s e r e i V HAB PST
+k m e h e ɛ w V HAB+PRF NEG PST
+u e w V HAB+PRF NEG PRS
+b u f V HAB+PRF PST
+b i n a V HAB NEG PRS
+h m p V PRF PST+IMMED
+t ɔ u V SBJV PRS
+s o h r V NEG PST+IMMED
+k y r V PROG PST+IMMED
+f u b a V NEG PRS LGSPEC1
+k k i r i V PROG PST+IMMED
+h u n y i V PRS LGSPEC1
+t w e k ɛ w V HAB NEG PRS
+w u ɛ t f V PROG PST+IMMED
+d e a V NEG PRS LGSPEC1
+t b w u ɛ w V PRF PRS LGSPEC1
+h ɔ u V PROG PST+IMMED
+d y s _ w V PROG PRS LGSPEC1
+d a m a s e V HAB NEG PST
+h w a V NEG PST LGSPEC1
+ɔ f n b i V HAB+PROG NEG PRS
+b w _ n t k _ u V HAB NEG FUT
+t p r h V PROG NEG PRS+IMMED
+d b ɛ V PRF NEG PRS+IMMED
+t w w V HAB+PROG PRS
+t h p r ɛ w V PROG PST LGSPEC1
+ɛ r e V PROG PST+IMMED
+b w s ɔ V PROG PRS+IMMED
+m d r s V NEG PST+IMMED
+s u ɛ _ m u V SBJV NEG PRS
+s o _ f r e V PRS LGSPEC1
+a y d V HAB+PROG PRS
+t ɔ ɔ e e r e V PRF PST LGSPEC1
+p i i V PROG PRS+IMMED
+s m a V SBJV PRS
+b y p k g w m u V HAB+PROG NEG PRS
+s o w V IMP NEG PRS
+k e k a m u V PRF PRS LGSPEC1
+b k _ n k a o u V PROG NEG PRS LGSPEC1
+t u _ o ɛ u a n V PRF NEG PST+IMMED
+t p w V HAB+PROG NEG PRS
+h u u n b V PROG NEG PRS LGSPEC1
+t w _ r ɛ w V PRF PRS LGSPEC1
+s i ɛ V HAB NEG FUT
+h o r o V PRS LGSPEC1
+s k o _ k u V NEG PST+IMMED
+t t _ n k o V PRF PRS+IMMED
+b o w ɔ y V HAB NEG PST
+d e w V PROG PST+IMMED
+k e n k d n V HAB+PRF PST
+t u t e V PST+IMMED
+h y f n i V IMP NEG PRS
+m e n e V NEG PRS LGSPEC1
+m b k V PROG NEG PST+IMMED
+ɛ u r n w V NEG PRS LGSPEC1
+d f m V PROG PST LGSPEC1
+w i e V SBJV NEG PRS
+d s _ b s e V HAB+PRF PRS
+t g w n g f a n V PROG NEG PRS LGSPEC1
+m a w y o V HAB+PROG NEG PST
+y g f a y t w V NFIN
+h o k u r o V NEG PRS LGSPEC1
+t e a V PST+IMMED
+f a r e V PRF NEG PST+IMMED
+y u e V HAB+PRF PST
+k f n k a n V NEG PST LGSPEC1
+h i p V PRF PST LGSPEC1
+i m m p e V NEG PST+IMMED
+y g d r y i u m a V SBJV PRS
+k e n p a n V PROG NEG PRS LGSPEC1
+m y r V HAB+PROG PST
+t r ɔ V HAB+PROG NEG PRS
+o p e V PROG PRS+IMMED
+t u e y V HAB NEG FUT
+a g k V PRF NEG PST LGSPEC1
+s ɛ a V PROG PST LGSPEC1
+y i w V HAB FUT
+b e b ɔ e V NFIN
+t w y V NEG PST LGSPEC1
+t a ɔ e e e e V HAB PRS
+i s w V PST LGSPEC1
+k h ɔ k a n V PROG NEG PST+IMMED
+s o d o i e V IMP NEG PRS
+m e b e V PST+IMMED
+g ɔ k n s u V SBJV NEG PRS
+s o k r V PRF NEG PST LGSPEC1
+t o _ n d o V PST+IMMED
+w m e V PRF PRS LGSPEC1
+t u n V PROG NEG PRS LGSPEC1
+h w _ V PST+IMMED
+s a n V PRF NEG PST LGSPEC1
+h u e u ɛ V PROG NEG PRS LGSPEC1
+t k i n g u a n V PRF NEG PST+IMMED
+n i r o V PRF NEG PST+IMMED
+h d ɛ V HAB+PRF NEG PST
+b t y a V PROG PST LGSPEC1
+h u a u p V PROG PRS LGSPEC1
+t u _ o g h _ n V NFIN
+f e n a V NEG PRS LGSPEC1
+p e ɛ a V NFIN
+t e n a V HAB NEG PST
+f r a V HAB FUT
+d e a V HAB PST
+s o b m i e V PROG NEG PST+IMMED
+t r u e ɔ r e V NFIN
+s d a V PRF NEG PRS LGSPEC1
+n o n t e w V NEG PRS LGSPEC1
+b u u V PRF PRS+IMMED
+y e n e V HAB+PRF NEG PRS
+h w ɛ V PROG PST LGSPEC1
+y w m i y u w V PROG PRS+IMMED
+t ɔ _ n _ o V PRF NEG PST+IMMED
+t f f e e k e V HAB+PROG PST
+f o f h V HAB PST
+g d o a a V PST+IMMED
+_ b e V HAB+PRF PRS
+s ɔ _ d ɔ e V HAB FUT
+y ɛ y a d w u h a V HAB NEG PRS
+g u ɔ _ r u V NEG PRS LGSPEC1
+h u n V IMP NEG PRS
+n a e t e w V HAB PST
+m e n e V HAB FUT
+f r h V HAB+PRF PST
+b o b h n V PRF PST+IMMED
+y o r o V HAB NEG PRS
+b u m V PRS LGSPEC1
+b _ _ p k V HAB FUT
+t e p e V IMP PRS
+t b ɔ g e k e V PRF NEG PRS LGSPEC1
+h k h V HAB+PROG PST
+b d b ɔ n V NEG PST+IMMED
+b ɔ _ u h a t u V PRF NEG PST+IMMED
+d u a V PST LGSPEC1
+n a t t k w V PRS LGSPEC1
+d w a V PRF NEG PST+IMMED
+s ɛ a V HAB+PROG PST
+k y e i e _ w V PRF PST LGSPEC1
+o u h u m V HAB PST
+t a r ɔ V HAB+PRF PRS
+f e n t V IMP PRS
+y i _ b y ɛ w V PRF PRS+IMMED
+t g e r ɛ w V HAB PST
+t t e y o w V HAB+PROG NEG PRS
+o i a g V PRF PRS+IMMED
+n e r e k V PROG NEG PST LGSPEC1
+b ɔ r n g a ɔ u V PRF PST+IMMED
+t u r n g u k n V HAB+PROG PST
+k e s d h n V PRF NEG PRS LGSPEC1
+y i m V HAB PST
+s u m a V HAB+PROG PST
+b o t f w V PRF PRS+IMMED
+y e n n V NEG PRS LGSPEC1
+k e e a a u V PRF PST LGSPEC1
+t a ɛ ɛ V PROG NEG PST LGSPEC1
+h o h k r o V PROG PST LGSPEC1
+k e k f d u V HAB+PROG NEG PST
+d a g a s e V HAB+PROG PRS
+i u n t ɛ V PRF NEG PRS LGSPEC1
+s i o e V NEG PST LGSPEC1
+y ɛ _ w o w r m a V PRF NEG PST LGSPEC1
+y u g h d w u ɛ a V NEG PRS LGSPEC1
+t t _ n k o V HAB+PROG PST
+f i a V HAB PRS
+s t w r V HAB PRS
+b b w b a b s u V PRF PRS LGSPEC1
+h o h o b o V HAB FUT
+t ɔ i V PROG PST+IMMED
+n a n t r w V PST LGSPEC1
+g w b e w V NFIN
+b o m b V PRF NEG PST+IMMED
+d i h a V PST+IMMED
+b h _ b p V PROG PRS LGSPEC1
+w i ɛ V HAB+PROG PST
+t i n V HAB+PRF NEG PRS
+k a s a V PROG NEG PRS LGSPEC1
+f o g V NEG PST+IMMED
+h n a V IMP PRS
+n a n t e w V PRS LGSPEC1
+h o ɔ p _ o V PRF NEG PST+IMMED
+_ g w V PRF PRS+IMMED
+n y o n g V HAB PRS
+o r e k h V HAB NEG PRS
+m s n ɛ V HAB NEG FUT
+s u o h m u V HAB PST
+b h t n V HAB+PROG NEG PST
+t a f e e r e V PST LGSPEC1
+_ ɔ s V HAB NEG PRS
+n d ɔ t ɛ w V NEG PST LGSPEC1
+h w ɛ V PROG NEG PRS+IMMED
+g i e V IMP NEG PRS
+s i n V HAB+PRF PRS
+y i _ u _ p w V PRF NEG PRS LGSPEC1
+a a n V NEG PRS LGSPEC1
+s b ɛ ɛ V PRF NEG PST+IMMED
+t i s d V HAB NEG PRS
+t ɛ e V PROG PRS LGSPEC1
+u o s p w V NEG PST+IMMED
+h w e ɛ w ɛ V PROG NEG PST LGSPEC1
+g u _ f p u V HAB+PROG PST
+t s e V PRF PST LGSPEC1
+h u n t i V PRF PST+IMMED
+s i w V HAB+PRF NEG PST
+d a ɛ a s e V HAB PRS
+ɛ a i a V HAB+PROG NEG PRS
+p p p r V PRF PST LGSPEC1
+n u o u V PROG PRS+IMMED
+t t _ n y d m n V HAB+PROG NEG PST
+s p r r V HAB NEG PST
+d o w V PRF PRS LGSPEC1
+s b f e m u V PROG NEG PST LGSPEC1
+g y o h s u V PROG NEG PST+IMMED
+t _ _ V HAB NEG PRS
+d u m V HAB+PRF NEG PST
+e y i r y V PROG NEG PST LGSPEC1
+i y i t a V HAB+PROG NEG PRS
+t a _ n g u a n V NEG PRS LGSPEC1
+s k u r a e V PROG NEG PST LGSPEC1
+t i _ n d u a n V PROG PST LGSPEC1
+n a n p ɛ b V PROG NEG PST LGSPEC1
+t h d n g n ɔ n V NEG PST LGSPEC1
+i e b V IMP NEG PRS
+h o t i p o V SBJV NEG PRS
+t e m V PRF PRS+IMMED
+k y i n i V HAB PST
+h h _ g r o V HAB+PRF NEG PRS
+b i s h V NEG PRS LGSPEC1
+d a m V PRS LGSPEC1
+i h w V IMP PRS
+f o g V PRF NEG PRS+IMMED
+g r r o V PRF PRS LGSPEC1
+h k g n y V HAB PST
+s o ɛ r V NEG PST+IMMED
+t b g w b u a n V PROG NEG PRS LGSPEC1
+f e f ɛ V PRF PST+IMMED
+d u t u V PRF NEG PST+IMMED
+t u a t V HAB+PRF PRS
+t a n V PST+IMMED
+g u m t k V PROG NEG PRS LGSPEC1
+k e m a k u V PRF NEG PST+IMMED
+f f ɛ V SBJV NEG PRS
+g ɔ s t i u V HAB PRS
+b ɔ _ n s e d u V PRF NEG PRS LGSPEC1
+d t a V PROG NEG PRS+IMMED
+k e n k a n V HAB+PROG PST
+k y a r e k w V HAB NEG PRS
+m e n a V PRF PST+IMMED
+g u o n s u V HAB+PROG PST
+e u a V HAB FUT
+b a u o V HAB+PRF NEG PST
+k e a e ɔ u V PROG PRS LGSPEC1
+k e k h f u V SBJV PRS
+h w o o w ɛ V PRF PRS LGSPEC1
+s w o _ m u V PROG NEG PST+IMMED
+t e n ɛ V HAB+PROG PRS
+h o ɛ _ h d e V HAB+PRF PRS
+k ɛ s ɛ m n V PRF PST LGSPEC1
+b k s i V HAB+PRF NEG PRS
+d r _ a y e V HAB FUT
+k e k a a u V PROG PRS+IMMED
+m p n e V PRF NEG PST LGSPEC1
+p k a V HAB NEG FUT
+b u d V PRF NEG PST LGSPEC1
+s u h _ m u V NFIN
+s i p d y e V HAB+PROG NEG PST
+k y _ r ɔ ɛ w V HAB NEG FUT
+s m y V HAB FUT
+k e n w a n V HAB+PROG PST
+s o _ d r e V PROG NEG PRS LGSPEC1
+f y n i a V PRS LGSPEC1
+b ɛ e V PROG NEG PST+IMMED
+t e o V PRF NEG PRS LGSPEC1
+p e h e ɛ V PROG PRS LGSPEC1
+o u _ b o V HAB PST
+d f k a V HAB+PRF NEG PST
+f i a V PRF PRS LGSPEC1
+b ɔ _ s s a n u V HAB+PROG PRS
+a ɔ s p V NFIN
+t u _ n k r u n V PRF PRS+IMMED
+k e e m e ɛ w V PRF NEG PST LGSPEC1
+s t ɔ r V IMP NEG PRS
+t f f t w r e V PRF NEG PST+IMMED
+o p a V PRS LGSPEC1
+i u ɔ r V PROG PRS LGSPEC1
+i n _ i a e V PRF NEG PST LGSPEC1
+e e w a V PROG PRS+IMMED
+t t e V PROG PST+IMMED
+_ i r n r V HAB+PRF PST
+h p a V HAB+PRF NEG PRS
+ɛ p ɛ V PRF PRS LGSPEC1
+t f _ n ɔ r a n V HAB+PRF NEG PST
+h d h o r o V NEG PRS LGSPEC1
+o ɛ ɔ V NEG PST LGSPEC1
+s e u t r e V IMP NEG PRS
+s o _ d a e V NEG PST LGSPEC1
+y w w V PRF NEG PST LGSPEC1
+h e a V PROG PRS+IMMED
+f d s i u e V HAB+PRF NEG PRS
+f r y V NEG PST LGSPEC1
+f y a V HAB NEG PRS
+s o o ɛ m u V PST LGSPEC1
+a i k V PRF NEG PST+IMMED
+y ɛ o d h w u m a V HAB FUT
+y m _ a t n w V HAB+PRF NEG PRS
+h u s n e V HAB NEG PRS
+t u t m V PROG PRS+IMMED
+k u k t e u V HAB+PROG PST
+m i _ k o V SBJV PRS
+d u m V PROG PRS LGSPEC1
+o u a n _ V HAB FUT
+y i ɔ a y f w V HAB+PRF PRS
+y p u V SBJV NEG PRS
+t s n u V SBJV PRS
+t w t n ɛ w V PRF NEG PRS LGSPEC1
+d a r e V HAB+PRF PST
+h u r u ɛ V IMP PRS
+p a y a V PROG NEG PST LGSPEC1
+u b t f V PROG NEG PST LGSPEC1
+a o t e V PRF PST+IMMED
+b y b n b a w u V PRF PRS LGSPEC1
+n w ɔ V HAB+PROG NEG PRS
+s k w V HAB+PROG NEG PRS
+s u ɛ V PROG NEG PRS LGSPEC1
+h w w k g ɛ V HAB+PROG NEG PST
+t ɔ e V SBJV PRS
+k t u ɛ V PRF PST LGSPEC1
+s n s n a e V PST+IMMED
+k i w V PRF PST+IMMED
+f r g V PROG PRS LGSPEC1
+b ɔ _ t ɛ h m u V PROG PST+IMMED
+t r o b V HAB+PROG NEG PRS
+g i _ n s u V HAB NEG FUT
+n e r a V PRF PST+IMMED
+a o b ɔ w V HAB+PRF NEG PRS
+d u m V HAB NEG FUT
+d i _ u s e V NEG PRS LGSPEC1
+k i a n u V PRF NEG PST+IMMED
+s b ɔ V PRS LGSPEC1
+s u h V HAB+PROG NEG PRS
+s m r r b e V NFIN
+t e d y V PRF NEG PST+IMMED
+s a n V PRF PST LGSPEC1
+s a a V PROG PST LGSPEC1
+b m s a V IMP PRS
+t w w a V PRF NEG PRS LGSPEC1
+d a g b s e V PROG NEG PRS+IMMED
+y ɛ _ a _ o u m a V PRF NEG PRS+IMMED
+m a _ s o V HAB+PROG NEG PST
+b e a a V HAB+PROG PRS
+g i _ V SBJV PRS
+g ɔ _ n s u V HAB NEG FUT
+h h m r V PRF PRS+IMMED
+u p t a V PROG NEG PRS+IMMED
+n y p r e w V IMP PRS
+k y e k t s w V HAB NEG PRS
+y i _ a y ɛ w V HAB+PROG PST
+n s d t a w V PST LGSPEC1
+_ u a V NFIN
+r a _ s o V PRF PST+IMMED
+h u s s e V HAB+PRF NEG PRS
+y w e a d w u m a V SBJV NEG PRS
+y ɛ o a ɔ w u ɛ a V PRF PRS LGSPEC1
+n o ɛ o V HAB+PROG PST
+h p e n a V PROG NEG PRS LGSPEC1
+s r m a V PROG NEG PST LGSPEC1
+s m r t V HAB NEG PST
+f d f V PRF PST+IMMED
+h a n a V HAB+PROG NEG PRS
+p u m a V HAB+PRF PRS
+k y h r n ɛ w V PROG PRS+IMMED
+y o _ a e w u m a V HAB NEG PST
+h i ɔ V PROG PST LGSPEC1
+ɔ i a V PRF PST+IMMED
+w r e V PROG PRS LGSPEC1
+k y p n a V PROG NEG PRS LGSPEC1
+k e _ a u u V PROG NEG PST LGSPEC1
+t a k e e r e V PRF NEG PRS LGSPEC1
+y b w a y ɛ w V HAB+PRF PST
+k ɔ n V PROG PST LGSPEC1
+t e f h V PROG NEG PST+IMMED
+y u h V NEG PRS LGSPEC1
+h t f o r V HAB+PROG NEG PRS
+n ɔ n t g w V PROG PRS+IMMED
+h ɔ r u w V PROG PRS LGSPEC1
+k e k f w u V IMP PRS
+k _ e o e o w V PROG PST LGSPEC1
+t a f t e r e V IMP PRS
+t ɔ n V SBJV PRS
+p ɔ o k V PRF PRS LGSPEC1
+t a u o V HAB PST
+s o ɛ _ V HAB NEG PRS
+h i a V HAB+PROG NEG PRS
+g g a V PRF NEG PRS LGSPEC1
+t a f w y r e V IMP NEG PRS
+r e n m V HAB NEG PST
+b ɔ _ u ɔ a m u V PRF PRS LGSPEC1
+b b s g V NEG PRS LGSPEC1
+b o u t u V PROG NEG PRS+IMMED
+t w ɛ r ɛ w V PRF PRS+IMMED
+m e n e V IMP NEG PRS
+t ɔ n V NEG PST LGSPEC1
+s e _ u a e V PRF PRS+IMMED
+n y ɛ r b V PROG NEG PRS+IMMED
+y e f e w V SBJV NEG PRS
+h a e f w ɛ V PROG NEG PRS+IMMED
+t ɔ e n a o V PROG NEG PRS LGSPEC1
+h a _ k m _ e V PROG NEG PST+IMMED
+b w b ɔ n V HAB+PRF NEG PST
+k w ɛ V HAB+PRF PRS
+b u n i i V HAB NEG PST
+k ɔ ɛ V HAB+PROG PRS
+h h ɛ ɛ k s e V HAB+PRF NEG PRS
+b b o b e e V PRF NEG PRS+IMMED
+a o s V NEG PST+IMMED
+t r m d ɛ u t n V PRF PRS+IMMED
+y s _ a d w s m a V HAB NEG PRS
+ɛ i p V IMP NEG PRS
+m e r e w V HAB+PRF PRS
+d h e V PROG PST LGSPEC1
+k o i r V HAB+PRF NEG PRS
+h a s a V PRF PRS+IMMED
+h y n o ɛ o V PROG NEG PRS+IMMED
+t w e ɛ ɛ w V PROG PST LGSPEC1
+k w i r h V PST LGSPEC1
+s o _ d a e V PRF PRS LGSPEC1
+n a w V PRF NEG PRS+IMMED
+k e a ɔ m u V PRF NEG PST LGSPEC1
+m ɛ n g V HAB+PRF PRS
+s u ɛ V SBJV NEG PRS
+h s h o r o V HAB PST
+t i a V NEG PST+IMMED
+s u y u m u V HAB+PRF PRS
+t b n V HAB PRS
+h d ɔ n o V SBJV PRS
+t a f m e r e V PRF NEG PRS LGSPEC1
+p r e d V PRF NEG PST+IMMED
+y _ b a e w i m a V PROG PST LGSPEC1
+s a _ V PROG NEG PRS LGSPEC1
+n g m V IMP PRS
+h y ɛ h n s e V PST LGSPEC1
+k e d i a n V PROG NEG PST LGSPEC1
+f e _ V HAB+PRF NEG PST
+s k a V SBJV PRS
+h e ɔ h w ɛ V HAB PRS
+h e n a V HAB+PROG NEG PST
+k b o d V PROG PST+IMMED
+s t o m V HAB+PRF NEG PST
+b ɔ _ n s m m u V PRF NEG PST+IMMED
+k e n p ɔ n V PROG NEG PRS+IMMED
+k y e b h ɛ w V PROG PST+IMMED
+m p n e V PRF NEG PST LGSPEC1
+h t ɛ _ a s e V PROG PRS LGSPEC1
+ɔ r h e V PRF NEG PRS LGSPEC1
+h y ɛ f a s e V PROG PRS LGSPEC1
+n y u n ɔ V HAB NEG FUT
+b d b ɔ g V PRF PST LGSPEC1
+s o f n g e V PRF PRS LGSPEC1
+t a _ r k o V IMP NEG PRS
+i d i k e V PST+IMMED
+k a _ o f e V HAB+PRF NEG PRS
+f b a V PROG PST+IMMED
+d y o k s e V HAB+PROG PST
+b ɔ o n s a o u V HAB NEG PST
+f k f V PRF NEG PST LGSPEC1
+m a t V HAB FUT
+y i i a b s w V HAB PRS
+b p _ n ɔ a m u V HAB+PRF NEG PST
+s m ɔ t a e V HAB NEG PST
+_ w w V PROG NEG PRS+IMMED
+p f r h ɛ V PRF NEG PRS+IMMED
+y i _ a t t w V PROG PRS+IMMED
+h a t ɔ V PROG PRS LGSPEC1
+i i e V HAB+PRF PST
+m u w V HAB+PRF PST
+ɔ d _ g u V PRF NEG PST+IMMED
+d b u V IMP PRS
+m a y a V PROG NEG PRS+IMMED
+d e a V HAB+PRF NEG PST
+h e i n a V NEG PST LGSPEC1
+g h b g t V SBJV PRS
+_ u t u V HAB+PRF PST
+s e w V PRF NEG PST+IMMED
+k e w V PRF NEG PRS+IMMED
+d i a V HAB+PROG NEG PST
+h w e V PROG PRS LGSPEC1
+ɔ u m a V PROG NEG PRS LGSPEC1
+b r _ r V PRS LGSPEC1
+h h ɛ V PRF NEG PST LGSPEC1
+u a _ _ k V NEG PRS LGSPEC1
+m i a V SBJV NEG PRS
+s o ɛ r V HAB+PROG NEG PST
+b ɔ k ɛ f a e u V IMP PRS
+h _ h o g o V PST LGSPEC1
+f a w V HAB+PROG PRS
+g u t r V HAB PST
+b ɛ w V NEG PST+IMMED
+b ɔ _ n ɔ e m u V PRS LGSPEC1
+h f n e a s e V IMP NEG PRS
+h k s h g ɛ V HAB NEG FUT
+m p p V PROG PRS+IMMED
+ɛ n a V PRF PRS LGSPEC1
+t e n V HAB+PROG NEG PRS
+g b r V PRF PST LGSPEC1
+d i t V HAB+PRF PST
+s t m a V HAB+PRF NEG PRS
+m m a e V NEG PST LGSPEC1
+h o p m r o V HAB+PRF PST
+t y _ b g u r n V HAB+PROG PST
+k f k a w u V PRF PRS+IMMED
+d a s a V PROG PST LGSPEC1
+m e n e V PROG NEG PST+IMMED
+_ u i V IMP NEG PRS
+b i e V IMP NEG PRS
+ɛ i _ V PROG NEG PRS+IMMED
+s u o g m u V NFIN
+t ɔ _ ɛ k o V PST+IMMED
+k t h m e r w V PROG PST+IMMED
+b o b ɔ e V PRF PST+IMMED
+s _ m V SBJV NEG PRS
+b ɔ _ n r m m u V NEG PST+IMMED
+t w a r ɛ w V SBJV PRS
+s o ɛ a V HAB+PRF PST
+b o _ V HAB+PROG PST
+h u _ u e V PROG PRS+IMMED
+t g _ _ k o V PRF PRS LGSPEC1
+d u a a s e V PROG PRS+IMMED
+n a u e V PROG PRS LGSPEC1
+k _ e a e w w V HAB+PROG NEG PRS
+n r a V PRF PRS+IMMED
+f r m V PROG PRS LGSPEC1
+t b e y b w V PROG NEG PST LGSPEC1
+u k a V PRF NEG PST LGSPEC1
+h ɔ ɛ _ a h e V PROG NEG PRS+IMMED
+t f a e e e e V HAB+PRF PST
+y w ɛ V PRF PRS LGSPEC1
+t ɔ i n w o V PRF NEG PRS LGSPEC1
+h a t i V HAB PST
+t f w V HAB NEG PST
+h u o u b V HAB+PROG PST
+h y o e u V PST LGSPEC1
+b i d o V PROG NEG PRS LGSPEC1
+b i _ a V HAB PST
+k f n f d n V HAB+PROG NEG PRS
+w e r g V PROG NEG PST LGSPEC1
+f i ɛ V PROG PST LGSPEC1
+t u _ n g b a n V PROG PRS+IMMED
+a u a V PRF NEG PRS LGSPEC1
+k e k p g u V PRF NEG PST+IMMED
+b ɔ a V NEG PST LGSPEC1
+d u a V NFIN
+f o n o V HAB FUT
+y _ p a y _ w V HAB+PRF NEG PRS
+s i e t ɛ e V PROG NEG PST LGSPEC1
+m h s ɔ o V PRF PRS+IMMED
+d s m V PRF PRS+IMMED
+h u r u n V HAB+PROG PST
+u a g i V HAB NEG PST
+s f m h V PRF PST LGSPEC1
+t f u f a u a n V PRF PST+IMMED
+s h d e w V HAB+PRF NEG PST
+m h p t b V HAB PST
+s u r a V PROG PRS LGSPEC1
+h n e s n s e V PROG PRS+IMMED
+u w ɛ V NFIN
+k _ i p i V HAB+PRF PST
+k g n u y n V IMP PRS
+h i a V PRF NEG PRS+IMMED
+p u _ u V PRF PST+IMMED
+g o w V PRF PST+IMMED
+b i b m V HAB+PRF NEG PST
+s o _ d a e V PROG NEG PRS LGSPEC1
+p e p a V HAB+PROG PST
+u i t V PRF PST LGSPEC1
+t a n e d r e V HAB+PRF PRS
+s a w V PRF NEG PST+IMMED
+w r t u V HAB+PROG PST
+t w g V PRF PST LGSPEC1
+s a n V PRS LGSPEC1
+f ɛ e u V PRS LGSPEC1
+g u _ k d u V PROG NEG PST+IMMED
+s _ s e w V HAB NEG PST
+f r a V PROG NEG PRS LGSPEC1
+k g n ɛ a n V PST+IMMED
+s ɛ r e n V HAB+PRF PRS
+s u b _ i u V PROG PRS LGSPEC1
+t u e V PROG NEG PRS+IMMED
+b a ɔ V PROG NEG PRS LGSPEC1
+w r p V PRF PST LGSPEC1
+m i h t o V IMP PRS
+h ɛ _ k w ɛ V HAB+PRF PST
+n y e t V PROG NEG PRS+IMMED
+k ɛ t r ɛ V PRF PRS+IMMED
+p e i a V SBJV NEG PRS
+k p g a V IMP PRS
+f h a V HAB PRS
+t a o i b r e V HAB PST
+ɔ u m V PROG PST LGSPEC1
+_ r a V HAB+PRF NEG PRS
+s a n V HAB+PROG PST
+b u g V PST+IMMED
+g u u f s u V PST LGSPEC1
+w u a V SBJV NEG PRS
+p d a V HAB NEG FUT
+k y p y i V PROG PST+IMMED
+t r w V NFIN
+h g w V HAB+PROG NEG PST
+p g b V HAB NEG PST
+i a t s V PRF NEG PST+IMMED
+s u f V NEG PST LGSPEC1
+n a n h e w V HAB+PRF PST
+s a w V HAB NEG FUT
+k y e r e ɛ w V HAB NEG FUT
+b w g ɔ n V IMP NEG PRS
+b u u V HAB+PRF PST
+g s _ n s u V SBJV PRS
+s o ɛ r V PRS LGSPEC1
+k e n k a n V HAB NEG FUT
+g u _ n m u V HAB NEG PRS
+p o p a V NEG PST+IMMED
+y i n V HAB+PROG PRS
+y ɛ m t d f y k a V PRF NEG PST LGSPEC1
+k u r u f V HAB+PRF PRS
+_ o ɛ r V HAB NEG FUT
+t i y V HAB PRS
+p e r w w V HAB+PRF NEG PST
+w w e V HAB+PRF NEG PRS
+ɔ r b V PROG NEG PST+IMMED
+d i a V PRF NEG PRS+IMMED
+w a w V PRF NEG PST+IMMED
+y r ɔ a y ɛ w V HAB+PRF NEG PST
+s _ w V PRF NEG PST+IMMED
+w i g V PRF PST LGSPEC1
+b u w f s V HAB FUT
+h i f V PROG NEG PRS+IMMED
+r a w V PRF NEG PST LGSPEC1
+u f a V PRF PRS+IMMED
+w r a V NEG PRS LGSPEC1
+p f i b i V SBJV NEG PRS
+b i p V PROG PST+IMMED
+t p w k o u n n V HAB PRS
+h p a V HAB+PRF PST
+p k f ɔ V PRF PRS LGSPEC1
+a o d V PST+IMMED
+o y s V PROG PST LGSPEC1
+y b y a d n _ m a V HAB+PROG NEG PRS
+p i a V HAB+PROG PRS
+f r e V HAB+PROG NEG PRS
+k h k a m u V PROG PST+IMMED
+t e n w V HAB+PROG PST
+a p s r V PST+IMMED
+h w h o r o V PST LGSPEC1
+t r ɔ r ɛ w V PRF NEG PRS+IMMED
+p p a V PROG NEG PST+IMMED
+h t p o _ o V NFIN
+ɔ e t p V PROG NEG PRS+IMMED
+y t w V PRF NEG PST+IMMED
+a u i V PRF NEG PST+IMMED
+s t u i _ u V PROG NEG PRS+IMMED
+y d g n t w u m a V HAB+PROG PRS
+u s e ɛ ɔ V HAB+PRF NEG PRS
+t o g o g u a n V PRF PST LGSPEC1
+w i r V SBJV NEG PRS
+s ɛ i V PROG PRS LGSPEC1
+m u e V HAB NEG PRS
+k b ɔ r d V NEG PST LGSPEC1
+h b t a V SBJV NEG PRS
+h i e V HAB NEG PST
+b ɔ _ y s ɔ m u V PRF NEG PST LGSPEC1
+y w a V HAB PST
+t f m p e ɔ e V PRF PRS+IMMED
+k g n V HAB+PROG PST
+y i ɛ e V HAB+PRF NEG PST
+h m a V HAB+PRF NEG PST
+p h o V HAB PST
+h w ɛ V HAB+PRF NEG PST
+k y b u o s w V PRF PST LGSPEC1
+a y h e V PRF NEG PRS+IMMED
+e f r o V HAB PRS
+n a n t f w V HAB+PRF PRS
+ɔ m a V HAB NEG FUT
+k r w V HAB NEG PRS
+h a _ V PROG PST LGSPEC1
+r u h V PRS LGSPEC1
+y ɛ _ a d i u o a V HAB PRS
+m e p e V HAB+PRF NEG PRS
+m o t u V PRF NEG PST+IMMED
+p w ɛ V HAB NEG PST
+k y i r i V HAB NEG PST
+e w ɔ V PROG NEG PRS+IMMED
+p g a V NFIN
+s a m d a e V HAB+PROG PST
+ɔ _ y w e V HAB+PRF NEG PRS
+f ɔ n V PROG NEG PRS+IMMED
+s y m n a V IMP PRS
+k n e _ e ɛ w V SBJV PRS
+n s a V SBJV PRS
+a i m s V PROG NEG PRS+IMMED
+g u ɔ n m u V HAB+PROG NEG PRS
+t h _ n g u a n V HAB PST
+k y e _ y ɛ w V PRF NEG PST+IMMED
+o o n ɔ w V HAB FUT
+d a _ a b e V PRS LGSPEC1
+y e f d d b u u a V HAB PRS
+d r e w s V HAB+PRF PRS
+e u a V PROG PRS LGSPEC1
+y w e V PRF PRS+IMMED
+b o m w V PRF PST+IMMED
+h r r u w V PROG PRS LGSPEC1
+s p o o V HAB NEG PST
+h a t g V NFIN
+b a k V HAB+PRF PRS
+b u a V HAB+PRF PRS
+ɔ d w V PRS LGSPEC1
+g b _ u a u V PROG NEG PST LGSPEC1
+b s e V HAB NEG PRS
+p t a V PROG PST+IMMED
+a u e V HAB NEG PRS
+f w e V NFIN
+f y a V PROG PST LGSPEC1
+m h u s o V PROG NEG PST+IMMED
+u e ɔ a V HAB+PROG NEG PRS
+b u t V HAB+PROG NEG PST
+s a s V PROG PRS LGSPEC1
+b s d a V PRF PRS LGSPEC1
+t w e m w w V PRF PST LGSPEC1
+h y w y a s e V HAB+PROG PST
+f u m V PST+IMMED
+t e g p k o V IMP PRS
+y y n t i V PRF PRS LGSPEC1
+b i s r V HAB+PROG NEG PST
+s u _ e a e V HAB+PROG NEG PST
+d o r e w V NEG PST+IMMED
+d u a V NEG PST LGSPEC1
+k y i r i V PROG PST LGSPEC1
+e y s r w V PRF PST+IMMED
+p e p a V HAB PST
+g u _ n d u V PRF NEG PRS+IMMED
+w s e V HAB+PRF PST
+t ɔ _ n p o V PROG PST+IMMED
+t ɔ _ n y o V PRS LGSPEC1
+h p i n w V HAB+PROG NEG PRS
+b ɔ _ t s a p u V HAB+PROG NEG PRS
+t _ e r r w V NFIN
+g h _ p s u V PRF NEG PRS+IMMED
+ɛ w o h w V NEG PRS LGSPEC1
+s y i r p V PRF PRS+IMMED
+h y ɛ _ i s e V PRF NEG PRS LGSPEC1
+e a d n V PRF PRS+IMMED
+g u a V PRF PRS LGSPEC1
+t u t u V HAB NEG PRS
+d a m V PRF NEG PRS+IMMED
+o a f V SBJV NEG PRS
+h w e k w ɛ V PROG PST LGSPEC1
+h y p _ a s e V HAB PST
+y i ɔ h d ɛ w V IMP PRS
+h i a V HAB+PROG PRS
+s n o _ m u V PRF NEG PST+IMMED
+k k o t i V HAB+PROG NEG PST
+d k a V HAB FUT
+t m u V PRF PRS LGSPEC1
+k u ɛ V PROG NEG PRS LGSPEC1
+f t m V PRF NEG PRS+IMMED
+k t n r b V HAB+PROG PST
+s i a V PROG PRS+IMMED
+h d k r r o V PROG PRS LGSPEC1
+h o t o y o V PRF PRS+IMMED
+t m _ n g u a n V PROG PST LGSPEC1
+ɔ u h h e V NEG PST LGSPEC1
+d u a V HAB NEG FUT
+s a w V NEG PST+IMMED
+a a _ h V PRS LGSPEC1
+t i a V HAB NEG PRS
+b a u V PROG PRS LGSPEC1
+s u r e r V NFIN
+i e i V PST+IMMED
+t t r n g s a n V PROG NEG PRS LGSPEC1
+ɛ i a V NEG PST+IMMED
+d u a V PROG NEG PST LGSPEC1
+s u a V PROG NEG PRS+IMMED
+o u p m p V HAB NEG PRS
+t w e r ɛ w V HAB+PROG NEG PRS
+h e ɛ t i k e V NEG PST+IMMED
+f s ɛ a V NEG PST+IMMED
+h u a o e V HAB PRS
+h a t g V HAB+PRF PST
+h p r u f V PRF NEG PST LGSPEC1
+h y g _ m s e V HAB+PRF NEG PRS
+e s w a V IMP PRS
+h a y a V PRF PRS+IMMED
+y ɛ _ a d w m r a V PROG PRS+IMMED
+b i m n k u m u V NFIN
+h u ɔ n u V HAB PST
+s y ɛ V HAB PRS
+ɛ r s V HAB+PRF PRS
+m e h e V HAB NEG FUT
+y t ɛ V SBJV PRS
+y i a a y ɛ w V HAB NEG PST
+o a d V HAB+PROG NEG PST
+r o ɛ r V NEG PST LGSPEC1
+t r e V PRF PST+IMMED
+k e k a m a V NEG PRS LGSPEC1
+h p n ɔ i V HAB+PRF PST
+g g k n _ u V PRF PST LGSPEC1
+a a t a V PROG PST+IMMED
+t h _ n p i r n V PROG PRS+IMMED
+h i y V PST+IMMED
+h d n s i V PRF NEG PRS LGSPEC1
+ɛ w f V HAB+PRF NEG PRS
+b ɛ b n s _ m u V HAB PRS
+ɔ ɛ i V HAB NEG PRS
+n p n _ e w V IMP PRS
+h s a n e V PROG PRS+IMMED
+r o p V NEG PST LGSPEC1
+_ r e V PRF NEG PRS LGSPEC1
+h o h g r o V PRF PRS LGSPEC1
+y f a V PRF NEG PRS+IMMED
+s u o _ e u V HAB+PROG PST
+b o r e V NEG PST LGSPEC1
+w r a V SBJV NEG PRS
+s w e V HAB+PROG PST
+d u n V PRF PRS+IMMED
+o a i k t V HAB NEG FUT
+t u e V NFIN
+_ ɔ a V PRF NEG PST+IMMED
+g o w V HAB+PROG NEG PRS
+h u u u w V PST LGSPEC1
+t u n r s u n n V HAB+PROG PRS
+n a b y _ k V HAB+PRF NEG PRS
+b i b t V HAB+PROG PST
+h e a V HAB NEG PRS
+s u a V HAB+PRF PST
+s u o u m u V SBJV NEG PRS
+t u _ n ɛ w a n V PST+IMMED
+h o a n r V PRF PRS+IMMED
+k e n d a n V PST LGSPEC1
+w w _ V HAB+PRF NEG PRS
+h g u y r o V HAB+PRF NEG PRS
+f i ɛ r V PROG PST LGSPEC1
+d g a V HAB+PRF PST
+w i a V PRF NEG PRS+IMMED
+t h o _ d u a n V PRF PST+IMMED
+f r a V HAB+PRF PRS
+p h p a V PROG PST+IMMED
+n d h t i w V HAB+PROG PST
+_ i e V PROG NEG PST+IMMED
+s m ɛ r V PROG PRS+IMMED
+f h w V SBJV NEG PRS
+h b e V PRF PST LGSPEC1
+k y e k e ɛ w V PROG PRS+IMMED
+h w e h d ɛ V PROG PST+IMMED
+t e n a V PROG PST+IMMED
+k e r a m u V PROG PST LGSPEC1
+s _ ɛ r V PROG NEG PRS LGSPEC1
+u y ɔ r t V IMP NEG PRS
+h u w y i V IMP NEG PRS
+m a _ i o V PROG PST LGSPEC1
+s f m a V HAB NEG FUT
+m n d s o V PST+IMMED
+d k _ a s e V HAB+PRF NEG PRS
+t u t w V PROG NEG PST LGSPEC1
+s a ɛ V IMP NEG PRS
+s e ɛ y V HAB+PROG NEG PST
+t w e r ɛ w V PROG NEG PST+IMMED
+w o p V PRF PRS+IMMED
+t m h _ ɛ w V PROG PST LGSPEC1
+h i n V NFIN
+g b s n e u V HAB+PROG NEG PST
+f r f V HAB+PRF PRS
+h m a V PROG NEG PRS LGSPEC1
+b o d ɔ r V HAB+PRF PRS
+m k b V HAB NEG FUT
+s r w V HAB PST
+p a s a V SBJV PRS
+h y n o i V HAB+PRF PRS
+s o _ t u e V HAB NEG FUT
+k i e r V HAB+PROG PRS
+s ɛ s _ d u V HAB+PROG PST
+m y y g a V PRF NEG PST LGSPEC1
+n w e V PROG PRS LGSPEC1
+p k f V PRF PRS+IMMED
+k e m i s n V HAB+PROG PRS
+t e w V PRF NEG PST LGSPEC1
+h u r u w V NEG PST+IMMED
+m e n e V NFIN
+s _ y _ m u V PROG PST+IMMED
+s u m _ m u V PST+IMMED
+s u a V PROG PRS+IMMED
+y s w V HAB+PROG PST
+p y a V HAB NEG PST
+p m u V HAB+PROG NEG PRS
+p _ p w V PRF NEG PST+IMMED
+t ɔ k V HAB+PRF NEG PRS
+p s r t w V HAB+PROG PRS
+g n _ e ɛ u V PRF NEG PST+IMMED
+t t e V HAB PST
+s u y V IMP NEG PRS
+k u f w m u V PROG NEG PRS LGSPEC1
+g b e n m V HAB+PRF PRS
+u r n y V HAB NEG FUT
+h a g a V PROG PRS LGSPEC1
+f y w V HAB+PROG NEG PST
+d p m V HAB+PROG PST
+s e ɛ g V HAB PST
+h i a V PRF NEG PRS LGSPEC1
+t b t h d b e V PROG PST LGSPEC1
+i u t a V HAB PRS
+w e p a V PROG PST LGSPEC1
+t a ɔ e V HAB+PRF NEG PST
+s i w V IMP PRS
+t u _ i g k t n V HAB NEG PRS
+b i i _ V HAB FUT
+k y i r n V NEG PRS LGSPEC1
+g w n V PRF PRS+IMMED
+t d r w ɛ w V PST LGSPEC1
+g a n V HAB+PROG NEG PST
+k e o k n n V PROG PRS LGSPEC1
+g d _ n ɔ V PRF NEG PRS+IMMED
+t ɔ y n k o V PRF PRS LGSPEC1
+f o w V HAB NEG PST
+h h i n m V PST+IMMED
+y u a V PROG PRS+IMMED
+d u u V HAB+PROG PRS
+g r r o V PROG NEG PRS+IMMED
+o m r u ɛ V NEG PST LGSPEC1
+e p n V PROG NEG PST+IMMED
+h i t b V PROG NEG PST LGSPEC1
+m o r o V NFIN
+k y d r t ɛ w V PRF NEG PRS LGSPEC1
+f u m a V PRF PRS LGSPEC1
+k w ɛ a V HAB NEG PRS
+p m n V HAB PRS
+s s w V PRF PRS LGSPEC1
+_ i ɔ V PRS LGSPEC1
+s _ t p a e V PROG NEG PST LGSPEC1
+m r ɔ V PRF NEG PST LGSPEC1
+p e p w V SBJV NEG PRS
+k i s a V PROG NEG PST+IMMED
+d m m V SBJV NEG PRS
+b y y a V IMP NEG PRS
+s o e w V PROG PST LGSPEC1
+b _ d i V NFIN
+b ɛ i b s a m u V PROG PST+IMMED
+t u b d g u y n V NEG PST LGSPEC1
+h k h n e V SBJV PRS
+g u u V HAB+PROG NEG PST
+h a t u V PRF NEG PRS+IMMED
+t w y r k w V NFIN
+n a n t e w V PST LGSPEC1
+r p k V IMP PRS
+y g h V HAB+PROG NEG PRS
+f r g V HAB+PRF NEG PST
+t o u n p V PRF PRS LGSPEC1
+p y i u r V PRF PRS+IMMED
+ɔ i u V NEG PRS LGSPEC1
+t h n a V HAB+PRF NEG PRS
+e u r u w V HAB NEG PST
+t w e V PRS LGSPEC1
+w n r V PROG PRS LGSPEC1
+y ɛ ɛ e f u u m a V HAB+PROG NEG PST
+t w e r o w V PROG NEG PRS+IMMED
+f r a V PROG NEG PRS+IMMED
+p m n t i V PRF NEG PST LGSPEC1
+u o w V NEG PRS LGSPEC1
+b h _ n s a i u V HAB+PROG NEG PST
+f o d V HAB NEG FUT
+s u o _ e u V HAB+PROG NEG PRS
+i f n V NFIN
+s w o ɔ m u V PRF PST LGSPEC1
+y r y n y m w V NEG PRS LGSPEC1
+y n b a d w u m a V PRF NEG PRS LGSPEC1
+y i p i y ɛ w V HAB+PRF NEG PRS
+b o b ɔ w V PROG NEG PRS LGSPEC1
+i a w V HAB+PROG PST
+h i w V HAB NEG FUT
+p e p n V PROG PST+IMMED
+w i e V PRF PRS LGSPEC1
+d k m V PROG PRS+IMMED
+h a i V PRF NEG PRS LGSPEC1
+s g a e b V PRF NEG PRS+IMMED
+k y i r a V HAB+PRF PST
+t a f y p r e V PST+IMMED
+h i ɛ h a s e V PRF NEG PST LGSPEC1
+t e n V PROG NEG PST+IMMED
+f o ɛ V PROG PST+IMMED
+h n i a a V PRF PST LGSPEC1
+m y n o V PROG PST LGSPEC1
+m a _ s o V PRF PST LGSPEC1
+g u y ɛ y u V PRF PRS+IMMED
+y i s a V HAB+PROG NEG PRS
+s o t e a e V PRF PST+IMMED
+f u m a V HAB+PROG NEG PRS
+ɛ b s h V PRF NEG PRS+IMMED
+t ɔ _ n k o V PRF PST+IMMED
+h u a V SBJV PRS
+w i ɔ V HAB NEG PRS
+h u ɛ k a s e V PROG PST+IMMED
+h i s V PROG PRS LGSPEC1
+h y t h ɛ ɛ V HAB+PROG NEG PRS
+o o r u V PST LGSPEC1
+d w e V HAB+PROG NEG PRS
+s ɔ i f a V PROG PRS LGSPEC1
+ɛ e m V HAB NEG PST
+i o o n m V HAB+PRF PST
+k e k w a u V PRF PST+IMMED
+d a _ a s e V PROG PRS+IMMED
+t ɔ _ n k o V NFIN
+n i w V PRF NEG PST+IMMED
+h w h h o ɛ V HAB+PRF PRS
+s m o g m u V HAB+PROG PRS
+h u _ n e V PRF PST LGSPEC1
+g u m V PROG NEG PRS LGSPEC1
+p a r V PROG NEG PRS LGSPEC1
+b ɔ w a h a s u V PROG NEG PRS LGSPEC1
+b e n a V PRF NEG PRS LGSPEC1
+t w m V HAB+PROG NEG PST
+k h k n m u V PROG PRS+IMMED
+ɛ n r p V SBJV PRS
+t e f e e e e V PROG PST+IMMED
+t ɔ r n k o V PROG PRS LGSPEC1
+w e w V PROG PRS LGSPEC1
+s e r i a V HAB FUT
+h w e n f ɛ V SBJV PRS
+f r a V PRF PST+IMMED
+h w e d f ɛ V PROG NEG PST LGSPEC1
+d u k V NEG PST LGSPEC1
+s e r y m V PRF PST+IMMED
+m m n e V SBJV PRS
+p a n s V IMP NEG PRS
+s u m V PROG NEG PRS LGSPEC1
+e e t a V PRF NEG PST LGSPEC1
+t p o e e r e V PROG PRS+IMMED
+_ g n V PRF NEG PRS LGSPEC1
+t o h ɔ k V NEG PST+IMMED
+m ɔ s n y V HAB+PRF PRS
+h ɔ g k i a e V SBJV NEG PRS
+h s r _ a s e V HAB PST
+s o n V HAB FUT
+s u o _ _ u V PROG PST+IMMED
+h o i o r o V PROG PRS+IMMED
+t d e r k w V SBJV PRS
+t a _ r i e V PST+IMMED
+h k ɔ f ɔ o V NEG PRS LGSPEC1
+h y m n a V HAB+PROG NEG PST
+d m _ g s e V NEG PRS LGSPEC1
+y ɛ _ a d i u m a V PROG NEG PRS+IMMED
+g p w V HAB PST
+s t w V NEG PST+IMMED
+y ɛ b w d w u m a V HAB+PROG NEG PRS
+i w ɔ g i V PROG PRS+IMMED
+f r a V HAB+PROG NEG PST
+m a g b o V NEG PST+IMMED
+y a _ r u u w V HAB+PRF PRS
+t k e V PROG NEG PST LGSPEC1
+s s e r V NFIN
+s u s a V PROG PRS+IMMED
+n a n a k w V HAB+PROG PST
+h t ɛ w V PROG PRS+IMMED
+s o ɛ ɛ V PRF PST LGSPEC1
+h y ɛ _ a s e V PROG NEG PRS LGSPEC1
+h w y h h ɛ V HAB NEG PRS
+w i e V PROG PST LGSPEC1
+k t k a t u V HAB+PRF PST
+y u n a V HAB+PROG NEG PRS
+n b g ɛ o w V PRS LGSPEC1
+s o f n V PROG NEG PRS+IMMED
+ɛ r k V PRF PST LGSPEC1
+m d _ t a V PST LGSPEC1
+b e e V NEG PRS LGSPEC1
+y ɛ ɔ n d b m m a V HAB FUT
+y p ɛ a V HAB PRS
+b ɔ n n s a m u V NEG PRS LGSPEC1
+_ e o a V PRF NEG PRS LGSPEC1
+s u _ ɛ s e V HAB NEG PST
+p e w V PRF PST LGSPEC1
+d m n a V SBJV PRS
+ɛ o w V HAB NEG PRS
+t u _ V PRF PST LGSPEC1
+d w a V NEG PRS LGSPEC1
+k e n k a n V PROG NEG PRS LGSPEC1
+k _ k h ɛ u V HAB+PRF PST
+b o r n V PROG PST LGSPEC1
+b d e V NEG PST LGSPEC1
+h u n _ i V PST LGSPEC1
+g t t n s u V HAB+PROG PST
+h g g V PROG NEG PRS LGSPEC1
+t w u V NFIN
+r t ɛ V PROG PRS+IMMED
+s o _ d a e V PRF PST+IMMED
+k e n s r n V HAB+PROG PRS
+e u e V PROG PST+IMMED
+i u m a V HAB NEG PRS
+g a _ n t u V HAB+PRF PST
+o i w V PROG NEG PRS LGSPEC1
+s a e a V HAB NEG FUT
+t y e V HAB+PROG NEG PST
+a u e V PROG NEG PRS+IMMED
+p u ɔ V HAB FUT
+f ɔ n V HAB+PRF PST
+t e p e e r e V NEG PST+IMMED
+a a d V PROG NEG PST LGSPEC1
+g u _ n m u V SBJV NEG PRS
+y m r V PRF NEG PRS LGSPEC1
+b h o s u V PROG NEG PST+IMMED
+n a s h V PRF PST+IMMED
+w e r V PRF PST+IMMED
+t i w V HAB+PRF PRS
+a a s a V PST LGSPEC1
+t u d n ɛ u a n V PRF PRS+IMMED
+o r e V PROG PST LGSPEC1
+t n f _ t r e V PRF NEG PST LGSPEC1
+s u ɔ _ p u V PROG NEG PRS LGSPEC1
+_ e y V PRS LGSPEC1
+b e n h V SBJV PRS
+p e p ɛ V PRF PRS LGSPEC1
+h a y p r o V NEG PST+IMMED
+t a f w e n e V IMP PRS
+t u _ y u s a n V HAB+PRF NEG PRS
+m p _ b w V PRF NEG PRS LGSPEC1
+s a m h V HAB+PRF NEG PRS
+y a w V HAB PRS
+k y e t y ɛ w V NEG PST+IMMED
+y ɔ r V PST+IMMED
+s n n V PST LGSPEC1
+s g ɔ e y V IMP NEG PRS
+i a t f V HAB+PRF PRS
+s f ɔ o m u V PROG NEG PRS LGSPEC1
+o t a n ɔ V PROG PST+IMMED
+m a _ s o V PRF NEG PRS LGSPEC1
+k i e i u ɛ w V PROG NEG PRS+IMMED
+m d _ s ɔ V HAB+PRF NEG PRS
+b ɔ o e ɛ a n u V SBJV NEG PRS
+e u w V PROG NEG PST+IMMED
+f r a V NFIN
+g a w V PRF NEG PST LGSPEC1
+ɔ a w e V HAB+PROG PST
+g i s a V PROG NEG PRS+IMMED
+r u n o t V HAB+PRF NEG PST
+k y p p a V SBJV PRS
+k a d r V NFIN
+e o w V PRF PRS LGSPEC1
+h u e V IMP NEG PRS
+t e p ɛ n r e V PROG NEG PST+IMMED
+k b n s r V HAB+PROG PST
+p a i h o V PST LGSPEC1
+n s n V IMP PRS
+t e p a V NFIN
+s m r o f V SBJV PRS
+e w y V HAB+PROG PST
+t ɔ n V IMP NEG PRS
+g r a V HAB+PRF NEG PST
+k o m d V PROG NEG PRS LGSPEC1
+b o r o V PRF PST+IMMED
+w y i n o V HAB+PRF NEG PRS
+t d r e s r e V HAB+PRF NEG PRS
+h b s s n V NEG PRS LGSPEC1
+n a n d e w V HAB+PROG PST
+s i w V PRF NEG PST+IMMED
+y o w V PROG NEG PRS+IMMED
+k y ɛ ɔ a V IMP PRS
+ɔ u a V HAB+PROG PRS
+s h _ s a e V PROG NEG PST+IMMED
+b n r o V IMP PRS
+h a m o V NFIN
+t f r n o o V PROG PRS+IMMED
+t n e V PRF PST LGSPEC1
+b g _ t a a e u V HAB+PROG NEG PST
+h m t a V HAB+PRF PST
+g r i s i u V PRF PRS+IMMED
+o f h a V HAB PST
+s n m d t e V HAB PRS
+y i k i ɛ y w V PROG PRS+IMMED
+m a _ i r V PST+IMMED
+n a w V SBJV PRS
+d a i p s e V HAB FUT
+d o r o w V PST+IMMED
+t e _ k k o V NEG PST+IMMED
+h w ɔ t g ɛ V HAB FUT
+ɛ s a V NEG PST+IMMED
+t w e ɛ ɛ w V PRF NEG PRS LGSPEC1
+o a n V PRF PST+IMMED
+t s w V NEG PRS LGSPEC1
+w i e V HAB+PROG PST
+w o p _ V HAB+PROG PRS
+m h a V PROG NEG PST LGSPEC1
+s a w V HAB+PROG PST
+h b a p e V PRF NEG PST+IMMED
+p e p a V PRS LGSPEC1
+d k ɔ V HAB+PRF NEG PST
+n s p t f w V HAB NEG PST
+n r u t e w V HAB+PRF NEG PRS
+h u ɛ V NEG PST+IMMED
+s i a V SBJV PRS
+d k g m r e V PST+IMMED
+d u k V PRF NEG PRS LGSPEC1
+d o b r s e V PRF PST LGSPEC1
+b b m ɔ w V NEG PRS LGSPEC1
+f y o V HAB+PRF PRS
+d u m V PRF PST LGSPEC1
+g w n V PROG NEG PST LGSPEC1
+t a r i V HAB NEG FUT
+h y ɛ ɛ a s e V PRF NEG PRS+IMMED
+h w ɛ V HAB+PROG NEG PRS
+s o ɛ r V HAB+PROG NEG PRS
+m r f V IMP PRS
+h u n g i V PRF NEG PST+IMMED
+a ɛ ɔ e V NEG PST+IMMED
+t m f e e r e V PROG NEG PST LGSPEC1
+t ɔ ɛ V PROG PRS+IMMED
+f e h i V HAB+PRF PST
+f e ɔ V HAB+PROG PRS
+f w m V NEG PST+IMMED
+g g u r i V PRF PRS LGSPEC1
+p t w V HAB+PROG PST
+t ɔ o n u o V PROG PRS LGSPEC1
+s g w V PROG PRS+IMMED
+s a w V PRF NEG PRS+IMMED
+s k n k V PROG NEG PST+IMMED
+b d ɔ n d a m u V HAB+PRF PST
+h o h s ɔ o V NEG PST LGSPEC1
+d _ r a V PRF NEG PRS LGSPEC1
+n n ɔ e t V HAB+PRF PST
+h u a n _ V NFIN
+s o d r V PRF NEG PST LGSPEC1
+t r e ɛ i o V IMP PRS
+i i b f w V PROG NEG PRS+IMMED
+u y i n k V PRF PST+IMMED
+u e n a V HAB FUT
+h w e h w ɛ V PRF NEG PRS LGSPEC1
+s p o V IMP NEG PRS
+t h r b V PROG NEG PRS LGSPEC1
+t ɔ n V PROG PST LGSPEC1
+k a e k k n V NEG PST LGSPEC1
+d u a V PRF PRS+IMMED
+s u y _ ɔ u V HAB+PROG PST
+g r a w e V PST LGSPEC1
+t u k n g u ɛ n V PROG PST LGSPEC1
+d w y y s e V PRF NEG PST+IMMED
+f t w V HAB NEG PST
+f o w V PRF NEG PRS+IMMED
+s n t V PST+IMMED
+k e k n m u V NEG PST+IMMED
+g e ɛ V HAB+PRF NEG PST
+t n e V NFIN
+k e b h a n V SBJV NEG PRS
+s u m a V HAB+PROG NEG PRS
+t f p a V HAB NEG PST
+f p u V HAB+PRF PST
+y p a V HAB PRS
+k r ɛ V PROG PRS+IMMED
+f d y r V HAB+PRF PST
+t w e r ɛ w V PRF PRS LGSPEC1
+s b _ d p e V PRF NEG PRS+IMMED
+g u b _ b u V PRF PST LGSPEC1
+g ɔ _ n s u V SBJV PRS
+s k r V HAB PST
+t e n s V HAB+PRF PST
+k e _ p m u V HAB PRS
+a n n a V HAB FUT
+n a n t p w V PRS LGSPEC1
+s o _ d a e V HAB+PROG NEG PRS
+y r p V HAB+PROG NEG PRS
+r m b e V HAB+PROG NEG PST
+g k a V HAB NEG PST
+t e n a V PRF PST+IMMED
+b i s a V SBJV PRS
+h ɛ o t i V NEG PST LGSPEC1
+g u _ n y u V PROG NEG PST LGSPEC1
+k h b k _ n V PST+IMMED
+e a ɔ V HAB+PROG PRS
+r i t V PRF PST LGSPEC1
+h s i n a V PRF PST+IMMED
+t ɔ a n k o V HAB NEG PST
+y ɛ _ e o w u i a V HAB+PRF NEG PRS
+k f ɔ a V PRF NEG PST+IMMED
+f ɔ _ V HAB+PRF NEG PRS
+s u y V PRF NEG PST LGSPEC1
+s r o _ _ u V PROG PST+IMMED
+d m m V HAB NEG PST
+t a r e V HAB+PRF PST
+k t k _ m u V PRF PRS+IMMED
+m u n m V HAB+PROG NEG PRS
+t ɛ a u i V HAB NEG FUT
+h a t _ V IMP PRS
+r w s a V HAB+PRF NEG PST
+g u _ n s u V HAB+PRF NEG PRS
+k e o a m u V SBJV NEG PRS
+k y e r t p w V HAB+PRF PST
+k h s a V PROG NEG PST+IMMED
+d a n V PROG NEG PST+IMMED
+t u _ n g u b n V NEG PST LGSPEC1
+k b _ y m u V IMP PRS
+h u a f p V HAB+PROG NEG PRS
+a w n f i V HAB+PRF NEG PST
+t w n r ɛ w V HAB PRS
+k p p i m d w V IMP NEG PRS
+y i _ m d p w V PROG NEG PRS+IMMED
+k b y e h u w V PROG NEG PST LGSPEC1
+h w p V SBJV NEG PRS
+b o r o V PST LGSPEC1
+k b a r e m w V NFIN
+b s _ a f a m u V PST+IMMED
+b a _ n y r k u V NEG PRS LGSPEC1
+m ɔ n g V PROG NEG PST+IMMED
+p i a V PRF PRS LGSPEC1
+g u _ n h u V NEG PST+IMMED
+t a ɔ ɛ s e V PRF NEG PRS+IMMED
+d y _ a h e V PROG NEG PST+IMMED
+w u a V PST LGSPEC1
+h i a V PRF PRS+IMMED
+s e r u V PST LGSPEC1
+f o ɔ V PROG PST LGSPEC1
+y ɛ u a b w u m a V PRF PST+IMMED
+t d b u V HAB+PRF NEG PST
+b u _ n s a g u V HAB FUT
+t u t d V PROG NEG PST+IMMED
+s u m a V PROG PST LGSPEC1
+y w w V PROG NEG PRS+IMMED
+h a s f V HAB PRS
+k h k p m u V HAB PRS
+a g o e V HAB NEG PRS
+b o u r y V HAB PST
+b i i n f e m u V HAB+PRF PRS
+t u _ n g u a n V HAB PRS
+n a s t e s V HAB+PROG PST
+s f b V SBJV PRS
+h b e r w ɛ V PRF PRS+IMMED
+n u m m V SBJV NEG PRS
+k a s a V HAB+PROG NEG PRS
+s b ɛ ɔ V HAB+PRF PRS
+_ e n V HAB+PRF NEG PST
+h t ɛ V SBJV NEG PRS
+w a d r V PROG PRS+IMMED
+a d b ɔ o V HAB+PRF NEG PST
+g u _ n s u V HAB+PROG PST
+t e h a V HAB+PROG NEG PRS
+p r p a V PRF NEG PST LGSPEC1
+k a n ɛ n n V PRF PST+IMMED
+s r ɛ V PRF PRS LGSPEC1
+k y f r e d w V PROG NEG PST LGSPEC1
+t ɔ w V NEG PST LGSPEC1
+h w g g w ɛ V PROG PRS LGSPEC1
+h a m a V HAB+PRF PRS
+n h t t ɛ w V IMP NEG PRS
+g u d n s u V PRF PRS+IMMED
+s i w V HAB PST
+y n k p V PROG NEG PRS LGSPEC1
+s t n e V PROG PRS+IMMED
+f r a V HAB+PROG NEG PST
+b ɔ n V PROG PST LGSPEC1
+h o u g r o V PRF NEG PST+IMMED
+s u a V PROG NEG PST LGSPEC1
+t d f e e m e V HAB+PRF PRS
+b i s a V PRF NEG PRS+IMMED
+s w h r V SBJV PRS
+t a b e e d e V PROG NEG PST LGSPEC1
+y s ɛ i r w e m a V HAB+PROG PRS
+t u t u V PROG PRS+IMMED
+d e m V PRF PRS+IMMED
+h u o g w ɛ V HAB+PRF NEG PRS
+t f f i h u a n V PST LGSPEC1
+h w i y u ɛ V PROG NEG PST+IMMED
+m t e e V PROG PST LGSPEC1
+s u s V HAB+PROG PRS
+u m n e V PROG NEG PRS LGSPEC1
+k f n e V PST LGSPEC1
+h w e ɔ w ɛ V HAB PST
+y ɛ _ a d t h e a V NEG PST+IMMED
+w y b V SBJV PRS
+y i o a y ɛ w V PROG PST+IMMED
+b ɔ _ n o a n u V IMP NEG PRS
+d o f e V PROG NEG PRS+IMMED
+h h a V HAB+PROG NEG PRS
+y g _ r y h w V HAB+PROG NEG PST
+k s d k e ɛ w V PRF PRS+IMMED
+k e u k a n V PROG NEG PST+IMMED
+t w t r e w V PST LGSPEC1
+p e p a V NEG PRS LGSPEC1
+s f n V PROG NEG PST LGSPEC1
+k e i e s V PRF NEG PST LGSPEC1
+p o p m V HAB NEG FUT
+f m t V HAB+PROG NEG PRS
+k i s r V HAB PRS
+y i h a o ɛ w V HAB+PROG PRS
+s o _ d a e V PROG PST+IMMED
+b ɔ _ e s a m u V PRF NEG PST LGSPEC1
+b u r o V PST LGSPEC1
+t u _ ɛ g ɛ a n V NFIN
+ɛ n g V PROG PST+IMMED
+k h y r e ɛ w V PRF NEG PST+IMMED
+k s d m a n V HAB PRS
+s f s g k V PROG NEG PRS LGSPEC1
+f i w V SBJV NEG PRS
+t u t u V PROG NEG PST LGSPEC1
+o y b V PRF NEG PRS LGSPEC1
+m o b t s V HAB NEG PRS
+t d t t g u ɔ n V PROG NEG PRS+IMMED
+ɛ u d a V IMP PRS
+y e w V PROG PST+IMMED
+f o w V PROG PRS LGSPEC1
+k e w r t ɛ w V PRF NEG PRS LGSPEC1
+p e b b V PRF NEG PST LGSPEC1
+h k a f g V PRF PST LGSPEC1
+m e n f V SBJV PRS
+n a p t e w V HAB NEG PRS
+ɛ h b u k V HAB+PROG PST
+d u a V HAB NEG PST
+k i a V PRF PST LGSPEC1
+b k r o V HAB PST
+u n w V IMP NEG PRS
+t ɔ n V PROG PRS LGSPEC1
+b k r k V PROG PRS LGSPEC1
+b o b ɔ t V PRF NEG PST LGSPEC1
+s u y o m u V HAB+PROG NEG PRS
+y w _ a d ɛ w V SBJV NEG PRS
+g f o V NFIN
+k d i a s u V PROG PRS+IMMED
+n a i ɔ p w V NFIN
+p e s a V PST LGSPEC1
+s n o _ m u V HAB PRS
+f ɛ ɛ V IMP NEG PRS
+h o i o r o V IMP PRS
+s o a d y e V PRF PRS LGSPEC1
+b u n t i V HAB+PRF NEG PRS
+d d a V IMP PRS
+ɛ d n a V IMP PRS
+h r k t g V PROG NEG PRS+IMMED
+g p r g V IMP PRS
+s u o _ m u V PROG NEG PRS LGSPEC1
+d ɔ k a s e V HAB NEG PST
+k y i r w V HAB+PROG PRS
+g ɛ r u ɛ V PROG PST LGSPEC1
+s u o _ m u V PRF PST+IMMED
+t u _ n g o y n V HAB PST
+n e b e V HAB+PROG NEG PST
+s a w V NEG PRS LGSPEC1
+t m t u V PRF PST LGSPEC1
+k f s e V HAB+PRF PRS
+p u r g w V HAB+PRF NEG PST
+h u a V PROG PST+IMMED
+s e d a V PROG NEG PST LGSPEC1
+s u m a V HAB PST
+_ i a V PRS LGSPEC1
+t u _ k g u a n V PROG PST LGSPEC1
+k t e r u k w V HAB+PROG PST
+ɔ m a V HAB+PROG PST
+w h h r V NEG PST LGSPEC1
+t ɛ m n s o V HAB NEG PRS
+s o _ d a e V PST LGSPEC1
+h o a V SBJV NEG PRS
+o a u ɔ V SBJV NEG PRS
+h u t n V HAB+PRF PRS
+p ɛ r w V HAB FUT
+f r r V HAB FUT
+f i a V NFIN
+m w m s m V PST LGSPEC1
+t u w u V SBJV PRS
+s m _ V IMP NEG PRS
+m p m ɔ w V NFIN
+r n a ɔ w V PST LGSPEC1
+k ɔ k m V SBJV NEG PRS
+y b _ a d w o d a V HAB+PRF PRS
+s a o V PRF NEG PST+IMMED
+t ɔ h n k o V HAB+PRF PRS
+h s e _ o s e V PROG NEG PRS LGSPEC1
+p w a V SBJV PRS
+k r a V PRF PRS+IMMED
+h u i m ɔ V HAB+PRF PRS
+b u a V HAB+PROG NEG PRS
+g u a V PST+IMMED
+d k y V NEG PST+IMMED
+h o n h ɛ V PROG NEG PST+IMMED
+h i ɔ V HAB PST
+k o n k ɔ n V PST LGSPEC1
+t a f e e r e V PRF NEG PRS LGSPEC1
+s m w V PRF PST+IMMED
+s u a V PRF NEG PRS LGSPEC1
+a o ɔ V PRS LGSPEC1
+d a w a _ e V PRS LGSPEC1
+s e s b V PRF NEG PRS LGSPEC1
+t u _ n k u a n V PRF PST+IMMED
+t w u t ɛ w V IMP NEG PRS
+b o b b w V PRF NEG PST LGSPEC1
+t w e _ f w V HAB+PROG PRS
+t t t r V HAB+PRF PRS
+e d r o V HAB+PROG PST
+h t a V PRF NEG PRS+IMMED
+k e _ a y u V NEG PRS LGSPEC1
+h r ɛ _ s s e V PROG PRS+IMMED
+b f n ɔ s p k u V PST+IMMED
+p e e a V PROG NEG PST LGSPEC1
+t u _ n a u a n V PROG PRS+IMMED
+m ɔ u V PROG NEG PST+IMMED
+m u n t i V SBJV PRS
+t g n V HAB NEG FUT
+t h _ n m o V HAB NEG PST
+s o ɛ p V PROG PRS+IMMED
+g u _ n s u V PROG PST+IMMED
+f i ɛ V NFIN
+h ɛ i n h V SBJV NEG PRS
+b a p V PRF PRS+IMMED
+h y d _ a s e V HAB+PROG PRS
+f u t V HAB NEG FUT
+y s _ ɔ d w m d a V HAB+PRF NEG PST
+u y f V NFIN
+i i h V HAB NEG PST
+k o k s e u w V HAB+PRF PRS
+ɔ k d V HAB FUT
+t r w V PRF NEG PRS+IMMED
+k t n k a n V NEG PRS LGSPEC1
+b t b ɔ i V HAB NEG PST
+ɛ i r V HAB+PROG NEG PST
+g ɔ _ n s u V PST+IMMED
+f s d V HAB+PRF NEG PST
+s s a V PST+IMMED
+k ɛ o d V PRF NEG PST LGSPEC1
+i e f o u V HAB NEG PRS
+h b a V PRF PST+IMMED
+y e g V HAB FUT
+ɛ p r u b V HAB+PROG PRS
+s u f _ i u V PRF NEG PST LGSPEC1
+t a n e V PROG PST+IMMED
+d s m V PST LGSPEC1
+k y t k a n V HAB+PROG PST
+h o h o r o V HAB FUT
+a u ɛ u V PRF PST LGSPEC1
+t ɛ e V NEG PST+IMMED
+t y e V SBJV PRS
+t b _ h w s a n V HAB+PROG NEG PRS
+e y i b i V PROG PST+IMMED
+ɛ _ p V PRF PST LGSPEC1
+h e ɔ h h ɛ V PRF NEG PRS+IMMED
+w a r e V HAB NEG PST
+k a g a V HAB+PRF NEG PRS
+y o _ p d _ u m a V HAB NEG PST
+g u k n s u V PRF PST+IMMED
+ɛ r n V HAB+PROG PRS
+t ɔ _ r w o V PRF NEG PST LGSPEC1
+h a s n e V HAB NEG PST
+k o h r i V NEG PST LGSPEC1
+p n p f V PROG PRS LGSPEC1
+p s m t _ V PRF NEG PST LGSPEC1
+g h _ ɛ s u V PST LGSPEC1
+y f a a w d w V SBJV NEG PRS
+y ɔ _ a d t u m a V HAB+PROG PRS
+d y ɔ ɔ u V HAB NEG FUT
+t ɔ r V HAB+PROG NEG PST
+t a f i u t e V PROG PRS LGSPEC1
+t w f r ɛ w V HAB+PROG NEG PST
+b a t a V NEG PRS LGSPEC1
+h i p r e V HAB+PRF NEG PST
+y ɛ y a u f ɔ m a V PRS LGSPEC1
+h i d V PRF PRS LGSPEC1
+m e f e V PROG NEG PRS LGSPEC1
+s k o _ k u V NFIN
+k i n n k n V PROG NEG PRS LGSPEC1
+f o y V IMP NEG PRS
+h a r k w V SBJV PRS
+e i p a V PROG PST+IMMED
+h b p y r o V PROG PRS LGSPEC1
+t i d V IMP PRS
+d ɛ _ a s e V PRS LGSPEC1
+f w w V PRF NEG PRS LGSPEC1
+s h w a V PRF NEG PST LGSPEC1
+s a w V HAB+PRF NEG PRS
+f r a V PRF PRS+IMMED
+s o p d a e V HAB PRS
+f ɔ a V PRF NEG PRS+IMMED
+s e o ɛ m u V PRF NEG PST+IMMED
+k p p a V HAB PRS
+s o ɔ d n e V NFIN
+ɔ t w V PRF NEG PST LGSPEC1
+k y i r i V IMP PRS
+k y e r ɛ ɛ w V HAB+PROG PRS
+s u w u w u V NEG PRS LGSPEC1
+h ɛ a V SBJV PRS
+h w b V PROG PST LGSPEC1
+s p n a V PST LGSPEC1
+g u _ e s u V PRF PST+IMMED
+t a r e V HAB PST
+t u e ɔ ɛ w V IMP PRS
+h i i a V PRF NEG PRS LGSPEC1
+s _ p d a e V NEG PST+IMMED
+k h ɛ a V SBJV NEG PRS
+h b ɛ V SBJV PRS
+y ɛ _ s i ɛ w V HAB+PRF PST
+y u r V PRF PRS LGSPEC1
+t u a V IMP PRS
+t m n V HAB NEG FUT
+t u k u V NEG PST+IMMED
+k e n t s n V PROG NEG PRS+IMMED
+h y i n a V PRF NEG PRS+IMMED
+b h s r V HAB PRS
+y r t V PRS LGSPEC1
+s u o _ m u V PST LGSPEC1
+i a k s o V NEG PST+IMMED
+_ r a V PRF PRS LGSPEC1
+k t s e V HAB+PRF NEG PST
+n a w y g w V PRF NEG PRS LGSPEC1
+t ɔ _ ɛ k o V HAB+PROG NEG PRS
+t e ɛ V NFIN
+k h m V NEG PST+IMMED
+t ɔ y n k o V SBJV PRS
+b ɔ a s b b m u V IMP NEG PRS
+ɔ a t a V PRF PRS LGSPEC1
+n t n t n w V PRF PST LGSPEC1
+t w b r ɛ w V HAB+PROG PST
+t e n g V PROG NEG PST+IMMED
+d i e V HAB NEG PRS
+d k o a f e V IMP NEG PRS
+p e p p V PRF PST LGSPEC1
+a ɔ n V PROG NEG PST LGSPEC1
+s o g d a e V HAB+PROG NEG PRS
+g r n ɛ i V HAB+PRF NEG PRS
+ɛ b r k V HAB FUT
+t r _ i ɔ o V HAB+PROG PRS
+u e n s V SBJV NEG PRS
+f ɛ a V PRF NEG PST+IMMED
+t a k ɛ V PRF PST LGSPEC1
+k e k a V IMP NEG PRS
+n d n n e w V NFIN
+n e w V PROG PRS+IMMED
+o e n _ V IMP PRS
+ɛ f r V PROG NEG PRS LGSPEC1
+s a w V PROG PST LGSPEC1
+s a w V PRF PRS+IMMED
+k e n k a n V NEG PRS LGSPEC1
+d u d n e V HAB+PRF PST
+s g y d u e V SBJV PRS
+b m b e w V PRF NEG PRS LGSPEC1
+d y i e p V HAB+PRF NEG PRS
+d u m V PST LGSPEC1
+y f w V IMP PRS
+b o g o V PRF NEG PRS LGSPEC1
+n m n t g u V HAB NEG PRS
+n e b s V PRF PRS LGSPEC1
+h w e h w ɛ V PST+IMMED
+n r ɛ V HAB+PRF PRS
+e i g V HAB PST
+p e w V IMP NEG PRS
+w b e V SBJV NEG PRS
+y e f V HAB NEG PST
+_ i w V NFIN
+h e o h s ɛ V PROG PRS LGSPEC1
+s u _ n V PST LGSPEC1
+h y ɛ n a s e V PROG PST+IMMED
+b ɛ b o V HAB+PROG PST
+s u o b m u V PROG PRS LGSPEC1
+k i m V HAB NEG PRS
+h _ _ n o V PROG NEG PST LGSPEC1
+d m _ y s e V PRF PRS LGSPEC1
+o e ɔ V PROG NEG PRS+IMMED
+b u e V SBJV PRS
+h w n V PRF NEG PST LGSPEC1
+b g e V PROG PRS LGSPEC1
+g a d n d u V SBJV PRS
+h o u n e V PRF NEG PST LGSPEC1
+k e o w ɛ u V PST+IMMED
+b ɔ k n s ɔ m u V HAB+PROG PRS
+s h n V SBJV PRS
+w u a V PROG PRS LGSPEC1
+t a f e w r e V NEG PST+IMMED
+h o h o _ o V NFIN
+d o _ h a e V PST+IMMED
+o ɔ n V PROG PRS LGSPEC1
+h p e V HAB NEG FUT
+ɔ p a V HAB+PROG NEG PRS
+f u m V NFIN
+h u a n d V HAB+PRF PRS
+b u r u s V PROG PST+IMMED
+y u _ V PROG PST LGSPEC1
+t n e V PRF PST LGSPEC1
+p e w V PROG NEG PST LGSPEC1
+w o e V PROG PST+IMMED
+g b ɛ n s u V PST LGSPEC1
+h u d n ɔ V PRF PRS+IMMED
+h b a V HAB PST
+k f k a m u V NEG PST LGSPEC1
+ɛ o p u V NEG PRS LGSPEC1
+u m i h i V PRF PST+IMMED
+k p ɛ a m u V HAB+PRF NEG PRS
+t m o V PROG PST+IMMED
+m g a V IMP NEG PRS
+s ɔ r d a e V PROG PST LGSPEC1
+t o w V IMP NEG PRS
+p e o a V HAB+PRF NEG PRS
+k u i ɛ a V IMP PRS
+h ɛ a V PRF NEG PST LGSPEC1
+k p r k V PROG PRS LGSPEC1
+b g _ i s a m u V NEG PST+IMMED
+ɔ i a V PRF NEG PRS LGSPEC1
+t a f e e r e V HAB+PROG PRS
+d b e e V HAB+PROG PRS
+g k m V HAB PRS
+h y h ɔ a V IMP PRS
+s b s s a e V HAB+PROG NEG PST
+t m b V PROG PST LGSPEC1
+b i _ u V PRF PST+IMMED
+y i e a h y g ɛ a V HAB+PROG NEG PRS
+g ɔ e V PROG PRS+IMMED
+b o b ɔ b V IMP PRS
+b a f r V PROG PRS LGSPEC1
+s i w V PROG PRS+IMMED
+d d _ a y e V IMP NEG PRS
+k e n w a n V HAB NEG FUT
+k e r V HAB+PROG PST
+d b w V PRF PRS+IMMED
+f u ɛ V HAB+PRF PRS
+m a k a V HAB+PRF NEG PRS
+h y b r i V PROG PRS+IMMED
+y i _ a y ɛ w V SBJV NEG PRS
+k e e k a n V SBJV NEG PRS
+t d k m o o V PRF NEG PST LGSPEC1
+d a _ o u e V PRF NEG PRS+IMMED
+i w k t i V PROG PRS+IMMED
+ɔ e w V IMP NEG PRS
+m d t g V PRS LGSPEC1
+f b s a V HAB NEG PST
+k e m k a n V IMP NEG PRS
+s a s V NEG PRS LGSPEC1
+h u g V IMP PRS
+p i a V PROG NEG PST+IMMED
+b a r _ V HAB+PROG NEG PRS
+d p o V HAB+PROG PRS
+p n h V HAB NEG PST
+w n h V PST LGSPEC1
+t ɔ o V PRF PST LGSPEC1
+f r ɛ V PST+IMMED
+f u a V HAB+PRF NEG PST
+i f b ɔ w V PROG PRS+IMMED
+a i a V HAB PST
+h h d n t V HAB NEG PRS
+s d w V NEG PST+IMMED
+t u s n g e h n V SBJV PRS
+d a _ w k e V SBJV NEG PRS
+d ɔ m n s e V PRF PST+IMMED
+k e k ɔ _ u V NFIN
+d m ɔ V PROG NEG PST LGSPEC1
+s h _ V PRF PST LGSPEC1
+y i _ k y ɛ w V NFIN
+s h k k a e V PROG PRS+IMMED
+d i i V NEG PRS LGSPEC1
+k n f i a n V PRF PRS+IMMED
+y i t a r ɛ w V PROG NEG PST+IMMED
+n o f t V PRF NEG PST+IMMED
+d ɛ n u e e V PROG PST LGSPEC1
+h o h o r o V HAB+PROG PST
+r f ɛ ɔ w V IMP NEG PRS
+h y i n n V NEG PRS LGSPEC1
+f ɛ t V PRF PST+IMMED
+s a u a V HAB+PRF NEG PST
+f r p V HAB PST
+p k f V HAB+PRF PRS
+f u a n e V PRF PRS LGSPEC1
+h n r u w V SBJV NEG PRS
+e e k V PROG NEG PRS+IMMED
+ɔ o ɛ r V PROG PST+IMMED
+h i a V PROG PST+IMMED
+t d n V PST+IMMED
+f o w V HAB NEG PRS
+d o ɛ V HAB+PRF PRS
+t k u e e r e V HAB+PRF NEG PRS
+h u g n r V NFIN
+u f i g w V NEG PRS LGSPEC1
+y e a o V SBJV NEG PRS
+k y n s o n V SBJV PRS
+n b _ V NEG PRS LGSPEC1
+k r y V PRS LGSPEC1
+o r t V HAB FUT
+b i s a V NFIN
+h i w V HAB+PRF NEG PRS
+y m _ a y ɛ w V PRF NEG PST+IMMED
+s u m d V PROG PRS LGSPEC1
+s u o _ ɔ u V PROG NEG PST LGSPEC1
+s r u h ɛ u V PROG NEG PRS+IMMED
+k f a V HAB+PRF NEG PST
+k _ s h e h w V HAB NEG PRS

@@ -1,0 +1,100 @@
+iäjki	iäjjeksi	N;TRANS;SG
+iköki	iköjellä	N;AT+ESS;SG
+jälki	jäljelle	N;AT+ALL;SG
+häuki	häujeltä	N;AT+ABL;SG
+jjlki	jjljen	N;GEN;SG
+-jvki	-jvjessä	N;IN+ESS;SG
+j-lki	j-ljestä	N;IN+ABL;SG
+edöki	edöjet	N;ACC;PL
+övlki	övljet	N;NOM;PL
+jbfki	jbfjettä	N;PRIV;SG
+jtvki	jtvjiksi	N;TRANS;PL
+jf-ki	jf-jillä	N;AT+ESS;PL
+mälki	mäljille	N;AT+ALL;PL
+sävki	sävjiltä	N;AT+ABL;PL
+n-lki	n-ljin	N;INS;PL
+jötki	jötjissä	N;IN+ESS;PL
+jäuki	jäujistä	N;IN+ABL;PL
+aäaki	aäajittä	N;PRIV;PL
+jiesi	jieseä	N;PRT;SG
+jklki	jklkeen	N;IN+ALL;SG
+-fnki	-fnkenä	N;FRML;SG
+jälvu	jälvuä	N;PRT;PL
+järki	järkien	N;GEN;PL
+jhvki	jhvkiin	N;IN+ALL;PL
+jalti	jalti	N;ACC;SG
+jdlkn	jdlknnä	N;FRML;PL
+ikste	iksteneen	N;COM;PL
+tälku	tälku	N;NOM;SG
+  voipbaa	älä ole voipbanut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+  viittaa	älkäämme olko viittaneet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+ voostaa	älkäämme voostako	V;ACT;PRS;NEG;IMP;1;PL
+  vdiätaa	älkää olko vdiätaneet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+ vojt-aa	älkää vojt-ako	V;ACT;PRS;NEG;IMP;2;PL
+  eoittaa	älköön olko eoitettu	V;PASS;PRS;PRF;NEG;IMP
+  voyt-aa	älköön olko voyt-anut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+ blittaa	älköön blitettako	V;PASS;PRS;NEG;IMP
+ vjirdaa	älköön vjirdako	V;ACT;PRS;NEG;IMP;3;SG
+  vdittaa	älkööt olko vdittaneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+ väjttaa	älkööt väjttako	V;ACT;PRS;NEG;IMP;3;PL
+  vjittaa	ei liene vjitettu	V;PASS;PRS;PRF;NEG;POT
+  vbilraa	ei liene vbilranut	V;ACT;PRS;PRF;NEG;POT;3;SG
+  nuittaa	ei ole nuitettu	V;PASS;PRS;PRF;NEG;IND
+  vpintaa	ei ole vpintanut	V;ACT;PRS;PRF;NEG;IND;3;SG
+  vtiMtaa	ei olisi vtiMettu	V;PASS;PRS;PRF;NEG;COND
+  väyböaa	ei olisi väyböanut	V;ACT;PRS;PRF;NEG;COND;3;SG
+  vointaa	ei ollut voinettu	V;PASS;PST;PRF;NEG;IND
+  voirtaa	ei ollut voirtanut	V;ACT;PST;PRF;NEG;IND;3;SG
+  voiäbaa	eivät liene voiäbaneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+  vottfaa	eivät ole vottfaneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+  vonttaa	eivät olisi vonttaneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+  voiytaa	eivät olleet voiytaneet	V;ACT;PST;PRF;NEG;IND;3;PL
+ voiniaa	eivät voiniaisi	V;ACT;PRS;NEG;COND;3;PL
+ vsittaa	eivät vsittaneet	V;ACT;PST;NEG;IND;3;PL
+ voattaa	eivät voattane	V;ACT;PRS;NEG;POT;3;PL
+ ioiptaa	ei ioipeta	V;PASS;PRS;NEG;IND
+ tooptaa	ei toopettaisi	V;PASS;PRS;NEG;COND
+ hoöytaa	ei hoöyettane	V;PASS;PRS;NEG;POT
+ k-nttaa	ei k-ntettu	V;PASS;PST;NEG;IND
+ vovttaa	ei vovttaisi	V;ACT;PRS;NEG;COND;3;SG
+ vokvtaa	ei vokvtane	V;ACT;PRS;NEG;POT;3;SG
+ voituaa	ei voituanut	V;ACT;PST;NEG;IND;3;SG
+  voittaa	emme liene voittaneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+  vomtraa	emme ole vomtraneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+  vtittaa	emme olisi vtittaneet	V;ACT;PRS;PRF;NEG;COND;1;PL
+  voittaa	emme olleet voittaneet	V;ACT;PST;PRF;NEG;IND;1;PL
+ vsiktaa	emme vsiktaisi	V;ACT;PRS;NEG;COND;1;PL
+ vmi-taa	emme vmi-taneet	V;ACT;PST;NEG;IND;1;PL
+ voidfaa	emme voidfane	V;ACT;PRS;NEG;POT;1;PL
+  veijtaa	en liene veijtanut	V;ACT;PRS;PRF;NEG;POT;1;SG
+  vmrtuaa	en ole vmrtuanut	V;ACT;PRS;PRF;NEG;IND;1;SG
+  voeölaa	en olisi voeölanut	V;ACT;PRS;PRF;NEG;COND;1;SG
+  vmrttaa	en ollut vmrttanut	V;ACT;PST;PRF;NEG;IND;1;SG
+ vsikvaa	en vsikvaisi	V;ACT;PRS;NEG;COND;1;SG
+ vohhbaa	en vohhbane	V;ACT;PRS;NEG;POT;1;SG
+ vdiftaa	en vdiftanut	V;ACT;PST;NEG;IND;1;SG
+  väkrtaa	et liene väkrtanut	V;ACT;PRS;PRF;NEG;POT;2;SG
+  voostaa	et ole voostanut	V;ACT;PRS;PRF;NEG;IND;2;SG
+  vkitfaa	et olisi vkitfanut	V;ACT;PRS;PRF;NEG;COND;2;SG
+  voiteaa	et ollut voiteanut	V;ACT;PST;PRF;NEG;IND;2;SG
+  vompaaa	ette liene vompaaneet	V;ACT;PRS;PRF;NEG;POT;2;PL
+  vnmtvaa	ette ole vnmtvaneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+  voitoaa	ette olisi voitoaneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+  voitpaa	ette olleet voitpaneet	V;ACT;PST;PRF;NEG;IND;2;PL
+ vpiltaa	ette vpiltaisi	V;ACT;PRS;NEG;COND;2;PL
+ voMftaa	ette voMftaneet	V;ACT;PST;NEG;IND;2;PL
+ voattaa	ette voattane	V;ACT;PRS;NEG;POT;2;PL
+ vkjohaa	et vkjohaisi	V;ACT;PRS;NEG;COND;2;SG
+ vojitaa	et vojitane	V;ACT;PRS;NEG;POT;2;SG
+ vMiataa	et vMiatanut	V;ACT;PST;NEG;IND;2;SG
+ ktiktaa	lienee ktikettu	V;PASS;PRS;PRF;POS;POT
+ vtfMtaa	lienee vtfMtanut	V;ACT;PRS;PRF;POS;POT;3;SG
+ vsi-taa	lienemme vsi-taneet	V;ACT;PRS;PRF;POS;POT;1;PL
+ voistaa	lienen voistanut	V;ACT;PRS;PRF;POS;POT;1;SG
+ vaitpaa	lienette vaitpaneet	V;ACT;PRS;PRF;POS;POT;2;PL
+ voeiöaa	lienet voeiöanut	V;ACT;PRS;PRF;POS;POT;2;SG
+ voittaa	lienevät voittaneet	V;ACT;PRS;PRF;POS;POT;3;PL
+ vmitlaa	olemme vmitlaneet	V;ACT;PRS;PRF;POS;IND;1;PL
+ vsstfaa	olen vsstfanut	V;ACT;PRS;PRF;POS;IND;1;SG
+ vtittaa	olette vtittaneet	V;ACT;PRS;PRF;POS;IND;2;PL
+ votttaa	olet votttanut	V;ACT;PRS;PRF;POS;IND;2;SG

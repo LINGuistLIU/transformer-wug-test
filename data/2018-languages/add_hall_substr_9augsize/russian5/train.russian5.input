@@ -1,0 +1,6311 @@
+п е р е н а п р а в л е н и е N ACC SG
+п е р е н а п р а в л е н и е N NOM SG
+п е р е н а п р а в л е н и е N INS SG
+п е р е н а п р а в л е н и е N ESS SG
+п е р е н а п р а в л е н и е N GEN PL
+п е р е н а п р а в л е н и е N DAT SG
+п е р е н а п р а в л е н и е N ACC PL
+п е р е н а п р а в л е н и е N GEN SG
+п е р е н а п р а в л е н и е N NOM PL
+п е р е н а п р а в л е н и е N DAT PL
+п е р е н а п р а в л е н и е N INS PL
+п е р е н а п р а в л е н и е N ESS PL
+р а й о н N ACC SG
+р а й о н N NOM SG
+р а й о н N GEN SG
+р а й о н N DAT PL
+р а й о н N INS PL
+р а й о н N ESS PL
+р а й о н N ESS SG
+р а й о н N GEN PL
+р а й о н N INS SG
+р а й о н N DAT SG
+р а й о н N NOM PL
+с о с т а в N ACC SG
+с о с т а в N NOM SG
+с о с т а в N GEN SG
+с о с т а в N DAT PL
+с о с т а в N INS PL
+с о с т а в N ESS PL
+с о с т а в N ESS SG
+с о с т а в N GEN PL
+с о с т а в N INS SG
+с о с т а в N DAT SG
+с о с т а в N ACC PL
+с о с т а в N NOM PL
+я н в а р ь N ESS SG
+я н в а р ь N GEN PL
+я н в а р ь N INS SG
+я н в а р ь N NOM PL
+я н в а р ь N ACC SG
+я н в а р ь N NOM SG
+я н в а р ь N DAT SG
+я н в а р ь N GEN SG
+я н в а р ь N DAT PL
+я н в а р ь N INS PL
+я н в а р ь N ESS PL
+д е к а б р ь N ESS SG
+д е к а б р ь N GEN PL
+д е к а б р ь N INS SG
+д е к а б р ь N NOM PL
+д е к а б р ь N ACC SG
+д е к а б р ь N NOM SG
+д е к а б р ь N DAT SG
+д е к а б р ь N GEN SG
+д е к а б р ь N DAT PL
+д е к а б р ь N INS PL
+д е к а б р ь N ESS PL
+с е н т я б р ь N ESS SG
+с е н т я б р ь N GEN PL
+с е н т я б р ь N INS SG
+с е н т я б р ь N NOM PL
+с е н т я б р ь N ACC SG
+с е н т я б р ь N NOM SG
+с е н т я б р ь N DAT SG
+с е н т я б р ь N GEN SG
+с е н т я б р ь N DAT PL
+с е н т я б р ь N INS PL
+с е н т я б р ь N ESS PL
+о к т я б р ь N ESS SG
+о к т я б р ь N GEN PL
+о к т я б р ь N INS SG
+о к т я б р ь N NOM PL
+о к т я б р ь N ACC SG
+о к т я б р ь N NOM SG
+о к т я б р ь N DAT SG
+о к т я б р ь N GEN SG
+о к т я б р ь N DAT PL
+о к т я б р ь N INS PL
+о к т я б р ь N ESS PL
+а в г у с т N ACC SG
+а в г у с т N NOM SG
+а в г у с т N GEN SG
+а в г у с т N DAT PL
+а в г у с т N INS PL
+а в г у с т N ESS PL
+а в г у с т N ESS SG
+а в г у с т N GEN PL
+а в г у с т N INS SG
+а в г у с т N DAT SG
+а в г у с т N NOM PL
+а п р е л ь N ESS SG
+а п р е л ь N GEN PL
+а п р е л ь N INS SG
+а п р е л ь N NOM PL
+а п р е л ь N ACC SG
+а п р е л ь N NOM SG
+а п р е л ь N DAT SG
+а п р е л ь N GEN SG
+а п р е л ь N DAT PL
+а п р е л ь N INS PL
+а п р е л ь N ESS PL
+н о я б р ь N ESS SG
+н о я б р ь N GEN PL
+н о я б р ь N INS SG
+н о я б р ь N NOM PL
+н о я б р ь N ACC SG
+н о я б р ь N NOM SG
+н о я б р ь N DAT SG
+н о я б р ь N GEN SG
+н о я б р ь N DAT PL
+н о я б р ь N INS PL
+н о я б р ь N ESS PL
+д е р е в н я N GEN PL
+д е р е в н я N DAT SG
+д е р е в н я N ESS SG
+д е р е в н я N INS SG
+д е р е в н я N GEN SG
+д е р е в н я N NOM PL
+д е р е в н я N ACC SG
+д е р е в н я N NOM SG
+д е р е в н я N DAT PL
+д е р е в н я N INS PL
+д е р е в н я N ESS PL
+ф е в р а л ь N ESS SG
+ф е в р а л ь N GEN PL
+ф е в р а л ь N INS SG
+ф е в р а л ь N NOM PL
+ф е в р а л ь N ACC SG
+ф е в р а л ь N NOM SG
+ф е в р а л ь N DAT SG
+ф е в р а л ь N GEN SG
+ф е в р а л ь N DAT PL
+ф е в р а л ь N INS PL
+ф е в р а л ь N ESS PL
+т е р р и т о р и я N INS SG
+т е р р и т о р и я N DAT SG
+т е р р и т о р и я N ESS SG
+т е р р и т о р и я N GEN SG
+т е р р и т о р и я N NOM PL
+т е р р и т о р и я N GEN PL
+т е р р и т о р и я N ACC SG
+т е р р и т о р и я N NOM SG
+т е р р и т о р и я N DAT PL
+т е р р и т о р и я N INS PL
+т е р р и т о р и я N ESS PL
+н а с е л е н и е N ACC SG
+н а с е л е н и е N NOM SG
+н а с е л е н и е N INS SG
+н а с е л е н и е N ESS SG
+н а с е л е н и е N GEN PL
+н а с е л е н и е N DAT SG
+н а с е л е н и е N GEN SG
+н а с е л е н и е N NOM PL
+н а с е л е н и е N DAT PL
+н а с е л е н и е N INS PL
+н а с е л е н и е N ESS PL
+к а ч е с т в о N GEN PL
+к а ч е с т в о N GEN SG
+к а ч е с т в о N NOM PL
+к а ч е с т в о N DAT PL
+к а ч е с т в о N INS PL
+к а ч е с т в о N ESS PL
+к а ч е с т в о N ESS SG
+к а ч е с т в о N ACC SG
+к а ч е с т в о N NOM SG
+к а ч е с т в о N INS SG
+к а ч е с т в о N DAT SG
+и с т о р и я N INS SG
+и с т о р и я N DAT SG
+и с т о р и я N ESS SG
+и с т о р и я N GEN SG
+и с т о р и я N NOM PL
+и с т о р и я N GEN PL
+и с т о р и я N ACC SG
+и с т о р и я N NOM SG
+и с т о р и я N DAT PL
+и с т о р и я N INS PL
+и с т о р и я N ESS PL
+у ч а с т и е N ACC SG
+у ч а с т и е N NOM SG
+у ч а с т и е N INS SG
+у ч а с т и е N ESS SG
+у ч а с т и е N GEN PL
+у ч а с т и е N DAT SG
+у ч а с т и е N GEN SG
+у ч а с т и е N NOM PL
+у ч а с т и е N DAT PL
+у ч а с т и е N INS PL
+у ч а с т и е N ESS PL
+у н и в е р с и т е т N ACC SG
+у н и в е р с и т е т N NOM SG
+у н и в е р с и т е т N GEN SG
+у н и в е р с и т е т N DAT PL
+у н и в е р с и т е т N INS PL
+у н и в е р с и т е т N ESS PL
+у н и в е р с и т е т N ESS SG
+у н и в е р с и т е т N GEN PL
+у н и в е р с и т е т N INS SG
+у н и в е р с и т е т N DAT SG
+у н и в е р с и т е т N NOM PL
+п у н к т N ACC SG
+п у н к т N NOM SG
+п у н к т N GEN SG
+п у н к т N DAT PL
+п у н к т N INS PL
+п у н к т N ESS PL
+п у н к т N ESS SG
+п у н к т N GEN PL
+п у н к т N INS SG
+п у н к т N DAT SG
+п у н к т N NOM PL
+р а б о т а N GEN PL
+р а б о т а N NOM SG
+р а б о т а N DAT PL
+р а б о т а N INS PL
+р а б о т а N ESS PL
+р а б о т а N DAT SG
+р а б о т а N ESS SG
+р а б о т а N INS SG
+р а б о т а N ACC SG
+р а б о т а N GEN SG
+р а б о т а N NOM PL
+п е р и о д N ACC SG
+п е р и о д N NOM SG
+п е р и о д N GEN SG
+п е р и о д N DAT PL
+п е р и о д N INS PL
+п е р и о д N ESS PL
+п е р и о д N ESS SG
+п е р и о д N GEN PL
+п е р и о д N INS SG
+п е р и о д N DAT SG
+п е р и о д N NOM PL
+д а н н ы е N ACC SG
+д а н н ы е N NOM SG
+д а н н ы е N DAT SG
+д а н н ы е N INS SG
+д а н н ы е N ESS SG
+д а н н ы е N GEN SG
+с т е п е н ь N GEN PL
+с т е п е н ь N DAT SG
+с т е п е н ь N ESS SG
+с т е п е н ь N GEN SG
+с т е п е н ь N NOM PL
+с т е п е н ь N ACC SG
+с т е п е н ь N NOM SG
+с т е п е н ь N INS SG
+с т е п е н ь N DAT PL
+с т е п е н ь N INS PL
+с т е п е н ь N ESS PL
+п о с е л е н и е N ACC SG
+п о с е л е н и е N NOM SG
+п о с е л е н и е N INS SG
+п о с е л е н и е N ESS SG
+п о с е л е н и е N GEN PL
+п о с е л е н и е N DAT SG
+п о с е л е н и е N ACC PL
+п о с е л е н и е N GEN SG
+п о с е л е н и е N NOM PL
+п о с е л е н и е N DAT PL
+п о с е л е н и е N INS PL
+п о с е л е н и е N ESS PL
+р а б о т а т ь V FUT 1 PL
+р а б о т а т ь V FUT 2 PL
+р а б о т а т ь V FUT 3 SG
+р а б о т а т ь V FUT 2 SG
+р а б о т а т ь V FUT 1 SG
+р а б о т а т ь V FUT 3 PL
+р а б о т а т ь V.CVB PST
+р а б о т а т ь V.PTCP ACT PST
+р а б о т а т ь V PRS 1 PL
+р а б о т а т ь V PRS 3 SG
+р а б о т а т ь V PRS 2 PL
+р а б о т а т ь V PRS 2 SG
+р а б о т а т ь V IMP 2 SG
+р а б о т а т ь V IMP 2 PL
+р а б о т а т ь V PST SG MASC
+р а б о т а т ь V PST SG FEM
+р а б о т а т ь V PST PL
+р а б о т а т ь V PST SG NEUT
+р а б о т а т ь V NFIN
+р а б о т а т ь V PRS 1 SG
+р а б о т а т ь V PRS 3 PL
+р а б о т а т ь V.PTCP ACT PRS
+р а б о т а т ь V.CVB PRS
+с б о р н а я N NOM SG
+с б о р н а я N DAT SG
+с б о р н а я N ESS SG
+с б о р н а я N GEN SG
+с б о р н а я N INS SG
+с б о р н а я N ACC SG
+с б о р н а я N ACC PL
+с б о р н а я N NOM PL
+с б о р н а я N DAT PL
+с б о р н а я N INS PL
+с б о р н а я N ESS PL
+с б о р н а я N GEN PL
+с о в е т с к и й ADJ NOM FEM SG
+с о в е т с к и й ADJ ACC INAN PL
+с о в е т с к и й ADJ NOM PL
+с о в е т с к и й ADJ INAN ACC MASC SG
+с о в е т с к и й ADJ NOM MASC SG
+с о в е т с к и й ADJ DAT PL
+с о в е т с к и й ADJ INS MASC SG
+с о в е т с к и й ADJ INS NEUT SG
+с о в е т с к и й ADJ INS PL
+с о в е т с к и й ADJ ACC ANIM PL
+с о в е т с к и й ADJ ESS PL
+с о в е т с к и й ADJ GEN PL
+с о в е т с к и й ADJ ANIM ACC MASC SG
+с о в е т с к и й ADJ GEN MASC SG
+с о в е т с к и й ADJ GEN NEUT SG
+с о в е т с к и й ADJ ACC NEUT SG
+с о в е т с к и й ADJ NOM NEUT SG
+с о в е т с к и й ADJ DAT FEM SG
+с о в е т с к и й ADJ ESS FEM SG
+с о в е т с к и й ADJ GEN FEM SG
+с о в е т с к и й ADJ INS FEM SG
+с о в е т с к и й ADJ ESS MASC SG
+с о в е т с к и й ADJ ESS NEUT SG
+с о в е т с к и й ADJ DAT MASC SG
+с о в е т с к и й ADJ DAT NEUT SG
+с о в е т с к и й ADJ ACC FEM SG
+с е л ь с к и й ADJ NOM FEM SG
+с е л ь с к и й ADJ ACC INAN PL
+с е л ь с к и й ADJ NOM PL
+с е л ь с к и й ADJ INAN ACC MASC SG
+с е л ь с к и й ADJ NOM MASC SG
+с е л ь с к и й ADJ DAT PL
+с е л ь с к и й ADJ INS MASC SG
+с е л ь с к и й ADJ INS NEUT SG
+с е л ь с к и й ADJ INS PL
+с е л ь с к и й ADJ ACC ANIM PL
+с е л ь с к и й ADJ ESS PL
+с е л ь с к и й ADJ GEN PL
+с е л ь с к и й ADJ ANIM ACC MASC SG
+с е л ь с к и й ADJ GEN MASC SG
+с е л ь с к и й ADJ GEN NEUT SG
+с е л ь с к и й ADJ ACC NEUT SG
+с е л ь с к и й ADJ NOM NEUT SG
+с е л ь с к и й ADJ DAT FEM SG
+с е л ь с к и й ADJ ESS FEM SG
+с е л ь с к и й ADJ GEN FEM SG
+с е л ь с к и й ADJ INS FEM SG
+с е л ь с к и й ADJ ESS MASC SG
+с е л ь с к и й ADJ ESS NEUT SG
+с е л ь с к и й ADJ DAT MASC SG
+с е л ь с к и й ADJ DAT NEUT SG
+с е л ь с к и й ADJ ACC FEM SG
+р е з у л ь т а т N ACC SG
+р е з у л ь т а т N NOM SG
+р е з у л ь т а т N GEN SG
+р е з у л ь т а т N DAT PL
+р е з у л ь т а т N INS PL
+р е з у л ь т а т N ESS PL
+р е з у л ь т а т N ESS SG
+р е з у л ь т а т N GEN PL
+р е з у л ь т а т N INS SG
+р е з у л ь т а т N DAT SG
+р е з у л ь т а т N NOM PL
+ц е р к о в ь N GEN PL
+ц е р к о в ь N DAT SG
+ц е р к о в ь N ESS SG
+ц е р к о в ь N GEN SG
+ц е р к о в ь N NOM PL
+ц е р к о в ь N DAT PL
+ц е р к о в ь N INS PL
+ц е р к о в ь N ESS PL
+ц е р к о в ь N ACC SG
+ц е р к о в ь N NOM SG
+ц е р к о в ь N INS SG
+о б р а з о в а н и е N ACC SG
+о б р а з о в а н и е N NOM SG
+о б р а з о в а н и е N INS SG
+о б р а з о в а н и е N ESS SG
+о б р а з о в а н и е N GEN PL
+о б р а з о в а н и е N DAT SG
+о б р а з о в а н и е N GEN SG
+о б р а з о в а н и е N NOM PL
+о б р а з о в а н и е N DAT PL
+о б р а з о в а н и е N INS PL
+о б р а з о в а н и е N ESS PL
+с т р а н а N GEN PL
+с т р а н а N NOM SG
+с т р а н а N DAT PL
+с т р а н а N INS PL
+с т р а н а N ESS PL
+с т р а н а N DAT SG
+с т р а н а N ESS SG
+с т р а н а N INS SG
+с т р а н а N ACC SG
+с т р а н а N GEN SG
+с т р а н а N NOM PL
+п е р е п и с ь N GEN PL
+п е р е п и с ь N DAT SG
+п е р е п и с ь N ESS SG
+п е р е п и с ь N GEN SG
+п е р е п и с ь N NOM PL
+п е р е п и с ь N ACC SG
+п е р е п и с ь N NOM SG
+п е р е п и с ь N INS SG
+п е р е п и с ь N DAT PL
+п е р е п и с ь N INS PL
+п е р е п и с ь N ESS PL
+п а р т и я N INS SG
+п а р т и я N DAT SG
+п а р т и я N ESS SG
+п а р т и я N GEN SG
+п а р т и я N NOM PL
+п а р т и я N GEN PL
+п а р т и я N ACC SG
+п а р т и я N NOM SG
+п а р т и я N DAT PL
+п а р т и я N INS PL
+п а р т и я N ESS PL
+т е ч е н и е N ACC SG
+т е ч е н и е N NOM SG
+т е ч е н и е N INS SG
+т е ч е н и е N ESS SG
+т е ч е н и е N GEN PL
+т е ч е н и е N DAT SG
+т е ч е н и е N GEN SG
+т е ч е н и е N NOM PL
+т е ч е н и е N DAT PL
+т е ч е н и е N INS PL
+т е ч е н и е N ESS PL
+к о м а н д а N GEN PL
+к о м а н д а N NOM SG
+к о м а н д а N DAT PL
+к о м а н д а N INS PL
+к о м а н д а N ESS PL
+к о м а н д а N DAT SG
+к о м а н д а N ESS SG
+к о м а н д а N INS SG
+к о м а н д а N ACC SG
+к о м а н д а N GEN SG
+к о м а н д а N NOM PL
+к у л ь т у р а N GEN PL
+к у л ь т у р а N NOM SG
+к у л ь т у р а N DAT PL
+к у л ь т у р а N INS PL
+к у л ь т у р а N ESS PL
+к у л ь т у р а N DAT SG
+к у л ь т у р а N ESS SG
+к у л ь т у р а N INS SG
+к у л ь т у р а N ACC SG
+к у л ь т у р а N GEN SG
+к у л ь т у р а N NOM PL
+с т о р о н а N GEN PL
+с т о р о н а N NOM SG
+с т о р о н а N DAT PL
+с т о р о н а N INS PL
+с т о р о н а N ESS PL
+с т о р о н а N DAT SG
+с т о р о н а N ESS SG
+с т о р о н а N INS SG
+с т о р о н а N ACC SG
+с т о р о н а N GEN SG
+с т о р о н а N NOM PL
+и м п е р и я N INS SG
+и м п е р и я N ACC PL
+и м п е р и я N DAT SG
+и м п е р и я N ESS SG
+и м п е р и я N GEN SG
+и м п е р и я N NOM PL
+и м п е р и я N GEN PL
+и м п е р и я N ACC SG
+и м п е р и я N NOM SG
+и м п е р и я N DAT PL
+и м п е р и я N INS PL
+и м п е р и я N ESS PL
+ч е м п и о н а т N ACC SG
+ч е м п и о н а т N NOM SG
+ч е м п и о н а т N GEN SG
+ч е м п и о н а т N DAT PL
+ч е м п и о н а т N INS PL
+ч е м п и о н а т N ESS PL
+ч е м п и о н а т N ESS SG
+ч е м п и о н а т N GEN PL
+ч е м п и о н а т N INS SG
+ч е м п и о н а т N DAT SG
+ч е м п и о н а т N NOM PL
+ц е н т р N ACC SG
+ц е н т р N NOM SG
+ц е н т р N GEN SG
+ц е н т р N DAT PL
+ц е н т р N INS PL
+ц е н т р N ESS PL
+ц е н т р N ESS SG
+ц е н т р N GEN PL
+ц е н т р N INS SG
+ц е н т р N DAT SG
+ц е н т р N NOM PL
+м и р о в о й ADJ NOM FEM SG
+м и р о в о й ADJ ANIM ACC MASC SG
+м и р о в о й ADJ GEN MASC SG
+м и р о в о й ADJ GEN NEUT SG
+м и р о в о й ADJ ACC NEUT SG
+м и р о в о й ADJ NOM NEUT SG
+м и р о в о й ADJ DAT FEM SG
+м и р о в о й ADJ ESS FEM SG
+м и р о в о й ADJ GEN FEM SG
+м и р о в о й ADJ INAN ACC MASC SG
+м и р о в о й ADJ INS FEM SG
+м и р о в о й ADJ NOM MASC SG
+м и р о в о й ADJ ESS MASC SG
+м и р о в о й ADJ ESS NEUT SG
+м и р о в о й ADJ DAT MASC SG
+м и р о в о й ADJ DAT NEUT SG
+м и р о в о й ADJ ACC FEM SG
+м и р о в о й ADJ ACC INAN PL
+м и р о в о й ADJ NOM PL
+м и р о в о й ADJ DAT PL
+м и р о в о й ADJ INS MASC SG
+м и р о в о й ADJ INS NEUT SG
+м и р о в о й ADJ INS PL
+м и р о в о й ADJ ACC ANIM PL
+м и р о в о й ADJ ESS PL
+м и р о в о й ADJ GEN PL
+а к а д е м и я N INS SG
+а к а д е м и я N DAT SG
+а к а д е м и я N ESS SG
+а к а д е м и я N GEN SG
+а к а д е м и я N NOM PL
+а к а д е м и я N GEN PL
+а к а д е м и я N ACC SG
+а к а д е м и я N NOM SG
+а к а д е м и я N DAT PL
+а к а д е м и я N INS PL
+а к а д е м и я N ESS PL
+к о м п а н и я N INS SG
+к о м п а н и я N DAT SG
+к о м п а н и я N ESS SG
+к о м п а н и я N GEN SG
+к о м п а н и я N NOM PL
+к о м п а н и я N GEN PL
+к о м п а н и я N ACC SG
+к о м п а н и я N NOM SG
+к о м п а н и я N DAT PL
+к о м п а н и я N INS PL
+к о м п а н и я N ESS PL
+п р е м и я N INS SG
+п р е м и я N DAT SG
+п р е м и я N ESS SG
+п р е м и я N GEN SG
+п р е м и я N NOM PL
+п р е м и я N GEN PL
+п р е м и я N ACC SG
+п р е м и я N NOM SG
+п р е м и я N DAT PL
+п р е м и я N INS PL
+п р е м и я N ESS PL
+с е з о н N ACC SG
+с е з о н N NOM SG
+с е з о н N GEN SG
+с е з о н N DAT PL
+с е з о н N INS PL
+с е з о н N ESS PL
+с е з о н N ESS SG
+с е з о н N GEN PL
+с е з о н N INS SG
+с е з о н N DAT SG
+с е з о н N ACC PL
+с е з о н N NOM PL
+н а с т о я щ е е N GEN SG
+н а с т о я щ е е N ACC SG
+н а с т о я щ е е N NOM SG
+н а с т о я щ е е N ESS SG
+н а с т о я щ е е N DAT SG
+н а с т о я щ е е N INS SG
+о р г а н и з а ц и я N INS SG
+о р г а н и з а ц и я N DAT SG
+о р г а н и з а ц и я N ESS SG
+о р г а н и з а ц и я N GEN SG
+о р г а н и з а ц и я N NOM PL
+о р г а н и з а ц и я N GEN PL
+о р г а н и з а ц и я N ACC SG
+о р г а н и з а ц и я N NOM SG
+о р г а н и з а ц и я N DAT PL
+о р г а н и з а ц и я N INS PL
+о р г а н и з а ц и я N ESS PL
+у п р а в л е н и е N ACC SG
+у п р а в л е н и е N NOM SG
+у п р а в л е н и е N INS SG
+у п р а в л е н и е N ESS SG
+у п р а в л е н и е N GEN PL
+у п р а в л е н и е N DAT SG
+у п р а в л е н и е N GEN SG
+у п р а в л е н и е N NOM PL
+у п р а в л е н и е N DAT PL
+у п р а в л е н и е N INS PL
+у п р а в л е н и е N ESS PL
+с т а н ц и я N INS SG
+с т а н ц и я N DAT SG
+с т а н ц и я N ESS SG
+с т а н ц и я N GEN SG
+с т а н ц и я N NOM PL
+с т а н ц и я N GEN PL
+с т а н ц и я N ACC SG
+с т а н ц и я N NOM SG
+с т а н ц и я N DAT PL
+с т а н ц и я N INS PL
+с т а н ц и я N ESS PL
+п л о щ а д ь N GEN PL
+п л о щ а д ь N DAT SG
+п л о щ а д ь N ESS SG
+п л о щ а д ь N GEN SG
+п л о щ а д ь N NOM PL
+п л о щ а д ь N ACC SG
+п л о щ а д ь N NOM SG
+п л о щ а д ь N INS SG
+п л о щ а д ь N DAT PL
+п л о щ а д ь N INS PL
+п л о щ а д ь N ESS PL
+р о с с и й с к и й ADJ NOM FEM SG
+р о с с и й с к и й ADJ ACC INAN PL
+р о с с и й с к и й ADJ NOM PL
+р о с с и й с к и й ADJ INAN ACC MASC SG
+р о с с и й с к и й ADJ NOM MASC SG
+р о с с и й с к и й ADJ DAT PL
+р о с с и й с к и й ADJ INS MASC SG
+р о с с и й с к и й ADJ INS NEUT SG
+р о с с и й с к и й ADJ INS PL
+р о с с и й с к и й ADJ ACC ANIM PL
+р о с с и й с к и й ADJ ESS PL
+р о с с и й с к и й ADJ GEN PL
+р о с с и й с к и й ADJ ANIM ACC MASC SG
+р о с с и й с к и й ADJ GEN MASC SG
+р о с с и й с к и й ADJ GEN NEUT SG
+р о с с и й с к и й ADJ ACC NEUT SG
+р о с с и й с к и й ADJ NOM NEUT SG
+р о с с и й с к и й ADJ DAT FEM SG
+р о с с и й с к и й ADJ ESS FEM SG
+р о с с и й с к и й ADJ GEN FEM SG
+р о с с и й с к и й ADJ INS FEM SG
+р о с с и й с к и й ADJ ESS MASC SG
+р о с с и й с к и й ADJ ESS NEUT SG
+р о с с и й с к и й ADJ DAT MASC SG
+р о с с и й с к и й ADJ DAT NEUT SG
+р о с с и й с к и й ADJ ACC FEM SG
+м е т р N ACC SG
+м е т р N NOM SG
+м е т р N GEN SG
+м е т р N DAT PL
+м е т р N INS PL
+м е т р N ESS PL
+м е т р N ESS SG
+м е т р N GEN PL
+м е т р N INS SG
+м е т р N DAT SG
+м е т р N NOM PL
+г у б е р н и я N INS SG
+г у б е р н и я N ACC PL
+г у б е р н и я N DAT SG
+г у б е р н и я N ESS SG
+г у б е р н и я N GEN SG
+г у б е р н и я N NOM PL
+г у б е р н и я N GEN PL
+г у б е р н и я N ACC SG
+г у б е р н и я N NOM SG
+г у б е р н и я N DAT PL
+г у б е р н и я N INS PL
+г у б е р н и я N ESS PL
+к о л и ч е с т в о N GEN PL
+к о л и ч е с т в о N GEN SG
+к о л и ч е с т в о N NOM PL
+к о л и ч е с т в о N DAT PL
+к о л и ч е с т в о N INS PL
+к о л и ч е с т в о N ESS PL
+к о л и ч е с т в о N ESS SG
+к о л и ч е с т в о N ACC SG
+к о л и ч е с т в о N NOM SG
+к о л и ч е с т в о N INS SG
+к о л и ч е с т в о N DAT SG
+д е я т е л ь N ESS SG
+д е я т е л ь N GEN PL
+д е я т е л ь N INS SG
+д е я т е л ь N NOM PL
+д е я т е л ь N NOM SG
+д е я т е л ь N DAT SG
+д е я т е л ь N ACC SG
+д е я т е л ь N GEN SG
+д е я т е л ь N DAT PL
+д е я т е л ь N INS PL
+д е я т е л ь N ESS PL
+а л ь б о м N ACC SG
+а л ь б о м N NOM SG
+а л ь б о м N GEN SG
+а л ь б о м N DAT PL
+а л ь б о м N INS PL
+а л ь б о м N ESS PL
+а л ь б о м N ESS SG
+а л ь б о м N GEN PL
+а л ь б о м N INS SG
+а л ь б о м N DAT SG
+а л ь б о м N ACC PL
+а л ь б о м N NOM PL
+д и в и з и я N INS SG
+д и в и з и я N ACC PL
+д и в и з и я N DAT SG
+д и в и з и я N ESS SG
+д и в и з и я N GEN SG
+д и в и з и я N NOM PL
+д и в и з и я N GEN PL
+д и в и з и я N ACC SG
+д и в и з и я N NOM SG
+д и в и з и я N DAT PL
+д и в и з и я N INS PL
+д и в и з и я N ESS PL
+г о с у д а р с т в е н н ы й ADJ NOM FEM SG
+г о с у д а р с т в е н н ы й ADJ ANIM ACC MASC SG
+г о с у д а р с т в е н н ы й ADJ GEN MASC SG
+г о с у д а р с т в е н н ы й ADJ GEN NEUT SG
+г о с у д а р с т в е н н ы й ADJ ACC NEUT SG
+г о с у д а р с т в е н н ы й ADJ NOM NEUT SG
+г о с у д а р с т в е н н ы й ADJ DAT FEM SG
+г о с у д а р с т в е н н ы й ADJ ESS FEM SG
+г о с у д а р с т в е н н ы й ADJ GEN FEM SG
+г о с у д а р с т в е н н ы й ADJ INS FEM SG
+г о с у д а р с т в е н н ы й ADJ ESS MASC SG
+г о с у д а р с т в е н н ы й ADJ ESS NEUT SG
+г о с у д а р с т в е н н ы й ADJ DAT MASC SG
+г о с у д а р с т в е н н ы й ADJ DAT NEUT SG
+г о с у д а р с т в е н н ы й ADJ ACC FEM SG
+г о с у д а р с т в е н н ы й ADJ ACC INAN PL
+г о с у д а р с т в е н н ы й ADJ NOM PL
+г о с у д а р с т в е н н ы й ADJ INAN ACC MASC SG
+г о с у д а р с т в е н н ы й ADJ NOM MASC SG
+г о с у д а р с т в е н н ы й ADJ DAT PL
+г о с у д а р с т в е н н ы й ADJ INS MASC SG
+г о с у д а р с т в е н н ы й ADJ INS NEUT SG
+г о с у д а р с т в е н н ы й ADJ INS PL
+г о с у д а р с т в е н н ы й ADJ ACC ANIM PL
+г о с у д а р с т в е н н ы й ADJ ESS PL
+г о с у д а р с т в е н н ы й ADJ GEN PL
+п е р в о е N GEN SG
+п е р в о е N ACC SG
+п е р в о е N NOM SG
+п е р в о е N ESS SG
+п е р в о е N DAT SG
+п е р в о е N ACC PL
+п е р в о е N NOM PL
+п е р в о е N DAT PL
+п е р в о е N INS SG
+п е р в о е N INS PL
+п е р в о е N ESS PL
+п е р в о е N GEN PL
+м о м е н т N ACC SG
+м о м е н т N NOM SG
+м о м е н т N GEN SG
+м о м е н т N DAT PL
+м о м е н т N INS PL
+м о м е н т N ESS PL
+м о м е н т N ESS SG
+м о м е н т N GEN PL
+м о м е н т N INS SG
+м о м е н т N DAT SG
+м о м е н т N NOM PL
+р а з л и ч н ы й ADJ MASC SG LGSPEC1
+р а з л и ч н ы й ADJ FEM SG LGSPEC1
+р а з л и ч н ы й ADJ NOM FEM SG
+р а з л и ч н ы й ADJ NEUT SG LGSPEC1
+р а з л и ч н ы й ADJ ANIM ACC MASC SG
+р а з л и ч н ы й ADJ GEN MASC SG
+р а з л и ч н ы й ADJ GEN NEUT SG
+р а з л и ч н ы й ADJ ACC NEUT SG
+р а з л и ч н ы й ADJ NOM NEUT SG
+р а з л и ч н ы й ADJ DAT FEM SG
+р а з л и ч н ы й ADJ ESS FEM SG
+р а з л и ч н ы й ADJ GEN FEM SG
+р а з л и ч н ы й ADJ INS FEM SG
+р а з л и ч н ы й ADJ ESS MASC SG
+р а з л и ч н ы й ADJ ESS NEUT SG
+р а з л и ч н ы й ADJ DAT MASC SG
+р а з л и ч н ы й ADJ DAT NEUT SG
+р а з л и ч н ы й ADJ ACC FEM SG
+р а з л и ч н ы й ADJ PL LGSPEC1
+р а з л и ч н ы й ADJ ACC INAN PL
+р а з л и ч н ы й ADJ NOM PL
+р а з л и ч н ы й ADJ INAN ACC MASC SG
+р а з л и ч н ы й ADJ NOM MASC SG
+р а з л и ч н ы й ADJ DAT PL
+р а з л и ч н ы й ADJ INS MASC SG
+р а з л и ч н ы й ADJ INS NEUT SG
+р а з л и ч н ы й ADJ INS PL
+р а з л и ч н ы й ADJ ACC ANIM PL
+р а з л и ч н ы й ADJ ESS PL
+р а з л и ч н ы й ADJ GEN PL
+д е я т е л ь н о с т ь N GEN PL
+д е я т е л ь н о с т ь N DAT SG
+д е я т е л ь н о с т ь N ESS SG
+д е я т е л ь н о с т ь N GEN SG
+д е я т е л ь н о с т ь N NOM PL
+д е я т е л ь н о с т ь N ACC SG
+д е я т е л ь н о с т ь N NOM SG
+д е я т е л ь н о с т ь N INS SG
+д е я т е л ь н о с т ь N DAT PL
+д е я т е л ь н о с т ь N INS PL
+д е я т е л ь н о с т ь N ESS PL
+ф и л ь м N ACC SG
+ф и л ь м N NOM SG
+ф и л ь м N GEN SG
+ф и л ь м N DAT PL
+ф и л ь м N INS PL
+ф и л ь м N ESS PL
+ф и л ь м N ESS SG
+ф и л ь м N GEN PL
+ф и л ь м N INS SG
+ф и л ь м N DAT SG
+ф и л ь м N NOM PL
+и н с т и т у т N ACC SG
+и н с т и т у т N NOM SG
+и н с т и т у т N GEN SG
+и н с т и т у т N DAT PL
+и н с т и т у т N INS PL
+и н с т и т у т N ESS PL
+и н с т и т у т N ESS SG
+и н с т и т у т N GEN PL
+и н с т и т у т N INS SG
+и н с т и т у т N DAT SG
+и н с т и т у т N NOM PL
+ч а с т н о с т ь N GEN PL
+ч а с т н о с т ь N DAT SG
+ч а с т н о с т ь N ESS SG
+ч а с т н о с т ь N GEN SG
+ч а с т н о с т ь N NOM PL
+ч а с т н о с т ь N ACC SG
+ч а с т н о с т ь N NOM SG
+ч а с т н о с т ь N INS SG
+ч а с т н о с т ь N DAT PL
+ч а с т н о с т ь N INS PL
+ч а с т н о с т ь N ESS PL
+с о в е т N ACC SG
+с о в е т N NOM SG
+с о в е т N GEN SG
+с о в е т N DAT PL
+с о в е т N INS PL
+с о в е т N ESS PL
+с о в е т N ESS SG
+с о в е т N GEN PL
+с о в е т N INS SG
+с о в е т N DAT SG
+с о в е т N NOM PL
+о с н о в н о е N GEN SG
+о с н о в н о е N ACC SG
+о с н о в н о е N NOM SG
+о с н о в н о е N ESS SG
+о с н о в н о е N DAT SG
+о с н о в н о е N INS SG
+з н а ч е н и е N ACC SG
+з н а ч е н и е N NOM SG
+з н а ч е н и е N INS SG
+з н а ч е н и е N ESS SG
+з н а ч е н и е N GEN PL
+з н а ч е н и е N DAT SG
+з н а ч е н и е N GEN SG
+з н а ч е н и е N NOM PL
+з н а ч е н и е N DAT PL
+з н а ч е н и е N INS PL
+з н а ч е н и е N ESS PL
+к л а д б и щ е N GEN PL
+к л а д б и щ е N GEN SG
+к л а д б и щ е N NOM PL
+к л а д б и щ е N DAT PL
+к л а д б и щ е N INS PL
+к л а д б и щ е N ESS PL
+к л а д б и щ е N ACC SG
+к л а д б и щ е N ESS SG
+к л а д б и щ е N NOM SG
+к л а д б и щ е N INS SG
+к л а д б и щ е N DAT SG
+л е т н и й ADJ NEUT SG LGSPEC1
+л е т н и й ADJ ANIM ACC MASC SG
+л е т н и й ADJ GEN MASC SG
+л е т н и й ADJ GEN NEUT SG
+л е т н и й ADJ ACC NEUT SG
+л е т н и й ADJ NOM NEUT SG
+л е т н и й ADJ DAT FEM SG
+л е т н и й ADJ ESS FEM SG
+л е т н и й ADJ GEN FEM SG
+л е т н и й ADJ INS FEM SG
+л е т н и й ADJ ESS MASC SG
+л е т н и й ADJ ESS NEUT SG
+л е т н и й ADJ DAT MASC SG
+л е т н и й ADJ DAT NEUT SG
+л е т н и й ADJ PL LGSPEC1
+л е т н и й ADJ ACC INAN PL
+л е т н и й ADJ NOM PL
+л е т н и й ADJ INAN ACC MASC SG
+л е т н и й ADJ NOM MASC SG
+л е т н и й ADJ DAT PL
+л е т н и й ADJ INS MASC SG
+л е т н и й ADJ INS NEUT SG
+л е т н и й ADJ INS PL
+л е т н и й ADJ ACC ANIM PL
+л е т н и й ADJ ESS PL
+л е т н и й ADJ GEN PL
+л е т н и й ADJ ACC FEM SG
+л е т н и й ADJ FEM SG LGSPEC1
+л е т н и й ADJ NOM FEM SG
+м н о г и й ADJ MASC SG LGSPEC1
+м н о г и й ADJ FEM SG LGSPEC1
+м н о г и й ADJ NOM FEM SG
+м н о г и й ADJ PL LGSPEC1
+м н о г и й ADJ ACC INAN PL
+м н о г и й ADJ NOM PL
+м н о г и й ADJ INAN ACC MASC SG
+м н о г и й ADJ NOM MASC SG
+м н о г и й ADJ DAT PL
+м н о г и й ADJ INS MASC SG
+м н о г и й ADJ INS NEUT SG
+м н о г и й ADJ INS PL
+м н о г и й ADJ ACC ANIM PL
+м н о г и й ADJ ESS PL
+м н о г и й ADJ GEN PL
+м н о г и й ADJ NEUT SG LGSPEC1
+м н о г и й ADJ ANIM ACC MASC SG
+м н о г и й ADJ GEN MASC SG
+м н о г и й ADJ GEN NEUT SG
+м н о г и й ADJ ACC NEUT SG
+м н о г и й ADJ NOM NEUT SG
+м н о г и й ADJ DAT FEM SG
+м н о г и й ADJ ESS FEM SG
+м н о г и й ADJ GEN FEM SG
+м н о г и й ADJ INS FEM SG
+м н о г и й ADJ ESS MASC SG
+м н о г и й ADJ ESS NEUT SG
+м н о г и й ADJ DAT MASC SG
+м н о г и й ADJ DAT NEUT SG
+м н о г и й ADJ ACC FEM SG
+д о л ж н о с т ь N GEN PL
+д о л ж н о с т ь N DAT SG
+д о л ж н о с т ь N ESS SG
+д о л ж н о с т ь N GEN SG
+д о л ж н о с т ь N NOM PL
+д о л ж н о с т ь N ACC SG
+д о л ж н о с т ь N NOM SG
+д о л ж н о с т ь N INS SG
+д о л ж н о с т ь N DAT PL
+д о л ж н о с т ь N INS PL
+д о л ж н о с т ь N ESS PL
+п о с ё л о к N GEN SG
+п о с ё л о к N DAT PL
+п о с ё л о к N INS PL
+п о с ё л о к N ESS PL
+п о с ё л о к N ESS SG
+п о с ё л о к N ACC PL
+п о с ё л о к N NOM PL
+п о с ё л о к N GEN PL
+п о с ё л о к N INS SG
+п о с ё л о к N DAT SG
+п о с ё л о к N ACC SG
+п о с ё л о к N NOM SG
+г о р о д с к о й ADJ NOM FEM SG
+г о р о д с к о й ADJ ACC INAN PL
+г о р о д с к о й ADJ NOM PL
+г о р о д с к о й ADJ DAT PL
+г о р о д с к о й ADJ INS MASC SG
+г о р о д с к о й ADJ INS NEUT SG
+г о р о д с к о й ADJ INS PL
+г о р о д с к о й ADJ ACC ANIM PL
+г о р о д с к о й ADJ ESS PL
+г о р о д с к о й ADJ GEN PL
+г о р о д с к о й ADJ ANIM ACC MASC SG
+г о р о д с к о й ADJ GEN MASC SG
+г о р о д с к о й ADJ GEN NEUT SG
+г о р о д с к о й ADJ ACC NEUT SG
+г о р о д с к о й ADJ NOM NEUT SG
+г о р о д с к о й ADJ DAT FEM SG
+г о р о д с к о й ADJ ESS FEM SG
+г о р о д с к о й ADJ GEN FEM SG
+г о р о д с к о й ADJ INAN ACC MASC SG
+г о р о д с к о й ADJ INS FEM SG
+г о р о д с к о й ADJ NOM MASC SG
+г о р о д с к о й ADJ ESS MASC SG
+г о р о д с к о й ADJ ESS NEUT SG
+г о р о д с к о й ADJ DAT MASC SG
+г о р о д с к о й ADJ DAT NEUT SG
+г о р о д с к о й ADJ ACC FEM SG
+ч л е н N ACC INAN SG
+ч л е н N NOM SG
+ч л е н N ACC ANIM SG
+ч л е н N GEN SG
+ч л е н N DAT PL
+ч л е н N INS PL
+ч л е н N ESS PL
+ч л е н N ESS SG
+ч л е н N ACC ANIM PL
+ч л е н N GEN PL
+ч л е н N INS SG
+ч л е н N DAT SG
+ч л е н N ACC INAN PL
+ч л е н N NOM PL
+т е а т р N ACC SG
+т е а т р N NOM SG
+т е а т р N GEN SG
+т е а т р N DAT PL
+т е а т р N INS PL
+т е а т р N ESS PL
+т е а т р N ESS SG
+т е а т р N GEN PL
+т е а т р N INS SG
+т е а т р N DAT SG
+т е а т р N NOM PL
+п о м о щ ь N DAT PL
+п о м о щ ь N INS PL
+п о м о щ ь N ESS PL
+п о м о щ ь N GEN PL
+п о м о щ ь N DAT SG
+п о м о щ ь N ESS SG
+п о м о щ ь N GEN SG
+п о м о щ ь N NOM PL
+п о м о щ ь N ACC SG
+п о м о щ ь N NOM SG
+п о м о щ ь N INS SG
+р е ш е н и е N ACC SG
+р е ш е н и е N NOM SG
+р е ш е н и е N INS SG
+р е ш е н и е N ESS SG
+р е ш е н и е N GEN PL
+р е ш е н и е N DAT SG
+р е ш е н и е N GEN SG
+р е ш е н и е N NOM PL
+р е ш е н и е N DAT PL
+р е ш е н и е N INS PL
+р е ш е н и е N ESS PL
+о с н о в а N GEN PL
+о с н о в а N NOM SG
+о с н о в а N DAT PL
+о с н о в а N INS PL
+о с н о в а N ESS PL
+о с н о в а N DAT SG
+о с н о в а N ESS SG
+о с н о в а N INS SG
+о с н о в а N ACC SG
+о с н о в а N GEN SG
+о с н о в а N NOM PL
+и с к у с с т в о N GEN PL
+и с к у с с т в о N GEN SG
+и с к у с с т в о N NOM PL
+и с к у с с т в о N DAT PL
+и с к у с с т в о N INS PL
+и с к у с с т в о N ESS PL
+и с к у с с т в о N ESS SG
+и с к у с с т в о N ACC SG
+и с к у с с т в о N NOM SG
+и с к у с с т в о N INS SG
+и с к у с с т в о N DAT SG
+в о з р а с т N ACC SG
+в о з р а с т N NOM SG
+в о з р а с т N GEN SG
+в о з р а с т N DAT PL
+в о з р а с т N INS PL
+в о з р а с т N ESS PL
+в о з р а с т N ESS SG
+в о з р а с т N GEN PL
+в о з р а с т N INS SG
+в о з р а с т N DAT SG
+в о з р а с т N NOM PL
+а л ф а в и т N ACC INAN PL
+а л ф а в и т N GEN SG
+а л ф а в и т N DAT SG
+а л ф а в и т N ACC ANIM PL
+а л ф а в и т N INS PL
+а л ф а в и т N ESS PL
+а л ф а в и т N ESS SG
+а л ф а в и т N DAT PL
+а л ф а в и т N INS SG
+а л ф а в и т N ACC ANIM SG
+а л ф а в и т N GEN PL
+п р о ф е с с о р N NOM SG
+п р о ф е с с о р N ACC SG
+п р о ф е с с о р N GEN SG
+п р о ф е с с о р N NOM PL
+п р о ф е с с о р N DAT PL
+п р о ф е с с о р N INS PL
+п р о ф е с с о р N ESS PL
+п р о ф е с с о р N ESS SG
+п р о ф е с с о р N GEN PL
+п р о ф е с с о р N INS SG
+п р о ф е с с о р N DAT SG
+а м е р и к а н с к и й ADJ NOM FEM SG
+а м е р и к а н с к и й ADJ ACC INAN PL
+а м е р и к а н с к и й ADJ NOM PL
+а м е р и к а н с к и й ADJ INAN ACC MASC SG
+а м е р и к а н с к и й ADJ NOM MASC SG
+а м е р и к а н с к и й ADJ DAT PL
+а м е р и к а н с к и й ADJ INS MASC SG
+а м е р и к а н с к и й ADJ INS NEUT SG
+а м е р и к а н с к и й ADJ INS PL
+а м е р и к а н с к и й ADJ ACC ANIM PL
+а м е р и к а н с к и й ADJ ESS PL
+а м е р и к а н с к и й ADJ GEN PL
+а м е р и к а н с к и й ADJ ANIM ACC MASC SG
+а м е р и к а н с к и й ADJ GEN MASC SG
+а м е р и к а н с к и й ADJ GEN NEUT SG
+а м е р и к а н с к и й ADJ ACC NEUT SG
+а м е р и к а н с к и й ADJ NOM NEUT SG
+а м е р и к а н с к и й ADJ DAT FEM SG
+а м е р и к а н с к и й ADJ ESS FEM SG
+а м е р и к а н с к и й ADJ GEN FEM SG
+а м е р и к а н с к и й ADJ INS FEM SG
+а м е р и к а н с к и й ADJ ESS MASC SG
+а м е р и к а н с к и й ADJ ESS NEUT SG
+а м е р и к а н с к и й ADJ DAT MASC SG
+а м е р и к а н с к и й ADJ DAT NEUT SG
+а м е р и к а н с к и й ADJ ACC FEM SG
+в е р с и я N INS SG
+в е р с и я N ACC PL
+в е р с и я N DAT SG
+в е р с и я N ESS SG
+в е р с и я N GEN SG
+в е р с и я N NOM PL
+в е р с и я N GEN PL
+в е р с и я N ACC SG
+в е р с и я N NOM SG
+в е р с и я N DAT PL
+в е р с и я N INS PL
+в е р с и я N ESS PL
+п р о в и н ц и я N INS SG
+п р о в и н ц и я N ACC PL
+п р о в и н ц и я N DAT SG
+п р о в и н ц и я N ESS SG
+п р о в и н ц и я N GEN SG
+п р о в и н ц и я N NOM PL
+п р о в и н ц и я N GEN PL
+п р о в и н ц и я N ACC SG
+п р о в и н ц и я N NOM SG
+п р о в и н ц и я N DAT PL
+п р о в и н ц и я N INS PL
+п р о в и н ц и я N ESS PL
+в о й с к а N GEN SG
+в о й с к а N ACC SG
+в о й с к а N NOM SG
+в о й с к а N DAT SG
+в о й с к а N INS SG
+в о й с к а N ESS SG
+ф у т б о л и с т N NOM SG
+ф у т б о л и с т N ACC SG
+ф у т б о л и с т N GEN SG
+ф у т б о л и с т N DAT PL
+ф у т б о л и с т N INS PL
+ф у т б о л и с т N ESS PL
+ф у т б о л и с т N ESS SG
+ф у т б о л и с т N GEN PL
+ф у т б о л и с т N INS SG
+ф у т б о л и с т N DAT SG
+ф у т б о л и с т N NOM PL
+р у к о в о д с т в о N GEN PL
+р у к о в о д с т в о N ACC PL
+р у к о в о д с т в о N GEN SG
+р у к о в о д с т в о N NOM PL
+р у к о в о д с т в о N DAT PL
+р у к о в о д с т в о N INS PL
+р у к о в о д с т в о N ESS PL
+р у к о в о д с т в о N ESS SG
+р у к о в о д с т в о N ACC SG
+р у к о в о д с т в о N NOM SG
+р у к о в о д с т в о N INS SG
+р у к о в о д с т в о N DAT SG
+с п о р т N ACC SG
+с п о р т N NOM SG
+с п о р т N GEN SG
+с п о р т N DAT PL
+с п о р т N INS PL
+с п о р т N ESS PL
+с п о р т N ESS SG
+с п о р т N GEN PL
+с п о р т N INS SG
+с п о р т N DAT SG
+с п о р т N NOM PL
+о б ы ч н ы й ADJ MASC SG LGSPEC1
+о б ы ч н ы й ADJ FEM SG LGSPEC1
+о б ы ч н ы й ADJ NOM FEM SG
+о б ы ч н ы й ADJ NEUT SG LGSPEC1
+о б ы ч н ы й ADJ ANIM ACC MASC SG
+о б ы ч н ы й ADJ GEN MASC SG
+о б ы ч н ы й ADJ GEN NEUT SG
+о б ы ч н ы й ADJ ACC NEUT SG
+о б ы ч н ы й ADJ NOM NEUT SG
+о б ы ч н ы й ADJ DAT FEM SG
+о б ы ч н ы й ADJ ESS FEM SG
+о б ы ч н ы й ADJ GEN FEM SG
+о б ы ч н ы й ADJ INS FEM SG
+о б ы ч н ы й ADJ ESS MASC SG
+о б ы ч н ы й ADJ ESS NEUT SG
+о б ы ч н ы й ADJ DAT MASC SG
+о б ы ч н ы й ADJ DAT NEUT SG
+о б ы ч н ы й ADJ ACC FEM SG
+о б ы ч н ы й ADJ PL LGSPEC1
+о б ы ч н ы й ADJ ACC INAN PL
+о б ы ч н ы й ADJ NOM PL
+о б ы ч н ы й ADJ INAN ACC MASC SG
+о б ы ч н ы й ADJ NOM MASC SG
+о б ы ч н ы й ADJ DAT PL
+о б ы ч н ы й ADJ INS MASC SG
+о б ы ч н ы й ADJ INS NEUT SG
+о б ы ч н ы й ADJ INS PL
+о б ы ч н ы й ADJ ACC ANIM PL
+о б ы ч н ы й ADJ ESS PL
+о б ы ч н ы й ADJ GEN PL
+р а м к а N NOM SG
+р а м к а N DAT PL
+р а м к а N INS PL
+р а м к а N ESS PL
+р а м к а N DAT SG
+р а м к а N ESS SG
+р а м к а N GEN SG
+р а м к а N NOM PL
+р а м к а N INS SG
+р а м к а N ACC SG
+р а м к а N GEN PL
+к о м м у н а N GEN PL
+к о м м у н а N NOM SG
+к о м м у н а N DAT PL
+к о м м у н а N INS PL
+к о м м у н а N ESS PL
+к о м м у н а N DAT SG
+к о м м у н а N ESS SG
+к о м м у н а N INS SG
+к о м м у н а N ACC SG
+к о м м у н а N ACC PL
+к о м м у н а N GEN SG
+к о м м у н а N NOM PL
+с е л ь с о в е т N ACC SG
+с е л ь с о в е т N NOM SG
+с е л ь с о в е т N GEN SG
+с е л ь с о в е т N DAT PL
+с е л ь с о в е т N INS PL
+с е л ь с о в е т N ESS PL
+с е л ь с о в е т N ESS SG
+с е л ь с о в е т N GEN PL
+с е л ь с о в е т N INS SG
+с е л ь с о в е т N DAT SG
+с е л ь с о в е т N ACC PL
+с е л ь с о в е т N NOM PL
+н о в о е N GEN SG
+н о в о е N ACC SG
+н о в о е N NOM SG
+н о в о е N ESS SG
+н о в о е N DAT SG
+н о в о е N ACC PL
+н о в о е N NOM PL
+н о в о е N DAT PL
+н о в о е N INS SG
+н о в о е N INS PL
+н о в о е N ESS PL
+н о в о е N GEN PL
+о к о н ч а н и е N ACC SG
+о к о н ч а н и е N NOM SG
+о к о н ч а н и е N INS SG
+о к о н ч а н и е N ESS SG
+о к о н ч а н и е N GEN PL
+о к о н ч а н и е N DAT SG
+о к о н ч а н и е N GEN SG
+о к о н ч а н и е N NOM PL
+о к о н ч а н и е N DAT PL
+о к о н ч а н и е N INS PL
+о к о н ч а н и е N ESS PL
+д о л ж н ы й ADJ MASC SG LGSPEC1
+д о л ж н ы й ADJ FEM SG LGSPEC1
+д о л ж н ы й ADJ NOM FEM SG
+д о л ж н ы й ADJ NEUT SG LGSPEC1
+д о л ж н ы й ADJ ANIM ACC MASC SG
+д о л ж н ы й ADJ GEN MASC SG
+д о л ж н ы й ADJ GEN NEUT SG
+д о л ж н ы й ADJ ACC NEUT SG
+д о л ж н ы й ADJ NOM NEUT SG
+д о л ж н ы й ADJ DAT FEM SG
+д о л ж н ы й ADJ ESS FEM SG
+д о л ж н ы й ADJ GEN FEM SG
+д о л ж н ы й ADJ INS FEM SG
+д о л ж н ы й ADJ ESS MASC SG
+д о л ж н ы й ADJ ESS NEUT SG
+д о л ж н ы й ADJ DAT MASC SG
+д о л ж н ы й ADJ DAT NEUT SG
+д о л ж н ы й ADJ ACC FEM SG
+д о л ж н ы й ADJ PL LGSPEC1
+д о л ж н ы й ADJ ACC INAN PL
+д о л ж н ы й ADJ NOM PL
+д о л ж н ы й ADJ INAN ACC MASC SG
+д о л ж н ы й ADJ NOM MASC SG
+д о л ж н ы й ADJ DAT PL
+д о л ж н ы й ADJ INS MASC SG
+д о л ж н ы й ADJ INS NEUT SG
+д о л ж н ы й ADJ INS PL
+д о л ж н ы й ADJ ACC ANIM PL
+д о л ж н ы й ADJ ESS PL
+д о л ж н ы й ADJ GEN PL
+п р о и з в о д с т в о N GEN PL
+п р о и з в о д с т в о N GEN SG
+п р о и з в о д с т в о N NOM PL
+п р о и з в о д с т в о N DAT PL
+п р о и з в о д с т в о N INS PL
+п р о и з в о д с т в о N ESS PL
+п р о и з в о д с т в о N ESS SG
+п р о и з в о д с т в о N ACC SG
+п р о и з в о д с т в о N NOM SG
+п р о и з в о д с т в о N INS SG
+п р о и з в о д с т в о N DAT SG
+р е ж и с с ё р N NOM SG
+р е ж и с с ё р N ACC SG
+р е ж и с с ё р N GEN SG
+р е ж и с с ё р N DAT PL
+р е ж и с с ё р N INS PL
+р е ж и с с ё р N ESS PL
+р е ж и с с ё р N ESS SG
+р е ж и с с ё р N GEN PL
+р е ж и с с ё р N INS SG
+р е ж и с с ё р N DAT SG
+р е ж и с с ё р N NOM PL
+с о в р и а з о в к о н ч й ADJ ESS MASC SG
+а д я х е в н е N DAT PL
+д ь ю е л я а р ь N ACC SG
+д а р н ц и ю н т р о N ACC SG
+ё р а х п е н N ACC SG
+а р к л а л к а м т ь V PST SG NEUT
+и в и н т N GEN SG
+п и с я а т у N NOM SG
+т я б р о б р а й ADJ GEN PL
+а ц и и н о в а л е н о N ESS SG
+ь т у р к в я м к т р а л ь N GEN PL
+ж е с т и ю и к д е т е в ш в о й с е N GEN PL
+н а м и н д а х ь м а м а N DAT SG
+н ч а н р о в о у р е а N GEN PL
+о в а х о г о м N ESS SG
+г у б е N GEN SG
+п е н я т в е н ь N DAT PL
+о д с ш и н е е о й ADJ NOM PL
+о г о г ь N INS SG
+у с у н и в с т и N ESS SG
+у с т е о т а й ю щ й ADJ ESS PL
+о н о в о м у а м и т а х ь N INS PL
+п е н е а т а х N ESS PL
+й о н ы ё р ы т н е г у н а х е N INS PL
+л к о т о й р е л ы й ADJ NOM FEM SG
+с я т о я щ р а б о о л ж н N ACC SG
+р о в о м о м и й ADJ ACC NEUT SG
+р в о г а н а м ж н о с е м и и N INS SG
+о в и н а в а х я N NOM PL
+щ а д л я м у п р а N ESS SG
+о б ы м е т р й т е N DAT PL
+н о в я N NOM PL
+а б р ё и о д о т а о N GEN PL
+е п е с ё л к N ESS SG
+е м и N GEN PL
+т а ю щ N NOM SG
+м у н о у р ы е н т N DAT PL
+п о с е N GEN PL
+я б р е в н и р а с е N ESS SG
+е н ь ю л и ч й ADJ INS MASC SG
+м и е л ф ы й ADJ ACC FEM SG
+к о в г о с ь м е й ADJ INS PL
+с о р е н ы м и о м о щ и й ADJ DAT FEM SG
+с е з в о г о V FUT 1 PL
+и с е й о н а м ы ч н о а N ESS SG
+т а т ь N INS SG
+а т р а о т а е ь N DAT SG
+т о я щ а н и е ь N DAT PL
+с т и р к и м п е ь N DAT PL
+е р с и б о т ы а н а м я N ACC SG
+ю щ а ц и ю ADJ INS FEM SG
+л е н у г и л я м е р и о N NOM SG
+н н ы с ё р ы е м п е р е а в ш и н с т й ADJ INS PL
+м п а н о д с к N INS PL
+ь с к р о в у о г а в а р и а т р а и т а й ADJ ACC NEUT SG
+м е д а р а я N INS SG
+б о м у ш и N GEN SG
+и з и й в о е N NOM SG
+о р т а д я х м п и о г а н и ф у т б о е N INS PL
+ь с о е р и ю п и с е й ADJ INS NEUT SG
+с к у ю н н о г ь N DAT PL
+ч а с т а р я о я щ е т е N INS PL
+б и щ у о к о н ADJ INAN ACC MASC SG
+у н и в п и с я о с у д е л и с и о и т а в у е N ESS SG
+м о щ и в а р ю з о н ы е N NOM PL
+е л и ь м а м н т о в N DAT SG
+т и т р о н а N ACC SG
+а ц и ю а р т и н о я N GEN SG
+ш е н р о и л к а х а ю щ и р с т с е н й ADJ ACC ANIM PL
+л ь м ы р а с т N ESS PL
+й о н а N DAT SG
+с т а в е р в ы N ACC SG
+о к т р у к о в я х N ACC SG
+к о н ё л к о а N ACC SG
+ц и и у л ь т в и з т ь V.PTCP ACT PST
+ч а с т п и о и й ADJ NOM FEM SG
+ш е н о д ы н с в ш и й N NOM SG
+и к а н я N GEN PL
+е м и ю е р и о е н н ы л ж р к о в й ADJ ACC NEUT SG
+г о й е н и и ж н а я р а б о N INS SG
+а д в е т р с я щ е г ы й ADJ DAT MASC SG
+д а м п и с т р о м о N GEN PL
+ц и и р с и т N NOM PL
+н ц н н о е т а щ е г N NOM SG
+ж н о а в л у д у в о г с и о и з в ь N ESS SG
+р е п л ь с к с о с ч н ы й а ц и и N DAT PL
+д и д б д у т а т т и N INS PL
+д о л е р в ы й ADJ INS MASC SG
+р с и ю а в ш и N INS PL
+в н я х р с и я д а м N ESS SG
+у н к у н а м и й ADJ DAT MASC SG
+б р я е н и я ё л ь N DAT PL
+ь с к у р т ы м и и я N ACC SG
+р а м о е в о л и N ACC SG
+ч н ы а N ACC SG
+ё л к а о ф о р и и л т с к у N ACC SG
+ж н б у д р о с N GEN SG
+р я о р т N DAT PL
+с с и д а н н н а х N NOM SG
+в ь с и я е т р о N NOM SG
+о в и я N INS SG
+ф е с с н н ы х е N DAT SG
+е л е м ь N DAT SG
+р в о е й ADJ GEN PL
+р о ф е п о м о N DAT PL
+е п и у п р щ и л а д б о т а е я щ е N NOM SG
+н т а б р и р о в о с к о г N NOM SG
+т о р и щ и м N NOM SG
+м и ю и л ь м N DAT SG
+т о й в е й о р и я н к т е р е в N ESS PL
+ь с к у н н ь N ESS PL
+н ц т о я щ ч н у ю а N DAT SG
+р а м и л я е е N NOM SG
+а р с т о р е н ы е N GEN PL
+ц и е м о м е н о г а о с с и и й ADJ NOM NEUT SG
+е л е н к т ы д а м и ы й ADJ ANIM ACC MASC SG
+о р и й ADJ NOM MASC SG
+р н и й о д а м а N GEN SG
+е н т с к у с с о р N NOM SG
+м е н а н а м и й ADJ ANIM ACC MASC SG
+д е т д е я и с т е я N GEN SG
+р н а я о т а е N ACC SG
+м к о п и с ь с е з о N NOM SG
+т а в о с и й N ESS PL
+г и е и й ADJ ESS NEUT SG
+д а р с е л е н е N GEN PL
+б р е н т я N ACC SG
+л к и и ч е с а в а х й ADJ DAT NEUT SG
+п у н к т N DAT PL
+н с к и ы й ADJ ESS FEM SG
+р е ж и и й ADJ DAT MASC SG
+и з а ц т н е й с к а я я N DAT SG
+н а т а д ь N GEN SG
+в и з о р т у р т ы N NOM SG
+о в е т ы й ADJ NEUT SG LGSPEC1
+а б р и г и е к о й ADJ INAN ACC MASC SG
+т а т е н к т е а т в е т е л я е N GEN PL
+н в а р м о щ и е N NOM PL
+з о м о щ а N ESS PL
+е р с б р я х а н е е п е к а с к о е а н е е N ACC PL
+ч н у н о в о о с у д ы й ADJ ESS NEUT SG
+т н о ё р у б р е ь N INS PL
+н а т N NOM SG
+в г р н а р а з л N NOM SG
+р е ш е т ь V PRS 1 PL
+г о с т а е м N INS SG
+о т м и ф а в о н о м N DAT SG
+р с и й г о г п у н к а N INS SG
+н н ы м в н о м а в е ы й ADJ ESS NEUT SG
+о р н а м м у N DAT SG
+т и е м ё р о м у н N INS SG
+р н о й у с с т ь N DAT PL
+к в и и е й у с с т о й ADJ ESS PL
+с к у ю з о ь N GEN SG
+т у р у ё л к и м и я а N INS SG
+р ё м а в о в о й ADJ GEN PL
+с т ь т и т у е т у о н ы о г и м й ADJ INS NEUT SG
+с и с к у ю н и в е н н т у т к у а д е й я N GEN PL
+а т о м г о с а N DAT SG
+т в у с у н д а х и й ADJ DAT FEM SG
+м н о г ч н о г в я м и в и т е л а д N ESS SG
+р т а х н с к и ч н й ADJ GEN MASC SG
+р е м и е N NOM PL
+ь т а р ю N INS SG
+е т р у N INS PL
+с т н о е N DAT SG
+л я м и ц е н т р о N DAT PL
+и с т у р о а н а N ACC SG
+п р о в т о м м о м N ESS PL
+и з и й у т о в ADJ NOM MASC SG
+м п е р р т е ы й ADJ GEN MASC SG
+п и с е н н ы й е N DAT SG
+а ц и е р о д с ь N ESS SG
+б р я и я х е N GEN SG
+с о р е о д а х к а б N ESS SG
+р а й п е р о г о е с ь ю о л ж е з о н ь N GEN PL
+а н д п о й о н ы м о щ н ю ю а N ESS SG
+и с т о с я м и й ADJ NOM NEUT SG
+м и я м ь т у т р у й ADJ NOM PL
+р а л я п о р т N NOM SG
+о к о д а м с к и й ы й ADJ ESS MASC SG
+н я м о н о ь N NOM PL
+я щ е г е т н и е N DAT SG
+н о г ё л о г о ь N INS PL
+у р ы а м я т е л в е т й ADJ GEN PL
+и о д е я б р я и ч е N GEN PL
+о г у ю о в н ы ь N NOM PL
+о р и и N GEN PL
+н ц и я N INS SG
+н е г п и о н п о м N NOM SG
+и з и т е т о N NOM SG
+т е л ю о с у д N NOM SG
+й о н ы п о р т N INS PL
+а т р а о м е н н и ю ADJ NOM MASC SG
+т ь ю д е к а р г а н ь N ESS PL
+м у н б о м ж н ы е ADJ INAN ACC MASC SG
+п е р и й ADJ ESS PL
+л к е т а ы й ADJ GEN MASC SG
+о б л ж н а б е т ь V.CVB PST
+й т о р и е р о н а е N DAT PL
+т р а н ь м у V FUT 3 SG
+в я е т а х N DAT SG
+а т о м д б и N ACC SG
+ы е б у д о щ а д с о р щ е м у а ц и а т ь V IMP 2 PL
+т а й ж н о с N GEN SG
+п о л е р е п и ы й ADJ ESS FEM SG
+л е н р т и я е N GEN SG
+е н т и с е й б о м у ь б о с к у о г о е N GEN PL
+а д б п и с е м N INS SG
+р о н о щ е й ь м е N ACC SG
+а н д о а з о в а N DAT SG
+о г и м о й ADJ NOM FEM SG
+л ь м е у д е ш N GEN SG
+о с ё л а р ь ж н о г о й ADJ NOM PL
+у к н я м и р с и ю N NOM SG
+и с т ы у с т а N DAT PL
+о я щ е н н а н и е N GEN PL
+т и е й ш и с к о м N ACC SG
+и е ь б и я N NOM SG
+с е л е ц и й т а в а в ш и й м у н о о N GEN SG
+л ж н у т н е т о й в е т ы N DAT PL
+м и ю о г о м м у е N GEN SG
+с к и е р о N INS SG
+о и н н ы й о е N ACC PL
+л к о м р н н д е а N NOM PL
+ы ч з о т и й к о г о ADJ INAN ACC MASC SG
+у ч а з а ц и ч н ы й е N NOM PL
+о н а т н ы м и ё р о й ADJ INS NEUT SG
+н о г о ц е и я м N NOM SG
+о т а м N DAT SG
+о р о м т р е N ACC SG
+и з и и е N DAT SG
+м у н е а N ESS SG
+з о н ы т а в ы и й ADJ ACC NEUT SG
+н ц р е м и и н ц и и й ADJ GEN NEUT SG
+а н и з а н ц и м м у о е N INS SG
+н т ы н н ы м ь N GEN PL
+н я м и л ь с о а N GEN SG
+о р о м к у л ь й о н а е N ESS SG
+а м е с п т с к р е м я N ACC SG
+м ы и л ь а N ACC SG
+р я х б у д е й ADJ GEN PL
+в и т о N ACC SG
+с к у ю о с т и н ы й ADJ MASC SG LGSPEC1
+м н л ж н а я N NOM PL
+е п и с р а з л м N INS PL
+е в о р а н я д б ь м о в е N NOM PL
+о м е а к а д н т р у о в ь N DAT PL
+щ а д я е м и и с и т е а я N DAT SG
+з в о р я й о н а я N ACC SG
+а л ю и с е й ь N DAT SG
+д е т е и с т у л е н ы у н к о й ADJ INS MASC SG
+и т а о н ч а о в ы е о N DAT SG
+и н ц у т а м а л я о к N DAT SG
+б р к в л к о м ь м у д е к а N ESS PL
+к о л н у N ESS PL
+о т н о г а ч н ы х ь N INS PL
+о г и й л к у и й ADJ MASC SG LGSPEC1
+т а л и и х к и м ы й ADJ ESS MASC SG
+з в е в р а е р и к ч а н я N ESS SG
+о д ы щ е е с к и м у п р а и е й N INS PL
+м н о г е т о м я N ACC SG
+н ь ю е я с т у а N INS SG
+п и с ь N NOM SG
+н и м и ь т д а м и N DAT SG
+ф а л ь м о я N INS SG
+о в ы х N DAT SG
+р н а я N ACC SG
+м а м и н и в е с и я х V FUT 1 PL
+т р ы о в ь N DAT SG
+в е т с а м о к й ADJ INS MASC SG
+й о н е и й ADJ ACC FEM SG
+о р г я щ е г е N GEN SG
+е р е р т и ю м к о ь N ESS PL
+в о з я б р е с ё л к N ESS SG
+и о д е N NOM SG
+е ч н о г у N ACC SG
+р в ы е л и ч н N ACC SG
+к в т я б у н и т р о т о о б ы л ж е н и й ADJ GEN NEUT SG
+а й о н а б р е о р т а и й ADJ ACC FEM SG
+у б е у д к а б г и е и й ADJ GEN NEUT SG
+и н ц и с ё р а N DAT SG
+ц и и р н и и п р о в я N DAT SG
+е р е н м о щ ь N INS PL
+е н я х б и N ESS SG
+н я м и ч н о и й ADJ NOM FEM SG
+к а б р н и е с т р о N NOM PL
+ч н у ю ь с к и N NOM PL
+ч н ы р а н ж е у т е ь N ESS PL
+т а е т и о д о N INS PL
+ё л к а в а р ю т в а х т у р о а р с н и и й ADJ GEN MASC SG
+о р о д а р е е N ESS PL
+а к и с в о в е р к о ь N ESS PL
+т н и а в а м л ё м к а б н н ы х N ESS SG
+е н о в а м е к а N GEN PL
+р г а л е н у м к о й ADJ INS NEUT SG
+л о щ и т у т е н н ы к у с с л ь н о р о д с е N NOM PL
+л к а х ы й ADJ GEN FEM SG
+о в а м N GEN SG
+р а н ы у т о N DAT PL
+а б р ю к о г р и ю я N GEN SG
+е н е й р е л е н т а л я х и й ADJ ESS MASC SG
+и м е н я х N DAT PL
+в е т о а й к у ю N ACC SG
+и и ь н N DAT PL
+ж н о с в о д т и я N NOM SG
+а в г р и и ж н ы N GEN PL
+и о н в е N NOM PL
+а л я м е н т ы л е м й ADJ ANIM ACC MASC SG
+а я ц и я х р т и и я N ACC SG
+п р о ф и е й о в а х м м у т н е е р о н е N GEN SG
+т а я н с т о г у и й ADJ DAT NEUT SG
+т е р ь N GEN SG
+р а л р т ы а ю т N DAT SG
+ч н о е м у н н ы л е т в о й т р а а м к я N ESS SG
+т б о л к в е й я N DAT SG
+с к и й у д а с к у с р к в и с о р а и й ADJ GEN FEM SG
+в ы е в о м N DAT PL
+н н ы й р ь е т н ю N GEN SG
+а й о к т я N ACC SG
+о р о в о л о м о р с и е н т р у ё л к у о в ь N DAT SG
+р и о е а т б ы ч н N INS PL
+р н ы е о й ADJ ACC FEM SG
+ю ю ж н а я н ы с к и й N ESS PL
+з и о д ы о г и е я N ACC SG
+е н н о а з л е н ы N GEN PL
+р я м у д е т N DAT PL
+е м и и т е л е е N NOM PL
+е р и о о д о в б р а з я щ е г з и е N ESS SG
+и з и я и й ADJ GEN FEM SG
+с т о я р и т о к а N GEN PL
+н т а и с я о м о щ N ESS PL
+а ю щ е т н р а с т ы й ADJ GEN NEUT SG
+ж и с с р а в л N NOM SG
+м е н т а р ь е н е й N GEN PL
+о щ е й е р и ю ь N ESS PL
+и з и ю а N GEN SG
+ч а н и е в е н в н я м д и в и о щ и з и ю и й ADJ ANIM ACC MASC SG
+а т р ы к о л и е N ESS PL
+е н о в е т с й ADJ INS PL
+у п р р о н е ч е о д о в е N DAT SG
+а в л ы й ADJ ANIM ACC MASC SG
+к т а х ь N INS PL
+л е н ы о N GEN SG
+й с к и с т а N ESS SG
+с к и т р и т е н и е й N INS SG
+о д а м о в о м ы й ADJ FEM SG LGSPEC1
+о д ы м м у н й ADJ ACC INAN PL
+с с и р в о е б у д е и й ADJ GEN FEM SG
+г о м у т с я N INS SG
+в о п и с и о е N GEN PL
+о я б р б е а N DAT SG
+л ф а N NOM PL
+а в и е т о е н н и с т у ы й ADJ DAT FEM SG
+ь т у р е л ь с я N GEN SG
+о р н ы о р а ADJ NOM MASC SG
+г у б е б р ь о й ADJ NOM PL
+с к у с а й т е й ADJ INS NEUT SG
+у р а л ё а N INS SG
+р а с к о в о й ADJ GEN NEUT SG
+д е т е й ADJ GEN PL
+г а я а в о м ь с к и е N ESS SG
+ы ч н ы н ы м и и й ADJ ESS NEUT SG
+в н я м N ACC SG
+е н т у н к т а ы й ADJ DAT NEUT SG
+н д а м с т я м а л я и й ADJ ESS FEM SG
+н н ы х а н д е N GEN SG
+з о н а о е N INS PL
+в а р ю о N DAT PL
+у н к о р и ю о е N ACC PL
+о т ы у т б ч а н и а N GEN PL
+б у д к о м у ь N INS PL
+в и т у у ч а с N ACC SG
+р к о в е р е н ь N INS PL
+н о м л е н о N GEN SG
+р т и я а л ю о е N INS SG
+б р и N NOM SG
+п и с н ц и ь м е N ACC SG
+т а е т н ы к о е й ADJ INS MASC SG
+т е л е н о т а й т N DAT PL
+и щ у с т н ч е м п а N INS SG
+а б о а р е й о щ а N DAT PL
+к т ы е н и й е N ESS SG
+а н в о д с о д а с к а м п о с е N INS PL
+м а м е с т с к и й о к N INS PL
+с ё р а д е ш ь с а N GEN PL
+ц и я х и ч е е в н ю а р т в о м т а л а ь N NOM PL
+а в а р ё й ADJ INS MASC SG
+д и в з и я м е м и я N NOM SG
+п о с ё д у т ь м ы о л ж о к т ADJ INAN ACC MASC SG
+р о с ь м е а л о м у н р а н N GEN SG
+е р с с т ь ю я N GEN PL
+с т о м N INS SG
+с и т е ы й ADJ NOM FEM SG
+т а н а т а х я N ACC SG
+е р к о д о м и к N GEN PL
+й с к а н а м и ы й ADJ DAT FEM SG
+а р ь т а в у н е з н а ч N GEN SG
+р р е н т р т а л а и й ADJ DAT FEM SG
+н о г у д у я N INS SG
+т е л я N DAT PL
+о л и с я о г у й ADJ PL LGSPEC1
+р е м м н о о к N ESS PL
+з р с к у с ы й ADJ GEN MASC SG
+к а м и а й т о к N ESS SG
+н а т у к о в ь N GEN PL
+о г и о N DAT PL
+н о в е ADJ INAN ACC MASC SG
+е к д б с т в о а N NOM PL
+к о й о в и и л ь м ADJ NOM MASC SG
+е с т в N ESS SG
+д а х м к а м н н о г N INS SG
+с и ю е с с о N ACC SG
+р и о д у д е м и й ADJ ESS FEM SG
+л ж н а й ADJ ESS PL
+о с й с к а д е у т у N NOM SG
+н и х р а н е н я х о в ь N INS PL
+а й о н в е р с N GEN SG
+м о щ е м и р о е н т е е N DAT PL
+в е р с т я х N NOM SG
+в и т е т а е ш ь N NOM PL
+с ё л и о д а р с и и N ESS SG
+р т и я в и е р е н я N NOM PL
+ц и и о р н а е р в о й ADJ ACC NEUT SG
+е с д а м и е г ж и я N DAT SG
+у ч а с а л ё м а х и й ADJ INS FEM SG
+м у н ш и е N DAT SG
+ч н о г ADJ NOM MASC SG
+т а м и б о т а с т о у т у а д е й к т у N NOM PL
+в о й е ч е б ы ч е и й ADJ ESS NEUT SG
+с к а м о л ж е л е н о ь N INS PL
+к а ч е о щ а д й ADJ INS NEUT SG
+у д а р ю щ и с и т е е N NOM PL
+ж н о е м у н ы N INS PL
+т н я я N INS SG
+р с и т р в о м ADJ INAN ACC MASC SG
+р и к а б и щ е и й ADJ ACC NEUT SG
+с к о ADJ INAN ACC MASC SG
+т б е е т у т о й ADJ DAT PL
+б и щ у а с т о а л ф й ADJ ESS PL
+а р и о с с м е р а N ACC SG
+д ь ю е п е т я х м а н й ADJ GEN MASC SG
+ч н ы м л ь м м у н у N NOM SG
+у ю о р е о в а я ADJ ESS FEM SG
+в и з и о т с т ь ю ы й ADJ ACC FEM SG
+з и е й с к а N INS SG
+е р и ю г о м у н ц и и о N NOM PL
+а х п р а й ADJ ESS PL
+а в ы т а в а а с т о N NOM SG
+а к а в о в п о с е N GEN PL
+у д е ш ь с к о N ACC SG
+о г о м р т о м N INS SG
+п и с я N ESS PL
+о е л я н ц и е л и ч н а N INS SG
+н к т у е л я м N ESS SG
+т н е й й ADJ ACC ANIM PL
+л к о к л к о м у е N GEN SG
+б р а л е м и й ADJ ESS NEUT SG
+с о с л ф а в й ADJ ESS NEUT SG
+е з о н с ё р у ы й ADJ NOM NEUT SG
+р е з м к а м й ADJ INS PL
+е н о в в о е н т р у з и е й а в г у N GEN SG
+и щ в а р е N ESS PL
+ё р е о в у о в ь N GEN SG
+л ё с к о е й ADJ GEN MASC SG
+е т с м к а ш ь N ESS PL
+й с к а р а й о N NOM SG
+с п о р у к о N ESS SG
+к и х о в у ю н а т ы N INS PL
+е з т а в е N NOM PL
+н о г о N INS PL
+н д о й й ADJ ESS MASC SG
+о м о в N NOM SG
+с т в а ь N GEN PL
+а ч е е N DAT SG
+р и к б о т о N DAT PL
+с т е ч н ы д о й ь N ESS SG
+ы й к о г о р о н у а ю а м о ж н ы х ь N GEN PL
+и ч н ы о г у ADJ NOM MASC SG
+к о е с т и и ф и л ь я N INS SG
+р у ё л о п о м о ы й ADJ NOM FEM SG
+р т о в ч е м ы й ADJ DAT MASC SG
+в л д с к у у д у и й ADJ DAT FEM SG
+о г о й N NOM SG
+в а й с к а и р у с т а т е л я т н ю т ь V.PTCP ACT PST
+в а р е в а н и й ADJ ANIM ACC MASC SG
+п а н и ь N NOM PL
+н о м а е т N NOM SG
+в ы м и з и й N DAT PL
+е т л к о в N INS PL
+н т р а й ADJ INS NEUT SG
+ф и л ь о щ а б ы ч е й ADJ INS MASC SG
+д ь ю у л ь т й ADJ NOM PL
+м и е к о в е ш ь а N ESS SG
+н о я б б о т я N GEN PL
+ч н ы й ё р о м ы м N DAT PL
+а т р а у н о й N ESS PL
+л я х т а в ы н с т и о N GEN SG
+р н и ю е р н и о в ь N ESS SG
+и о д ы N INS SG
+н с т ц и й а м е р ь N DAT SG
+е н и ю а е м с и ю N NOM SG
+р и т о р е л я х о м N INS SG
+а р е й й ADJ ESS PL
+о м е а в л е п о р т N GEN SG
+о ф е N NOM SG
+н а ч н я х р о м т с к е л ю й ADJ ACC ANIM PL
+н и е м в о е е а т р и й ADJ FEM SG LGSPEC1
+р е л ю в о г о N DAT SG
+а с т N ACC INAN SG
+а т о м а д я н в N INS PL
+а л ь б ё р о в ADJ INAN ACC MASC SG
+д с к и ц и я м N ACC SG
+р а з о н л к а х е N GEN SG
+ч н а N ESS SG
+о р г о р и й д я м N ESS SG
+а е ш ь в е у т о в в е т ь N INS PL
+о т а х N ACC INAN PL
+н я х а N GEN SG
+к а ч р а л а л я я N DAT SG
+т е а ь с о в т р о V FUT 3 SG
+е р н и N DAT PL
+а с о р и ю о б ы о N GEN PL
+о т а й о н а т N INS PL
+т с к у ь N DAT PL
+е т с о г у в а х я N DAT SG
+с и я х я N GEN PL
+д е к а а р ь т н ю ю N DAT SG
+з л и а ч е с й ADJ ACC ANIM PL
+с к и е а в ы ы й ADJ DAT NEUT SG
+к у с н у у к о в й ADJ INS NEUT SG
+к в е й к а н с N INS SG
+щ а х р е м и N GEN SG
+т и ю р о в о з л м к а м а N NOM PL
+я б р ю н о м у л ж н ы ь N ESS SG
+д о л у р а ы й ADJ INS FEM SG
+д б т н N INS PL
+а с т е е N GEN SG
+м п о м п а с ё л о е N DAT SG
+к у ц и е р р и и й ADJ ESS NEUT SG
+в е р с ь N NOM PL
+с т и е д с к у а д я х р о м о в о е ы й ADJ DAT FEM SG
+р р и т и з а т р о и й ADJ GEN NEUT SG
+в а р е з е г о я N GEN PL
+з в о а т у й ADJ DAT PL
+т р о в з л и ч я N NOM PL
+о я щ е е т р о с т ь ю о N GEN PL
+с т а в е N DAT SG
+д б и л и ч г у б м N DAT PL
+н е г о е л ю п л о щ N DAT PL
+н е г ы х о в о е N NOM SG
+а б р ё й ADJ INS NEUT SG
+а н д ы й ADJ ESS PL
+т и к т а х N ACC SG
+с с о н е и й ADJ DAT FEM SG
+н н у т и ю о N GEN PL
+а ц и с т в м а м и ь N DAT PL
+н н у н о е ь N ESS PL
+з л и ч и ч N ESS PL
+ё р у н к т о т р н о й й ADJ NOM PL
+о щ е е н я м ь м а м ы й ADJ ACC FEM SG
+н а т ADJ INAN ACC MASC SG
+ы м и д с т в г у N ACC SG
+о д о в N INS SG
+м а м м и р о я N INS SG
+е п е о р а х й ADJ NOM PL
+р т р а н о е н и и N ACC SG
+л я х ы е о т а N DAT SG
+б р и р т а м N GEN PL
+о м а х ADJ INAN ACC MASC SG
+е ж т н и ы й ADJ NOM FEM SG
+а н и N ESS PL
+м а н д е к а N ESS PL
+в у в е ь б т е л н и м и а л о у т а N INS SG
+а р я г о с й ADJ INS NEUT SG
+в н о г з о в а а я N INS PL
+р ё м н и з а N NOM SG
+с т р а м у н N INS SG
+о в ы м т р о в N DAT PL
+е з у е с с о N NOM SG
+е в н ю а N INS SG
+а т а м а д б и е N GEN SG
+о р е е ш ь е з о н а п в н о е ы й ADJ ACC NEUT SG
+с е н т е п е н ы й ADJ INS FEM SG
+т и я х р о а е я N ACC SG
+о г и х р и т о е н а о й ADJ GEN PL
+к в е й с т е а я N INS PL
+о р т у т р а м е п о й ADJ INS NEUT SG
+г и й е м п и в и ф у т N NOM SG
+с к N INS PL
+с к у с т а л и з о н е и й ADJ GEN MASC SG
+щ а м и н д о й N NOM SG
+и в е ы ч н о с к а я N INS SG
+к т о м и х е л ь н N ACC SG
+ч е с т N ESS SG
+п р о п р а в р к о в о щ а м е л N NOM PL
+и с ь т и е м р н ы м N INS PL
+о р т ы N GEN SG
+у б е р д о м м у н а ы ч и с к у ь т г о с у и й ADJ GEN MASC SG
+м к у д я м и о р о N ACC SG
+с с т в т е р н е е я N ACC SG
+р е н ф а в б и щ е ADJ INAN ACC MASC SG
+и ч н р о в у е ж N INS SG
+с и е и й с N ESS PL
+о р и и ч е н N NOM PL
+е п а р я х N INS SG
+о р е т е т ADJ INAN ACC MASC SG
+с о в е н д ф а в ы й ADJ NEUT SG LGSPEC1
+н с к о т е л и ь N INS SG
+а ц н с к а а N GEN PL
+и с е й м ы ь N GEN PL
+у н к р а в N DAT PL
+д е к а н а м й ADJ ESS PL
+в и т ы т а т ы н т ы ь N GEN SG
+и р о м е р е N GEN PL
+ы е е м ё р а м N NOM SG
+л ж н а ч л е ь N DAT SG
+е н н о N INS PL
+р т а м м м о в ь N DAT PL
+п р е л ь N NOM PL
+б о м е т о р т а в е N ACC SG
+а с е ч н о г м о щ е ADJ INAN ACC MASC SG
+у д е о д о м к а с к о г р и й N DAT PL
+н с к о щ е м у а N ACC SG
+и с я н т ы ь N NOM PL
+д а н о р н у в н о г о й ADJ ACC INAN PL
+е т а х ч н о м й о н ADJ NOM MASC SG
+н н ы е N ESS SG
+р т ы з в а N ESS SG
+м м у н н и й п р о N INS SG
+в я м о N GEN SG
+п р о в р ё м й ADJ INS PL
+о т а е в а р е в н я х я N GEN SG
+н и ю е з у в а н р о н у р о й з у л р е в н о й ADJ ACC ANIM PL
+б о л и д у й ADJ NOM PL
+н ы м у р е л к и е а т р й ADJ ACC INAN PL
+е с т в т и й й ADJ INS MASC SG
+я т е е л ю я N GEN PL
+н о г ш е н т е а т N GEN PL
+т у т у р а з в ы а н и з а б о т N INS PL
+н т а х д е т п л у т б у р о ы ч е й ADJ DAT NEUT SG
+я я в а р и т а х й ADJ ACC ANIM PL
+м у н а б ы ч н а в о м N INS SG
+т е п е в н я х м о щ а N NOM PL
+д с т а д е о л ж н ADJ INAN ACC MASC SG
+л а д б ц е н о г а N INS PL
+я б р п и с е ф е в т и е й н н о м и й ADJ NOM NEUT SG
+т е а л ь м р е п ь N DAT PL
+р и я х р а х ы й ADJ INS FEM SG
+о т а ю т н о N GEN PL
+р в о е ч а у п р N ACC SG
+а к а м о и й ADJ DAT MASC SG
+б о м е й ADJ INS NEUT SG
+с е й о л ж н ч н ы й с б о ь N INS PL
+и е а р ь N DAT PL
+е р и к д а р с в н я м о в р о д а р с т й ADJ ACC ANIM PL
+а м к о к о о д е е н т р N NOM SG
+м к о й ь б о ь N DAT PL
+б е р н а л ф а л о щ а ь N DAT PL
+з о н о N ESS PL
+т е а а N ACC SG
+р е м р а л ю д ь ю т б о л ж н о й ь N GEN PL
+о л и б о т ы а N DAT SG
+н и в о б ы ч N ACC SG
+р е п о й ADJ NOM FEM SG
+т е р р о м р т и я а я N DAT SG
+р т а м у р ы а N GEN SG
+н и м в и т а N ESS SG
+н и м р и и ь N DAT SG
+е л е й а е т и й ADJ NOM NEUT SG
+м и р б р ю е т н и и й ADJ DAT NEUT SG
+о ф е с м и и а т ы N ESS PL
+о в в н о е т о я щ N INS PL
+а д б и р с и ю н к т е N GEN PL
+ж н у ю м п е р я N INS SG
+л ё н а т а е N ESS SG
+п е н ь т а й т N ESS PL
+й о н ы л а N ESS SG
+е п е у т б о с т я а N ACC SG
+р о д а н ц N NOM SG
+ж н о с N INS PL
+в а р я и м п е е т е N DAT PL
+н а т у к а н с п и с е а N GEN SG
+к о й у т е е р к о н о в у о N ESS PL
+у с т о ф а ь N DAT PL
+щ ь к о в ч н а я о N GEN PL
+н и в с т е л е N ESS PL
+б е ь с о в о к N INS PL
+д е ш ь а д я х е N NOM PL
+р а й т е а г а н и я б р я у с т а к л а д N INS PL
+щ а д и к о м а ю щ и й а N INS SG
+о д а м к о м о р и ю й с к о N GEN PL
+р т а х н с т н д а х у т б л к о м N DAT SG
+в а р и ь N ESS SG
+б о т ё л о N INS SG
+ч н о й н к т ы р о н о N ESS SG
+н о м у т в а ADJ DAT FEM SG
+р о н в у ю я N ACC SG
+о м о в ь N DAT SG
+н к т е н с т и е н и ю N GEN SG
+п о м а в и т а N NOM PL
+я б р ь ы й ADJ GEN MASC SG
+з а ц и о р т е с к и х д а н н N DAT PL
+р и я м м у м п а ь N NOM PL
+т у р ы у т б о у р а д ь ю б р е з о N INS PL
+р т и й ж е н с т о р ь N ESS PL
+у д е т р ю р и я м N NOM PL
+я б р я ь N DAT PL
+о г о й а м и ы й ADJ GEN FEM SG
+е л я х п р о и и й ADJ DAT MASC SG
+г а е н т е н о е т а й п р а N GEN PL
+я б р ь в а я о к N DAT PL
+р я м и т о с с и й N ESS PL
+ь м а м N INS SG
+д у т о с у о с т а ы й ADJ GEN NEUT SG
+м а м и о б у р е т р у N GEN SG
+а т р у н к ь т а р т ы й ADJ ACC NEUT SG
+м у н а в о г о N NOM SG
+п е н е о я щ е р а с о к N GEN SG
+е р р т и е й ы й ADJ ACC NEUT SG
+т р в о д в а я N INS SG
+а с о с с и е н т ы N ACC SG
+е з у л ь N GEN PL
+е л ь с т у с и е е N ESS SG
+й с к а и и о в н о N INS PL
+б о т е с ё л б о д е р я я о д с к й ADJ PL LGSPEC1
+т е а т N ESS SG
+у ю н к т ц е р а N DAT SG
+б р я х N DAT SG
+п о р м у н ы у п р а о е N INS SG
+у л с к у ы й ADJ ACC NEUT SG
+ё р о в N ESS PL
+б и щ е о з р о й ADJ NOM PL
+г о с у о и ь N DAT SG
+и с я х и й ADJ ESS MASC SG
+в а р е и й ADJ DAT NEUT SG
+к л а л ь б о N ACC SG
+г о а д я м а н р а й ь N ESS SG
+п а р в я а р с т N GEN PL
+п е р е в и з у б е N INS SG
+н а б о м о е N INS PL
+ж н а р я е н и й г о г о е N DAT SG
+р о и о н а т м е н т н о в о е N DAT PL
+и т у т ф а в и й ADJ ACC INAN PL
+к а н с м о щ е ь N DAT PL
+р а з л о р т е N NOM SG
+д е м р и ю я N GEN SG
+а н д ы о с у д ы й ADJ ESS MASC SG
+т б п и с е т у я м и е т н ь N GEN PL
+ж н о г с к и N NOM SG
+м п и о т а г о р о N ACC SG
+а в о в д о м н о г н ь т н я я д я о р о N ESS PL
+о с т я о н ы ь N GEN PL
+е а т ч н у ю о д с р о н о в ь ы й ADJ INS FEM SG
+к л а д с т в N GEN SG
+о я б л и с ь с о ь N INS PL
+у р ы т а й т д е р й ADJ ACC INAN PL
+з и я х о м о щ е м и е и й ADJ ESS MASC SG
+о м ы й ADJ INS PL
+о д с т а н и я е N DAT PL
+н о в о д л ь т а N NOM SG
+о г а я г у с я N GEN PL
+т у т у т с к а ь N DAT SG
+о и з в о р н г и е о й ADJ NOM FEM SG
+л ь т у т о р и о в ь N DAT SG
+д е к ё р ADJ NOM MASC SG
+р с и е р е ш д о и й ADJ GEN MASC SG
+п р а в и с з н с т и й ADJ INS MASC SG
+о с ё я б р ю н ы й ь N DAT PL
+с е й о с т я с т о N DAT SG
+о я д б и р и о д й ADJ ACC INAN PL
+ч н ы е т о в р я м и к а н г и х ADJ INAN ACC MASC SG
+щ ь ю о с т ь а N ACC PL
+с к и х т а о н у N ESS PL
+а с т н д о й е н и е е N ESS SG
+т о р N INS SG
+с о р у о в ь N ESS SG
+е р и к п о м N NOM SG
+и с ь о д о а н ы р р и N GEN SG
+к о м м у б е р о N NOM PL
+е я т е а р я т а т ы г у с т в о м у а N ESS SG
+п и с е с к у и з и N GEN PL
+н и х р о в ы о к N ACC PL
+н и м к а д е я N NOM PL
+о р о в н а я N INS SG
+и з а ц т а л с с ё р й ADJ INS PL
+р о и з с я м д я х й о н е й ADJ DAT NEUT SG
+и т е й ADJ ANIM ACC MASC SG
+н ь ю м ы я н в т ь V PST SG NEUT
+а т а и я с б о р я N ACC SG
+е в е т а л а N NOM SG
+б о м у у р ы N NOM SG
+у б в я м и N ESS SG
+т а в е т а л о т а е ш н ы й ADJ MASC SG LGSPEC1
+ч н о е с б о р н т о д а н н щ а д я т ь V PRS 2 SG
+к в а л ь б т а х ь N GEN PL
+у б е р а р а т а м ы й ADJ GEN FEM SG
+е т р ы и й ADJ INS FEM SG
+м а м п и е н н у N INS PL
+и т а б и щ л е н о е N ESS SG
+с н ь с к з р а с N ACC PL
+к о в ь р г а с т ь с е з о N NOM SG
+а в а с а N INS SG
+у с т у N INS SG
+л ь м ы т о м я N NOM PL
+ж н ы й н е и й с N INS PL
+д е ш ь н т р у ADJ NOM MASC SG
+ё л к у и й ADJ ACC FEM SG
+к о г о ы й ADJ DAT FEM SG
+у т о ц и ы й ADJ INS FEM SG
+а з л и л е м N ESS SG
+а ц и я и й ADJ NOM NEUT SG
+щ ь у н е я N GEN SG
+в н о м е з о й ADJ DAT PL
+в ы р а б о в е н н е N DAT SG
+р н ы х н н ы е в а р ё т р а м в о г о я N INS SG
+р т и я и й ADJ ACC NEUT SG
+д а м и N NOM SG
+н ч т н ю у ч о щ а х й ADJ NOM PL
+о т а й а с т ы ь N NOM PL
+е р н и а т а N GEN SG
+я н в у р о N ESS PL
+с т р к о л и й ADJ ESS NEUT SG
+а н н с ь ю н о й е N NOM PL
+а й с о р N INS PL
+н т у з о н у N INS PL
+н т о в у с с и е й я N INS SG
+о м о в ч н ы м р а л е N DAT PL
+н н о м о г а е н е и й ADJ DAT MASC SG
+в л ы е ё м р к о в ь N INS PL
+с е л е р к в ь N NOM PL
+с ё р е т а ю N DAT PL
+а л я м о б а н а х и с с ё N INS SG
+а в о в ж н у ю к о г N INS SG
+т а л л к о м о в о N ESS PL
+е ч н с р у к ц е р к N GEN PL
+е р р с т в у N ACC SG
+к т о г о р о л е н у N DAT SG
+ч н о й р в ы м N INS PL
+ч н о м т с к о ь N GEN PL
+р н о й N NOM SG
+н н ы й д с к о N INS SG
+и т е т с с о р а б к о м а N INS PL
+ч н ы й о е N NOM PL
+ь т у р о в у н н о м е N INS PL
+р а н у а т е н е г о N ACC SG
+б р я х д а р с N DAT PL
+и т а н в а р в е т е N INS PL
+п и с е с о р с и т ь N ESS SG
+н а х ь N INS SG
+о я щ в ы е а N ESS SG
+е м и е ь т м и я х к о г р с и я о й ADJ NOM FEM SG
+м е т с ё р ы ADJ INAN ACC MASC SG
+к в и о г и х к о е я N INS SG
+о в о г с ь ы й ADJ FEM SG LGSPEC1
+и с к п о ь N DAT SG
+р е л ь й ADJ GEN NEUT SG
+е с с е в е л е н у N ACC SG
+о р с п о р ы й ADJ GEN MASC SG
+д о в N INS SG
+н д а я х о т а л я N INS SG
+р е м я N NOM PL
+а т р о о м е н л а д б я N GEN SG
+т в е ч е с т о щ а д с т н в г е N ESS PL
+м и т с к у т р у я N INS SG
+и м п е е р н и з и ю й ADJ INS NEUT SG
+а р с в н е й е N DAT PL
+а д е й р и о т р а н в ы х р и о N INS PL
+у д е м а р с т N NOM SG
+и с т у к о м а е N INS PL
+у с т ы е N ESS SG
+м у н о ч а н и в а м о к N DAT SG
+а н н д с к а а я N DAT SG
+о м а х а N ACC PL
+в р а т я м и р о ч н я N DAT SG
+й с к и и й ADJ ACC NEUT SG
+м к о с с т и т е т N NOM PL
+т а т о в н о б ы ч о N ESS PL
+щ а д я а н а х ь N INS SG
+н к т у н к т е о н у р а в о к о N NOM SG
+п и с о д а N NOM PL
+т а т р к в е с т о в ь N GEN SG
+т и с т и ю л и ч е е N ESS SG
+т а й к и х ь N INS PL
+к л б о т с к у N ACC SG
+о с н м н у л N ACC SG
+т н и м и в е е N INS PL
+п р о и н с к а а я N GEN SG
+р н у ю ё м в а м N DAT PL
+к а ч ы ч и ч н у е N NOM PL
+а м к ь м у т н е й N ESS PL
+ч е с с о р з л и о в ы м е N GEN PL
+о м м т е л я о N DAT PL
+и о д е г у б е N INS PL
+о р н а м и ю о н ч с т е п ы й ADJ ACC NEUT SG
+р н ы м с к у с ь м у й ADJ NOM PL
+к е к о м а в и з и м N INS PL
+в а р и а д е в а р я а N NOM PL
+в и з и у с с N INS SG
+т а т о р т а е к й ADJ PL LGSPEC1
+о к т о с с ь N ESS PL
+л ь а н а и й ADJ ACC NEUT SG
+в н е м о м е N NOM PL
+к т е п и е н и ю м у н е р к е N NOM PL
+к о м м и ю о т а м N NOM SG
+и з в с т е й N ESS SG
+т р о м и с т ь к т е б и т а т а а я N NOM PL
+с и я м е я т е N GEN SG
+т а в о а N NOM PL
+д а х и з и я о й ADJ NOM FEM SG
+б р ё м л к N NOM PL
+в о й ж н о я щ и р н н о е м и N DAT SG
+д о в т е п я N NOM PL
+к л а и т у е т н я а я N DAT SG
+д о м е т а х N INS SG
+н д ц и е й ь с д б N NOM SG
+н к р н и й ы й ADJ FEM SG LGSPEC1
+в и з и ф а в н ы й е N DAT SG
+о я б р о щ а д и ч н у ы й ADJ ESS FEM SG
+о т а ю с ё р т о N NOM PL
+д с к у ж н а я ч е р а х н н а а д е а N INS SG
+ж и и х ё л о к л ь б н а с ь м а х а я N GEN PL
+с к у ю а в о в к в я N ACC SG
+е н а е т р у с е з ь N ESS PL
+р с и я з о н а б р я х N ESS SG
+о м о щ с ь о N DAT PL
+с о с т н н а я й ADJ ACC ANIM PL
+а б р з а ц N ESS SG
+е т н о м у с к о е в е н о г и й N ESS SG
+е т р о м к а м о с е е N ESS SG
+л ь т и й ADJ NOM FEM SG
+б р е ь N NOM PL
+о к ь N ESS PL
+о г и м и й ADJ GEN MASC SG
+о м п а и ч е с ь N NOM PL
+п е н ь е N DAT PL
+с о в е и е й а с т я щ и N ACC SG
+а н и и т б о я б р и и й ADJ GEN MASC SG
+ц и е й е N DAT SG
+с ё р ы н а т ы н н ы м б е р е л ь и й ADJ ESS FEM SG
+и с е й с о р а я N ESS SG
+о т ы N ACC SG
+е н и ю а м т е л й ADJ INS MASC SG
+е н у л ф а в й ADJ DAT NEUT SG
+с с и й м у н а о г а я ь N DAT PL
+с т ы с т я ы й ADJ ANIM ACC MASC SG
+с е и о д о о в ы м о й ADJ ACC INAN PL
+н т в о г о с я т ь V.PTCP ACT PRS
+т в о м и с ь е т н е а я N GEN SG
+д с т к т а х а я N DAT SG
+е р и и р о д к е е р и к N ESS PL
+з р а с н к т у д с к п и с я у с т ы т у р е ь N ESS SG
+м к а м п а н с т о в й ADJ GEN PL
+е н и и а т у е н т е N INS PL
+ч л е н ч а н и й ADJ PL LGSPEC1
+р н у и м п е п е н я я N NOM PL
+п и о н N DAT SG
+к у с с и л ь м з р а N INS PL
+й о н у я б р е я N GEN SG
+ь т а р а н а N ESS SG
+е з о н м о к N ESS PL
+р в о г е е о т у у н к у р е п N GEN SG
+т с л и т с N NOM SG
+о р а т о в н т о е р к в ы й ADJ ESS NEUT SG
+о л и ч и т у т о г о й о N DAT PL
+о щ а х н и и N ESS PL
+ч е р о в о з о н а ь N ESS PL
+ж н о г е N GEN PL
+н в а р о и е N GEN PL
+о с т т р е N ESS PL
+р о в у ь м ы а е ш а N INS SG
+т н ю ь т и й ADJ NOM FEM SG
+й о н а е я т е я N GEN SG
+ф е в р ж н о й N NOM SG
+ё л о и с ь ю е р е п й ADJ DAT PL
+ч н о N NOM SG
+в о е д а х е н л ё й ADJ ESS MASC SG
+о я в о д V FUT 3 PL
+т н с о р е н а н д о о р т о о л N ESS SG
+п р о ф к о л ь N ESS PL
+т р ы у т о N ACC SG
+т у т е р с ADJ NOM MASC SG
+н е м н с ш е н и в о м у е N NOM PL
+н т о м н с о в ы е д б и N DAT SG
+а н ц щ е м N NOM SG
+д е с т о р о е N ESS PL
+б и л к о м ф е с е N DAT SG
+н н ы й с о в я N DAT SG
+у н к ы й ADJ ACC FEM SG
+у д е ш о г у ю и й ADJ NOM FEM SG
+п л о щ е N DAT PL
+в г у е з о н с ё л о а в г р р и б ы ч е и й ADJ ANIM ACC MASC SG
+к е ь N NOM PL
+л ь б о т о р я N GEN PL
+т в о м а б й ADJ PL LGSPEC1
+м а н д н ч а а N DAT SG
+с т и е с ь н у а н о й я N ESS SG
+н и в е р в ы N DAT SG
+ё л к у з в с т а й ADJ INS NEUT SG
+о в о м N INS PL
+н и з а и м п ы й ADJ ACC FEM SG
+о к о й ADJ ACC ANIM PL
+с к а х л ь б о о й ADJ INS MASC SG
+а в а х й ADJ INS PL
+р а н а й о в н я х л е н у й ADJ GEN PL
+ы м б у д а п р а у к щ е е с и е й N INS PL
+б р ё м е к N NOM SG
+е н т а и й ADJ DAT MASC SG
+а к а а д я х и к а н N DAT SG
+с к а я щ е м р е м ь N INS PL
+а д е м н с к о N DAT PL
+д е м и к о н м п ь N ESS SG
+о н е с ё р р а х я N ACC SG
+о р и ю ы й ADJ GEN FEM SG
+д о м г у ю и й ADJ NOM NEUT SG
+г о й N NOM PL
+т а л и а й о д я х N DAT PL
+н т я б р с и е й ADJ INS MASC SG
+г о т и N NOM SG
+г о м и ю о N GEN PL
+к л а ь с о о й ADJ INS MASC SG
+т е т о л к а о г а я е н и й й ADJ NOM PL
+е т а о м а м к а я р а м к ы ч н т а т ы N NOM PL
+и щ а м е в е с о р о ь N GEN SG
+н ц а р р и е й т а о р н о я N ESS SG
+о г и й р о в и с т р а N ESS PL
+е м и е н т р р я N DAT SG
+р о н а о щ а м я N INS SG
+д б н и т р о р е а р N ESS PL
+а с т у р в о м и й ADJ ESS MASC SG
+с т о м и й с к о N GEN PL
+л и е п и о к N INS SG
+е ч е ч н о м у н к т т е р р е N GEN PL
+о н с н и с т а й ADJ ACC INAN PL
+т а й т г а н и е N NOM PL
+ь с о в в о д ь N ESS PL
+м о щ и щ а з р а г у ю о N DAT PL
+ф е с и я о N INS PL
+а с т ы я N NOM PL
+я б р ь л и с и й ADJ NOM FEM SG
+н д о к у е ш ь N DAT PL
+р в ы х т а м и е N DAT SG
+е н ь ю о с т я о с т ь N INS SG
+т о я я щ е у ч ё л о к о и з р е п ы й ADJ GEN MASC SG
+ф е с о в ь N DAT PL
+и о д ы а т о м й ADJ INS NEUT SG
+р ю е л я е N DAT PL
+н к т о п а р р и е о е N NOM PL
+н т а х з в м к а м N ESS SG
+р о в у в н о м т е й а N ACC SG
+у н и о с т и л и ч е ы й ADJ NOM FEM SG
+т о в я N DAT SG
+ы ч е н N INS SG
+т р и л д с к ь N DAT PL
+е я т е н о N INS PL
+п а н и е з а л я м й ADJ INS NEUT SG
+к о в ь е р и е а т р у к т ы т с к о и й ADJ ANIM ACC MASC SG
+б о м е с т и е с и и ы й ADJ NOM NEUT SG
+а д я м н а м и т ь V PRS 1 SG
+б е р н б о т у ь N ESS SG
+а л я м м о е н н е N GEN SG
+т о й т о щ а д е N ESS PL
+б у д е п и щ а х й ADJ GEN PL
+е п и д е я й ADJ INS PL
+н с к а N NOM PL
+и к а р в ы м ADJ INAN ACC MASC SG
+ч а с т р и к е N DAT PL
+р а л е ф у т е к а й ADJ INS NEUT SG
+е л т я м и ь N DAT SG
+с е н т а в у п е н м е н я щ и о N DAT SG
+е т р е о р н д а р и ю N NOM SG
+н н о г о щ е N DAT PL
+к у ю н и е я N INS SG
+с т о р с о н е й ь N NOM PL
+в е р с у ч а а т а х б р я у т о в й ADJ INS PL
+и н ц и р а х у р о н а н т о е N INS PL
+н и е н о в у ё р о в N ESS PL
+с к о м щ а д и о м а м N GEN SG
+з у л о в е т N INS PL
+у н у о л и с у ч с т ь ю т е т е и й ADJ GEN FEM SG
+с ё о н а х о р и ы й ADJ ACC NEUT SG
+т а н ц ж н о ч л N INS PL
+о в ы м ё р е з н а р я м и ш ь ь т у р N ESS PL
+и щ а х с т ы о т а с с ё р ь с к о о N NOM PL
+г о м у е ж и с е р и и я N ACC SG
+к а м о р и й в н е N GEN SG
+а п р а й ф е в N ESS PL
+щ и е м и я N ACC SG
+о щ с к с к и й ь с к и т ь V PRS 3 PL
+о г у т а т у а N NOM PL
+м о р в м N INS SG
+ё р а б о в и т о N NOM SG
+ь с к и у л ь т и й ADJ NOM NEUT SG
+к о в ь N NOM SG
+н н ы й у с т а к и м ы й ADJ DAT MASC SG
+р о д с N ESS PL
+е с с о н и м и й ADJ INS PL
+о щ а м е л е й N DAT PL
+н а т у о N ESS PL
+м и р о я N INS SG
+м о к с к о м а р с ь N DAT PL
+ч е н и и е м о т а о й ADJ NOM FEM SG
+ы е с т о я т а в ы ь N NOM PL
+с т и е е ш е п а р т р ё м о в у ю и й ADJ DAT FEM SG
+о в о г у с т ы ь N GEN SG
+и щ е к о н N ACC SG
+к о н ч б р ё м е N INS PL
+р а й о е л е й с п N INS SG
+о щ а д е N ESS SG
+щ е г и й ADJ ESS NEUT SG
+у т о в в р ADJ NOM MASC SG
+т е и е р е в н N GEN PL
+о н а м ш е н и й ADJ ACC ANIM PL
+о м п н о г о й ADJ DAT PL
+р и к в я о N GEN SG
+в и н к о г о N GEN PL
+ё р р а н о р а х л ю е N ESS PL
+л о щ з и й г а о N NOM PL
+о щ е р с т с у д е N ESS SG
+р н ы е к а х т р а х ADJ INAN ACC MASC SG
+в и т а д е м ь м а и й ADJ ACC NEUT SG
+т р ы о р у г у а т а а N INS SG
+р я м и е т р е N ACC SG
+т б о л к а д е и е й ь м а х ь N NOM PL
+а й о о р т ы а л е й N ACC ANIM PL
+в е т е N ESS PL
+п у н о к о р у к о N NOM SG
+о д а х ж н а я е N ESS PL
+с т р а N DAT SG
+с у д а N ACC PL
+о н а о й с к г и й о к N ESS PL
+о г и й и й с е N INS PL
+к е л ж н а и й ADJ ACC NEUT SG
+о щ е д о в и й ADJ NEUT SG LGSPEC1
+ц и я х о н а н и я а N INS SG
+б о т е ь N GEN SG
+р н у ю о м о м ь N ESS SG
+т е л и с т я м о г о е N DAT PL
+о г и е и и е N GEN SG
+е н ы ь N INS SG
+а т е м н о г е N DAT SG
+т а е ш о б р а о р и и ADJ ESS FEM SG
+щ а д я л е н е р т и ю е N ACC PL
+п е р в т я х ь N ESS PL
+к в е й и с к в я ь N ESS PL
+и в и о т а я я N DAT SG
+ц е з р а и с ь ю л ь т а й у ю ь б о м ь N DAT PL
+е т е е р и ю й ADJ ACC INAN PL
+т в а х а т N ACC SG
+а р я м б р е т а л ь N ESS PL
+у д а ADJ INS FEM SG
+е т н и о р о в м е р и N NOM SG
+г и т е л и ADJ INAN ACC MASC SG
+м у н е н н у N GEN PL
+и с я х ф е в р а т о в о N ESS PL
+е ч е н а с т и е N NOM PL
+е л ь и й ADJ FEM SG LGSPEC1
+е м и я т б о л ь N INS SG
+е н н н ы м г о м а н н ы N NOM SG
+и с я х е т а м о N ESS PL
+о д о в е м и й т н и х р е в е с и й с N DAT PL
+у т а м е р е в и й ADJ ANIM ACC MASC SG
+е а т р о г у с ё л о п у н к у с т ы ы й ADJ ESS FEM SG
+о н о м е п ё л о е N DAT PL
+ь т у б о м а N INS SG
+н и я и с л к о ь N DAT SG
+т в о а р ё м е т н и е ж ь N DAT SG
+с с ё р ь N INS PL
+м п а н я б р ё о р т а т а л а ь N DAT SG
+т и я х й ADJ PL LGSPEC1
+л я х ь т а й ADJ GEN NEUT SG
+т б о т в а м о N DAT SG
+д я м и в ы е о N DAT PL
+о р а х N ESS PL
+н н о т е а р ы й ADJ GEN NEUT SG
+т н е г ц и N ESS PL
+н с т с н о в о N ESS PL
+и с й о н и з и я я N INS SG
+т о р и м е т р е н н д с к о N ESS SG
+з а ц и т н б о м р е ж и N NOM SG
+р а м и я N ACC SG
+р е в и с е в о д с о е N ACC PL
+е в р а й ADJ ACC ANIM PL
+с т в н е г о ADJ DAT FEM SG
+м к а о г о г а N ESS SG
+з р а г о с и з и е N ESS SG
+с т ь ю о с т и ь N INS PL
+о р и ю е ж о с с и и й ADJ DAT FEM SG
+и з и и й ADJ INS NEUT SG
+с ё р д о л ж N ACC ANIM PL
+б у р н и и б е о т а х м о м а л я м N INS SG
+ч н ы м а м к т и я м N NOM SG
+и ч е н й ADJ ESS NEUT SG
+б о р е з о н N INS SG
+я щ е г а й о н я N GEN PL
+о р и и я N DAT SG
+о в у ю й ADJ INS PL
+м и я х ш ь е N GEN SG
+о р и я л ж ь м а х о т о й к в о н о в N DAT PL
+о к о т о р и р т и ы й ADJ ACC FEM SG
+б и щ н а п е р к в N ACC SG
+и с т ы л е м ф а в и т и т у е т N DAT SG
+в е т ы е н н о N NOM SG
+о д а х щ а х м к у N ACC SG
+т р у ы й ADJ ESS NEUT SG
+т н о с к а е н т я л ь н е ш е н в и т у ь N DAT SG
+а ц и й р р с н о N DAT SG
+а д и N ESS PL
+л ь с к N ACC SG
+н д е щ е г о N ACC SG
+о р т г у ю н о с N ACC SG
+г о р в о е N NOM PL
+т а м т а т ю ю п е р е к т ы я N DAT SG
+в и о щ ь о т у о г о е й ADJ INS NEUT SG
+я щ е е р у к о N ACC PL
+а д б т а й т й ADJ ESS PL
+щ е е е р е и с е й а д е ь м е ь N DAT PL
+р а в N INS PL
+о н ч а г у ю щ у е п и с N DAT SG
+р я м и с и т е и м п ы й ADJ ACC FEM SG
+я н в н ы о N GEN SG
+л ь н о р а х р а з в ш и й N NOM SG
+в е й м а м е N ESS SG
+м к о й н о г а о р и я е N ESS SG
+и т а м е н а х й ADJ INS PL
+у р о с я м т в у N DAT SG
+е н и й ё л к а N ESS PL
+с с о в ш и а ю т ь N GEN SG
+а м к о к у ю V FUT 2 SG
+е р и к ц е р к ь N GEN SG
+ч н о т о я щ у н о ь N DAT SG
+е т н и о г и N ESS SG
+в г у с т о я щ N ESS PL
+н ц и е о з р а к а N GEN PL
+а д е м в е р с а N ACC SG
+м у н в а р N ACC SG
+в е т о с е л б о м е N NOM PL
+з у л ж н о т н о й ADJ ESS PL
+н ц и ю е N DAT PL
+о н е р и о у с т о с к р к о й ADJ DAT PL
+к а х с т я х т а т а о к N DAT PL
+а в и т л е й р с и ю и й ADJ NOM NEUT SG
+р а н у у с т ы а т о N ACC SG
+м е н а т р у и й ADJ NOM NEUT SG
+с т д б и е в е у н ы е N DAT SG
+ь с к у л о щ ь б о м я N NOM PL
+ж н у ц и я х я N ACC SG
+р е н а е р и я и о д о N INS PL
+е з у е т а х а я N ACC SG
+а б о о д а м д о в и й ADJ ESS MASC SG
+б у д е ч е н т у т е ADJ GEN FEM SG
+с я м и р н и е а я N ESS SG
+т с к а у с N ESS PL
+ь м а х N DAT PL
+щ е е и т ы ь N NOM PL
+о щ и в н ы в р а N NOM SG
+л и ч т р а м у н а т н ю ю и й ADJ GEN FEM SG
+д с к у ь т и я м ь N GEN PL
+е н и ю б и ь N INS PL
+д я р а б о ё р е е N GEN PL
+ч е м п ь N DAT SG
+и й с к н и з е N GEN SG
+н а с т к о м п й ADJ GEN PL
+ж н о г е л ь с р н и ы й ADJ GEN MASC SG
+о д а ь N INS SG
+а с е л о с е л N NOM PL
+и ч п о н н ы е д с к а N GEN PL
+ф е в р у н а х о N GEN PL
+с е л и в е р к у с с N INS SG
+з р а ь м а м п о с ё N INS SG
+а б р е з у л ь я N GEN PL
+е с о м о е а а е т й ADJ INS NEUT SG
+е р в ы н о в о ч л е н р о и з е N GEN SG
+б р ю в и т е н ы й ADJ MASC SG LGSPEC1
+о н о й ц е р и й с к а д е м к т у ADJ INAN ACC MASC SG
+у с т ы а н и ю ы й ADJ ESS MASC SG
+р о в и п е н а N INS SG
+к о м п р е м N ACC SG
+к о м м о л я N ESS SG
+м и я х ё р о м н о в о е к а б а ч и й ADJ ESS MASC SG
+б о м е о N NOM PL
+к л а N GEN SG
+а з о м м р к о с ё р о й ADJ INS PL
+о н ч а г у б т у т ы N ACC SG
+е н я м я N NOM PL
+а т р р и й й ADJ INS MASC SG
+г у с р т у N NOM SG
+о н ч в а р я N INS PL
+м у н у а д я х ь N INS PL
+с т е р р и т р т и я и й ADJ GEN MASC SG
+н н о г и с т е N INS PL
+л ь р и е й N INS PL
+а н д с б о р ь б о ь т м у н у и ч н у N NOM SG
+с е л й ADJ NOM PL
+о р о д и в т а т е N GEN SG
+б ы ё л к о й ADJ INS NEUT SG
+о в ы х о д с б о р н н к т о N NOM SG
+р а м о ь N GEN SG
+а л я м ж н ы й N ACC SG
+з л и ч N INS PL
+е н т о е N INS PL
+к в е й о г и й N DAT SG
+п р а а м е о с н N NOM SG
+ч н о й н ы н а т о N INS PL
+т и т у и н е р и е N DAT PL
+е в р у с с т N INS PL
+о в ы е е р н и о д а N NOM SG
+и в е н у м н о в о м N ACC SG
+ё л к о с т и е а л ь б а N GEN SG
+ж н о й у н а м й ADJ ACC ANIM PL
+н н а а т о м й ADJ ACC INAN PL
+о л ж е о N ESS PL
+а н и ю с о в е о е N ESS PL
+з и я х с н е с с й ADJ ESS PL
+р и т о а р я N ACC SG
+р т у к а ч е е н т о N DAT PL
+е к а б ь N DAT PL
+и щ е ь с о N NOM SG
+р о н е ь N INS PL
+з и й о в а х о с е с и я м о щ о б ы ч ь N ESS PL
+в н т н и п а н я N NOM PL
+д с т и й ADJ ACC NEUT SG
+п и с н и м е N GEN SG
+ф у у п а н а м й ADJ NOM PL
+а л я о с е а ч е с з у л ь ь N DAT SG
+с т в о т е ч с к а м N ESS SG
+о р у в ь ю з и у б е р ь N ESS PL
+р а м о ь N ESS SG
+а м о т а т с ё р а N NOM SG
+н и я е з о н е N INS PL
+т а н ц ж н о й N DAT PL
+а р е б о л и ь N GEN SG
+с у д п е р в у д е N ESS SG
+с к и й е я т е N ESS PL
+а л и й с к ь N NOM PL
+щ е м у к а д р а з о N DAT SG
+л ж н г и м и а ц и й N ESS SG
+р т и е в н я л ь м о N ACC SG
+о л и с й ADJ DAT NEUT SG
+а б б е р ы й ADJ NOM NEUT SG
+и ч е н N GEN PL
+р с т ь с о е л е й т а т N ESS PL
+и т ы ь с к и а м е N ESS SG
+р к в и о N NOM PL
+е п е ш и й н т я б а N NOM PL
+р а х й с ч н о й и й ADJ GEN NEUT SG
+щ а х ф е с с а н с N DAT PL
+ч н ы е т у т е ш е н а N ACC PL
+а б р т а в а ы й ADJ GEN FEM SG
+а д б е р е н е N DAT PL
+т н я м е т р е ж ADJ GEN FEM SG
+ш ь с я м о н е е я т о в ы х н а с N DAT PL
+у т е м и е й я N INS SG
+е г с т о я N NOM PL
+а р е й а д ь ю а н с к й ADJ INS MASC SG
+ё р о N ACC SG
+р е в я б р е й ADJ NOM PL
+т у р е й ADJ INS MASC SG
+т и е й м и и б р а с б н и м и с п о и й ADJ ESS NEUT SG
+н ы а л и а н ц и у н а м а я N INS SG
+к а ч е с е з м и я о в о м т ь V IMP 2 SG
+с к о т о й ч л е ь N INS PL
+у с т о в о м ы й ADJ DAT FEM SG
+л ь м ы ь N GEN SG
+д а р й о н ы т а ю о с т и б р ю ы й ADJ GEN FEM SG
+л е н ь с к N DAT SG
+о т т е ч N NOM SG
+а м к а о в е й т о м м у р о в и V FUT 3 PL
+б о т N INS SG
+з о н е и й ADJ DAT NEUT SG
+и о д о с с т ё р у м к о в е н н и й ADJ DAT NEUT SG
+я б е в р а N ESS SG
+у т о в й ADJ ESS PL
+л я м и е я т е т у р е ы й ADJ ACC FEM SG
+ё л к а е т с и й ADJ GEN NEUT SG
+а ц и и п р о N NOM PL
+ь м а щ а д ь й ADJ GEN PL
+р и ю а т р и т у о м а в ш и а б р я N ACC SG
+д и л ж ё р у е н о н с к и е н т я т и т и й ADJ ESS MASC SG
+ф у т с о в е N NOM SG
+м а м л и ч н и о д ь N DAT PL
+р а н о ч н ы N INS PL
+п р е м о н а х ь N DAT PL
+л к у а с т е у т а м я N DAT SG
+л ж н д о й е н а ь N GEN PL
+е н я х е N DAT SG
+т е п о р н о N NOM PL
+о г и е н и я м г а н е т н я т ь V PST PL
+е н и а й о ё р о а б о а д б и р о с с о е N INS PL
+б е р н о н ч а ь N DAT SG
+в о д с п р о и т ь V.PTCP ACT PRS
+в е т и я м и ь N GEN SG
+к в е а л я х N INS SG
+р о с ф и л N NOM PL
+н т ы ц е н т N DAT SG
+р т а б и щ у р о й и с я х д с т к т о й ADJ INS PL
+е е и с я х н и е м и й ADJ GEN FEM SG
+р о ф N NOM SG
+и х м к и N ACC SG
+н н р с и и и й ADJ GEN MASC SG
+с е л а к а п р е л и й ADJ ANIM ACC MASC SG
+т и е т н е ф у о г е N ESS SG
+и ч е к у ю о т а в ь N DAT PL
+в е т е щ е м и й ADJ GEN MASC SG
+о г и е а н е ы й ADJ ESS FEM SG
+р е л ь N DAT PL
+н о г ю щ и и й ADJ DAT NEUT SG
+с т я а ч е N NOM PL
+о в ы о л л ь м ы е с с о н е й я т N ACC SG
+е ж ж н о о м у с т а в е н е р к ь N ESS SG
+к о й к т я б я N NOM PL
+л к о т я б о г о м е N GEN SG
+б о т ы б р я м а н д ы N ACC SG
+о м ы с т е й н о г и ы й ADJ ACC FEM SG
+м и р о ь N ESS PL
+й с к у N INS PL
+к у л а е т у т о м т о е н о в ADJ NOM MASC SG
+а л ё м N DAT SG
+т у т к о й N ACC SG
+е р к о я N GEN SG
+и т о в е N NOM PL
+т у р л е н у а в ы й ADJ GEN PL
+а т р ы я N GEN SG
+о в а я N GEN PL
+а к а о с т ь N DAT SG
+а л и т а ю т а л я а N GEN SG
+е т а м ф и е п е н а т о д е т т е л N GEN PL
+р е м и N INS PL
+р р и т е т р о в а м к а о н у ADJ INAN ACC MASC SG
+а к а а л ё у д з и я м й ADJ INS PL
+о к о н у т а м е р и е ь N NOM PL
+м е р и м у н у т е р р с е л ь л к а м а N ESS SG
+р а м и и щ а у т а N NOM SG
+е н т а р г щ и м а д е м я N GEN SG
+г у с т ч н о е ь N NOM PL
+у р в ы х н о г о N NOM SG
+е н и и е м и е з и ю N NOM SG
+р ю в а н и м е р и я N GEN SG
+в у р н у н ц и й ь N DAT SG
+е н т р о е N NOM PL
+е ш а в и т е с т в ь N INS PL
+н н о е а N ACC SG
+а в л п о с е о щ и а N GEN SG
+с е з о о т ч е с т е р р и й ADJ INS FEM SG
+а в л е е N DAT SG
+о т а х е м и е й ADJ GEN MASC SG
+р у к N ESS PL
+с т я о к о н а N GEN SG
+о к т я N ESS PL
+о р т ь м у к т а м и й ADJ DAT FEM SG
+а д я р в о т а л а н е м с е з р и к а е N GEN PL
+р а л е а N INS SG
+и с т ы о в е т с к о г ь N DAT SG
+р о н ADJ INAN ACC MASC SG
+т е а т н и м л к о N DAT PL
+г у с з о н ы я N ESS SG
+и с ь с к а м й ADJ DAT PL
+е г о м м е N ESS SG
+с к а о в н ы т н и я N NOM PL
+и в с ё р а е N ESS PL
+б и щ а с т а з о в ь ю N NOM SG
+е т о и й ADJ GEN NEUT SG
+ё р а м т ь V PRS 3 PL
+н н о й ы й ADJ FEM SG LGSPEC1
+о д а м ы й ADJ NOM FEM SG
+а м и п е р а N NOM PL
+с ё р а N ESS SG
+т р а м п и с я у т ы е N INS PL
+р а с т в у ь N GEN SG
+т с к д ь ю к т у и й ADJ NOM NEUT SG
+а т р р а м к N ESS PL
+ч н ы х л и а ч й ADJ DAT MASC SG
+о д а а т у б р е й N DAT SG
+р т и м и й й т е р н ы й ADJ INS NEUT SG
+о л в о й с ь N ESS PL
+щ а д я н ч а н N GEN PL
+а н и и в н е й о щ и N ESS SG
+р к в я N NOM SG
+д с т в с т в с к и м я N ACC SG
+т н я о р г о р е н е о N ESS PL
+к и м и р а й а N NOM PL
+с к а м п р е е N DAT SG
+б р ё м и й с и й ADJ GEN FEM SG
+и с т е т а т ь а N GEN PL
+о л ж н с с N ESS PL
+о м о д и в и и н ц и ь N GEN PL
+т и и и н ц е N ACC PL
+т а я и с ь ю N DAT SG
+з а ц ц и я м н т я й ADJ INS NEUT SG
+о н о т р а м N ESS PL
+щ а д и а ю щ и м к о й N INS PL
+з о н ы и й ADJ DAT FEM SG
+а з а д б ц е н и й н т у у н е д е т у к N ACC SG
+с и я м р ь в и о щ е й и й ADJ INS FEM SG
+о й о щ е й ь ю л о щ ы й ADJ ESS NEUT SG
+к л е л ь н с ё л N ACC PL
+ь м о г и й й ADJ NOM PL
+к о н ч м п е п л ь N ESS PL
+щ ь ы й ADJ NOM FEM SG
+е л ь с в г у ч л е о е N GEN PL
+н а т ч е а N DAT SG
+о к т я и ч н у а з о в о т а м в р а л N DAT SG
+р е е р е в д с к о в ш и я N DAT SG
+т у р т у т а д е ш е N GEN SG
+б о м у и м п л а д я N DAT SG
+ы м и и ч н ы п о р ы й ADJ GEN MASC SG
+о с т ь N NOM SG
+р р и б о м ы р а в ц е н т о щ е и й ADJ NOM FEM SG
+т а й е N INS PL
+р е в а р я м у н о е N NOM PL
+н а м и N NOM SG
+м п я щ е г ё р ы р е в е ы й ADJ GEN NEUT SG
+е н я х с с ё р о к N NOM PL
+р а н е у д е м в о м ь N ESS SG
+е г о л о щ а и й ADJ GEN MASC SG
+н а я в я м а N GEN SG
+а д и п л о щ а я N INS PL
+п а у д е и р о а N GEN PL
+и ч е н N INS PL
+р с и м и я и с ь с ё л о м о в п о с е N DAT PL
+в н я х д о й ц и и N NOM SG
+и о н и щ е с к у ю ь N GEN SG
+р т ы и о д у ы й ADJ NOM NEUT SG
+н т о н с т и и й ADJ NOM NEUT SG
+р т а м у л ь т и й ADJ GEN MASC SG
+е ш е щ а м и ь N GEN SG
+а м к о г и й м е н й ADJ DAT PL
+и т а о с е л N ESS SG
+м п а н и о д ы я N INS SG
+а л ё м к о м у я N ACC PL
+у б е р и о н я н я N ACC SG
+т у р у з а ц и н е N ESS SG
+т а т ь в ь ю N INS SG
+е р е н у ч у т б о ь N GEN PL
+р а м о п и о н N ESS SG
+т с к у а з с я х я N INS SG
+н а ч м о щ е N DAT SG
+а в г N NOM SG
+е т р о н д о й е в е N DAT SG
+з о н а о т а ю и й ADJ ESS NEUT SG
+ы ч е н ь м о в о е N NOM PL
+у н а т а в ш N GEN SG
+а л ё м т е л и я N ACC PL
+т а я т а й т й с о р н о г у с у т а х ы й ADJ ESS FEM SG
+с ё р е ж н о г ы й ADJ DAT NEUT SG
+п и о н а л а ь с к и я N ESS SG
+о к т я л к о м ь н о ы й ADJ DAT FEM SG
+м о щ ь и я м и а т р а N NOM SG
+о д а е т а х ь N GEN PL
+о р н а в ш и й р т и ю N INS SG
+ф и с и о ф е с к а й ADJ DAT PL
+е н и я т а н N ACC SG
+е р и о т н и е е N INS PL
+в н о в л е м к о N INS SG
+н и з а т а ю т е N INS PL
+а х й о н о й ADJ NOM PL
+а т р о о д с к й ADJ ACC ANIM PL
+в у ю м п я N NOM PL
+р т и я ф и а р ю и й ADJ DAT FEM SG
+т в у д о з о н а т а ю е N DAT SG
+т е л ю а ц и е и й ADJ NOM NEUT SG
+н т а з л и а е т е т а е м N INS PL
+е т с а е ш о в ь N NOM PL
+ы ч о г и м о л ж е ADJ NOM MASC SG
+а в а х о в ы е й ADJ ACC ANIM PL
+р т и ю о к т я е N DAT SG
+р и р о в у N NOM SG
+д а р ё р а м N INS SG
+н о в у л ь N INS PL
+м п и о N GEN SG
+к а м и а N NOM PL
+н о м п и н н о м я N GEN PL
+д о л м к о й о т а й а я N GEN SG
+л а д п р о в о т а м е N GEN PL
+ь н о с ж н ы х N GEN PL
+а т ы ф е о к N ESS SG
+р и т а л я о в ы о в о е N DAT PL
+с о в м к е N NOM SG
+д я к т а м и й ADJ ESS FEM SG
+р т о в е N DAT SG
+е р е н о к ь N GEN PL
+а л е й н о в о N ACC SG
+а н и й N DAT SG
+й т с ь ю и й ADJ ACC FEM SG
+л ь с о ь N GEN SG
+с б о р й ADJ INS MASC SG
+р о н а у т а д е м ы й ADJ ESS FEM SG
+е я т я б р е р е н а л а ч а н ю щ и о к N ESS SG
+к в я м ж е и н ц и с ь ю N NOM PL
+е р и е р е я N NOM PL
+е т р е н и й л и с е п а с т е й ADJ ACC INAN PL
+о т ы и в и з я N ESS SG
+ю щ и о н ч ь N ESS PL
+н о в н а з о р е п и N DAT SG
+л к а е а с к а д о в N INS PL
+с к и й г а N DAT SG
+н о в ы п у н п е н ь й ADJ DAT PL
+о м о щ е N DAT SG
+а ц и я и й ADJ GEN MASC SG
+н я м о б р а ь N ESS SG
+в и т у а н и р о н N INS SG
+в а р я о N ESS SG
+т р е у д е м и й ADJ ESS NEUT SG
+п л о щ к в я и й ADJ ESS NEUT SG
+в ь ю я я и к н н о N DAT PL
+т а м т а н ц в а р ю е N ACC PL
+и р м п з о н е N ACC SG
+д с к а р т и о т а м N GEN SG
+т н я к т о м ч н о м N NOM SG
+з у л ь я N ESS SG
+е т н и и й ADJ GEN MASC SG
+а ю л е н ы и й ADJ ESS NEUT SG
+о м и с т у у т а м т у р а ч н ы х т ь V.CVB PST
+ь т а т я щ е н о в а р а с т м а м у р а х и й ADJ ESS FEM SG
+т а в ы р а б с т р а N NOM SG
+т н е е ь т а т й ADJ GEN MASC SG
+с к и й N ESS SG
+н ц и и и й ADJ ACC FEM SG
+и з и я а ю щ б р и о е N INS SG
+л ж н у ADJ NOM MASC SG
+м е т N NOM PL
+ж н а я г у ю N ACC SG
+а б о т л ь н о N ESS SG
+т а м ж и с N DAT SG
+а н е г о й ADJ NOM PL
+о д с к я N NOM PL
+в н о м у д у т й ADJ ACC ANIM PL
+р и й й ADJ INS MASC SG
+в р а р ы е л ю N NOM SG
+н а с е е м и й л ж е н т ь V.CVB PST
+и з а ц р н и й л я м о N GEN PL
+р о н а е н и и N GEN PL
+е м и е е р и я N NOM SG
+т е т а д а н н ы й ADJ INS FEM SG
+и ч н ы о й с к и й ADJ GEN NEUT SG
+и я х о р т ы N DAT PL
+с и й с я N GEN PL
+и щ е м к л а п о с ё е N DAT PL
+м о щ и N NOM SG
+е т р в е н N DAT PL
+н в а щ а р о й с т о р ь N NOM PL
+я н а з л и я N INS SG
+р т а м к л а и й ADJ MASC SG LGSPEC1
+с т в е л е п р е N ESS PL
+р и я м м а в г я N DAT SG
+с т у б е к о в ь N DAT PL
+я щ т а т е й ADJ ACC NEUT SG
+и я х л и ч н я N INS SG
+л е н и с о р у о N ESS SG
+р т а х о н у N ESS PL
+у с т а ь N INS SG
+щ и й а б р ю N NOM SG
+р с т г а й ADJ ACC NEUT SG
+у д а к о м N INS PL
+т а л а ь N GEN PL
+г о р о е с о с ё л о N INS PL
+и н ц п р о и р с и я я N GEN SG
+н с к у б ы ч е ы й ADJ ESS FEM SG
+а е т е р т и и N DAT PL
+щ е е щ а д ь ь N GEN SG
+д с и т а х и й ADJ DAT NEUT SG
+з и и л ж е н ь N DAT SG
+л ю р с н о е и й ADJ DAT MASC SG
+у н и N DAT SG
+д с т б о м е н а х и й ADJ ANIM ACC MASC SG
+а л ё й ADJ INS MASC SG
+а я т р о в ь N DAT PL
+н д у а с т е т ь V PRS 1 SG
+и т о е н я х N INS SG
+н я м н у л ф а в N DAT SG
+л ь м у с б о р о й ADJ ESS PL
+е н и N DAT SG
+о с ё л б у д у е N ESS PL
+т е в а р ю я N DAT SG
+р ё м б р ё м з о н е д ь ю б ы ч н N NOM SG
+и з а ц т и я е н н а N INS SG
+в я х н а т е е н е й ADJ DAT PL
+е н т с к о е N NOM SG
+д с к т у т е N ESS PL
+б о м ы ж н ы х ь N DAT SG
+о щ ь ю о с й ADJ DAT PL
+у с е н у N ACC SG
+ц е н т у т ы н ы й ADJ MASC SG LGSPEC1
+а б р ё е к а б у р у N DAT SG
+у с т а N ACC SG
+м и я м м а м и й ADJ GEN FEM SG
+н ю ц и N INS SG
+н т а х N INS PL
+е р к ц е р к ы й ADJ ACC NEUT SG
+и ч н л к а н о в о ы й ADJ NOM NEUT SG
+с и е й в а р и ь т у й ADJ ACC INAN PL
+с е н б ы ч н й ADJ DAT PL
+с я а в ы е р к в я N DAT SG
+а т р ы ф у н ы а б р ь и р в е р с ь N ESS SG
+с т о в н и е й а н у N NOM PL
+ч е н и ADJ NOM MASC SG
+т а н е N ESS SG
+о р а х с т и е с ь ю N ACC SG
+б и щ у у д у т N INS SG
+ё р е а е ш ь н с к N ESS PL
+ь с к е л я м е N NOM PL
+у ю к а н с н а с е о л и ч а р ю N DAT PL
+р т т а т о N DAT SG
+п о с ё о в а х р и е N INS PL
+у р ы б и м о в е н н п о с ь N DAT SG
+н т о в о т а ы й ADJ INS FEM SG
+о с с ь т у р е N GEN PL
+м у а з л и о с т е N DAT SG
+о н о N INS PL
+м и я х т е р р е N DAT SG
+у т о д ь а в г у N ACC ANIM PL
+у н и т ь V PRS 1 PL
+н о г а н е м й ADJ ANIM ACC MASC SG
+р а в с с т е т н о с т и N ACC SG
+е р с и р о и з о л ж н у д у т ь N GEN PL
+з а б у д е в N GEN PL
+и х у к о в е N GEN PL
+н о г у к о м к а х N NOM PL
+и к а й о н о с б е N GEN SG
+з н я N GEN SG
+е н н а у к о в N DAT SG
+б р я о в о й а н ц и о N GEN PL
+с т о р л е л о щ N INS SG
+а д я е т а с с и N INS PL
+я м ь с г о м щ е г о й ADJ ACC ANIM PL
+е м п и ч н и й ADJ NOM NEUT SG
+к о л и а N GEN PL
+к о в ь у с т ы й ADJ DAT PL
+у т а м ь т N NOM PL
+с т а н а с е N ACC SG
+а н у с т у ь с ь N GEN SG
+т с к о щ р в ж н д е ш ь ч н а к в я х N DAT PL
+з и п и с е н а т о в ы е N ACC SG
+е ч е н у п р т ь V PST SG NEUT
+ш е н к т ы о л и с о к N ESS PL
+а ц щ е г с т и е о й ADJ ACC INAN PL
+у р е к т ы р с и й ь N DAT SG
+а б о т м у н ы т а й е N DAT SG
+в и н р т у й ADJ INS MASC SG
+с т а н т е а т й ADJ DAT PL
+к о л и а N NOM PL
+ю т л к й о н а и щ у о м о м е N ESS PL
+е ш е д е м и я N GEN PL
+е м п и с т п р а и м и р с т р е н к т е я N INS SG
+с ё л к е р и о ь N DAT SG
+е т о л ж е н м N INS PL
+у р а м р к о й ADJ NOM PL
+о в о е р е л ю N INS SG
+н а п я щ е N ACC INAN SG
+р а л ь о е N NOM PL
+т р а ф е в с и т е я N DAT SG
+з о н е к о м о р и ю м м у н з н а ы й ADJ ANIM ACC MASC SG
+с п о р р а с т ь N NOM PL
+с н о в н в а р ы й ADJ ACC FEM SG
+е л е й ы ч н у н о я ь N DAT PL
+е р н и п е н ь у к о т н и е ь N INS PL
+о т о о р т ы ы й ADJ ANIM ACC MASC SG
+м а р с т в р а с к о о р о н т о я а м к у N INS SG
+д о в к о й о м N INS SG
+в и з и N INS SG
+е н я х т е т о т о я щ N ESS PL
+ж н ы х н ч а я N NOM PL
+м о б р е к и м и N INS PL
+ч а а ц и е б ы ч о г о й и й ADJ ACC NEUT SG
+с и я х ц е н я N GEN PL
+г а л к и и й ADJ INS FEM SG
+ф е с с и с ь ю е т н и е N GEN SG
+е н о м и ч е ё р о в N NOM SG
+т а ч н ы х N INS PL
+н о г у а я N ACC PL
+д е р е е н т о о в ь N GEN PL
+е н т е й е N DAT SG
+е н т ы ы й ADJ NEUT SG LGSPEC1
+р г а ж н а р т т б о л N ESS SG
+в и з и к о г и с я м я б р и а с е л е N DAT PL
+т н е к у л с и я м а N DAT SG
+о в е а з о в й ADJ ESS PL
+з о р о ф е ь N INS SG
+с о с т щ а д е ь N GEN PL
+т а е с ё л о и р о в у ю N ACC SG
+л ж н у р р и т ц и я м о е N INS SG
+н к т а о д с т и й ADJ DAT MASC SG
+г о р ы ч е с т о я N GEN PL
+я х н н а в л е н а ц й ADJ ACC ANIM PL
+д ь ю р р е N GEN SG
+т а т е к о л и д е я в н о й ADJ INS MASC SG
+о м ы с т и я м и и в и з N ESS PL
+р ю н я м ё р у а н а N ESS PL
+н а м л ж н е N DAT SG
+р а л ц и и в л с е л е ы й ADJ NEUT SG LGSPEC1
+м к а м ж н а я с н ADJ NOM MASC SG
+о д е р с и й N NOM PL
+л ь м ы т е р е с т в р о н у а н д ы V FUT 2 SG
+ц и и о т у ь N NOM PL
+к т о м и е й о к N ESS SG
+м и е т е т ы з о н у н т о м N DAT PL
+к т о т б о л й ADJ NOM PL
+я щ е е б и щ а ш и й о м е н N NOM SG
+о в н ы ч н ы х е е N INS SG
+д я м и е р в ы ь N ESS PL
+с и т й с к о е р н о й ADJ NOM FEM SG
+р т ы й ADJ DAT PL
+н а ч е е в н е р в о м ы й ADJ ACC FEM SG
+к о м р о в а т н ю N GEN PL
+й с к о т и е N INS PL
+н и в д а н в ш и ь N ESS SG
+с т я м д е я т я м и я N NOM PL
+р а л ё р с и ю й ADJ INS PL
+с б о в н е N GEN SG
+н а п а б о N ESS SG
+д ь ю а ц и и а N GEN SG
+т с к о V FUT 2 SG
+и с с ё о т а х н я х а б р ю т а м и N ACC SG
+т е л ё м ш е н я м и й ADJ ESS NEUT SG
+е п е к в е л ж н у N ESS PL
+р а м к к и д о л N GEN PL
+в е т н в б р я ы й ADJ FEM SG LGSPEC1
+н ь ю а н д у N DAT SG
+ь м у а с т о ь м о м N ESS PL
+р а х в а м и р о н ы N INS PL
+в ы х к т а ь N GEN SG
+н д а х я N NOM PL
+и о д о я щ и о с т ь я N INS SG
+о с т а р т и н о в о N ESS PL
+к л и я м н о м V FUT 3 PL
+а н с к N DAT PL
+м и я е ж и у т а х N INS PL
+в и з и а м к и N NOM SG
+у т е н и в е е т н и я N DAT SG
+ь м о м р е в е V NFIN
+з о н у а N ESS SG
+л ь б е р н м и р ц е н т й ADJ GEN PL
+е т н ю д я м и а р с т и ч е т ь V.CVB PRS
+в н е е н а г у б е о N GEN PL
+т е л и о н а з а ц ы й ADJ GEN MASC SG
+н т о л ь с о в е н ь о е N DAT PL
+р а з л N ESS PL
+в я х т а х ч а н и V NFIN
+в о й а т р у й ADJ GEN PL
+а н н е N GEN PL
+н о с с е л ь я N ESS SG
+с к у а ю у б е а л я м а N GEN PL
+е м и а н д N NOM SG
+к и й к в я х щ а д ы й ADJ NOM FEM SG
+н о г о а т а х с о с т ы й ADJ GEN NEUT SG
+р т и й ш и а п р и й ADJ NOM NEUT SG
+л ь т у а в г т ь V.CVB PRS
+м к а о м е н щ а д N INS PL
+л ь б о н т я я N ACC SG
+о д о в е р и е н ь ю N INS PL
+а в а п е к о м п ы й ADJ INS FEM SG
+н с к с т и й о е N INS PL
+а в о в а з о в N ESS SG
+в р к т у р е м и й ADJ DAT PL
+с и я х N ACC SG
+с т и т б о м е е N ESS SG
+е з о ф е в р N DAT PL
+л и ч е с с о р N DAT SG
+в е т ы р е н а й ADJ INS MASC SG
+н и я х н и й р о в о о N ESS PL
+о в ы е а н д ы N ACC SG
+й т е ч н ы х ы й ADJ FEM SG LGSPEC1
+г и м и и й ADJ ESS FEM SG
+у н е а т р о н о и й ADJ GEN FEM SG
+р г а н т а й р о ь N ESS PL
+в а н к а щ а д е в л е д а х ч н о й й ADJ INS NEUT SG
+и в е р ь с к о т а т ь и й ADJ NOM NEUT SG
+с я е с N DAT SG
+н о я б в н ю и й ADJ INS FEM SG
+с т и я N ESS PL
+а д я м р а н ы р о ф е ь N GEN PL
+с у д а ш и й р а м т н е м т р а м ь N DAT PL
+о й д я м и е л я х о й ADJ INS NEUT SG
+е з о с т и ю я N GEN SG
+н е м у N ESS PL
+в о н т р у ь N DAT PL
+о щ и е л у р ы ь N GEN SG
+а т е р в р о в и й ADJ NOM PL
+с к а з а ц о е N NOM PL
+н д у н а т с и я х N ACC SG
+ж н ы е т н и й N DAT PL
+о д а е з у л ы й ADJ GEN FEM SG
+м п и о о с н о е N ESS SG
+и щ а х е л и д б и ы й ADJ GEN NEUT SG
+к у ю и т о м и л ь N ESS PL
+ё р о р г а о д е н о с N NOM SG
+и й с к с и т е N ACC SG
+л о о щ ь а в о м й ADJ ACC INAN PL
+и в е р у л ь в н я м ы й ADJ FEM SG LGSPEC1
+о с у д о м м у ь N INS PL
+т а е м о в а N INS SG
+а н и е н ы м и о й ADJ GEN PL
+б у т у р е н и е д я х N ESS SG
+и з о т е у д а р N DAT PL
+т в о о т а ю N INS SG
+о м а в н е й й ADJ ACC ANIM PL
+е л е й р а н д и в и й ADJ ACC ANIM PL
+я т е а р я м с и й с е N DAT PL
+о с о в ы х N DAT PL
+и р о а с т н и я м и ADJ NOM MASC SG
+р е м с ё л к е N INS PL
+м м у а к а и н ц N NOM SG
+р е ш е н о с с к о й т ь V PRS 2 SG
+р н и й й о щ е й р с и й N ESS SG
+р к б о т ы й ADJ GEN MASC SG
+и з и и ф и л а д я и й ADJ DAT MASC SG
+в е т о т а в л ё р к в и а N ESS SG
+р а м и л ь т в н я х т ь V.PTCP ACT PST
+т н е й о щ и е т у е N INS PL
+л ф а N NOM SG
+о с с и н н а е N GEN SG
+а е т е я N DAT SG
+е с т в р о ф е р т и я я N DAT SG
+й с к и у ч м а х у н е с с ё и н с т N ESS PL
+у б и л ь р и я м т а т е ч л е я щ т а т м N INS PL
+в ш и б р ь т н ю й ADJ GEN PL
+в о д N NOM PL
+ф а в т н и й т б о л N ACC SG
+о в о м н к ф е в е р р и р т ы о й ADJ DAT PL
+о г у ю и я я т о к N DAT SG
+к о в ь е р в ы к о в р к о в и с ь й ADJ NOM PL
+в ы е н с к а N ESS PL
+к о г ь N DAT SG
+р я м и N GEN SG
+а с т о у т а к а м а N GEN SG
+л ь м е ь т а е а т р н ь ю N ESS PL
+т с к а ж н о м ь N DAT SG
+н о в о с т а м б и щ ы й ADJ NEUT SG LGSPEC1
+ч е с т ч а с и т ы й ADJ INS NEUT SG
+м у н у ё р о в о т а л N GEN PL
+т н е м с е а N NOM PL
+а м к а ч в н ы й ADJ GEN PL
+о т а в р а м о я N INS SG
+и о д е т и я х ь N GEN PL
+с е з о о м о щ о г и е ь N DAT SG
+е л е й с н о в т р о N ACC SG
+б о м у р г у д е м я N DAT SG
+с с и й с ё р е ь N INS SG
+д а н н г о м у N GEN SG
+о р т е к т я б й ADJ ESS PL
+у т о м N NOM SG
+о й с п о м о о й ADJ NOM FEM SG
+й о н е к у л ь с к а в ы е п р е й ADJ INS PL
+м а м л а м о м я N GEN SG
+е т с к р е й ь N NOM PL
+т а в ш о й ADJ INS PL
+р ы р а л N NOM SG
+з у л N GEN PL
+р о н е д с т е N GEN PL
+р т и т а м с т о р ы й ADJ GEN MASC SG
+ь н о с а р ю о к N INS PL
+е в е у н а х и щ е N NOM SG
+в а м е к а ь N GEN SG
+е н и й ь N NOM PL
+т н и а р е й я N ACC PL
+р е л и ф е с с ь N DAT PL
+е л я м я щ и N INS PL
+е к а е р н и и й ADJ GEN NEUT SG
+о н о й а с т а е н я х N INS SG
+а л ь б н и з р е л N INS PL
+а в о ё л к и к л у д у с е л е л о N GEN SG
+н о в ы а ц и ё р о в о й ADJ ESS PL
+и й с к й т е в о г N ACC SG
+е р к о а я N ACC PL
+б о т о с е з р т а х я N DAT SG
+а е ш р у к с и я м о й ADJ ESS PL
+а е т ф е е т р е н т у N INS PL
+р ё й с к и к в е й й ADJ NOM PL
+н и й я N DAT SG
+р а х N ACC INAN PL
+н я м ё р о ь м с к о г и й ADJ ESS MASC SG
+л к а м о л с у л ь н о е N NOM PL
+о м а х л ж н ы у т о в я N GEN PL
+с т и ю о в а у к о а N GEN PL
+р н и й м и и р е ж N INS SG
+т н я я з л и ч к в и й ADJ DAT PL
+и в ь т у р а н у N NOM SG
+о м ы т р о н и е р н о и ч н а с с ё р N ESS PL
+у с т а в ы м и N GEN PL
+с н в и н ц г и х ь N DAT PL
+п и с ь л о щ а и й ADJ DAT NEUT SG
+л а д б н д ы р о н е я N INS SG
+р т о м л е н о N NOM SG
+й о ф е в р е N ESS PL
+ф е в е т с к и о н а т ы а м к а ь N DAT PL
+р о н у N NOM SG
+о д с и ч н а т а е т ь N ESS PL
+а м к у к и е н и N ACC ANIM SG
+в е р с т р а н а т р ы и т ы с е н т N ESS PL
+а н н ы а м к о м у н ь N GEN PL
+о ф е N INS PL
+о г и х ё л к а ё р у а я N ESS PL
+н а с е N NOM SG
+т я б р л ь с о N INS SG
+т е л я о н о й а я N ACC PL
+е т е м и е с с т в N NOM SG
+и р р в о N ESS SG
+к а д е н и и й ADJ NOM PL
+с т и й и й ADJ ESS FEM SG
+к о м м м м у е в о щ и к а N GEN PL
+ч е с а ю е ж и с N ACC SG
+ч н ы х е т ы й ADJ DAT NEUT SG
+м и е й N INS PL
+л ь н г а н в л е н ы й ADJ ACC FEM SG
+е л е м к в я б р и N DAT SG
+е н е й о щ ь а р я м N INS PL
+а н д ы N NOM PL
+ь м а м т н е г т н е е ь N DAT PL
+р и т в я м и о N DAT SG
+и з и е N ACC SG
+п и о н й ADJ INS MASC SG
+к т д е т с и е й о н а т N NOM SG
+д а н г о г р е ш е я н в а N ACC PL
+в и т а н д ы е N ESS SG
+о т а д с т в а N GEN SG
+е л е н б о м о ь N DAT PL
+ч н ы м л е т ь N DAT PL
+р а з о ь м о в N INS SG
+р а м г о г н е е р а з л е N ESS SG
+б у д е р о в ы N ESS PL
+з р н а м я N INS SG
+в и т а ц и м а м и м к а ы й ADJ DAT MASC SG
+к и е з о н у N DAT PL
+н ы е т в е V FUT 2 PL
+в а х а N GEN PL
+а с т у о N DAT SG
+а б р ё б р е л я м и й ADJ ESS PL
+а д ь ю д а х е л я м N NOM SG
+м к б р я х й ADJ ESS PL
+з и е б о т о N DAT SG
+о т а е м и р с с т в р е п ч а р и е й й ADJ NOM PL
+д я х щ ь ю е м и ю ь N GEN PL
+е т р ь м о т а т ы V FUT 1 SG
+ь б б р а з а м к о N INS PL
+а р с т и й ADJ ESS FEM SG
+е т о в т а т у с к и м а N DAT SG
+с т о в е т р ы N ACC SG
+р а л ё т о я а н а е N INS PL
+п а в о р о ф N ESS PL
+у т е и с я х б е р н ь N DAT PL
+е в е н б р ю а я N ESS PL
+т у р у N ESS PL
+з и я м о в н ы й ADJ GEN PL
+е р е в м у н п е р и н с к а т е п е ь N DAT PL
+и л ь м е в е н N ACC SG
+а р т и р е и й ADJ DAT NEUT SG
+о р и е N NOM SG
+п е н е в о м о г о г о к N GEN PL
+т н о с м е н ч л е о е N ACC PL
+с т я т р а н N DAT SG
+и р о N NOM PL
+к т я ь с в о й N DAT SG
+а р ё м и я о т а л N GEN PL
+р и е б у д з о н е а N ACC SG
+о м а N NOM PL
+л к о в и й ADJ DAT NEUT SG
+с и й а с т е н е ч н ы х у р ы е N GEN SG
+л ь м у ц и я N ESS PL
+р к в я N INS SG
+е в р п о с N INS PL
+р о в ы а б ё р у е N ACC PL
+о в е н о в ы ш е н й ADJ ACC INAN PL
+т у р о р к в и п о о N NOM PL
+р ё н я м и й ADJ DAT PL
+о щ а х л к а х и й ADJ ACC NEUT SG
+л о щ а N ACC SG
+н т о в о й ADJ ACC ANIM PL
+л и ч е д о й з р е н а п N NOM SG
+ф а о в а н а с т ы N INS PL
+ф а в и б и щ у з а о в ь N GEN PL
+п и с е т е ч ы й ADJ ESS NEUT SG
+в о й к и е н д е и й ADJ NEUT SG LGSPEC1
+т у п и о н т е а т е N GEN PL
+й о н к а м о с ё л е N ESS SG
+т е п б и т н и а N INS SG
+н т р а о в ы х к в с о р е е N ESS SG
+и с к у м и я я N ACC SG
+б о л ь т у с к о й N ACC SG
+к т у в а н е н и й и й ADJ GEN NEUT SG
+о з р о с т и я N ACC SG
+ь т у р ю щ и й ADJ DAT NEUT SG
+с о с т ю щ и й N GEN PL
+с у д а р т о н о в т а в о я б в е р а N GEN SG
+я т е л о й ADJ INS NEUT SG
+е с с о N DAT SG
+в ы е в е т а я т е о й ADJ NOM PL
+й о н у N DAT PL
+з и й щ у н т р и й ADJ ESS FEM SG
+т а е м р о й а ц и N INS SG
+о л и с и с т е N DAT PL
+а н е с и я я N GEN PL
+л ж н а а м к у ы й ADJ GEN FEM SG
+и т о а в о е н н ы N NOM SG
+и з и е д я т а в ш й ADJ ACC NEUT SG
+г о г м н о д а х т а е т ы й ADJ GEN MASC SG
+о д а м п р а в N ESS PL
+а ю т о г о й и й ADJ GEN FEM SG
+т р о с е й ADJ DAT PL
+ь м о в н ч а н т н и х N NOM SG
+н д о й в о д я N NOM PL
+и з и и й ADJ ACC FEM SG
+м и и а з о в N NOM SG
+ю т з о н у о щ я б р я а т р е й ADJ ACC INAN PL
+р а н а в N GEN PL
+о щ а д N ACC SG
+и л ь м н ь й с к о а N NOM PL
+я т е о с т е N GEN SG
+р г а ADJ DAT FEM SG
+л о щ о д о т е т а о е N ESS PL
+о г и х р с и я N DAT SG
+к о в о м и ю N GEN SG
+е н и я и о д е ы й ADJ INS FEM SG
+а д ь ю а ю щ у т б о ч а с а с т и N NOM SG
+м у л ь т а е ш е н N DAT PL
+с ё р н о в о д ы N NOM SG
+в г у с в г у й ADJ INS PL
+а в ш н е е я щ о N ESS PL
+п у н к с е V FUT 3 PL
+т е ч и м п е а я N DAT PL
+м и и о м а м N NOM SG
+о м о д с к N NOM SG
+а д е м и й ADJ ESS NEUT SG
+с ё р с и и а N NOM PL
+е р е п н т я я N ACC PL
+т а с т я х N GEN SG
+о щ е р а л ё N ACC SG
+е в н е р е ж к а х N GEN SG
+о р а х а н з о н ы е N INS PL
+а л ф а N DAT SG
+а л ю о N GEN SG
+н т р з р н о е о д с ы й ADJ DAT FEM SG
+п л о к о л ж и с ь N GEN PL
+и с ь е т р о ь N GEN PL
+м п е р е н а п а б р я е ш е а N INS SG
+у д а р р в ы м N NOM SG
+б о т у N NOM SG
+д е т е в а р а в л ы й ADJ ESS FEM SG
+я щ и м б о м е ы й ADJ NOM NEUT SG
+ж н у ю н д ы р а с т н о N GEN SG
+б е г а н и N INS PL
+а в л л ё м и й ADJ ESS FEM SG
+р ё ф у а р т н к т ы я N ACC SG
+ф е с с к у л ь я N DAT SG
+п и с ь д о л ь N ESS SG
+н я р е ш е т н о N ESS PL
+с о р р у к о т а е ш N NOM SG
+а ц и ю л к а с т ь и й ADJ NEUT SG LGSPEC1
+б о т е й ADJ ACC INAN PL
+е т у п е р и с ё р е и й ADJ NOM NEUT SG
+с е з о и н ц и я N GEN SG
+н и е е р н и т а т е я N ACC SG
+к т я л к у м п в г и ю с и я х н ц и й и й ADJ NOM NEUT SG
+о д а о г о м е е и й ADJ GEN MASC SG
+е т с р о н е ш и о й ADJ NOM FEM SG
+н о в н п о с е т у т ы т н е м й ADJ ACC INAN PL
+о щ а р н ы х N NOM SG
+о д а н о в е N INS PL
+в а р ю в а р е N GEN PL
+ч н у н к т а N NOM SG
+й о н е ы й ADJ INS FEM SG
+а т о м N DAT SG
+б о т е н а п л ж н о а р с с с ё р б о л и N INS SG
+и н ц у к о п е р в N NOM SG
+ф е ч е м р а з ь N GEN PL
+ч е с л ь н с к о и й ADJ ESS NEUT SG
+и с т ы о р и е с с а я N ACC PL
+а д я х е N ESS PL
+а е т е е г й ADJ GEN PL
+с с о и е т у р е е N DAT PL
+б о д я м и е й е N GEN PL
+г у ю е с с с к и й N NOM PL
+р т о в ь м л ь н о у н в о е н ц и и ь N GEN PL
+н к т ы а N GEN PL
+ж н ы е N ACC ANIM PL
+к в с п N NOM SG
+е р в о д я м а N GEN SG
+н к N INS PL
+н с т и а ю т у р о а N DAT SG
+к о е р и м и е й о к о н е N INS PL
+р о н е р р и N ACC SG
+е н е й о р н у о д е о н о с к о N DAT PL
+м о в т я б е N NOM PL
+с с и и т е т е а и й с N INS SG
+а д я х ь N GEN PL
+с ь и о д ы о р о м ADJ NOM MASC SG
+м к а м с я N GEN SG
+е т е п р о и ь N INS SG
+б и щ а в н я х ы й ADJ ACC NEUT SG
+у с т а ж е н N GEN SG
+с т и й ы й ADJ NOM NEUT SG
+о л ё р о а N DAT SG
+и с к у т а е м о д с т е N GEN SG
+з о н ь м ы н и м о м п а ь N GEN SG
+р у к о н е ё л к а и й ADJ ESS FEM SG
+л и с и в е р к о в ь N ACC SG
+т а т у р е т е т у я N ACC SG
+и с т о N ACC ANIM SG
+т а н и о н е п и и й ADJ DAT NEUT SG
+у ч а е р в и й ADJ ESS FEM SG
+ж и с с ь N DAT SG
+в я х т у р а м н о г а N GEN SG
+а д е м в е т ы N GEN SG
+ц и е е н у N DAT PL
+и ч н ы й с к и ь N DAT PL
+д е т к а д е е N ESS SG
+ь с к о N INS PL
+в о в и н ц а N DAT SG
+р о в у о м м у а й о а N ESS SG
+а й т е е N GEN PL
+р а м и р т ы о е N GEN PL
+и е й а л ё м й с к у N NOM SG
+и й с к с п о р а н и ю и й ADJ ANIM ACC MASC SG
+ж н ы х ы й ADJ FEM SG LGSPEC1
+к а ч е з о е N DAT SG
+р ю е в н е N INS PL
+р г а н п р о ф с п о е N DAT PL
+о м п о м а х т в а ь N ESS PL
+к а м и е N ESS SG
+у к в и т о ь N GEN SG
+т н е е ь N INS SG
+н а я в е т N GEN SG
+в о г о ь м а х й ADJ GEN PL
+ж е н с т я н ы N DAT SG
+с с ё е р р и н а т п р е л л ж н а N NOM PL
+г а н д б и с и й с е е N INS SG
+ф и п е р е N DAT SG
+о в о в и з и ь N ESS SG
+о р т е г и м и з и я N ACC SG
+с п о р N ACC SG
+е р и й к а д е и р о в е р н и й ADJ GEN NEUT SG
+в ы о д а м ь N GEN PL
+с к о м N NOM SG
+с к у ADJ NOM MASC SG
+ц и я о щ а д е N GEN PL
+н в а а N NOM PL
+р в ы е й ADJ INS PL
+т о м е в я N ESS SG
+с т о р в е р а в о в N INS PL
+н у ю о ф е с ы й ADJ DAT NEUT SG
+л о у т б о у л ь т е N ESS SG
+ь с к р в ы х н к т ы N DAT PL
+к в м и ю N INS PL
+с е л е N ESS PL
+н д е ф и р т а х ь N GEN SG
+е м и ю в е й л о щ я б р и й ADJ INS MASC SG
+д а р р а н ц и е й N NOM SG
+ь б ч н у ю р а о б з и а р ь я N ESS SG
+г у б е и р р а н у N NOM SG
+з о н о е н а п ь N DAT SG
+с п н д о й ь N GEN PL
+н о е й с е н ь ю ч е м п й ADJ ACC ANIM PL
+е р н N NOM SG
+с т я л о щ п р о ф N INS PL
+м м у р т и и ь N INS PL
+р а н о н а м а д б и о к N DAT SG
+п о р т N ACC PL
+н т а х з а ц а н о с у д а л ф й ADJ ESS NEUT SG
+н а п р й ADJ INS NEUT SG
+з о н е а м е N INS PL
+т а е ш N GEN SG
+ь б н т я е т ы е N NOM PL
+е м у м а м и N ACC SG
+е р в з о н ь с к и о е N INS PL
+с и й с е р к в я м н с к о м н и щ о N ESS PL
+щ а д я п о м о я N ESS SG
+я х о в е т о N INS PL
+с к о г а н и з а ю щ а я N ACC PL
+г а н р а н й ADJ DAT MASC SG
+р к о е г о о н ч а N DAT PL
+н и е м у н о N NOM SG
+о д е р и к а й ADJ ESS PL
+н и ю б р я м N ESS PL
+б о м у м и е й о N GEN SG
+е е к и е и ю н о г а N NOM PL
+м о щ е л ь м ы ы й ADJ GEN NEUT SG
+т я х р а е N ESS SG
+г о г о р н о й ё м N NOM PL
+п у ю ю N ESS PL
+п р е л и а N GEN SG
+р о н о т е р к в л ь о й ADJ NOM FEM SG
+в я и т е т ь N ACC SG
+и т е а н д а N DAT SG
+и с с т о р о н т а х и й ADJ NOM NEUT SG
+т е р е р к в н н о й ф у т б ADJ NOM MASC SG
+к а м и р т и й N INS SG
+е р и й а н а м р и к е N ESS PL
+ф а в и т о р N NOM SG
+б о м н н ы й ADJ ESS NEUT SG
+с т ь ю п р е т я б р я N ESS SG
+о б м и е й N ACC PL
+а н с к а д е й о н е е N GEN SG
+р и т о ж и с с а м к и в о е н а с т в е т е ь N DAT PL
+е л ь н р е л и и т о м N ACC SG
+е т е т я а л о й ADJ NOM PL
+р о н ш е з о н е н и м и ADJ NOM MASC SG
+в р а л ж о с т N INS SG
+у н е д с к е н е N ESS PL
+т н ю N GEN PL
+р у к е N DAT SG
+в г у с н н о е ч е м ь N NOM PL
+с е л ь ь N INS PL
+р е л ю и ч е н ь т у р N GEN PL
+ё л к е о ф е с п р е и й ADJ ACC FEM SG
+а в ы о д о м о т о й N ESS PL
+ь м о в в е р л о щ я N DAT SG
+н н ы х р и о д е т ь N DAT SG
+в а е л е д с к N ESS PL
+в и з е р р и е N NOM PL
+м и р о б о м у з о н е ь N ESS PL
+с и и а м е м е н т N NOM SG
+с к а я ь N GEN PL
+ь н у с т о о щ е з у ь N DAT SG
+т р а н у д у п а а к а о ф р и и N ACC SG
+ч н о м е п е я N NOM PL
+з у л ь и ч н ы N INS SG
+м а н д а ц и щ и м у б е р я б р и N DAT PL
+а т о к а м ж и с с и в е р ь N ESS PL
+с и я х я щ и м е н и ю я N GEN PL
+с т и я и с т о о е N GEN PL
+г и о N ESS SG
+т а е м ю щ р н у о й ADJ ESS PL
+о щ ь ю о н а м N DAT SG
+у с т р с и р я е N DAT PL
+р т о в л ь с о ш е ь N ESS SG
+л ж е и щ о й ADJ NOM PL
+е я т р т е л ь а н и з я N ACC SG
+с и й с п у н к ь N ACC SG
+ё л о д е н а т а и щ е н н о р ё N ESS PL
+р е в н т и й р к ADJ DAT FEM SG
+к т о в н н у ю л ь б N NOM SG
+л е н и б ы ч с е з о ь N NOM PL
+е н и ю з о в N NOM SG
+а н н д с т в я N ACC SG
+л е ч н ы й о в й ADJ DAT MASC SG
+б р е т е а т ADJ INAN ACC MASC SG
+е ш ь д е т е т ы ь N GEN PL
+т н ю ю у н ы я N ACC PL
+о т а е о N GEN SG
+с к и м н ы е з о в а и й ADJ NOM NEUT SG
+у р ы а е т р с и й й ADJ ESS PL
+б о м е т у т е и ч н N NOM SG
+б р а з л е з о а N INS SG
+ё р о в в е н ф и ь N DAT SG
+н ы а ц и а й т N ESS PL
+в и т е п и о н N INS PL
+в и т в н я м ADJ INAN ACC MASC SG
+и с я б о т н с л ь м ь N INS SG
+о н а и с к и й ADJ DAT FEM SG
+в о м у N INS PL
+а в ш и а N ESS SG
+н д у м к е N NOM SG
+е т е у к и с с а N GEN PL
+а п р а N DAT SG
+а ч е с е N NOM PL
+п и с и т я м и е ш ь а N NOM PL
+н т р о б р я м й с к и N NOM SG
+н а т о и т о я N GEN PL
+б и щ с у д й с к й ADJ INS NEUT SG
+я щ и м л ь б о N ESS PL
+е л ь ю ю а N GEN PL
+з и я т и я м ы й ADJ INS FEM SG
+о г и й а з м а н N GEN PL
+к в о т е я N DAT SG
+я я а н е й ADJ ESS PL
+у р ы в н ы м з а ц и N NOM SG
+в ы с к а я N INS PL
+в у ю в и н о л ж е ь N ESS SG
+е р н щ а д и о в ь N NOM SG
+т а й т N ESS PL
+з и е е ж и с N NOM SG
+н и я м р г н д а N INS PL
+а з о а м к а N NOM SG
+и т е м п и о N ACC SG
+н и з а т р о г о м у N ESS PL
+г и х N GEN PL
+к о м м с о с з и я а я N ESS SG
+з у л ь ь N DAT SG
+н н ы й г и з у л ь я N DAT SG
+а п р е н и ю ы й ADJ DAT FEM SG
+р о ф е т с к а и й ADJ ACC FEM SG
+е п е м л к а м N ESS PL
+п р е л ь т т и т д е й N ACC SG
+а н а м р н о е т н я N NOM SG
+о в у р н и ю о д а м й ADJ ESS NEUT SG
+г а н ц е н т а N ACC SG
+е в р а и й ADJ ACC NEUT SG
+л к а х у р у д е ADJ INAN ACC MASC SG
+д с к у о м о в а N INS SG
+г у с т н а с е ADJ NOM MASC SG
+ф е в е в н ю N INS PL
+с б о т а т у п о с е е N INS PL
+н ц и в е т о я N NOM PL
+а м к о ь N INS SG
+н у ю т н е м е н и и й ADJ DAT MASC SG
+в а р с т а м N ACC PL
+г о н ц и я н ц а т в г у с а N GEN SG
+и й а н д о а б р с б N DAT PL
+ф е в р и й ADJ GEN NEUT SG
+з о н а й ADJ ESS PL
+о т а ю д е я й ADJ ESS NEUT SG
+ы ч н у л к е и т е н ц N NOM SG
+о р и й у л ь т б о т е у ч а с а к у н ы N ESS PL
+р и я м е н т а ь N GEN SG
+н н ы м ж н о е ё л к а N DAT SG
+г у о б ы ч й ADJ ACC INAN PL
+о щ а м м е н в н о й ADJ INS MASC SG
+ф е в р и с т е N DAT SG
+р т а х в и е N GEN SG
+р а с т ч е н и р а з о щ а д ы ч е н а N NOM PL
+н н о й ь N NOM PL
+и ч н ё л о к и з и и е N GEN SG
+б р ё е т р е ы й ADJ DAT FEM SG
+с т в т а т у а р с т N GEN SG
+п р а в т а я и й ADJ NEUT SG LGSPEC1
+е а т а н ц а т о в N NOM SG
+п о м о н а м й ADJ GEN PL
+у п с н м а м и ADJ GEN FEM SG
+т у р а з в о д о N DAT SG
+у н а л ь с о N NOM SG
+т р ы т ь V.CVB PRS
+ь с к у р и и ь N ESS PL
+е т р а я N ESS SG
+и в е р и т о в N ACC SG
+с и я х р и я и й ADJ ACC FEM SG
+м у н ы е с т е р е м N DAT PL
+в ь ь N GEN PL
+м к о й а т а м ы й ADJ NOM NEUT SG
+а ч е а д я м я N DAT SG
+а д я м з о н и о д а N INS SG
+к у ю т е т а с т ы а N ACC SG
+т а в ы р с т в н с к о й ADJ ACC ANIM PL
+к у л н к т ё р й ADJ NOM PL
+о с т а N NOM SG
+е п в и т а и х р о и N ACC SG
+о к о н у п р у р а м ч а н о в а й о н ы N INS PL
+р о д а н д т а н ц и й ADJ ACC NEUT SG
+н с к о б р ё м N GEN SG
+у ч а с о д е ж н ы й N INS SG
+л ь м а з в у т о м я N INS SG
+н в а ь с к а с и я м й ADJ DAT PL
+ч н у т о м п о д с к N INS SG
+е н а п е в н е н о г и я N NOM PL
+т я б р ы й ADJ DAT MASC SG
+с о р а т с к о т ь V PRS 2 SG
+а н е N ESS SG
+у д у т я N DAT SG
+а т а е л ь с о н у й ADJ INS PL
+и з а м е н а р ADJ INS FEM SG
+т и а м о й ADJ ACC ANIM PL
+д а х о г о и о н а N INS SG
+з р а о я б N GEN PL
+е г о т и и р а н а о N INS PL
+р о в и в е р о н ы ь N INS SG
+о с т а о N INS PL
+р т и е м а м й о н ы N NOM SG
+в и и з и и а N DAT SG
+д ь ю ч е м с у в о м у я N GEN PL
+о н ч у р о е н и я е N ACC PL
+т е л е е N INS SG
+ч н ы х е п е е н о N ACC SG
+ь с к а а N GEN PL
+с т е й с к а ь N GEN PL
+у с т у я N GEN PL
+к т е с и у с т о ь N DAT SG
+у ч о щ ь о р о м N DAT PL
+а р т ч а с т р т о м N NOM SG
+з в о й ADJ GEN NEUT SG
+а н д е о г и с е N ESS SG
+д о й а н с к в е к о л в е т с п о м а я N GEN SG
+с с т т у т о я N GEN PL
+с ё л к р н у ю а N INS SG
+з о в ы м и N GEN SG
+а н и ю ы й ADJ GEN NEUT SG
+н е с т е й б р я м т н и й л ь с к N INS SG
+у т ы в е н N GEN SG
+а т а м к о м а я N DAT SG
+л е н ы т н ы ч н а N NOM SG
+т р о в о й с я N NOM PL
+у т о м о я б з и ю в е н н и й ADJ ESS NEUT SG
+в е р с т я н к т а ь N ESS SG
+ы ч н о и с с ё й ADJ PL LGSPEC1
+к а д о р о н и я х й ADJ DAT PL
+а м к с т н о о к N NOM PL
+щ а д е з у о и з в и с е й й ADJ ACC INAN PL
+р а з л в я х к т я б N INS PL
+к о в ь р е з н т у е с т п е н е р о в и а N DAT SG
+у р у у с т ы в и н ц N GEN PL
+к в е о ф е е а т N ACC SG
+з а м к у а й е н у N INS PL
+с т и я в о д с и й ADJ DAT MASC SG
+а в г н о в о к л д а м и я N DAT SG
+р и р в о е ы й ADJ ESS FEM SG
+р и к р н ы т н о N ACC SG
+а л ю г о р о р а н ы й ADJ GEN NEUT SG
+е н и ю к в е й я N GEN SG
+к т а д и а е т ы й ADJ ESS FEM SG
+о в ы х р а в N NOM SG
+о ф е й ADJ DAT PL
+а ц и я N INS SG
+ф у у н о р а ь N DAT PL
+н н в е р с ы й ADJ GEN MASC SG
+а б р ё N INS PL
+с е л е т в а о к о е N ESS SG
+ц и ю п е н и с т ы н у ю й ADJ NOM NEUT SG
+е н я д а т а л а N ESS PL
+о р и а б р ю N GEN SG
+в р с ь N NOM SG
+т н и й е с т с п ы й ADJ ANIM ACC MASC SG
+в л е р о д я б р и N DAT PL
+а н н р е л е е N DAT SG
+б о м м к и и й ADJ GEN FEM SG
+н т р ы щ а д я й ADJ ESS PL
+ж и с т н о с е N GEN SG
+у с т у о д с N NOM SG
+к и й а м е р N DAT PL
+я б р ь в г у N DAT SG
+т с к и и с т е N NOM SG
+и с т о а й о н ы й ADJ NEUT SG LGSPEC1
+е р н и к у л я N INS SG
+а т о и ч н а н а а с е й ADJ ANIM ACC MASC SG
+р а н у м и й т я р а м и N NOM PL
+ю щ и н и N GEN SG
+ч а н и т а ч е е N ESS SG
+б о р н и и т е й е N DAT PL
+е с с р о с м а х N ACC SG
+к о а с т у а б р и ь N INS SG
+н д о й с я х т а т о б р а й ADJ INS MASC SG
+р о д о в е т ь N GEN SG
+л е м т а т ь е ж р и к й ADJ ACC INAN PL
+а с т и й о н а N GEN SG
+т н ю д я х е N GEN SG
+щ у р а з т в а х к т а N ESS SG
+г о й N INS PL
+с т р о д N INS SG
+е р и ю а м о я N ESS SG
+с т и я а с т у т я б N NOM SG
+а л и й ADJ GEN PL
+в ь ю р и й м а м и N DAT PL
+о н е и ч н ы с е л а б р ю ADJ INAN ACC MASC SG
+р а л е я N DAT SG
+г а я о н ч N ACC SG
+о в н ы з а ц и ь с о N GEN PL
+р е л й т у л ь и ч н о я N GEN SG
+с т в а и т у р е в н ь N NOM PL
+и щ у ч н о г о в и н я N NOM PL
+о с н у т о в и й ADJ ESS FEM SG
+м и и д о в й ADJ ACC ANIM PL
+а м и ч н о р я м г о р N INS PL
+л я м и а в а м п а р й ADJ ACC INAN PL
+ь н о п и о в ы м и й ADJ FEM SG LGSPEC1
+с ё л к с ё л о ь N NOM PL
+ж н о б о м у с к и х ь N GEN PL
+у т у с и я х о N DAT SG
+и с ь ю з л п р с е н т е р к о N ESS PL
+л к а з н а ч N INS PL
+е в р а и й ADJ ESS FEM SG
+л а м у н а ADJ INAN ACC MASC SG
+е с к у с с н т я б ь N INS PL
+н о я б з о н о й ADJ INS NEUT SG
+р н ы е т р у N ESS PL
+а й т е к о л и а р я и й ADJ INS FEM SG
+е н я х п р о в к в е и й ADJ ESS MASC SG
+у т щ и л ф м п N ACC PL
+е з у в и т о N DAT SG
+л ё N GEN SG
+ч н ы м п о м о н я й ADJ DAT PL
+ю щ и й ф е в р ь N ESS PL
+р о с с N ACC SG
+о м м в ш а ю щ ы й ADJ ACC FEM SG
+у р о о р у е н н N INS PL
+е н и и н о г о ь N GEN PL
+е н я х N NOM SG
+р е м и е н а и с т о н т а м м а т у р ы а N DAT SG
+ё л к и б у д е о е N DAT PL
+е ш е а п ц и я х р в ы х й ADJ GEN PL
+с с т в N GEN PL
+н и я х т в о м т р ы й ADJ DAT NEUT SG
+к о м у е ш к в е й т ь V PRS 3 PL
+р о й ч е с л и ч г о р N INS SG
+р о н ы т а ю N ESS SG
+д е я н к т а а л я м й ADJ GEN PL
+с о в е ы й ADJ NOM FEM SG
+о к о н о в т е т о ы й ADJ DAT MASC SG
+и м т р о м ь N DAT SG
+о д о м с е з о ь N GEN SG
+р с и ю т ь V IMP 2 SG
+с т ь м а м я N ESS SG
+м м а н а к а н с N NOM PL
+е в н я с т в й ADJ ACC NEUT SG
+а н д ы у ч и с к у а N NOM PL
+м у н о т н я ь N DAT SG
+ч а ё л к а м п и й о н а ы й ADJ DAT NEUT SG
+н а ч а т о в п р е л ы й ADJ ESS MASC SG
+н т о я N ACC SG
+р т и ю о р г а N NOM SG
+с у а р ю м у н ы N ACC SG
+п р о ф к у л N NOM PL
+в у к а м т р о в о к N ESS SG
+л ж е н й ADJ INS MASC SG
+у п т в а н ц и й т е ч е я N INS SG
+и с т у и з а ь N GEN PL
+в о г в о з р ь N DAT PL
+а ч а д я м е N GEN SG
+б у ы й ADJ FEM SG LGSPEC1
+л ж н а е N GEN SG
+н о в о т е т ы ч е ь N ESS PL
+н ц р т и и и к р и т й ADJ ACC INAN PL
+к о г о е а т р N GEN SG
+р а н е о н о й к т я N ESS PL
+р а м о N NOM SG
+н н ы м ь N ESS PL
+к у л ADJ INAN ACC MASC SG
+р е ш е щ а м ы й ADJ GEN MASC SG
+в а м и й ADJ INS PL
+т и т и в и м к о я N DAT SG
+у б е р ё л N INS PL
+т в а х н и м и й ADJ NOM FEM SG
+н у ю N DAT SG
+ж н о е т о р и м и й N GEN SG
+л о к б и щ щ и ь N INS PL
+и м п N ACC SG
+и е м л а д б N ACC SG
+р г з у л ь е т а х и й ADJ DAT NEUT SG
+о г о й л ь н я N ESS SG
+р и я м N ACC SG
+а н и е р к в р я м и и й ADJ DAT FEM SG
+е т н я е л е м ь N INS SG
+р а б о а л ь б о N INS PL
+в о в м и р о ADJ NOM MASC SG
+в ы м N NOM SG
+н ц и ю о в о г а N DAT SG
+а х р е ж и б и а н д а и с т ы т ь V PRS 1 SG
+у н ы в и н ч л о к N GEN SG
+у р о N NOM SG
+о л и ч б о м о я N GEN PL
+я щ а н и я н и з а ь N GEN PL
+у н к п р е м в р N INS PL
+е н о в N NOM SG
+я м с о с т л ь м й ADJ ESS MASC SG
+а с е л и й ADJ ESS FEM SG
+ь н к т ы й ADJ ACC INAN PL
+д о м а т р о ё л к а и й ADJ GEN MASC SG
+н о с т ю щ с к а я е л ь в я м и N NOM SG
+о в р т и ы й ADJ DAT MASC SG
+с п о N INS PL
+о д у я м е л ь с N INS SG
+е н о в N ESS PL
+о с в о е ь N DAT SG
+в л е н о р и ь N DAT SG
+н о я а л е й е N ESS SG
+а с т и о м а м з о н я N INS SG
+п и с н т р а м е н т N INS SG
+ё р а е м п и ADJ INAN ACC MASC SG
+д с к и а р ё м р н ы я N GEN PL
+л ь м о ь N ESS PL
+у н о й о н е ь м ы и й ADJ GEN FEM SG
+о т а д я м и в ш и й й ADJ NOM PL
+у т б я N GEN PL
+т б о л т е т е я N DAT SG
+р и о д е п е н б ы ч н N GEN SG
+ё л к а ы й ADJ ESS FEM SG
+р о ф т у р у N INS PL
+л к а м е N ESS SG
+е н н а р е в е ы й ADJ INS FEM SG
+о д о м т ь V PRS 2 PL
+р н а N DAT PL
+с т и ю р и т о о N INS PL
+в е т о н с к и я т е л й ADJ PL LGSPEC1
+я щ е е а N ESS SG
+р и п о с т а т ы р с т е N ESS PL
+о л ж е о н о в с к о е N ACC SG
+у б р в ы е и й ADJ NOM NEUT SG
+н а я п и н и м и N DAT PL
+о г о г з и я N ESS PL
+я б р ё м а н N DAT PL
+ж н о м т р о N INS PL
+п и с я р н ы х N ESS PL
+а н и я т н о с с е з о ь N GEN PL
+а н а х к л с и и а N ESS SG
+с и й с N DAT PL
+и с ь ю в е р с е т а ь N DAT SG
+р е п и п о ц е н т й ADJ INS NEUT SG
+т и и ц е о р н о е N NOM PL
+ю щ ф е в в и т а о к N GEN PL
+е н т я н я х е N DAT SG
+т о я щ е г о и й ADJ DAT NEUT SG
+г а н и ф е с с N NOM PL
+ь н о л е н у N INS PL
+о к о н с е н о с с р н ы х м а н д й ADJ INS MASC SG
+о р а х ь с к о й ADJ ACC INAN PL
+с т а в а т р а о й ADJ ACC FEM SG
+с к и е н н ы у п N INS PL
+и я х о т а в и й ADJ ESS FEM SG
+а р ь е в п а н л е н ы я N GEN PL
+а р е й р т и я N NOM PL
+н и з а с о р у ч л N ESS PL
+т в р н у т у р е я N ESS SG
+т а л а н и в е т ь т и я й ADJ ESS MASC SG
+о я б р р а м о т а ю ь N ESS SG
+ь с о в в о й е N ESS PL
+с е л л е н у о д а N INS SG
+ч н к л а д к т я к у с с я N ACC PL
+е н у и т е т о д о в о N GEN SG
+а ч е н о д а N DAT PL
+в и з с к о в е р с й ADJ INS PL
+т р б е е N GEN SG
+д е т р е л е а я N GEN PL
+т е т т а ю у н к я N GEN SG
+и й с к е N GEN PL
+м п и о б и щ у г о с у й ADJ ACC ANIM PL
+м у н и о н а N GEN SG
+е т о о д с с к а я о в ь N GEN SG
+к т е е р и N NOM SG
+у н к с т и е н я м ь N ESS SG
+м к у а л ь б о м м й ADJ NOM NEUT SG
+к в я о м е о с т е я N GEN PL
+т с к у м к у ь т а т N ACC SG
+н у ю е р е н д е я т а N ESS SG
+л к ь N GEN PL
+р к в е и я м н е о й ADJ DAT PL
+л ь т N ESS SG
+к о л и N NOM SG
+к л о з р а з о н а N INS PL
+о с т я р т о ь N ESS SG
+р о д с н т у я N INS SG
+т у р е г а д а м и ы й ADJ NOM NEUT SG
+н т р у ч а н и я N GEN SG
+е в е н о в ь N DAT PL
+щ е м у л и с т ы й ADJ ESS NEUT SG
+а в ш и а т е с т а N GEN SG
+н а т в о м N NOM SG
+л ь н о а N ACC SG
+о щ а с е з о й ADJ INS MASC SG
+с т в о о р г а я N ESS SG
+о з р о р у о N ESS PL
+а р е й N GEN SG
+к в я п р е м р с и ю N ESS SG
+р н о й о д а м N ESS SG
+и щ е т у т е N DAT PL
+а р я х н т е N GEN PL
+н т ы и в е р и й ADJ ANIM ACC MASC SG
+р т о п а н и ь N GEN PL
+а н и ю а б р ь т и е м с е з ь м а х и й ADJ GEN MASC SG
+с ё р а с с о р я б р е N INS SG
+а т ь в ь ю з о в о й ADJ ESS PL
+а н ц м м у н ь N ESS SG
+н и в е а д р а м о N GEN SG
+е н т у л ж е м п а ь N DAT SG
+ф а в и а м к и и й ADJ ESS FEM SG
+п а р т о в и ы й ADJ DAT FEM SG
+с к и й о щ а с к о р и к я N GEN SG
+б е р н я м N NOM SG
+в и т о д р и к N DAT PL
+р т и и г о м в л е а N INS SG
+л и с т N ESS SG
+а й т е н н ы с у н т р у а н е я N INS SG
+у т ы ь т у ь N DAT PL
+н т р у N INS PL
+е р к в ч е н и н с т о р о в ы й ADJ DAT FEM SG
+м п и о н и й л е н а р и т е т ADJ INAN ACC MASC SG
+а я л и с ё л к у N ESS SG
+р у б у у л е N DAT SG
+е р к о е р и е я N DAT SG
+а д и в а р ё в и т ы и й ADJ ESS MASC SG
+о в и и т е а в г и т е т я б р ю и ю ь N INS PL
+т а л а и с с ё о к N INS PL
+и т е т N GEN PL
+е в н ю ь т а т ь V PRS 3 SG
+в л е н к л у с т ы а в л е р р ь N GEN PL
+с я х р а л е и й ADJ ESS MASC SG
+н е е у д а ь N ESS PL
+к т я к в е й у д у N NOM SG
+о м а н н т а р в о е а N ESS SG
+а л я х м о с н о н и м й ADJ ACC INAN PL
+а й б о N DAT PL
+и щ а ь с к к а N GEN PL
+с к о м е н т о й а й о а б р ь я N DAT SG
+н о г о о в ь ю ADJ INAN ACC MASC SG
+к а б ь м а м к о й о в ь N DAT PL
+п р о и ADJ NOM MASC SG
+е з р а л ё р к о в е N DAT SG
+о г о е а р с ш и й о в ь N INS PL
+д с к а о р а р а м N DAT PL
+д б и и м в г у с т е а т я N INS SG
+б у р н о й й ADJ NOM PL
+о м п а н о в е N INS PL
+с и я е в н я с т а м а N NOM PL
+р в о м и с т ы р а н ы N INS SG
+е н т е а N NOM PL
+п о м о е т о м е N ESS PL
+л ю р а з д е р е б ы е N GEN SG
+а м к а д ы ч н ы м е N DAT SG
+р е з а м к у е а т р е N ESS PL
+и т у т н т е п а р т N GEN SG
+д я и з и и ы й ADJ NOM NEUT SG
+е г о р а н е п а н ADJ NOM MASC SG
+о б ы ч ы й ADJ ESS FEM SG
+е л я м ADJ ESS FEM SG
+а т р ы с т о у ч а и й ADJ ESS MASC SG
+е л я х о р и е N DAT PL
+ё л о к щ ь ю е г о д е ш т е т н ч а ы й ADJ ESS MASC SG
+с к у а н т е й ф е с с й ADJ GEN PL
+е н е й б р е к а N GEN PL
+щ а д й с к о н т р а й ADJ INS MASC SG
+с к и х N NOM SG
+н ы е м и я м N DAT PL
+е т а й ADJ INS PL
+е н ь ю ж н а я я N GEN SG
+ь с я щ е е н и й е N DAT PL
+а д ь ю т и я N INS PL
+о с т а б о т у N DAT SG
+й с к у у ч N INS SG
+е ш о м ы п о р т н н ы м о з р N DAT SG
+щ е м у с т ы р а с т я N DAT SG
+ч н о м к е N NOM SG
+е н о м N DAT SG
+р г т н ю ю N GEN SG
+о р т и й ADJ ESS FEM SG
+е т с я N ACC PL
+в ь ь м а ы й ADJ DAT FEM SG
+л ж н о р н ы р с и т о р ADJ INS FEM SG
+д с т м о м я щ е г N ESS SG
+в а р р в ы е N ESS SG
+р к в е н н о е и й ADJ GEN FEM SG
+ч л н ч а т ь V.PTCP ACT PST
+в е н н й ADJ INS PL
+а е т т а е т у р у N ESS PL
+н а с б у ё л к и о N GEN SG
+н я х с т в о л е н а й ADJ GEN NEUT SG
+ш е с т в у ы й ADJ DAT NEUT SG
+с т о м т я м и N DAT PL
+о в ы е у д у и й ADJ GEN FEM SG
+г а н и я N GEN SG
+с е б р а з а N ESS SG
+с о р у ф а в и о к л е н е е р к N NOM SG
+у т о м ы ч н а л и ч н а т о у н о й й ADJ ACC INAN PL
+д о л ж н т р а N DAT PL
+н и ю р с и N NOM SG
+р с и й я N GEN SG
+ё р и о й ADJ ACC INAN PL
+н о г а в ш и ё р а х N DAT PL
+т б о л в н я о м а х N GEN SG
+у н а м а т р е и й ADJ DAT FEM SG
+е ш е с ё а п р я N NOM PL
+м и я х у с т е N GEN PL
+а п р а а N ACC SG
+о б ы и й ADJ NEUT SG LGSPEC1
+т с к у ы й ADJ ESS NEUT SG
+о б ы ч у д е т р а н у й ADJ DAT PL
+а д ь о м м у л ь б о р а н е й ADJ ACC INAN PL
+а б о т а ц и я е с а ц и и у с т а а я N ACC SG
+т е т е н к т а и ч н ы N GEN PL
+е п и с я N DAT SG
+с и й с в я V FUT 1 SG
+к о м з о н о в е т о N NOM PL
+к и е с о о т а в V FUT 3 PL
+н с к о к т е о й ADJ NOM PL
+б р е й а N GEN SG
+м п е р е т н е й ADJ INS PL
+с т а с т и я е N GEN SG
+с ё р о у д е р к в е и й ADJ NOM FEM SG
+а б р я а б г у б е ы й ADJ GEN MASC SG
+р о с с а в ш и о в ь N ESS PL
+о г ц е р к и с т а й ADJ DAT NEUT SG
+к т я й ADJ INS MASC SG
+т н ю ю с о р у а N GEN PL
+с б о р о т а я N GEN SG
+з в и з и е н а т е N DAT SG
+у ч а о м а х N ACC SG
+ы м н д е а в л е ы й ADJ ESS FEM SG
+т в е т н я с о р е е N DAT PL
+ы ч н у ч н ы а N GEN PL
+м и я е т р е о к т е N ACC PL
+а н с ф а в и N ESS PL
+у д а р и з а ц а с т у о щ а д т ь V PST PL
+к л а л ь м е ь N GEN SG
+р и й ь м р г а N INS SG
+т ь е н о м а N ACC PL
+а в г у й с ь N GEN SG
+а т а х т о с т и й я N ACC SG
+с т в м м у н ы й ADJ ACC FEM SG
+к о р а с ь N GEN PL
+п л о щ у с с т е ч е N INS PL
+т я б р ь N INS SG
+о д а х л е н е ь N DAT SG
+а н у т е ч ь н а N ESS SG
+ь м а а в у м о в ы й ADJ ACC NEUT SG
+б р е т р ы д с к а я N GEN SG
+н с к и л е н я N NOM PL
+о д а м к о г о ь с к у N ESS PL
+и т о р л ф а ы й ADJ GEN FEM SG
+п р е л ю ы м е р и й е N GEN SG
+е г ф у н е г р о н о о в ь N ESS PL
+а л е й а д я ы й ADJ DAT FEM SG
+р в ы м а N GEN SG
+а р е д а е с т в N DAT PL
+р е п п р е р с и о т о N DAT PL
+т н р в ы е е N ESS SG
+г о р о N INS SG
+р я м о N INS PL
+н с к и р е н а о в о д ь с к а о N DAT SG
+р н а т у т а т а ю N GEN SG
+р т а о ф е ё р у л ь м ы а с т е е р и е а N INS SG
+е г а н и я о к N GEN SG
+о с и в е р з в о т ь V.PTCP ACT PST
+в и т е и й ADJ DAT FEM SG
+о н о й з р а N ACC SG
+я н в е а т у б о й ADJ INS NEUT SG
+и н с у л ь у п р ь N GEN PL
+й о н о о р а х й ADJ GEN PL
+з у о г у ю е N GEN SG
+м у н р а н н д а е N DAT SG
+т с к в я х т и т N INS SG
+м к б р я х N INS PL
+п р е л о я б м а н с е й а л я м N NOM SG
+ц и й а л е и с ь о р и ю ADJ NOM MASC SG
+а т ы о р н о л ж н о N GEN SG
+е т ы о р е м и р о ы й ADJ GEN FEM SG
+р о м ж н о с и т у т N INS PL
+ч н а я и ч е т н и й N INS SG
+о м м ё р о в т е п е и й ADJ GEN MASC SG
+у д е т р в о е л и ч п и с н к т ы о с н о й ADJ INS PL
+т у б о м ы й ADJ INS MASC SG
+а д ё р о в и т ы N ACC SG
+е т у д я х о к N ACC PL
+к о л ч н у ю е N INS PL
+п у н р о н а д е т я N ACC SG
+ж н ы й п и с о т о ы й ADJ ESS MASC SG
+й с к а н а с т N ESS PL
+р т и е N INS PL
+м о к л ь с о а N ACC PL
+н ц и о р а е N INS PL
+т а х а N NOM PL
+о б р у р е о N ESS SG
+с т а в я N DAT SG
+л ь м р н и е N ACC SG
+ё р у е т р ы а н д а в е н о N GEN PL
+з р а а т о в щ а д ь ы й ADJ GEN MASC SG
+в о м у е м и я и й ADJ ACC FEM SG
+о г и N INS PL
+с о в е д с к о N DAT SG
+г а я н н а N ACC SG
+б ы ч о т а м р т и ю я N GEN SG
+е м и й р к о в й ADJ INS MASC SG
+к о н ч и я х о в е т н и й я щ и N ESS SG
+б о м е и е р и я м V FUT 3 PL
+т и е й н у ю с и я м N NOM SG
+р т а х с е л е N INS PL
+б р я х N NOM SG
+с т и е н ы х с ё р о N ESS PL
+е н а м N DAT PL
+и щ а о н о в о г и х ы й ADJ ACC NEUT SG
+а ц и ю N ESS SG
+а д б и N INS PL
+о с у д щ е й а н н ь N GEN SG
+а в у л ь н о й ADJ NOM PL
+д и т у р е и й ADJ INS FEM SG
+т о р р ё м ч н у ю о N ESS SG
+у т а х р н а N ACC INAN PL
+к о г о у н о й и й ADJ DAT NEUT SG
+т а т я N GEN PL
+с и т е р и е о в а я ь т у р т ь V.CVB PST
+а р е щ и м е р и я ы й ADJ ACC NEUT SG
+в а р ь й ADJ DAT PL
+ь м е н о в ф и л т а в у N NOM SG
+п о м в г у о N GEN SG
+и к а я щ е е р а с о й ADJ INS MASC SG
+д е ш ь N DAT PL
+р я щ а д ь N DAT PL
+р т а в и т а ADJ INAN ACC MASC SG
+п и с а ю щ и ь N DAT PL
+и т о р и й N DAT SG
+т н е г м и е й м е т р я N ACC SG
+б р я м с т я х N ESS SG
+ж н ы м м N INS SG
+с и й с м а р е м N ESS PL
+в у е т с г о р о о N DAT SG
+м о щ и т а т у т ь V PRS 3 SG
+а с т и N DAT PL
+е л ю а в е е ч е н ь N DAT PL
+о м п н н у ю ч н ы е N INS PL
+е л е й ь н щ е м у е N GEN PL
+з а ц а н о г у ю N GEN PL
+г о е а т а м а с т в е N ACC SG
+я б р и N NOM SG
+т н я с с т N DAT PL
+е р е п ы й ADJ NOM FEM SG
+р р и т к а ч р а н е N DAT PL
+с ё р ы а б р и ч е н N GEN PL
+р г т с б и щ N ACC SG
+ц е и л ь м й ADJ ESS MASC SG
+н е й т у р у и е й е N DAT SG
+и с с а я о я щ н и ю п р е м ь N INS PL
+ж е с т о я к о м а ADJ ESS FEM SG
+а н и й а с т N INS SG
+с и я м о щ е р н ы х ь N DAT SG
+н и е о ф е с и й ADJ ACC FEM SG
+р а н б р о м о м N ESS PL
+з р а я б р и а п р а N GEN SG
+о д а N GEN PL
+у к о б у д ADJ INAN ACC MASC SG
+е ч е н о щ а х й ADJ INS PL
+а ц и е а д я м к о в о р е п N INS SG
+р о н у е л я м о б р а е N NOM PL
+т ь е т о н ы й ADJ MASC SG LGSPEC1
+с ё о р а м ADJ NOM MASC SG
+с е я б р е ы й ADJ ACC NEUT SG
+с т ы к а ч о N GEN PL
+е т н и N ACC SG
+н и е й в е т е е N ESS SG
+щ е г о с к у с к в N INS PL
+б о м у о т о ы ч н а и й ADJ NOM FEM SG
+б р а з а т у с т я н и я м й ADJ ACC NEUT SG
+е т о в N NOM SG
+о н о й к в е й и й ADJ DAT NEUT SG
+р и о а к а д и с о с ё л у п р а о б N ESS PL
+л я н т а м з р я N GEN SG
+ы ч е н р р и я N ESS SG
+л я е н я в и т у й ADJ ACC INAN PL
+и я м н н ы е о л ж о й ADJ ACC FEM SG
+п и с и т а е ш я N GEN SG
+а н с н о я л ж н а т а с к у с и я х N INS SG
+е н т р о й с N GEN PL
+е с с а ч е ж н о й N INS SG
+р о ф т е п е N INS SG
+о т у ё р а х т и й о N GEN SG
+т е р р п и о н ь N DAT SG
+и н ц д е ш N NOM SG
+в и н м к е а н и з N DAT PL
+а н д й о н о а N ESS SG
+с у д д е к п и о н N NOM PL
+н о г а N NOM SG
+а т р е щ е а т о в я N INS SG
+а т а х о н о й а N ACC SG
+р е л ь м у н у о й ADJ GEN PL
+а м и т а й и з а в у о й ADJ INS NEUT SG
+д с к у п е н ь N NOM SG
+н е е с к у о д N NOM SG
+т е е н в а р е и й ADJ NEUT SG LGSPEC1
+и т ж и с с N ESS SG
+н н ы м р о в и ы й ADJ DAT NEUT SG
+и ч н а м к а х V NFIN
+м о щ е м к и е т с к в г у л и ч е N ESS PL
+т р а н с к и х в н я х и в и з N ACC SG
+у п р а ы й ADJ DAT MASC SG
+н е м н о г е л ь т а т е и й ADJ GEN NEUT SG
+к л б р е с с ё ь N GEN SG
+о м а х т е л ь а с е л N NOM PL
+а р ю е м и N ACC SG
+н т я с н о N INS SG
+е к к о м у N DAT PL
+р н о у б е р ц и ь N GEN PL
+о м о щ ч е м т н ю ь N ESS PL
+и з в о р о в N ACC SG
+д о л т в е н ь N GEN SG
+т а в е ё р о д с к N ESS PL
+д у т з н с е н т N ACC SG
+с о в е о N DAT PL
+у д ё л к а о л и ч я м и е н а м N ESS PL
+ь т а г и х N DAT PL
+е я т е N NOM SG
+е я т е о N NOM PL
+у с с т V FUT 2 PL
+р о д о в а м а с т о N INS SG
+е г о й ADJ INS MASC SG
+р и о а п р а N INS SG
+и ч н о м а ы й ADJ DAT FEM SG
+б и щ у ы ч н о к N ESS PL
+а н и е р г н о в н в н о м о л ж ь N ESS SG
+ь с к о н о г о т у ADJ INAN ACC MASC SG
+е ш е т о р о л ь б о а N ESS SG
+а л я о р о щ а м и N INS PL
+с т е р г а н ы й ADJ ACC FEM SG
+ы е и й с к р а л и у р а х ь N ESS PL
+т е т ы п у н ч е м п N DAT PL
+а е ш е т р а о р н а N GEN SG
+т е л ф е с с е N GEN SG
+и я х н о е а н д ы у ч а о г а я д с т N NOM PL
+н и й р ы т а в н т р у и й ADJ DAT NEUT SG
+ь б о а н и и д а н и й ADJ NOM FEM SG
+о м е н в г у с с т о м N ACC SG
+к и м и е N ESS SG
+е п и с ч е м и с я х а н и и я N NOM PL
+и с т ы у т у ADJ INAN ACC MASC SG
+и о н и й с к ы й ADJ DAT NEUT SG
+р а н у ч н о м о о м а м ь т а т и й ADJ ANIM ACC MASC SG
+ь т а о м ы я N GEN SG
+с и т д я м N ESS SG
+е р с и а л е о N GEN SG
+е л и е н т я N ESS PL
+р ю л к о м т р а н N INS PL
+ч н о а л а ф е в р т а я N ESS SG
+с е л е в о з я щ а п р е N GEN PL
+н т е р о н е N GEN PL
+ё л м о м е н у N ACC SG
+а в ш у д а N ACC SG
+н с т е м и м о й ADJ ESS PL
+л о к щ е г о N DAT SG
+к о м у и н ч н ы й е N ESS SG
+л а д б ь N GEN SG
+н к т а р т у N NOM SG
+в н ы м п у н к н с к N NOM SG
+р н ы х н т у N INS SG
+с с и й у ч N ACC SG
+ь б о ж и с о N DAT SG
+в о г о й ADJ ESS NEUT SG
+е м у о я б о N ESS SG
+о к о р н т ы е N NOM PL
+м у н с е з ь N NOM PL
+щ и й й ADJ DAT PL
+р а м о о р у о г п а р т N NOM SG
+я б а р е й и й ADJ GEN FEM SG
+р и и а т а ч н ы р т и и N GEN PL
+о м о щ е N GEN PL
+д у т е с с о в н я ь N NOM PL
+л к у к о м м г о й ь N GEN PL
+е ч е е т н е в р а N NOM SG
+о щ а м м о щ ь р а й т и е м я N INS SG
+м а н д щ а д и ч е н и N NOM SG
+а н и й ф у т ь N INS PL
+а ю и н ц б и щ а л е ы й ADJ ANIM ACC MASC SG
+с ё р о е N INS SG
+р о д о я б о к N INS SG
+о м е о т а я р у ы й ADJ ANIM ACC MASC SG
+о г и е с к ь N GEN SG
+с п о и й ADJ GEN NEUT SG
+р а м к а л я д ы р н и ю ь N DAT SG
+п е н ь и з в р и и е N ESS SG
+т а т ы н к т й ADJ ACC ANIM PL
+о н о м N NOM SG
+р о в о в а р и ь N DAT SG
+е в н я у т а с т о ф е в ь N INS PL
+ч н а я N ACC ANIM SG
+к а ч е о г у ю N GEN PL
+р и ю ч н N ACC SG
+н ч а т р а о м у N ACC ANIM SG
+ф и а с т о к т о м з и е о к N ESS SG
+в р а л щ е г е N DAT SG
+и в ь с к а е т р о N DAT SG
+м и и п о м о N INS PL
+р а н о н и з а к е N DAT PL
+е ш е е я т н у н т о м й ADJ INS NEUT SG
+о м а м к у ю N NOM SG
+с е з N ACC SG
+т у р а о в у с и я х N INS SG
+н о г ы й ADJ GEN FEM SG
+в и з и а ч е ё л к и ь N GEN PL
+и з и ю е р и и а к а д ь N GEN PL
+а т а х б е р н ь N INS PL
+о н н ы м и н ы х ь N GEN SG
+е т а N ACC SG
+е в и т о р в е т р с т в N NOM SG
+т я м и е N DAT SG
+а в о в т с к о г а я й ADJ DAT PL
+о т а л д с к и в а р ю н о в ы с о р е ь N INS PL
+м ы т в а у б е р в н о ы й ADJ ESS FEM SG
+в ы ё р а и з а т а ю т N NOM SG
+р в о м г а н ь N GEN PL
+г о г о и е м ё л N DAT PL
+с е з о з о н ы я N ACC PL
+п а г о с у ADJ INAN ACC MASC SG
+н а п р N NOM SG
+ш е н и т у т о е р к N INS SG
+б ы ч е ю щ и й N INS SG
+ц и е й н и я м N GEN SG
+в л е н о й ADJ NOM FEM SG
+а т р ы N ACC SG
+а ч е е н и N NOM SG
+ь м о м а н д р а н н е к о е м а ADJ INAN ACC MASC SG
+я н в ч е м п N ESS PL
+н т о в ё р о в е N GEN SG
+р с и й ADJ DAT PL
+а с т е и т е н ы е N GEN PL
+р ю о б г о м у д е к а п о й ADJ NOM PL
+н ы м щ а о д с а л я н н о т ь V PRS 3 PL
+л е н у б о р н ь N GEN SG
+е т т р о м ц и я м N ACC SG
+ь т г а я а п в а р ь ь N INS SG
+б ы е н а м е N INS PL
+с т ь б р ю о в ы в а н и V FUT 3 PL
+р а н ы о н о т а м N ESS PL
+в и н ц в а р ё ё р у й ADJ INS NEUT SG
+й с е н а N GEN PL
+е ч е ь N INS SG
+щ е г о к в я м к а б N INS PL
+р н ы в и т ю т N INS SG
+т а в и с ь й с к и м п а ы й ADJ GEN FEM SG
+о м м н о в а е N INS PL
+р в о г N ACC SG
+у т б б у д е н н у й ADJ GEN PL
+т е л ь N GEN SG
+е с с и т а м N ACC SG
+т в а м у л ь т ё р ы N INS SG
+д е т е е г о ь N ESS PL
+щ ь с к о м щ а д а к я N INS SG
+и м у п р а з о н а п о р т п у щ а м и я N GEN SG
+а р я х а н д ф е с с ы й ADJ ACC FEM SG
+и с е й а в у й ADJ ESS PL
+л ж н у а ц о р т N DAT PL
+и з и и з и я х ь N GEN SG
+ж н о й л ь с к й ADJ GEN NEUT SG
+е м у б ы ч е е N INS PL
+е р н н т р N DAT SG
+и к а н й ADJ INS PL
+д е т е б е я N ESS SG
+в л у т е е т а о д ы ч е в н е н а м и т ь V PST SG NEUT
+о в о е н в а р с т е й я N NOM PL
+п р о и ё л к и N ESS PL
+о с у с и й о м а х ы й ADJ INS FEM SG
+с е л е N INS PL
+т р е е м и а м к у й ADJ DAT MASC SG
+д а н н ц е р ь N ESS SG
+д а м к а н с и т а н в а р е ж и т а й т й ADJ INS MASC SG
+о е е н я х о й ADJ NOM FEM SG
+е р е п н е г о р а л ю ы й ADJ ACC NEUT SG
+и к а н о щ ь ю N ACC SG
+и т у н д у т р а м й ADJ ESS PL
+о р и я в а м и н ч а н я N DAT SG
+п и м е н т V FUT 3 SG
+и ч н о б о т е о р о д ы й ADJ GEN NEUT SG
+о д с к р а б о N ESS SG
+и в е а м и е в н ю а N ESS SG
+н н ы х л о N NOM SG
+д е т о й ADJ NOM FEM SG
+д е т е ы й ADJ ESS NEUT SG
+о р а м л е т н м N INS PL
+т в е я N ACC SG
+о в д а н н с ё д о е N INS PL
+а л е й N ACC SG
+с о в а ц и ю л о щ а е р е п н я я н о в а N NOM SG
+о р а р с и о г б р ю ш е н е р р п е N NOM SG
+и н ц N ESS SG
+и е м н т а х я N NOM PL
+в е т о п е н е N INS PL
+о р т у й с н я N GEN PL
+о с т я н и в и й с о в ы м т у т N NOM SG
+щ ь ю N INS SG
+к о в с и N ACC SG
+с е л е о я б N INS SG
+р в ы е м к и б и щ у и й ADJ DAT MASC SG
+а п р а с я N ACC PL
+к о в ь р т и й н т р ы й ADJ NOM NEUT SG
+я м и е т о N INS PL
+о и з н ч а н р а в л N NOM SG
+ж н а т н ю ю ж н о е N GEN PL
+н д а х й ADJ INS MASC SG
+р о ф е а б о т ы й ADJ INS FEM SG
+н е г о в н ю о в о д ь N INS SG
+у т б н н ы е е т а м я N INS SG
+т р а н и в е N NOM SG
+у к о в е р и о с т а ы й ADJ ESS NEUT SG
+д е р е а л ф а р о в а и й ADJ GEN MASC SG
+о я щ е ь N ESS SG
+к а н с и с я х N NOM SG
+у д у т б у д е к о м а т н о N ESS PL
+р и е й д е я т в ы е н а н ь N DAT PL
+с т в а т ь V PST SG NEUT
+р т е о р т а н с к и а я N DAT PL
+р о н а а б р е я N INS SG
+р г а с ё л о т о в л е н у и й ADJ GEN MASC SG
+о р о д р и т ж н а а N ESS SG
+е н и ю я N NOM PL
+р т и е о м е й ADJ GEN PL
+у ч а с н к т ы а я N ACC SG
+и я к в е й а р я х й ADJ INS NEUT SG
+р е м ь с о в а т о ь N NOM PL
+е к а у ю щ е г т б о л п и с ь я N NOM PL
+д е ш ь ь N ESS PL
+т в о м N ACC SG
+ц и ю т е т у ь N INS PL
+р т ы р ы N ESS PL
+н а м к е д с к а й ADJ ESS PL
+р н ы л к о с ё р а ы й ADJ NOM NEUT SG
+е р с к в е й о ф е к у с я N ACC SG
+в о й м п а н л ж н у N ESS SG
+е н ь н о м у д с т в и е й а б о N INS SG
+д е т е N INS PL
+р н и и N ESS SG
+у п о м о м е N DAT SG
+а н а м й ADJ ESS PL
+ь м а х N GEN PL
+т я м и а н д ы е в н е ADJ NOM MASC SG
+я б р е и й ADJ INS FEM SG
+р к в о м а м о й ADJ ESS PL
+о т а т ы й ADJ ANIM ACC MASC SG
+т у р с т я х л к о в а N GEN SG
+и л ь ь N GEN PL
+д я м и а р е й N NOM SG
+р а н к о в с е н ь ю ь н а в и е N INS PL
+о т е N ESS PL
+т с к о е н и и N ESS SG
+с у д а ф и л а N ESS SG
+р в ы е N DAT PL
+р е л я у б е ь с к у я N NOM PL
+р н ы м N NOM SG
+к в р а н у т о й т е л и N NOM SG
+р я м и о т е N NOM SG
+е т о м е н т N INS PL
+а в у е р и к е N INS PL
+т р у т и т у е N GEN SG
+ы ч ц и я м в и н т а ю л ю N NOM SG
+д с к а ё р н т ы о N DAT PL
+р и о д е н о N DAT SG
+ш и о м м у а р с N NOM SG
+и к а и л и с т а в о г о N ACC SG
+с и я х н н ы м о з р N ACC SG
+т н е м м м у и т у а т р е н ы N DAT SG
+о д у д е N INS SG
+л ь с к е т о N ESS PL
+в а р ю а н д ы р о а б р н д а х ы й ADJ ESS FEM SG
+ы й о м о м к а х о й ADJ INS PL
+ь с к ADJ INAN ACC MASC SG
+с ё л о N DAT PL
+о б ы м о м ь N NOM PL
+м о щ а м п е р я N ACC SG
+ч е н а м и ы й ADJ DAT NEUT SG
+е т н N INS SG
+в о й с н и з р ы а б р ё N GEN SG
+т н и с т у и с ь N ACC SG
+с ё л к р н и N INS SG
+е н н о в а р и и т а х е т а р о в о ч н а е N GEN SG
+т е л е т н е N ACC SG
+и ч н у ь н о е м н ь ю з о н ы а н о й ь N GEN PL
+о м а н й ADJ INS MASC SG
+д е р е и к а н е N INS PL
+ч н ы е д и о N ESS SG
+е т ы ш и N NOM SG
+и т о в л ь б н о м у N ACC INAN PL
+а р ю р в о б о л N DAT SG
+м н о р о н е й ADJ DAT NEUT SG
+р а б д а р с р в о г N INS SG
+а ц и е и т о л к N ESS PL
+е н н м к а м о е N ACC PL
+о б ы ч я N NOM PL
+ф у т б п а р N INS PL
+ж н а а н н ы N INS SG
+я т е л о р е с о р у и й ADJ ANIM ACC MASC SG
+е н а г а н и ж н о й ы й ADJ GEN NEUT SG
+б р е й т р у е м у о N ACC PL
+т и е й а т р о N INS SG
+а с т N ACC SG
+ф е с н и х и й ADJ ESS NEUT SG
+р к о в р а л ю а д е й а е м е з у N NOM SG
+а с т н л ь т а м к о й ADJ ACC INAN PL
+к а ч я N INS SG
+у н у и о о и ё л к у е N DAT PL
+и р о м о к л е н и й ADJ ACC NEUT SG
+б о т е о г о м й ADJ INS PL
+у р ы ж н ы й ADJ NEUT SG LGSPEC1
+щ е г е н н у о е N INS SG
+с т р а с к и х N DAT SG
+е т р е р о с с а в л е т ь V PRS 2 PL
+ч л е к т а м а N DAT SG
+р о д с т р а м и в е р й ADJ DAT PL
+а к п р е л с ё р а N ACC SG
+р с и т л ь т у я N GEN SG
+п о р т о г о ь N GEN SG
+й о н с к у е N GEN SG
+а в о в а с т ы а N NOM PL
+и ч н д е к а о й ADJ ACC INAN PL
+ь н о с е з у л N ESS SG
+щ а м а N GEN PL
+ц и и к о л ADJ NOM MASC SG
+н д у а N DAT SG
+о т а е в р о N ESS PL
+н с к у я N INS SG
+л ф а в е а т N INS PL
+к у с с л е н а ь N NOM PL
+т и и е н у о в е т N NOM SG
+т е а т е м и е о е N DAT PL
+и з и и о б р а ф у N INS PL
+н а с е N NOM SG
+ф е с с т у р у й ADJ ESS NEUT SG
+с и я а т р а N DAT PL
+с т е п м и й а н н ы ь N DAT SG
+к и у б е е н и й V FUT 3 SG
+о с у к р т и ю в е н ь ADJ NOM MASC SG
+д с к у й о н о ы й ADJ INS FEM SG
+п и с я о р н а е м и я N INS PL
+п е н а н и я с к а х я N ACC SG
+т в о м е н н ы ш и й м и я м N DAT PL
+е р е и щ е м N INS PL
+т в о р р и т л ю в н о м N GEN SG
+з р а с д е р т и й й ADJ ACC INAN PL
+в я м и й с к а я N INS SG
+е т у т н и а я N ESS SG
+н т р у о д а х л ь м о а н и и а д е й N ESS SG
+с с и й р в о г т р а н N INS PL
+р о н с ё л о к у р а з л N INS PL
+в ы х N ACC SG
+а м к у т и й и й ADJ NOM NEUT SG
+о р н а я N DAT SG
+й о н у е н н а о е N ACC PL
+к о н з н о N GEN SG
+т а в о м и е р к о в N ESS SG
+п и о л ь т ь т у N ESS PL
+ы ч е е н т а N ESS PL
+п а р т р а н у о з р а а с т в г р е л я N ESS SG
+щ а м н я м ы й ADJ FEM SG LGSPEC1
+д я а з л и N ACC SG
+е а е т а м а б р ю N ACC SG
+т с к а с б о р ы й ADJ ESS FEM SG
+щ а м и ADJ INS FEM SG
+н т р у т о ь м о о м м N INS PL
+т ь ю е т й ADJ INS PL
+м а е м и ю N NOM SG
+д б е з у й с р о в и и й ADJ ANIM ACC MASC SG
+в о г а л е л ь н ы й ADJ GEN MASC SG
+с ё л о т о р и о к N NOM PL
+о в с с о я N NOM PL
+б и щ у с и я ы й ADJ GEN MASC SG
+ш и е р и а н ы N INS PL
+щ а д ь й о н б у д е е N GEN SG
+ж н о г о с т я и й ADJ GEN NEUT SG
+ы ч е м и й р и т н ч а ы й ADJ DAT NEUT SG
+и т а х N NOM SG
+с ё л о н т р у о в ь N GEN SG
+т с к у к и х N DAT SG
+о н а х о й ADJ GEN PL
+е п и с и н н о в ы й ADJ ESS PL
+н т р е а т р у т я х N INS PL
+т с к а к о в е л ь с N NOM PL
+с т и и ы е о щ а х й ADJ ESS PL
+б о м о у т о м й ADJ GEN PL
+м а н д е я т а д ь л ь н о о д а й ADJ INS PL
+б о с е з о ы й ADJ DAT NEUT SG
+т ы я б р я б р ь р о о N GEN SG
+р е п е р и к о т а й у к я N INS SG
+щ а м и в и т а N ACC SG
+о с т а а л ю л ь м у й ADJ ESS PL
+е а т н и х й ADJ ACC ANIM PL
+м у н а н о й м и й и й ADJ GEN MASC SG
+м е н о н ч т в е и т а х я N ACC SG
+и щ а о м а а ц и и N NOM SG
+ь м у о л ю т N INS PL
+к в я х й ADJ GEN MASC SG
+ё р у а м м е н я N NOM PL
+и т к а н с е м и о е N NOM PL
+м е р и и я м и о к N DAT PL
+и р о с п о р т о р ь б о м е т о м ф у т ADJ INAN ACC MASC SG
+е н т я N ACC SG
+у р а м я N NOM PL
+е н т ы н о г и й ADJ GEN FEM SG
+и щ е ь н о с о с е л к л а о в н й т е е N ESS PL
+л ь т а а й т е N NOM SG
+н а п я N DAT SG
+о т о й е н н у N NOM SG
+р к в о с с и н а т о к т о п о с ё о ф N ACC SG
+ы ч е р т о в N ESS SG
+о м а о щ ь ю V NFIN
+т е р р и й ADJ GEN NEUT SG
+е з л ф а в о н ч ь N GEN PL
+и ч н а в ш и й N INS SG
+а в г у с и й с о е N NOM PL
+а е т е у д у т р н ы и й ADJ NEUT SG LGSPEC1
+з о в а а л ь б е р е н г а N GEN SG
+р т а р и о д ы е з и е й и й ADJ NOM NEUT SG
+з и е й я N GEN SG
+й о н ы а в N GEN SG
+а р е м и е й й ADJ INS NEUT SG
+о с т и й ADJ INS NEUT SG
+р а з л а л ь с с ё N ACC SG
+н д д у т к т а я щ е N INS SG
+к в е й к у л ь N NOM PL
+т а т у о й с к я N GEN PL
+о б в н ь N ESS SG
+ч н ы й т и я х н и в е ч л е и й ADJ ACC NEUT SG
+д с к р о в ы о г о м а д е м и й ADJ ACC FEM SG
+н н о ч а с т N ESS PL
+о щ а х р в ы х ь N GEN SG
+б о м а ф у т т а т ы N ACC INAN SG
+н ь ю а н ц и ь N INS PL
+л я г и м ь м о м а я N INS PL
+е т н е о з р а т е т о о н ы о N DAT SG
+ь н о б р ю б о м а а й в ш и й о л ж ADJ INAN ACC MASC SG
+а н и е е N GEN PL
+к л а д N NOM SG
+с к и м N ESS PL
+ё р о т о й N INS SG
+с е н т р и и е N DAT SG
+д а р п р щ а х р е м N ESS SG
+р р и т в а N DAT PL
+т а т ь д б р и т р т и и ь N NOM PL
+а л и т е т е о р и е о N DAT SG
+е н с б о р л и ч й ADJ INS NEUT SG
+р н а й т с б о с т о в и й ADJ ESS FEM SG
+о р о в N NOM SG
+а ц и ю а б р е л о щ а N NOM SG
+о д ы с т р а ADJ INAN ACC MASC SG
+с к и й ь с о в N INS SG
+с ь ч н о й е т р е е N DAT SG
+а д е м д с к и о м а н ь N GEN PL
+л к а п о с и й ADJ DAT MASC SG
+а р ё а в а е N DAT SG
+а й о н р о й р с и й м N INS PL
+м о щ ь у н о о е N INS SG
+р е з у р е л N INS PL
+з н р о н е ь N INS SG
+н ц и я н ы й ADJ MASC SG LGSPEC1
+и щ а р а н е т ь р ю ы й ADJ FEM SG LGSPEC1
+е р е п о в ь о м N INS SG
+т и я т р а х т и е ы й ADJ DAT MASC SG
+ц е н т г у н ы й о й ADJ INS NEUT SG
+а н д у у б е р с т а в ь N ESS SG
+а б я я н и е й о т а ю и й ADJ NOM FEM SG
+в о д с п е р и с к и м N ESS PL
+р р и т н е г о е N INS PL
+и с ь т у т е N ACC PL
+н н ы х л е н у N NOM SG
+а в ы т и е й ж н ы й N INS SG
+с к у р н и ю N NOM SG
+е р и ю р а н а н N DAT PL
+т с к и р к о в о в ь N GEN PL
+в о а л ё з о я N GEN PL
+р е л и т а ю т N DAT PL
+е н и г о р о я N ACC PL
+я щ и м з и я м л ж е й ADJ INS PL
+п о с е н ь ю й ADJ PL LGSPEC1
+ч а м и я х р т и ч е с т р о в я N GEN PL
+м п а н с т о в и й ADJ MASC SG LGSPEC1
+а м к и е N ESS PL
+д е т а н р в ы м е N GEN PL
+к т в и з в ы х е N DAT SG
+м и ю й ADJ INS MASC SG
+п р а в а й т щ а х я N ACC PL
+о в н г о о р т ь N NOM PL
+и к т н е г о й с к и й ADJ NOM NEUT SG
+з и я м к о г в ш и N DAT PL
+щ е е б ы ч н N NOM SG
+щ е г о о в а м т с к ь N INS PL
+т а й д б и в и з ADJ NOM MASC SG
+с т р а у т о N INS SG
+т н о с о д о в у т б о ы й ADJ GEN FEM SG
+с т а м е л я н о с N NOM SG
+а т е т н и д е т ADJ INAN ACC MASC SG
+т н о с ч л е н й ADJ ESS PL
+и ч е с N ACC SG
+к у с с а н с к у л о е N INS SG
+р а н е т а ю щ е к е N ESS PL
+е н ь у д а р и й ADJ DAT FEM SG
+ч а н и с и ю т е л ю е л ь с р и а N ESS SG
+р я в н и N DAT PL
+о в и н о е N ESS PL
+о с с ь N GEN SG
+о н о в у ч е р и ю з о в а и т а н о в н N NOM SG
+е т а н н ы м N NOM PL
+в а х р а з т а т а ы й ADJ ACC NEUT SG
+ь с о л ж с и я х е н и и N GEN PL
+а р я м п р о и и с с ч е с о к т я б р ь ь N GEN PL
+а т о и л н о в н т я х б у д е к и х о е N DAT PL
+р я м м п и о в у ю й ADJ INS MASC SG
+о б щ а д ь г у с т я N GEN PL
+д е к а т у т а е а я N NOM PL
+ф и л ь N ESS SG
+о м м н ю ь N ESS SG
+е р к р о н о р н и ю р и ю й ADJ GEN PL
+н и х т р а м й ADJ INS MASC SG
+м у л к о м и о д а N DAT SG
+и я м и N NOM SG
+ь м е о м о м ь N DAT SG
+н д у т а е ш о р н о в н и а ц и й ч н о я N ESS SG
+р и к а н е г о N ESS SG
+к в я и т о р и й ADJ ACC FEM SG
+е н о N NOM SG
+е а т б у д у N NOM SG
+с б о р н ц и и ь N GEN PL
+г и й ь N GEN PL
+т а в ш н ь ю е N INS PL
+е н я а б р и р н и я а я N GEN PL
+в ь а т о м м у д о м р н ы е н а а ц и и N INS SG
+н о в о т н е е N ACC SG
+т и е а л ю о в ь N DAT SG
+о с т ь р а л ь к л а N DAT SG
+л ф ч е м а в а и й ADJ ESS NEUT SG
+о т а я а ц и я N ESS PL
+н с к и з о н а ы й ADJ NOM FEM SG
+в о г о и з и е н о с и й ADJ GEN MASC SG
+р в о н ч а п е р и N DAT PL
+н и е м г о е с б о р и й ADJ DAT NEUT SG
+н к т ё л к а щ и с п о с о в й ADJ ACC ANIM PL
+т а л з и я м N NOM SG
+и я п о р т и й ADJ ANIM ACC MASC SG
+т и ю с е л ь с т я е N GEN SG
+е в р м и ю т и б о л й ADJ PL LGSPEC1
+у с т о с т в е я н в е N DAT PL
+р в ы р в ы т я м и й ADJ INS MASC SG
+е н н ы й ADJ NOM FEM SG
+в и т у с т о N ESS SG
+с т е с к с ё л о е ч е е N ESS PL
+г и е е н т о у ч а ы й ADJ NEUT SG LGSPEC1
+е н и о т а в й ADJ GEN PL
+в а р а т а N INS SG
+л ь т у г о г р и ю н н о й я N ESS SG
+з о н е н и я м я N GEN PL
+е р р и N ACC SG
+р а л е с т я м N DAT PL
+и й п л о щ е н о в о N NOM PL
+с с о р н и я а е я N INS SG
+д б и щ о щ а х й ADJ INS NEUT SG
+а р ё с о в е о N DAT SG
+р о в о н и я х с е з о е N INS PL
+р о й ы й у с т о ы й ADJ ANIM ACC MASC SG
+ф а н о в ы ы й ADJ ANIM ACC MASC SG
+в о д с д б и щ ь N DAT SG
+ь с о в т а в а ь N INS PL
+о м о м и т о м н ы й ADJ MASC SG LGSPEC1
+с т р ё р о м у о з р а N INS PL
+т я б р о й е я т N ACC SG
+а ю щ р с т м к е я N GEN SG
+р и я х и я м к о г о и й ADJ GEN NEUT SG
+п а м у н р а л и а м к й ADJ INS NEUT SG
+п о р т н ц и я о щ е з р а р е о в ы е и й ADJ DAT MASC SG
+и ч н й ADJ INS NEUT SG
+с т я м л ё м ц е н т а N ACC SG
+я т е л ь б о в о з р о й ADJ INS MASC SG
+н к т в е т ы в л е н и й с к н я N GEN PL
+о в о д о л и N INS PL
+о с ё о н ч и й ADJ DAT NEUT SG
+л ж н а с н о N NOM PL
+с к а е м и я т ь V.CVB PRS
+п р о ф а в ш и N ESS PL
+п р е л й ADJ INS PL
+н ц и ю N NOM SG
+н и з а ь N DAT PL
+у р а х я N NOM PL
+щ и м н д м о щ и N NOM SG
+р е н р в о м и й ADJ FEM SG LGSPEC1
+л к у н с к а в ь ю т ь V.PTCP ACT PRS
+ч н у ю я б р л е т н ь т а д и й ADJ ESS FEM SG
+н и я м ч н о м к о в ь у т о м и й ADJ GEN MASC SG
+и ч н к т о в о щ т с к я N ACC SG
+с т о р е с с е н у н с к д с к о N GEN SG
+о з м е т т н ю ю N NOM SG
+в н ы а л м п о N ESS SG
+а л ф т р е и й ADJ GEN FEM SG
+с к о г и н ц и ь N NOM PL
+а м о щ а х е в н ю р е ж и о н у й ADJ INS PL
+а т р ы ь т а е р и я и и в н ы д о й у к е N GEN PL
+а в г у о N GEN SG
+с т у л е н о т я ы й ADJ NOM NEUT SG
+е н т р б е о й ADJ INS NEUT SG
+и ч н а и с я м с т в я N INS SG
+с е з о д е р е N INS PL
+ж н ы м т а т ь р а в N DAT PL
+о я в о д и ч н а р т N INS SG
+б и щ е й ADJ ANIM ACC MASC SG
+с е л е я щ е е е л я х и й ADJ ACC FEM SG
+р а й о н о г а и т у т е N ESS SG
+в е р с т е а т ADJ NOM MASC SG
+ь м а о р н а ь N GEN SG
+л ь т й ADJ NOM NEUT SG
+м о в о т о й с к и х ADJ DAT FEM SG
+и ч н о я м и ё р а м и о д у к о м у е N DAT SG
+щ е е а р я х г о е м у н ы н о г о н с к у N ACC SG
+р о м о м а м а N NOM PL
+е ж с б д с к у о м о в N NOM SG
+е п е н б е р о N GEN SG
+р т и ю т ь V IMP 2 SG
+к о м п е р е N ESS SG
+д б и д а н и т о м N NOM SG
+р а в л й ADJ ESS PL
+ж е н о м а м в е т о й ADJ ACC INAN PL
+я м м о м и й ADJ INS FEM SG
+д с т в е л я м о н о м ь N GEN PL
+ф е у т у к в я м я N INS SG
+т у т у в е н н а N ACC SG
+р г а н о в и ь N ESS SG
+о в н ы и з а е в а N ACC PL
+л е н е ф е с й ADJ INS NEUT SG
+а т е е н ь и м п й ADJ PL LGSPEC1
+е н н ы л я м и в о й с N GEN PL
+е р к у ю д о й п у ж н а а е т е ц и я х N NOM SG
+е ж ь б о м н д о о р а х N ESS PL
+о м о в е N NOM PL
+у б е р е н т о с т ы и й ADJ ANIM ACC MASC SG
+а л я м т а х я N NOM PL
+ё р о с и т о N ESS PL
+а с т о ь N ESS SG
+ь н о е N DAT PL
+у н ы д е о N ESS SG
+а в а х с ё к л е з о н N DAT PL
+п е р в й ADJ ESS PL
+е н т р с и т ж н ы N NOM SG
+я я о л и с ф у т к т а м т р е р с и ю о к N INS PL
+о н о а в о м N ESS PL
+с т в о N DAT PL
+а в у ё р а N GEN PL
+б р и к о е ADJ INAN ACC MASC SG
+у л ь т л е N GEN PL
+е н н т у т е и й ADJ ACC FEM SG
+р о о р и й ь N INS SG
+а п р р а б е р н N ACC SG
+л о т с к у н к т б о м у и щ п р о и у т а х а N INS SG
+д с к и п е н е N DAT PL
+л и ч е а л я е N ESS SG
+б и щ у т р а х т е т а й ADJ INS NEUT SG
+н и е й й ADJ DAT MASC SG
+л и ч е и м й о н а й ADJ GEN PL
+о т а м т е л ю н я N ACC SG
+ч л е н р н ы ы ч н ы N ACC ANIM PL
+о р т а ц и й N INS SG
+а р я р а х N DAT SG
+ф у с т р а б и щ N ESS SG
+з о н а б р ю л е н а р р и т N GEN SG
+в и з а р ь е в н ы й ADJ INS FEM SG
+н о в ы и й ADJ DAT MASC SG
+д у н а ч с я м N ACC SG
+в а р ё й ADJ ACC INAN PL
+я н и ч е й ADJ DAT NEUT SG
+р т и я п а у р о й й ADJ INS NEUT SG
+щ а е г о р е ш е м и е и й ADJ ACC NEUT SG
+д о в к в я х н н а я у р е м и и у н а м а я N INS PL
+т н и х N DAT PL
+з н а о в е ь м а м й ADJ ACC NEUT SG
+р е в н о е й ADJ ESS NEUT SG
+е л ь с у б е р з о н а N NOM SG
+а н и з я т о г о м N NOM SG
+а н н ы у с с г а н и о й ADJ GEN PL
+у н к с т р а N DAT PL
+н т я б е н и я й с к а N ACC SG
+т а е ш к е н о N ESS PL
+е н а х п а р т т ь V PRS 2 PL
+е м в и з и е N INS PL
+ы ч е е л с ё р а и й ADJ NOM FEM SG
+й о н о п е н е N INS PL
+м к и ч н ы N ACC SG
+р р н н ы м с б о р т а в е р с м а м ADJ NOM MASC SG
+н и в с т и я о с и й ADJ ANIM ACC MASC SG
+л и с т N DAT SG
+о в ы х о щ а й ADJ ESS PL
+и с я х я N INS SG
+о н е н ы м и N DAT PL
+о р и й а м к е й ADJ ESS NEUT SG
+е р к м н т е л ю о N GEN PL
+и с я х е N GEN PL
+у б в е т о о е N ESS PL
+ь т а р я е т о й ADJ NOM PL
+е р е о м ы а я N DAT PL
+р у к о в и р к в я о м о е н N ESS PL
+т р о м о г о я N ACC SG
+н ы е с и т а л я м е N ESS SG
+ж е е ж а н у в н е й а N INS SG
+у к а е ADJ NOM MASC SG
+а м к а о г а я N INS PL
+б р я х в е н ь о в ь N ESS SG
+а т е ы ч н а я N INS SG
+а п р а и з а ц а N NOM PL
+в н о г о к а н а м N GEN PL
+е в р н а т и т е ч н ы м е N ESS PL
+д е к и т о м ы й ADJ DAT NEUT SG
+е т р у с т ь ю е N GEN SG
+й с к о м о щ н о г и N ESS SG
+т а в е е N GEN SG
+к т ы р е п и р к в т ь V.PTCP ACT PRS
+и з в о я я е N DAT SG
+м к е н н ы н е й д я х р т у д с к у в и н ь N DAT PL
+р а м и г у б з н а N ACC SG
+н ы х и л ь й ADJ GEN PL
+ы ч н е в е н N INS PL
+т ы м к е з и я х в н ы м е т р о п у н к о N ESS PL
+е н н о N ESS PL
+у д т е а л а д б г у б е N DAT SG
+д е м и л ь н о N NOM SG
+р н у т б N DAT SG
+р е з а н а м р о я N DAT SG
+с ё ы м и р с и а б о т ADJ NOM MASC SG
+н о я к у с е т о N GEN SG
+р с и е д е т к а я о в ь N GEN SG
+а б о т и й ADJ NOM NEUT SG
+н я м о в а в а н я N GEN SG
+п о р т р в о е о я щ е N ACC SG
+у с т е н я а т а ь N DAT SG
+т а л е ж и с о р о в ь N DAT SG
+л ф а б у д ы й ADJ NOM FEM SG
+р о в у н и е м я N ESS SG
+п и с я р я м е ж и N ESS PL
+ё р а м д и в и е N INS PL
+и с т с с ё р N ESS PL
+в и т е ь N INS SG
+с т ы а з т а л о к N DAT PL
+е т н ю ь с а л я х я N NOM PL
+н к т о е н н о а р ь N ACC SG
+е м и и с о с р о н й ADJ NOM NEUT SG
+я м т а т г у с N ESS PL
+в е т о и й ADJ GEN MASC SG
+о д н я х ь N NOM PL
+в ы м и я м ь N ESS PL
+я щ и м ADJ INAN ACC MASC SG
+о т а й о м а е т р а с т а м н т е с ь N INS PL
+н о в а N DAT SG
+б о т у к т а х N INS SG
+п и с и с т н N DAT PL
+т е л е о р о ь N DAT SG
+н н о о к N INS SG
+е ш ь а ю щ и о е N NOM SG
+ь м о н в а о е N INS SG
+с т я N ESS PL
+п и т и я м р о в ы N DAT SG
+н н о г в о д а р с V FUT 1 PL
+д е ш т н т и е й о N GEN PL
+а б р ь е N DAT PL
+т в ц и я м т н и е ы й ADJ ACC FEM SG
+с к у ю й ADJ DAT PL
+е ш ь N ESS SG
+ж н а я а д N ACC SG
+я б р е и й ADJ INS FEM SG
+а р п р о и ь N NOM PL
+т е а н е г о о в а я N ACC PL
+у т о м к т я б ь N ESS PL
+р о и б о т е N ESS PL
+ж н ы е с с ё и й ADJ GEN FEM SG
+с с и с т и я з н а о N ESS PL
+о р н т н е й т а я о N GEN SG
+с у д н и я х я N DAT SG
+о и т е л и р о н а и й ADJ ESS FEM SG
+ы м и м у н е з о о в ь N INS PL
+н в а к а б р N NOM SG
+и с е й н и е й а в а N NOM PL
+м к а м р е в н у т а х о й ADJ INS PL
+с у о к т е N DAT SG
+а л я м ь N DAT SG
+л к а м N ESS PL
+у н о р и о в ь ю ы й ADJ INS FEM SG
+в ш и а е ш ь р а N ACC SG
+е р и ю ы й ADJ DAT NEUT SG
+м а м о н у о в н т н и N DAT SG
+н е е к к л а ADJ GEN FEM SG
+у т у я N GEN PL
+е з у л N GEN PL
+и щ е м е ж и в и т у г у с л ь т и з в и й ADJ NOM NEUT SG
+е р и и б е е л я х й ADJ NOM PL
+р н и и з о н о в л е й ADJ ESS PL
+а к о т а ю н и в ь N DAT SG
+м и и ь N NOM PL
+у р ы з в т а е т й ADJ GEN PL
+д а н а т а м N NOM SG
+и н ц е г о N ACC PL
+е н н з р н т о в р н ы е с я м и N ACC SG
+м и м м н к т о я N ACC SG
+а в и р н и я т ь V PRS 3 SG
+е м п н ч а н я N ESS SG
+ы м и о я е в н ю к у о к N GEN SG
+н а т о р а х ь N INS SG
+н я я а с т е у п п а р т ы й ADJ INS FEM SG
+а р ё м т а н N INS SG
+м п е р и й с р о м о в е т р у ч н ы N NOM PL
+р к в и р н и е н н з н а N DAT PL
+р н и е б р а з я N ACC SG
+а к н т я б N DAT PL
+о д а х я N NOM PL
+в ь н т а N GEN PL
+н ы й о е N DAT SG
+м у н у е л я м N INS PL
+д е т р т и й N ESS PL
+ч н о г ё р о м и й ADJ ESS FEM SG
+к у р о ф е г о у б е N ESS PL
+ы ч н а N ESS PL
+е м п и ADJ NOM MASC SG
+л и ч е р а н е N NOM SG
+и с р е ш N NOM SG
+ж н у р с т в N INS SG
+а с т а р в о е и й ADJ DAT MASC SG
+о в е р а й о ADJ NOM MASC SG
+р а н а л ь т у у д е N ESS SG
+е м и я ж н р е л е в н е й к и м й ADJ ESS PL
+е в н я с к о м о б р N DAT PL
+н о м у т е л я я б в а р ь п у н ь N INS PL
+б е р N ACC SG
+а т о в е N ESS PL
+ч н о г д ы т е п ь N ESS SG
+л к е ш ь а н д е я N ACC SG
+ь н с т и я N GEN SG
+я б р ё й с л и с о е N ACC PL
+м е ф а в ь N ESS PL
+е р и о м е N DAT SG
+ё р у е т о в л ь с ь N DAT SG
+п е н е а т р а б р е й N INS SG
+с т в а а т р о й ADJ GEN MASC SG
+п о с ё м а х я N ACC SG
+а л я и о д ы ы й ADJ DAT FEM SG
+в г у й с о м е н к т а б о е N ESS SG
+б р ь б е р а в г у ы й ADJ ACC FEM SG
+у с и я х ADJ INAN ACC MASC SG
+м к а х п о н и з а о в ь N DAT SG
+т а ю у р а т е т а N INS SG
+н и е о г и в о р е я N INS SG
+н и я р в ы х у н и в N NOM PL
+ь м о м а т у о ф о N DAT PL
+о я щ е м н о г и с т о й ADJ NOM PL
+в а м и о д о е N GEN SG
+о т а ю п е р а N DAT SG
+н ч а в н я м ь N GEN PL
+а с т н о щ а д ь N DAT PL
+и о н а л я х н а п р и с е й N NOM SG
+с к ё р а е N ESS PL
+л е т н ADJ NOM MASC SG
+с т р а а ч е н р у N NOM SG
+а н д а а м к а и й ADJ DAT MASC SG
+л ь м н е й т а т о N ESS PL
+н ц и к т а N NOM SG
+р н и т и е й е N INS PL
+о м м у о т у т а в а N INS SG
+р а л ё с т а н т е N DAT PL
+м п е р N NOM SG
+и в е т и и а з л й ADJ INS NEUT SG
+о р т а е н н а о р г ь N INS SG
+а с т ы н к т а а N ESS SG
+в е т е а м е р я N GEN SG
+в е н ь з и я у с т о ы й ADJ NOM NEUT SG
+б о м ы т е л а к а N NOM SG
+а в и т р а н с к ж н ы я N NOM PL
+ц и е д е я ь N GEN PL
+к о л и а д й ADJ DAT PL
+е т р а р а з о й ADJ DAT PL
+е с с е р е н а N ESS SG
+б и щ е е N ESS PL
+м ы з л и N INS SG
+о г и й с т о к т у ь N GEN SG
+ж н о й т и ю л е й и й ADJ DAT FEM SG
+ц е р и й ADJ GEN NEUT SG
+р а н о г а я с и я е N NOM PL
+о м п я б р ь и й ADJ NOM FEM SG
+е т р е о р а N NOM SG
+о е и т у т е р к о N ACC SG
+а н с ё м е ж и с я н в а о N DAT PL
+ь с о в в а м и N ESS PL
+и о д о к т и м п е N ACC SG
+с с е т р т и й г и м и N GEN SG
+в а р и N INS SG
+о д с р е в е а ю т й ADJ ACC INAN PL
+з и ю р р и т н т е л и о N GEN SG
+т е ч р с и ю о в н о N INS PL
+р о й ь N GEN SG
+о в и и в а ю щ о с е л й ADJ GEN PL
+е н а п с т у н а т у N INS SG
+а н и я о т а й N GEN SG
+в ш о с т а и й ADJ DAT NEUT SG
+о й с е N NOM PL
+о с ё е ш ь е N INS SG
+ь н о я щ и а р я N INS SG
+у т ы р о н а N INS PL
+ь м а л ь с к N NOM SG
+о щ е й а я N ACC PL
+щ и й N ESS PL
+т я б р ц и е й ADJ INS MASC SG
+е к а к и м п д с т N INS SG
+л ь н н е м ь м о м е N NOM PL
+р а з л N GEN PL
+м и й в н я с я м N NOM SG
+ж н о е о в н N ACC SG
+о д а х ё л о л а д б е N GEN SG
+о м а н а т а м о м о в N INS PL
+е с т в ё р о д и N NOM PL
+с е л у п N ACC SG
+с с в а р ь с к у ю ADJ INAN ACC MASC SG
+м к о р и т б ы т и я м N NOM SG
+в а р ю и ч н у о в о е ь N ESS PL
+о т у р с т в о б р N GEN SG
+о в ь т е л ю к у л N DAT PL
+а в о в о г а N ACC SG
+р е л я р е з у и й ADJ GEN NEUT SG
+н н у ю р е ж и б р р а м и и й ADJ ACC NEUT SG
+ж н о с а д я а я N INS SG
+н т я ь м а н у N DAT PL
+в а я д ь ю к а н а N GEN SG
+б у д у и к а н я N GEN SG
+о щ е й м и и N INS PL
+р с и я N NOM SG
+с к и е б ы ч н я N INS SG
+в е т ы N NOM SG
+у ч а с л к о в д а х о е N ACC PL
+т и е й з о н е я N GEN SG
+н н о й о н о в е N ESS SG
+б р я м у б е N ACC SG
+п о с е з о в о й ADJ ACC ANIM PL
+г а н и N INS SG
+ё р у е к ADJ NOM MASC SG
+н к т а о ф е с N GEN PL
+м п е о р о м л к т у р я N DAT SG
+ф а а ц и е а л я х ь N NOM PL
+н и з а р к о е N GEN SG
+н а т а з о й ADJ INS PL
+п р о а ц и и о N GEN SG
+а н ц и ы й ADJ DAT NEUT SG
+о д а х г о г у б е п а р и т е о в и щ а д е N NOM SG
+щ а д и в г у с е р р и N DAT PL
+т а л и с к и е в и н ц N DAT PL
+а в о и р о в N INS SG
+в е т а п а н и й ADJ DAT FEM SG
+и о р н и е р о ф е я N ESS SG
+о б н т ы о с е л V FUT 3 SG
+ж и в ш и р т у N INS SG
+с т а е н и я N DAT PL
+р т и я а в о м л ь с ь N ESS PL
+у б е а я N DAT PL
+а л я к и х с ё р а N NOM SG
+т и и у д у т а д и N GEN SG
+и с с ё N NOM PL
+в и т о н н ы N ACC SG
+ё л о к с ё р е я N ESS SG
+а н д а в и з ы й ADJ INS FEM SG
+я щ н с к ь N INS SG
+и т о в н о м т б о ь N DAT PL
+з р а л ь б ь N GEN SG
+ф е н а т е р и и N INS PL
+а д е а д и с ё о й ADJ INS PL
+а р е и з и й и щ у N ACC SG
+т б о л д о ы й ADJ ESS NEUT SG
+т а т у ю щ у л ы м р т о т у р а и л ь м я N DAT SG
+щ у м и я м а м к о и й ADJ NOM FEM SG
+в и т о с у д а е N ESS SG
+с б р н а о й ADJ ESS PL
+а н о к у л ь р т е ь N DAT PL
+ч н е л я х N ACC SG
+а в т а т о й ADJ INS PL
+к у ю ц и и а N NOM PL
+м и я е н ы й ADJ INS NEUT SG
+у н а м с т е п а п р а N DAT PL
+а с т а е р е в N ACC SG
+р о в у я N ACC SG
+в о й с и о д о я N ACC SG
+у л ь т т у т у н и в с к и е а N INS SG
+у л ь о щ в н е р т о в е N ESS SG
+е в н т н я я ё л к у о в ь N ESS PL
+з и е й е р и и т о л е н н у о г и й N GEN PL
+е л е н у б м и я з и я ь N ESS SG
+а в ш п е н е ь N INS SG
+т е т т е л ё л к о р е л ю о т а е й ADJ ESS MASC SG
+н и ю р н ы а н и о н ы н о я б о б р а N ACC SG
+л я х р н ы х е т р е а т н ц и у н а в о й с ь N DAT PL
+о т ы в и з и д е т и з а е л я р т а м й ADJ ANIM ACC MASC SG
+с ь а н н ы о в о м N DAT PL
+ё л о к а н с т о м и й ADJ ESS NEUT SG
+с п о р н и в е к т я б о й ADJ INS MASC SG
+с т р а и я х N INS PL
+л ь б р н и т у в н я м N INS SG
+ж н у ю я N ESS SG
+р е ш е у д е ш т а е т N ACC SG
+п а ц и е з в е с т в о N GEN SG
+ё л в я и й ADJ ESS FEM SG
+ф у о в ы е ф у й ADJ DAT PL
+в ы м и и й ADJ ESS MASC SG
+н ы м и к о м у е N GEN SG
+т у л е н ы N GEN PL
+н о г у я N ACC SG
+ч л е н в о м т в у й ADJ ESS PL
+т о в т н ю ю г и м N ESS PL
+у д е ш е р к и е й ь N ESS SG
+и щ а м щ а м п и с N DAT PL
+ц е р ы й ADJ INS FEM SG
+р и ю й о н ы к о N ESS SG
+ё л к а й ADJ DAT PL
+ш и л ё у т а х и й ADJ ANIM ACC MASC SG
+с о с б о р ы й ADJ GEN NEUT SG
+и з и ю ч н о е е N DAT SG
+т а л а т ь V PST SG MASC
+т с к а N NOM SG
+з о н у а н и з н а ч и й ADJ GEN MASC SG
+л е н а е р в ы а м к й ADJ INS NEUT SG
+ы ч н ы ADJ NOM MASC SG
+е т р с и й о г а я п е е н т у а N GEN SG
+е м и я ж н о с л и с ж и с н е й й ADJ ACC INAN PL
+р н о а д б и N GEN SG
+т в о р о н р н у ю й ADJ NOM NEUT SG
+т а й е н о м и ч н ы N NOM SG
+р с и N DAT SG
+н о с и т е т с у д т ь V PST SG FEM
+р р и у р м к а N INS PL
+ч н ы х ч н ы ADJ NOM MASC SG
+д е я т и й ADJ DAT FEM SG
+ё р о м и й ADJ ANIM ACC MASC SG
+о в а я N ACC INAN PL
+н ц и я N ESS SG
+а з л и а N GEN SG
+а д я в ш и й я N GEN SG
+с с о р о в и N ESS SG
+ё л к а о т а т а л е й а N GEN SG
+ь н о с ф а в о й с к ы й ADJ ACC NEUT SG
+й т я щ е г м у н ы я N DAT SG
+я т е н а м и к о в й ADJ ACC INAN PL
+о б ы ч N INS SG
+а в и N GEN SG
+о д е н ы м е н у ы й ADJ ACC NEUT SG
+у с т е п е н й ADJ PL LGSPEC1
+р а з л а N INS SG
+ы х у к п а н и а я N INS PL
+а ц и я о т а я N NOM SG
+у б е р в ш и N NOM PL
+и ч н у N ACC SG
+а л ф п о ы е N DAT SG
+е ш ь н к т ы N ACC SG
+а т а н и я п и с е ь N DAT PL
+е н а м л к и с т я х я N ESS SG
+н с т и о д ы и й ADJ DAT MASC SG
+е л ь с м у н ы N NOM SG
+з и й н в а т я х о N INS PL
+а т о м я N INS SG
+а в а е н т у а м к у N DAT PL
+ё л к у у с т я б N DAT PL
+з о о д а м о т о й в о м у N NOM SG
+р с и и и ч е с н я о т а х ы й ADJ ESS MASC SG
+е м у с и и а N GEN PL
+т я м и п о с й ADJ PL LGSPEC1
+ю т а с т у я N GEN SG
+н т а м н т ы N INS SG
+о я б р ы м и н с т ы й ADJ ACC FEM SG
+а м к е е N DAT SG
+м о щ а р я а т р о ь N GEN PL
+о в о м у с т ы м и и о с д о л ж о к N NOM PL
+и с я х т а я ь N DAT PL
+и я м а л е ы й ADJ DAT NEUT SG
+у н а м е N ESS SG
+т а л а е т у к о м у а н н ц е з о н а N GEN PL
+т о я й т м у н ы N GEN SG
+к т а х н я м N INS SG
+и в и з N INS SG
+п е р о е N INS SG
+р я м и о и N ESS PL
+з а ц и н е м у N NOM SG
+н о у т б о в е т у N INS SG
+е л и а е ш ь н и з а N GEN PL
+с н в ь ю б р а N INS SG
+м к а х а в г и й ADJ ACC NEUT SG
+к а н с и й с к р о н N NOM SG
+з и й г и й т н о о в ь N NOM PL
+щ а д и р о ф е N INS PL
+ь м а х о е N ESS PL
+с о п а т у р а т у т о N ESS PL
+р в о я N ACC SG
+р е в е ь N INS PL
+о к т р н и и о N ESS SG
+ж н а я о б р а N NOM SG
+в о в е г н ы е и й ADJ ESS MASC SG
+а д ь н в а р м а м и N NOM PL
+а л ь б р е н а N NOM PL
+о с т п и с е н к т е е N GEN PL
+и з р н и ю о N GEN PL
+о в ы е N ESS PL
+е я е р е ч н о м N NOM SG
+о с т а и м п е N NOM SG
+л ь т а а т ы N ACC SG
+а ц и й б р ь п о с с т я м д ь о в ь й ADJ ESS NEUT SG
+ф а с т я в и н ADJ INAN ACC MASC SG
+е н н у г о с у т н е е N DAT PL
+г и й е р н к т я б в N GEN PL
+р е л ю и е й ь с о N ACC SG
+в а р ь с с т в ы й ADJ DAT FEM SG
+й о н е о в е п и с е т ь V PST SG MASC
+е ш о т а т N NOM PL
+е р к о м о щ ь м а м о р н о N NOM SG
+в е т е N INS PL
+т б о л и я н т о м N ACC SG
+е к в о м н о в о N ESS PL
+б у а б р ь и щ а м а N GEN PL
+б о р н р в N ESS PL
+р о н у н н ы е а N ACC SG
+а т р ы л о щ а и о д у и й ADJ DAT MASC SG
+г о г к в я и ч н у N NOM SG
+е н я х N INS PL
+о я щ ц е н ADJ NOM MASC SG
+о й б ы ч н N ACC SG
+к т е у т ы г о с р и ю л ж н у в ы м и и й ADJ ACC FEM SG
+т у р ы л ь м у с с т ADJ INAN ACC MASC SG
+з о в а л я х а N GEN SG
+у с т е и й ADJ NOM NEUT SG
+т у т о N NOM PL
+р а м к о в а х N NOM SG
+е п и с о N GEN SG
+а н а м ц и й е N INS PL
+м к е б е е р с и д о м я N ESS SG
+ж н ы х с ё л о о в ы х N GEN PL
+р у к о е л я N DAT PL
+п и с ь т ь V PST SG FEM
+ы ч е м е т р о й ADJ ACC FEM SG
+е в н в е т е е N INS PL
+а й о с с м к а х н т у N NOM SG
+б р е й н т я б н а с т N NOM SG
+у т о м р а с т з л и ADJ INAN ACC MASC SG
+с ё р ы й ADJ ESS PL
+т а м н в я N ESS SG
+у с т у о щ ь ю в н я е N DAT SG
+д с к о с т и е ADJ NOM MASC SG
+р а н ы N ESS SG
+м о щ е а л ь N ESS PL
+а т а х ч н е р и ю а N ESS SG
+я м а т ь и й с к N INS SG
+к а м о с т и ADJ NOM MASC SG
+ц и й т а м и т е п N GEN SG
+я б р я ы й ADJ ACC NEUT SG
+н в а р о ф е я т е к а м ы й ADJ GEN NEUT SG
+ё л к у л а д б е н а а с т и о к о с у N GEN PL
+щ ь т о й у н о й в ы м и N NOM PL
+к у т н ю е N GEN SG
+р о м р н у ю ж н у N ESS SG
+н и я л к и з н а ч N NOM SG
+й с к а д а р т у т N DAT PL
+у н о р е п с и ь N INS PL
+л ь м а е р е в е в н н а т а а й о ь N ESS PL
+р я м и ы й ADJ NOM FEM SG
+я б р е н к а н N NOM SG
+е н и я к а д е к у с N NOM SG
+е р к о н о в N GEN SG
+и ч е н а в л е й ADJ ESS NEUT SG
+и щ у т н я я с т а н и й ADJ NEUT SG LGSPEC1
+ж и с с з н а N DAT PL
+е р в ы л к о в е т а ы й ADJ ACC FEM SG
+д б и о р о д л е т ь N GEN SG
+о к н т ж н о е а л ю N INS SG
+п р м м у и м п е т у ь N ESS PL
+о т а й в е р в и н я N ESS SG
+л о к с к а м я N DAT SG
+а ц и е о с е я N GEN SG
+к и м щ е г ы й ADJ NEUT SG LGSPEC1
+н с т и о я б N ACC SG
+л к а р е н т ь V PRS 1 SG
+в ш с с ё р о й ADJ GEN PL
+о р и й ц е н т N NOM PL
+н и е й щ а д я р а з л я щ и п и о н N GEN SG
+б о т а ё л к е а л ф и й ADJ ESS FEM SG
+н н ы е т а я N GEN SG
+а н д е ш ь ь м о д у т р т е и й ADJ ANIM ACC MASC SG
+р а н ы т о в з а ц ь м а х и ч в о й ь N ESS PL
+с п о ь ю й ADJ ACC INAN PL
+з н а ф и л ч а с т N NOM PL
+е й а л ь н е е й ADJ ACC ANIM PL
+р г а н д а н н N ESS PL
+а л е й й ADJ ESS PL
+ч е м у с с й ADJ ACC ANIM PL
+о в ь а ч й т е N DAT SG
+е а т р N INS SG
+с я м у р а N INS PL
+р н ы е й ADJ NOM PL
+и й в ь р и к а ь N ESS PL
+з у ж н р а л ь ь N ESS SG
+т а н ц я н N INS PL
+е ш н а ч е й ADJ ESS MASC SG
+р о й у т у N ESS PL
+б о т у е в н ю т а т у ь N GEN PL
+т у р л ф у б е р N NOM PL
+у б е р ч н ы а д я м й ADJ ESS PL
+п е р е м о щ ь ы й ADJ INS FEM SG
+р о н о п р е л т и я м е N GEN SG
+о м е н о л ж н N INS SG
+в и т е ь м у ч н а я N DAT SG
+в ы н е й е N GEN SG
+р т о м р ь н о в о N INS SG
+в е т е р ь д а N GEN PL
+ь м н е м N INS SG
+а х у д у т и й ADJ ESS MASC SG
+и ч н а т а в а м N INS PL
+у д а л ь б о р о с с N GEN SG
+т е л я е н ь н а ч N INS PL
+м о к я н в й о н о N NOM PL
+ф е в р с и и и я N NOM SG
+м у н о с е з о т ь V.PTCP ACT PST
+у т о м м и я х ч а с т и й ADJ INS FEM SG
+ь с к а и й ADJ GEN FEM SG
+д е к а а N GEN SG
+с т а н т р р е л и N INS PL
+р в и й с к л ж н о я N ESS SG
+т в а н ь ю з о н у я N NOM PL
+щ е г о д е к а р т о в е N NOM PL
+т а т ь м а н д н о в н а N DAT SG
+с т н о в о м о н е ы й ADJ DAT MASC SG
+р е з у д е м и е ж и с н о е н а т о ADJ INS FEM SG
+р и к а ь ю и с т у р н и я а N GEN PL
+б р я м е н и я й ADJ ACC ANIM PL
+ч е д е р в я х м и я т ь V PRS 1 PL
+с т и й о р о м д а м й ADJ ACC INAN PL
+л ф н а с т N DAT PL
+л е н ы ю щ и й ы й ADJ DAT MASC SG
+й о н а д б ь м а и й ADJ NEUT SG LGSPEC1
+г и щ а м и й ADJ NOM PL
+к о л и н и м л и ч н и й ADJ ANIM ACC MASC SG
+а м к и а р т и N INS SG
+в о г л е н и п е и о д е т н е е N ACC SG
+а м к о р и л ж н о я N ACC PL
+о с у л ф я N GEN SG
+е т о в л я х о г о м й ADJ PL LGSPEC1
+и ю г о р р е в н а я N GEN PL
+о р т ы о й с к N NOM SG
+л ь б т а в е о г и е о N INS PL
+д с т в щ е л е н а е N NOM PL
+в е р с р с и т а N ESS SG
+о д о б ы ч н N NOM SG
+и к а ж н а я N INS PL
+р а л е й ADJ DAT PL
+о р е а п р N GEN PL
+п и о н к о л и р р и о д а т я б р N INS PL
+у п р а т е т о и й ADJ DAT MASC SG
+ь м е е я т е N ESS PL
+в о д с р е м о л ж р а х р а з т у р а N NOM SG
+с н н а м и а м о ь N NOM PL
+о в ы р н и й к т ы N ACC SG
+к у ю й о н а о й ADJ ACC FEM SG
+м а х м н н и в с т о я б о т е о к р к в я N DAT SG
+и я м и н о г о я N ACC SG
+ц и и о р о н и й ADJ NOM FEM SG
+к о г м о щ а е т я N INS SG
+е р е у н у ф у т ж н ы н а х ь N INS SG
+р с и я ё л к о я N ESS SG
+т р е н н ы х е N ESS SG
+л к и а н д о ь N INS PL
+ж и а т у е м и ё р а х N INS PL
+о с о т а м е т с к N DAT PL
+ш и й т и о т а й р к в ь N NOM PL
+п л о щ и й ADJ ESS MASC SG
+с т н с к и х а л е й я N DAT SG
+р и т ц и е е N DAT SG
+д е к а и в е N ESS SG
+р т и я N GEN PL
+п и о н ы м с и N ACC SG
+з о в я м о в ы х и й ADJ GEN MASC SG
+р е л и а с т е с н о н а т у б N ACC SG
+е р е п N ESS SG
+я б р я т я б и й ADJ NOM NEUT SG
+т и е м о е N GEN PL
+е с т в и м п ы й ADJ GEN NEUT SG
+д с л и е ж и с ь N GEN SG
+н о я б о л и я N ACC SG
+т н н в у т а х ё р с у д а м а м е р и я N NOM SG
+в а р е з а т а в N ESS SG
+а н д е а т р о д с т в у к о а N GEN SG
+я н в а н т о ь N ESS SG
+о р и е о м о в ы й ADJ DAT MASC SG
+в о й е н о в а N GEN SG
+д б а й т N ESS PL
+е н у т а т а ь н о а N GEN PL
+ю ю з а ц и а х ц и й с ё л к а н ADJ INAN ACC MASC SG
+с к о м б у д с к у ю е N INS PL
+т у т ы N GEN SG
+д о л п о м N NOM SG
+н и и а й т е н о я н и е м в и т у N DAT SG
+ш ь а п а N NOM PL
+н а с т а в и е в н ю N DAT PL
+в е т о ь N INS PL
+ь с о в N GEN PL
+р т о а р я х й ADJ ACC INAN PL
+о щ л ь м ы е N INS PL
+и к у к о н д о с о р у а N ACC SG
+о г а р т о в ADJ INAN ACC MASC SG
+е р с с т е м м е т р N INS PL
+с т у а н и т а ь N GEN SG
+а л ф е н я б й ADJ NOM PL
+р к в е я т т а е N NOM PL
+о в ы е ы й ADJ GEN NEUT SG
+з р т е п е и с я х р е ж и б о ц е е м у N ACC PL
+п а р ь N INS SG
+е т с и т о в н т а о к N ESS PL
+о м о щ о т а ю б о м у т а н ц т ь V PST PL
+у р е ь с к а е н ь ю N ESS SG
+в и т з н а ч к т е м м т н ю ю р а л ё й ADJ PL LGSPEC1
+л е м с т т а м щ е N ACC PL
+о б е л ь ё л о к и й ADJ ESS MASC SG
+т а н ё л к о я N ACC SG
+й с к у е N INS PL
+е т н е и й ADJ GEN FEM SG
+ф у о с с т у р о е N ESS SG
+р и я н о г а ADJ DAT FEM SG
+н н о н в и н с т я N GEN PL
+а б ADJ NOM MASC SG
+н о с р о в а р я м и й ADJ DAT PL
+р о в и л я м и й ADJ INS NEUT SG
+ч н а я а т р е а N GEN SG
+с о в б о я т е л N INS PL
+г о й а н д ы я N ESS SG
+а з л с с и й т а м и N ESS PL
+ф у р к о а ц и ю о й ADJ INS NEUT SG
+к о г о н а м о м у о N NOM PL
+р в о м е т р у о й ADJ ACC ANIM PL
+д е й ф а в т и т ь N INS PL
+й о н о о й ADJ ACC FEM SG
+а с т н и в а N ESS SG
+ч а н н а т ы N ACC SG
+а н с к й ADJ ACC INAN PL
+щ е г и м п е N NOM SG
+д с т а ю н к т е о й ADJ ESS PL
+р а м к д и в й ADJ ACC INAN PL
+т а т е о т а м н о м е N DAT PL
+й с к а а е ш ь ё р о в о N GEN PL
+н т о е р е з у н д а р н и е т ы е N GEN SG
+е н т е е т н я е N ESS PL
+я н в н т ы я N NOM PL
+ц и ю ч н ы я N DAT SG
+и ч е ь N GEN PL
+н я м и й ADJ DAT FEM SG
+о щ ь й ADJ ANIM ACC MASC SG
+р т о г о с у е ж и с т а в е я N INS SG
+р к в е н ь о й ADJ ESS PL
+т е л а т е N ACC SG
+о р т е л ё N NOM SG
+т а н р о й т е т б у д е и й ADJ ESS NEUT SG
+т ь ю з н а п е р и ADJ DAT FEM SG
+о л и н и е м е л я х N GEN PL
+н к т ф е с п е р и и й ADJ ESS NEUT SG
+о с у о в о е ь с к у ь N ESS PL
+м к и о г и х я N INS SG
+и о д к а я N ESS PL
+е н т е о й е р е п N ESS PL
+п о р с к о ч н у ю ы й ADJ GEN FEM SG
+п о м т е л ь т и е й ADJ INS PL
+о т а ь т а б р и я N DAT SG
+р т и ю и с т а и й ADJ NOM NEUT SG
+р о н а р н о л к о м е N DAT SG
+ы ч н а а я N ESS SG
+о р т а л о щ т н е г е N GEN SG
+е т н е а т р а ы й ADJ NOM NEUT SG
+ё л к а у т б о д ы ADJ INAN ACC MASC SG
+ы ч н у у т в о з р ь N GEN PL
+н и е м т б о е р н и ь N INS SG
+о в а м N INS PL
+м к а м м п е р к а б р к в е д б т у ы й ADJ GEN MASC SG
+р у а т р о е м и ю с и и о м м у о й ADJ GEN PL
+в а р е б р я м е N ESS PL
+н и х я щ е е п р о в N DAT SG
+р а в л т е р г о с у N GEN PL
+л к у м и я N NOM PL
+и с к ё л к о е N DAT SG
+д у н о е а т р а N ACC SG
+т у т ы л ь б р а н ы и й ADJ ESS FEM SG
+с ё р е о и б р ё м е N DAT SG
+ф е к а н с б о т и й ADJ ACC FEM SG
+а н а л к о м N DAT PL
+е т р N GEN PL
+в а м е н о в ю т т ь V.PTCP ACT PRS
+л е н у н ы е ь N ESS SG
+й с к о а с т у ь м е о щ а х N GEN PL
+з о н ш е н п е р и ь N GEN PL
+а д и н а х й ADJ NOM PL
+р н ы х л к о м N INS SG
+и ч е л ж н а в о г о N NOM SG
+б о м ы о р н й ADJ INS MASC SG
+д у т и ю о и з т и т N DAT PL
+з л и д е ш ь ь N INS PL
+к л а л я т н я я й ADJ ESS MASC SG
+з и и ADJ NOM MASC SG
+м и е й с е й о в у а N GEN PL
+а л я а м е ё р ы N NOM SG
+т е а к а б ь N DAT SG
+н о в е т а й т а й N ESS SG
+у ю л ь м о п и с я ь N GEN PL
+у р у н о в н с т о в в н о г а з в о я б р й ADJ ACC ANIM PL
+о н о м щ и й N DAT SG
+я б р ю й ADJ INS NEUT SG
+е л е м л я м и N DAT SG
+р н ы е е н о м а N DAT SG
+е р в й ADJ INS MASC SG
+о в а н а х ч а с р е в е г а о е N ESS PL
+д у р а н а д а р а N GEN SG
+ф и л ь р с и и N INS SG
+м и я ч е н N DAT SG
+в а м к о м в N GEN PL
+с т о в т н е м е N GEN SG
+т и е й N NOM PL
+м к о й и о д о N ESS PL
+а р с ё р е N ACC SG
+к л а д у т о в р в ь N GEN PL
+е р к в N INS PL
+а б р я а н д о о в ь N NOM PL
+с т и е б о т е о н о в е N DAT SG
+п и о н ж н ы й N DAT PL
+и е й л ж н а с т б е ф а в к т ч л е н N ACC SG
+ф е в с т е й ь N INS PL
+ы ч е с т и т о N ESS SG
+з и е N ESS PL
+и в е р т а в у н е ADJ INAN ACC MASC SG
+в н я м и й ADJ NOM NEUT SG
+о в н г у ю г и о в о д N ACC PL
+б р а з м к е т е а N GEN PL
+р о в ы ы е и и а м к о ч е и о н ы й ADJ ANIM ACC MASC SG
+р о в ы ц е н т о н о в N NOM SG
+д с т в о N GEN PL
+т р а х N ESS SG
+ф а в и о к N ACC PL
+б о м о т а л й ADJ INS PL
+т в е щ а д ь е N DAT SG
+р я м б р е й N INS PL
+м к у с к а х N ACC PL
+е т а ч е с т ц е р к N DAT PL
+о с с и N NOM SG
+с с и с т и и я N NOM PL
+с и я х а н о й ь N NOM PL
+к а д е а л е й ADJ INS MASC SG
+м о о т а я о д с ё р о ADJ INAN ACC MASC SG
+т у т а е N NOM PL
+ф е е в р а ь N INS PL
+о н ч е N ESS PL
+ч а н ч а с т й ADJ ESS MASC SG
+з и я м и с т а п е р е е ж и ч е с й ADJ ACC INAN PL
+з а т а ю щ с т а ы й ADJ ANIM ACC MASC SG
+р р к а я ы й ADJ DAT NEUT SG
+о в о г о р о ь N INS PL
+и е й о т а я о р и ю ь N NOM PL
+ф и л ь и т а м N ACC SG
+л е н у а с т ы о р н о р о и з р е п е N INS PL
+а н с т я м N NOM SG
+а в а х л ж е н и щ е е N ESS PL
+ч е с т N INS SG
+с о р ц и е й ь т а т ь V PRS 3 PL
+и с к у е N NOM PL
+д о м ы ч н у о в о е а N INS SG
+р и й о р н N ACC SG
+н и з с я м и N INS PL
+и й с ш е н и я N NOM PL
+е т а х о и з в N NOM SG
+б р ё м н е е N NOM SG
+т р а н о к N ESS PL
+н о я б и щ у N ACC SG
+н а ч е в а N ESS SG
+т е ч н ч а ы й ADJ ACC FEM SG
+м а х н о в у я N ESS SG
+р н ы х р о с с н т я N NOM PL
+ф а в о к т е N INS SG
+т е л е с и й с N NOM SG
+н д ы з в о е N INS SG
+н о с т ё р о в й ADJ GEN PL
+и о н т а л г о й е N INS PL
+р о н а л ь м ы е N DAT PL
+р о н ь N ESS PL
+и н о е N ACC INAN PL
+я щ е е л ь к и е N ACC SG
+р и я м щ а д е й ADJ DAT PL
+в я м й ADJ ACC ANIM PL
+л о щ л о к н с к у б о м с ё р о р а н у N NOM PL
+у т а х т а т е и й ADJ DAT FEM SG
+л ь с к ф е с с м к и й ADJ PL LGSPEC1
+р р м о щ е л ь б о т е п е т ь V.CVB PRS
+л к а в е р к т о к о л и о N DAT PL
+у т а х N INS PL
+о я щ и а н ц а N NOM PL
+ч н о м п о м о с т н о ы ч н у ы й ADJ ESS MASC SG
+в ы х т а в а м п и е N GEN SG
+е р к в д я х о к о N ACC INAN PL
+н с т и м п а н п е о в ь N GEN PL
+е р и и е N ESS PL
+м е н с о р а л ж н о р е л ю з р а N DAT PL
+о щ е й N GEN SG
+в г у з в о д N NOM SG
+д е м б е ь н а т о й ADJ PL LGSPEC1
+в я м с е й а N GEN PL
+ж и с с е н т ы ы й ADJ NOM FEM SG
+и ч н о д с к и и з а ц N ESS SG
+р о с ё р ы N ESS PL
+в и з н е м й ADJ PL LGSPEC1
+о щ а о м а н а т р ы N DAT SG
+у к о в ч а н и N INS PL
+ж н а я р е ж и м к а м й ADJ ACC INAN PL
+у с т о о н ч N ESS PL
+к т я а м к а с я м и а з д е я в ш и й N INS PL
+у т о о д у и я х й ADJ NOM PL
+ю ю у р о й а в к в я х я N ESS SG
+р н и ю и в и ь б л ь м а о й ADJ GEN PL
+н и й т и й и й ADJ GEN FEM SG
+с о с т р е в д б и N NOM SG
+в ы м с у д с и е N INS SG
+и с и р а н о й ADJ GEN PL
+о р о м н т р о н н ы е N ESS PL
+е н н у ё р е ь с о в ь N ESS PL
+а й т е ч н ы х ы й ADJ ACC FEM SG
+с т и т с к о е р а л я ь N GEN PL
+щ е м б о м а ф е с N DAT SG
+с к о р т и е N ACC PL
+н к т ы ь N ESS SG
+в у ю а в ы и ч е н и й ADJ ESS FEM SG
+к а ч е ь т а N DAT SG
+с т р N INS PL
+а н и з н ц и й е р в о ь N DAT PL
+ё р а м т с к N INS PL
+т е т ы е N DAT SG
+н а и н с у т е а б р е N INS PL
+н с к о д е к а т е л я ь N ESS SG
+и н ц и е н т е N INS PL
+и щ е м б р а н а п р р о н у п л о щ о к N INS PL
+а н с к а в е л ь б N ACC SG
+р н а о в ы е ы й ADJ NOM NEUT SG
+о я б а N ESS SG
+и с т а ю ю и й ADJ GEN MASC SG
+к т я б с ё р о р т а х о в е т б о т д с т в ь N ESS PL
+ь м р т о ь N INS PL
+р е м к о в о ь N INS PL
+с н р о в а к в я м N GEN SG
+а т р а л ь м е а N GEN PL
+а й о у б е р а с е л N NOM SG
+н и м щ а д и N NOM SG
+у с р в ы м о р и й я N GEN PL
+о т а с т в ь N DAT SG
+е р н л ж н р н ы х я N DAT SG
+м а м е т н м н о и й ADJ DAT NEUT SG
+л а д б к у ю ь с к а м у н а я N INS SG
+о м о щ я б р ю N ACC SG
+ж н о с б р ё и й ADJ ESS FEM SG
+м п а и о д а н и з я N ACC SG
+ы ч н о р к о N ACC SG
+н д а м N INS SG
+р а л е т о я у н у й ADJ PL LGSPEC1
+н о й N ESS PL
+ы ч н с с и о N GEN PL
+н к м е р N ACC SG
+н ы х и й ADJ DAT NEUT SG
+о л и и й ADJ INS FEM SG
+д ь ю з и е N DAT PL
+я щ и с о р щ а д N ESS SG
+т а ю щ с и т е т о N GEN SG
+р о н у н о м у я N ACC SG
+а е ш ь н н о г ж н о м N INS PL
+о г и е м п и N DAT PL
+в а н с е з р н а з а и й ADJ GEN FEM SG
+р о д м е н л а д б N DAT PL
+к е к а ч N ESS SG
+н ч а н н и й я N ESS SG
+с ё р ы д а н н а N ESS SG
+п у н к е р в о ь N GEN SG
+р н и а л а у т ы ж н о е ADJ DAT FEM SG
+т у р о N GEN SG
+н к о с т я й ADJ GEN PL
+о з р а о е N INS SG
+в е т а а л ф е N DAT PL
+м е н о к о в я х м а н д ь N INS SG
+в и н т а м у н о й й ADJ INS NEUT SG
+е н ы о б е п е н ы й ADJ DAT MASC SG
+д и л е н а о N NOM PL
+с т ь с и т ь б о N ESS PL
+и к а н N INS PL
+м а м и N ESS PL
+с к у т у т е й ADJ GEN NEUT SG
+т и ю н т е с и т я N GEN SG
+н т я б я б р е а N GEN SG
+б р ь н о в а б и щ а ADJ INAN ACC MASC SG
+й с к о N ACC SG
+о н а т б о м ы м о я N ACC PL
+е з д я м и щ а д и и й ADJ DAT NEUT SG
+л ь б о г о е N INS SG
+д б и щ т а я е р н N DAT PL
+в г н ь с к о е о N DAT PL
+и щ е р в е т у о н о м и й ADJ ANIM ACC MASC SG
+т р а д ь ю л е н а н к т о в и з у н у а N INS SG
+с о в е д е н а т а ь N DAT PL
+и ч н а о й ADJ GEN PL
+д с к и б о м п е н е к а N GEN PL
+у д е м ь N GEN SG
+р е з и т е т щ ь ю N ESS PL
+н к т ы о N DAT SG
+к л а г у б ь N ESS SG
+ё л к у о т о з в о N INS SG
+т е а т N INS PL
+р и о д ё л о к N INS PL
+и с т е м й ADJ ACC INAN PL
+у н а р е й N ESS PL
+т и ю ч н а о N NOM PL
+б р а н д о и й ADJ GEN MASC SG
+н о я е й е н н о ь N INS SG
+и ч е н ю щ и й и й ADJ FEM SG LGSPEC1
+н в щ а д N INS PL
+а н д о о г о м а N INS SG
+о г о й щ а м и к т ы ы й ADJ NOM NEUT SG
+и з а о щ N NOM PL
+д а м и п р о ф о N ESS SG
+д е к ч н о т о в о в ь ю б у N NOM SG
+е т р ы е т о м N INS SG
+т у т е п и с с о с N ESS SG
+о т у о н о м е н н ы о р и е о к N ESS PL
+в л н о д с т в я N ACC PL
+а р ё л ф д е л ь м ы N GEN SG
+ф е в в а р й ADJ DAT PL
+а п р е N INS SG
+н а т о с е ь м а я N ACC SG
+н и е N ACC INAN PL
+л ь м ы а л и й ADJ ACC NEUT SG
+о щ е й и й ADJ ACC NEUT SG
+т в о м у к о в V NFIN
+н ы м а в е с с ё р и й ADJ DAT FEM SG
+ы е к а д е N ESS PL
+з о н о л ж е е в н и ь N ESS SG
+т е т у й ADJ INS PL
+о д б о т я N INS SG
+а н и я а е м ч н о е р о н о в ь N DAT PL
+р в ы е е с т в й ADJ DAT PL
+д ь ю ADJ INAN ACC MASC SG
+и с е й а р т и н а м с к у ю к а N INS PL
+и о д ы й ADJ INS MASC SG
+р о н а р е ж и е я т е и й ADJ ACC FEM SG
+р е ж н с к о б е р N NOM SG
+щ а д л о щ а е N DAT SG
+и щ а х е р и й ь N NOM PL
+и с к у о т у г и х й ADJ ACC ANIM PL
+о д о м ь с к а а N GEN PL
+т н е ч н ы а н с а N INS SG
+в е т е ь т ф у т ь N DAT PL
+о в ь м е н т н к т ы N NOM SG
+а н о ы й ADJ ESS MASC SG
+у н к т т с к о ADJ NOM MASC SG
+н т о в в о й с N INS SG
+у т л и д с к у п и с а N ACC SG
+п р е м й ADJ INS MASC SG
+а в а х л ь т у о N INS PL
+е т ы л ф а о N DAT SG
+о т ы а ю щ и о е N DAT PL
+р о н е н а п и с ь ь N INS SG
+н е е н с т и о е N INS PL
+м е р и у р а м ь N INS PL
+к т а м N ESS PL
+а ч е в е т а а н и N NOM SG
+р у к о в н ы м N NOM PL
+й с к у у с т у ы й ADJ NOM FEM SG
+е н я п р а а ц т е т т ь V PST SG NEUT
+н ю ю и л ь м о N ESS SG
+б р я м г и с о с и й ADJ ACC FEM SG
+д я а я в у у ч а я N GEN PL
+т н е м ь т а о я щ с т ь ю у н и в N INS SG
+я б р с т ь ю й ADJ INS PL
+о г у щ а д ь т у т й ADJ PL LGSPEC1
+р е н е н ь ю ы й ADJ ESS MASC SG
+т е л ь N DAT PL
+т е а щ е е а ц а м к у н о м у ю щ а л ё м й ADJ NOM PL
+ь б о с т я ю щ и ADJ GEN FEM SG
+и з и и н у а н д е N NOM PL
+ы м и а м к е N INS PL
+а л ь с т в а ь N DAT PL
+н д ф и л ж н о й я N ACC PL
+б и щ е г и х и й ADJ ACC FEM SG
+д у т н о в ы к о г я N GEN PL
+щ а х ц и я х N NOM SG
+р а м N NOM SG
+т р а ь б о м ы й ADJ INS FEM SG
+о д е т с к у N NOM SG
+с т и й т а т а в N GEN PL
+п е н е б р ь ц и е й е N INS PL
+ч н ы х р е л ь N NOM SG
+а ц и е ь N DAT SG
+о н у к и м й ADJ NOM PL
+а н д а к в с е л е о е N NOM PL
+р т ы а с т а N ACC PL
+у р о й н а я и л ь я N NOM PL
+г и м и р а б ш е н и е N GEN PL
+и н ц а м к е о с N GEN SG
+н с т и д с к а ы й ADJ NOM NEUT SG
+м и и д о л к а д я N ACC SG
+а ю щ и ч е м п N NOM SG
+з о в з а ц и а N GEN PL
+п а н е р н и ы й ADJ ESS NEUT SG
+а й т у с с т в а м и й ADJ INS MASC SG
+к о м а N ACC SG
+к о в о л ё м о N DAT SG
+р е л е N DAT PL
+а с т н т у р ы о с у д а т о N NOM PL
+а л о д с т а р ю N NOM PL
+т с к у с т и е а N ACC SG
+о в н о м е р N ESS SG
+а д я х N ACC SG
+о с с о р е а N NOM PL
+м е т р т р о в д е ш ь а я N GEN SG
+и т а к е г и м ь N DAT PL
+н с л ь м ы й ADJ ESS MASC SG
+у с т у я N GEN PL
+в а р ё а л о р и ю и й ADJ ESS FEM SG
+р а л ё а р с ь с к о ADJ NOM MASC SG
+с ь в и т а N INS SG
+щ а д ь л и е N INS PL
+а в ш и в е т с N ACC SG
+ь м у б о м е р н ы м N DAT PL
+п и с е т р ы т и й N NOM PL
+м и я х г и х о н а р о д ы ч е н н с ы й ADJ FEM SG LGSPEC1
+у н а х N GEN SG
+с и е й т в о N NOM SG
+ч н а я д а р й ADJ INS MASC SG
+т с к и е N DAT PL
+ы й а н д в а р и N ACC SG
+р а з о N ESS SG
+е н у т а е м о г и й N DAT PL
+ь м м о щ а н а м м м р о н о а е т н и я й ADJ DAT MASC SG
+и с и л я х а д е N INS PL
+к и х я N GEN SG
+к а н с р о в о ь N GEN SG
+е а т и е м и й ADJ NOM FEM SG
+м и й о N DAT SG
+у т ы N ACC SG
+и ч е с р с и ю в ш и а N GEN PL
+ж н о е р т а м ь N INS SG
+т о р о л а д е N GEN SG
+в а р ё N ESS PL
+и щ а х н о е а N ESS SG
+р у л ь т у N NOM SG
+ё л а д ь ю я N ACC PL
+о с е л н к т у н т а х а N INS SG
+а д е й д я м и N ESS PL
+н д а х р а х о н е л ж н о N INS PL
+а т ё р ы а д б р н а я л о з н г о с у и й ADJ GEN MASC SG
+е л я м а N ACC SG
+с и я и т е т N INS SG
+ч н а я N ESS SG
+щ а д я о щ а м N NOM PL
+г а н н т р ы е N DAT PL
+н т р е о N INS PL
+р и е д у е л е н й ADJ INS NEUT SG
+е н т я и й ADJ ANIM ACC MASC SG
+н т о м а н и я т н и я N DAT SG
+е н о м N INS SG
+о с у д о е N GEN PL
+в е т ы о р и е ы й ADJ NOM FEM SG
+р р н с к о N NOM SG
+м п е р и и й ADJ GEN PL
+о с с и е н я х N ACC SG
+а к а д к а н с й с т а т е п у ж и с с и й ADJ INS FEM SG
+о с ё р н а г у с е N DAT SG
+ф а в т и т у ж н о г N INS PL
+е л я м ж н о с л ь н о о е N ACC PL
+я х и щ а м N ACC SG
+г о с е г н д о й д е ш ь а N DAT SG
+е р и т ы к т у с т е ы й ADJ GEN FEM SG
+а м к о е р е о N ACC PL
+м е т о с т я о д о в й ADJ INS MASC SG
+т и я м б о т е ь N NOM PL
+о л и с м о к ь N ESS PL
+з и й я б р и у с т ы N INS SG
+у л ь т р т ы N GEN PL
+у н а о в а х я N GEN PL
+б и щ у м у н е N DAT SG
+е м и и N ESS PL
+ё р а х т е л ю з о н ы N DAT SG
+а б р я р е м ь N INS SG
+т а х ф е с с ц е н ь N DAT PL
+р о й т в а х е р к о а N DAT SG
+з о н у ё л к е ь N GEN SG
+в л е н н а м н в а р N ESS PL
+с е з о о м е т а м N ESS SG
+м у н е о й ADJ INS PL
+с п н о в е б ы ч п и о н о N DAT PL
+т а в у N GEN PL
+у н о б р ё а п р а я N INS SG
+и о д ы с т ы N ESS PL
+к у р а н о N GEN SG
+й о н ч а ь N DAT SG
+а т ы я б в ы п л о щ N ACC SG
+в а р ё N INS SG
+а й о н о с к о е я N ACC PL
+н и з а м а х т а т ы р т и й е N DAT PL
+т с к и N INS SG
+я х с с и й N ESS PL
+а н и з п и с щ а д и ь N INS PL
+е р и о е н м е н т т е р ы й ADJ ESS FEM SG
+т н е м л о я N ACC PL
+о т а х в л е н й ADJ INS MASC SG
+в а р я т я ь N ESS SG
+л к а х р и к т а е ш л ь м а а ц и и а т ь V IMP 2 PL
+а б р м о щ е ь N ESS PL
+н т е р и я а N ACC SG
+л а д б е р к т в а х и й ADJ NOM NEUT SG
+з и е й ь N INS PL
+и т ы н д а м и з и е ADJ NOM MASC SG
+е е б е р о р а х й ADJ NOM PL
+р и я н т ы т у т у е н а х п е р в о м е е N GEN PL
+ж н о в е т с р с и я N INS SG
+щ е е а с т я N ACC SG
+р ю л и ч е п о м о и й ADJ GEN NEUT SG
+и н ц о д о н т р а я N ACC SG
+о т о й N NOM SG
+т в о м р с и т в р ч н о й о ф е е N INS PL
+н д е о р и й я N DAT SG
+з о н н с к о й ADJ INS PL
+т н е г л е н ы о й ADJ NOM FEM SG
+р с и я N ESS PL
+и к а а л а ь N DAT PL
+т н е N NOM SG
+с и д с к и о к N ACC PL
+и с т ы к а N GEN PL
+т в е н к т и т е т N NOM SG
+е в т е л ь у р ы ы й ADJ ESS MASC SG
+т н и м а к а у с т а с т а в и й ADJ GEN FEM SG
+р ю т н а б о N NOM SG
+н д а х ч е с ь N ESS PL
+н с к у а я N DAT SG
+н н о м е N INS PL
+у т б о е ш ь е р с а м к ь м в я н т р е N ACC SG
+а д ь ю р н ы м N ACC SG
+ё л к а я N ACC SG
+е т ы в я о в ь р н о N ESS SG
+б ы ч е е н е ч е н N NOM SG
+д и в и н ы й ADJ MASC SG LGSPEC1
+о в у н т р ы с е н т N NOM SG
+т е т а е п и с ё л о б о р е т р ы ж н а я ь N INS SG
+т е л ь й ADJ INS PL
+п о р т N ESS PL
+ч н а о д а о г у ю и й ADJ ESS NEUT SG
+р о в ё л к и р е л ь N GEN PL
+а в г и о д о N DAT PL
+о г о м N INS SG
+в е р с г у с т ж н а N ACC SG
+я щ е е н в а я N ACC SG
+а м о к в ь м и я х о в ь N DAT SG
+н с л к а н и а д е м р а с т е л ь к о н й ADJ ACC ANIM PL
+л к и у с т у N INS PL
+у л в а р и N ACC SG
+я щ е в а р ё N DAT PL
+р т и ю б у д е о й ADJ ACC FEM SG
+в а р я и я щ а д и о й ADJ ESS PL
+с т о в т у р ы о в а х е N GEN PL
+щ е е а н д о о я щ е N NOM SG
+л ё м е н а м ь N GEN SG
+н а т е е N ESS PL
+т а в в а р е й с к а о е N ESS PL
+р а н п р е л р и т ь N ESS PL
+у т о м щ и м а ю о е N GEN PL
+а р я м а N GEN PL
+г у ю н и в й о н у ь N DAT SG
+б о м е с т р а N DAT SG
+и т у в у ц е н т й ADJ PL LGSPEC1
+т р о в а N DAT SG
+а л а с о р у р н е л ь ADJ NOM MASC SG
+в и т е т в о й ADJ PL LGSPEC1
+в ш л е й ь N GEN SG
+е т р о й ADJ ESS PL
+и й с к е н ь ю в и т ы N NOM SG
+р е й е р к в в е т а с ё о р т а N NOM PL
+а р ё н ч а н е л ь е з о и й ADJ ESS MASC SG
+м о т а х й ADJ ESS PL
+п е н е т о с ё р е о в ь N GEN SG
+и щ у б р е й н о в ы о й ADJ DAT PL
+а р с т ё р а к у с с а т у е н т я N NOM SG
+т в а х р е з а д ь ю р н а к у с с ё л к N INS SG
+ч н у ю у н у N INS SG
+о р а м о в и н н о в е п о с а н т е п ь N DAT PL
+т е р в а н и с т е N NOM SG
+е п е н о м е н й ADJ INS NEUT SG
+с т о р а N ACC SG
+и в к а ч е N NOM SG
+д я м и й ADJ INS NEUT SG
+и н с т с о р е а ц н в а ADJ INAN ACC MASC SG
+и е с с н и з а ц е N ESS PL
+т о р и а н о е р н и я N DAT SG
+п у н е н я м е р к в е N INS SG
+т в у и о н а т е а т и з и й к в я м й ADJ NOM PL
+р т и е т о м т а ю щ е N INS PL
+о р т у н и в а ч е с ь N INS PL
+а н а л е т н и о н а ы й ADJ ESS MASC SG
+р и я х ю ю а б о т е N DAT PL
+о г и х я N NOM PL
+д с к о N INS SG
+м н о г д я х и з и ю N INS SG
+а з у н у й ADJ NOM PL
+и о д ы й с к а и т о в и й ADJ INS FEM SG
+т н е ь N GEN PL
+л ь т N NOM SG
+п е р е о N ESS PL
+н а я н о я б и л м к и и й ADJ DAT FEM SG
+о р и й й т е а ч е с N NOM PL
+о м е н о в н ы е N GEN PL
+р у т е л ь и й ADJ DAT FEM SG
+т р ы ц и и с о р N ACC SG
+о в н к о м в е й N NOM SG
+о й с а н а а N ESS SG
+л ж н о у п р а я N GEN SG
+д о й е ч е н ь н о с е N DAT PL
+д б с я и т о о р и и N NOM PL
+о б ы с т в е N INS SG
+р о и з л е н ы о N ESS PL
+а п р а е р в ы е п а р т щ е N NOM SG
+р т а м я N NOM PL
+о г и у к щ а д е я N ESS SG
+а в о у с т у а я N ESS SG
+в ы х ч л е п и с и и й ADJ GEN MASC SG
+р к о V FUT 3 PL
+т у р з и я б о м о й ADJ NOM PL
+р у о я б о й ё л о к N DAT PL
+о р о н и й ADJ ESS NEUT SG
+н и е д е т т а я и й ADJ ANIM ACC MASC SG
+р е л ь е м и N ACC SG
+и щ а м о е N INS SG
+т н о с а р е ы й ADJ ESS MASC SG
+у т а х к о в н и ы й ADJ FEM SG LGSPEC1
+т е л ь н и з а г у б е N INS SG
+с т и е N ACC SG
+т о м я щ е е N DAT PL
+н а п р м п а н N INS SG
+о с т я N ACC SG
+т а в о ф а р е ш и т а х о к N DAT PL
+л к о б р ь о я щ е ь N INS PL
+н а п н а м л ж б у д е ь N GEN PL
+т р в а н и в а н и я N GEN PL
+р е в в и н е N GEN PL
+н а п р я м т у р е ь N DAT SG
+р о в ы р н а я а я N GEN PL
+н к т у р о ф е N DAT PL
+г о г е н т о у к о в ь N ESS SG
+о в о д ь м о м р в о о е N INS SG
+р а в л N GEN SG
+л ь м м у н N NOM PL
+ф у т и р в ы х а N INS SG
+л е т н с к у с V FUT 3 SG
+з л и п а р т и о д у я N GEN SG
+д е р а N GEN PL
+г а н а б о т и р о я N GEN PL
+с к и м в н я н о с N INS SG
+р р и а е ш N INS SG
+р т и й а л я м ь N ESS SG
+р е н о й ADJ INS MASC SG
+м о к а ц и ю N DAT PL
+м е н а ю т N DAT PL
+л ю е т ы н а п з а ц е N DAT SG
+т а н н т о м е р с а N NOM PL
+у л ь е м и и е в е н ь N INS SG

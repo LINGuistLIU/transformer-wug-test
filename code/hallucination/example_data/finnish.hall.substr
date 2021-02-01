@@ -1,0 +1,100 @@
+ettsivaakoki	ettsivaakojeksi	N;TRANS;SG
+rjoiälitruutki	rjoiälitruutjellä	N;AT+ESS;SG
+jätmmeki	jätmmejelle	N;AT+ALL;SG
+ymmtaiki	ymmtaijeltä	N;AT+ABL;SG
+easski	eassjen	N;GEN;SG
+ntanoihiolinentilkeäki	ntanoihiolinentilkeäjessä	N;IN+ESS;SG
+viinnammki	viinnammjestä	N;IN+ABL;SG
+ivuatehtki	ivuatehtjet	N;ACC;PL
+jäkski	jäksjet	N;NOM;PL
+ljollaeneski	ljollaenesjettä	N;PRIV;SG
+sälski	sälsjiksi	N;TRANS;PL
+liinki	liinjillä	N;AT+ESS;PL
+kunrjojki	kunrjojjille	N;AT+ALL;PL
+töjhtäkjäänki	töjhtäkjäänjiltä	N;AT+ABL;PL
+tunaristki	tunaristjin	N;INS;PL
+äkääolymmaaki	äkääolymmaajissä	N;IN+ESS;PL
+lmesnisaillraksijaaki	lmesnisaillraksijaajistä	N;IN+ABL;PL
+odalki	odaljittä	N;PRIV;PL
+eitauvmalli	eitauvmalleä	N;PRT;SG
+simei	simeeen	N;IN+ALL;SG
+tuvansoi	tuvansoenä	N;FRML;SG
+sävliätuil	sävliätuilä	N;PRT;PL
+voimmpalujaalas	voimmpalujaalasen	N;GEN;PL
+peruntti	perunttiin	N;IN+ALL;PL
+totanastyt	totanastyt	N;ACC;SG
+ellallislu	ellallislunä	N;FRML;PL
+lis	lisneen	N;COM;PL
+öllä	öllä	N;NOM;SG
+  tyäa	älä ole tyänut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+  pukuviaa	älkäämme olko pukuvianeet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+ avua	älkäämme avuko	V;ACT;PRS;NEG;IMP;1;PL
+  ydena	älkää olko ydenneet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+ usryina	älkää usryinko	V;ACT;PRS;NEG;IMP;2;PL
+  ytökakataa	älköön olko ytökakaettu	V;PASS;PRS;PRF;NEG;IMP
+  akoovuoa	älköön olko akoovuonut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+ svadasuomtaa	älköön svadasuomettako	V;PASS;PRS;NEG;IMP
+ ttivvoijojea	älköön ttivvoijojeko	V;ACT;PRS;NEG;IMP;3;SG
+  dunmäsa	älkööt olko dunmäsneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+ joidolea	älkööt joidoleko	V;ACT;PRS;NEG;IMP;3;PL
+  rytäkenätaa	ei liene rytäkenäettu	V;PASS;PRS;PRF;NEG;POT
+  imusilläa	ei liene imusillänut	V;ACT;PRS;PRF;NEG;POT;3;SG
+  osaainnjojhkäienetaa	ei ole osaainnjojhkäieneettu	V;PASS;PRS;PRF;NEG;IND
+  ästärikkeäa	ei ole ästärikkeänut	V;ACT;PRS;PRF;NEG;IND;3;SG
+  ssiaealltaa	ei olisi ssiaeallettu	V;PASS;PRS;PRF;NEG;COND
+  ehka	ei olisi ehknut	V;ACT;PRS;PRF;NEG;COND;3;SG
+  alellevutitaa	ei ollut alellevutiettu	V;PASS;PST;PRF;NEG;IND
+  tyinllatakoa	ei ollut tyinllatakonut	V;ACT;PST;PRF;NEG;IND;3;SG
+  leihktujea	eivät liene leihktujeneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+  kiinstyva	eivät ole kiinstyvneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+  tanna	eivät olisi tannneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+  oriataitseksekanetteila	eivät olleet oriataitseksekanetteilneet	V;ACT;PST;PRF;NEG;IND;3;PL
+ alaia	eivät alaiisi	V;ACT;PRS;NEG;COND;3;PL
+ kymuivnatumea	eivät kymuivnatumeneet	V;ACT;PST;NEG;IND;3;PL
+ kkelytötadaasukaa	eivät kkelytötadaasukane	V;ACT;PRS;NEG;POT;3;PL
+ ltäjkkuetaa	ei ltäjkkueeta	V;PASS;PRS;NEG;IND
+ einaretätaa	ei einaretäettaisi	V;PASS;PRS;NEG;COND
+ tuuksesstaa	ei tuuksessettane	V;PASS;PRS;NEG;POT
+ ydkiltaa	ei ydkilettu	V;PASS;PST;NEG;IND
+ essoa	ei essoisi	V;ACT;PRS;NEG;COND;3;SG
+ anutteitaiempäajisa	ei anutteitaiempäajisne	V;ACT;PRS;NEG;POT;3;SG
+ ynevmitesiena	ei ynevmitesiennut	V;ACT;PST;NEG;IND;3;SG
+  seita	emme liene seitneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+  säla	emme ole sälneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+  mäkraltnetua	emme olisi mäkraltnetuneet	V;ACT;PRS;PRF;NEG;COND;1;PL
+  ikkojoaa	emme olleet ikkojoaneet	V;ACT;PST;PRF;NEG;IND;1;PL
+ olymmiena	emme olymmienisi	V;ACT;PRS;NEG;COND;1;PL
+ ailuljita	emme ailuljitneet	V;ACT;PST;NEG;IND;1;PL
+ oksuviapitikestuila	emme oksuviapitikestuilne	V;ACT;PRS;NEG;POT;1;PL
+  hnykulljouta	en liene hnykulljoutnut	V;ACT;PRS;PRF;NEG;POT;1;SG
+  tinäkaakruukoinaa	en ole tinäkaakruukoinanut	V;ACT;PRS;PRF;NEG;IND;1;SG
+  ansrjanauka	en olisi ansrjanauknut	V;ACT;PRS;PRF;NEG;COND;1;SG
+  tineiirra	en ollut tineiirrnut	V;ACT;PST;PRF;NEG;IND;1;SG
+ ihjata	en ihjatisi	V;ACT;PRS;NEG;COND;1;SG
+ rtäimoita	en rtäimoitne	V;ACT;PRS;NEG;POT;1;SG
+ aksatiajoutyhdyyttykeita	en aksatiajoutyhdyyttykeitnut	V;ACT;PST;NEG;IND;1;SG
+  joksodaanuta	et liene joksodaanutnut	V;ACT;PRS;PRF;NEG;POT;2;SG
+  öhea	et ole öhenut	V;ACT;PRS;PRF;NEG;IND;2;SG
+  tejjaila	et olisi tejjailnut	V;ACT;PRS;PRF;NEG;COND;2;SG
+  tutaueia	et ollut tutaueinut	V;ACT;PST;PRF;NEG;IND;2;SG
+  ehdäloillena	ette liene ehdäloillenneet	V;ACT;PRS;PRF;NEG;POT;2;PL
+  iäirjoanna	ette ole iäirjoannneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+  sässhdysa	ette olisi sässhdysneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+  lätirtäa	ette olleet lätirtäneet	V;ACT;PST;PRF;NEG;IND;2;PL
+ tyneosaa	ette tyneosaisi	V;ACT;PRS;NEG;COND;2;PL
+ emmivuutitta	ette emmivuutittneet	V;ACT;PST;NEG;IND;2;PL
+ ksiia	ette ksiine	V;ACT;PRS;NEG;POT;2;PL
+ tatkijana	et tatkijanisi	V;ACT;PRS;NEG;COND;2;SG
+ erkkeydetarka	et erkkeydetarkne	V;ACT;PRS;NEG;POT;2;SG
+ jatmyöhölläa	et jatmyöhöllänut	V;ACT;PST;NEG;IND;2;SG
+ triknimitaa	lienee triknimiettu	V;PASS;PRS;PRF;POS;POT
+ äkieevaa	lienee äkieevanut	V;ACT;PRS;PRF;POS;POT;3;SG
+ rttra	lienemme rttrneet	V;ACT;PRS;PRF;POS;POT;1;PL
+ risönotiea	lienen risönotienut	V;ACT;PRS;PRF;POS;POT;1;SG
+ lienvaldelta	lienette lienvaldeltneet	V;ACT;PRS;PRF;POS;POT;2;PL
+ eesea	lienet eesenut	V;ACT;PRS;PRF;POS;POT;2;SG
+ mpina	lienevät mpinneet	V;ACT;PRS;PRF;POS;POT;3;PL
+ nnylänkenta	olemme nnylänkentneet	V;ACT;PRS;PRF;POS;IND;1;PL
+ taatäkelolyroika	olen taatäkelolyroiknut	V;ACT;PRS;PRF;POS;IND;1;SG
+ ksisa	olette ksisneet	V;ACT;PRS;PRF;POS;IND;2;PL
+ iopelaa	olet iopelanut	V;ACT;PRS;PRF;POS;IND;2;SG

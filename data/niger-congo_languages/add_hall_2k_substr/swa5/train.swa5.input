@@ -1,0 +1,5283 @@
+k o h o a V DEF FIN IND PL 1 PRS
+k o h o a V DEF FIN IND PL 2 PRS
+k o h o a V DEF FIN IND PL 3 PRS
+k o h o a V DEF FIN IND SG 1 PRS
+k o h o a V DEF FIN IND SG 2 PRS
+k o h o a V DEF FIN IND SG 3 PRS
+k o h o a V FIN
+k o h o a V FIN COND PL 1 PRS
+k o h o a V FIN COND PL 1 PST
+k o h o a V FIN COND PL 2 PRS
+k o h o a V FIN COND PL 2 PST
+k o h o a V FIN COND PL 3 PRS
+k o h o a V FIN COND PL 3 PST
+k o h o a V FIN COND SG 1 PRS
+k o h o a V FIN COND SG 1 PST
+k o h o a V FIN COND SG 2 PRS
+k o h o a V FIN COND SG 2 PST
+k o h o a V FIN COND SG 3 PRS
+k o h o a V FIN COND SG 3 PST
+k o h o a V FIN IND PL 1 FUT
+k o h o a V FIN IND PL 1 PST
+k o h o a V FIN IND PL 2 FUT
+k o h o a V FIN IND PL 2 PST
+k o h o a V FIN IND PL 3 FUT
+k o h o a V FIN IND PL 3 PST
+k o h o a V FIN IND SG 1 FUT
+k o h o a V FIN IND SG 1 PST
+k o h o a V FIN IND SG 2 FUT
+k o h o a V FIN IND SG 2 PST
+k o h o a V FIN IND SG 3 FUT
+k o h o a V FIN IND SG 3 PST
+k o h o a V HAB FIN IND PL 1 PRS
+k o h o a V HAB FIN IND PL 2 PRS
+k o h o a V HAB FIN IND PL 3 PRS
+k o h o a V HAB FIN IND SG 1 PRS
+k o h o a V HAB FIN IND SG 2 PRS
+k o h o a V HAB FIN IND SG 3 PRS
+k o h o a V INDF FIN IND PL 1 PRS
+k o h o a V INDF FIN IND PL 2 PRS
+k o h o a V INDF FIN IND PL 3 PRS
+k o h o a V INDF FIN IND SG 1 PRS
+k o h o a V INDF FIN IND SG 2 PRS
+k o h o a V INDF FIN IND SG 3 PRS
+k o h o a V PRF FIN IND PL 1 PST
+k o h o a V PRF FIN IND PL 2 PST
+k o h o a V PRF FIN IND PL 3 PST
+k o h o a V PRF FIN IND SG 1 PST
+k o h o a V PRF FIN IND SG 2 PST
+k o h o a V PRF FIN IND SG 3 PST
+g o n g a V DEF FIN IND PL 1 PRS
+g o n g a V DEF FIN IND PL 2 PRS
+g o n g a V DEF FIN IND PL 3 PRS
+g o n g a V DEF FIN IND SG 1 PRS
+g o n g a V DEF FIN IND SG 2 PRS
+g o n g a V DEF FIN IND SG 3 PRS
+g o n g a V FIN
+g o n g a V FIN COND PL 1 PRS
+g o n g a V FIN COND PL 1 PST
+g o n g a V FIN COND PL 2 PRS
+g o n g a V FIN COND PL 2 PST
+g o n g a V FIN COND PL 3 PRS
+g o n g a V FIN COND PL 3 PST
+g o n g a V FIN COND SG 1 PRS
+g o n g a V FIN COND SG 1 PST
+g o n g a V FIN COND SG 2 PRS
+g o n g a V FIN COND SG 2 PST
+g o n g a V FIN COND SG 3 PRS
+g o n g a V FIN COND SG 3 PST
+g o n g a V FIN IND PL 1 FUT
+g o n g a V FIN IND PL 1 PST
+g o n g a V FIN IND PL 2 FUT
+g o n g a V FIN IND PL 2 PST
+g o n g a V FIN IND PL 3 FUT
+g o n g a V FIN IND PL 3 PST
+g o n g a V FIN IND SG 1 FUT
+g o n g a V FIN IND SG 1 PST
+g o n g a V FIN IND SG 2 FUT
+g o n g a V FIN IND SG 2 PST
+g o n g a V FIN IND SG 3 FUT
+g o n g a V FIN IND SG 3 PST
+g o n g a V HAB FIN IND PL 1 PRS
+g o n g a V HAB FIN IND PL 2 PRS
+g o n g a V HAB FIN IND PL 3 PRS
+g o n g a V HAB FIN IND SG 1 PRS
+g o n g a V HAB FIN IND SG 2 PRS
+g o n g a V HAB FIN IND SG 3 PRS
+g o n g a V INDF FIN IND PL 1 PRS
+g o n g a V INDF FIN IND PL 2 PRS
+g o n g a V INDF FIN IND PL 3 PRS
+g o n g a V INDF FIN IND SG 1 PRS
+g o n g a V INDF FIN IND SG 2 PRS
+g o n g a V INDF FIN IND SG 3 PRS
+g o n g a V PRF FIN IND PL 1 PST
+g o n g a V PRF FIN IND PL 2 PST
+g o n g a V PRF FIN IND PL 3 PST
+g o n g a V PRF FIN IND SG 1 PST
+g o n g a V PRF FIN IND SG 2 PST
+g o n g a V PRF FIN IND SG 3 PST
+v u t a V DEF FIN IND PL 1 PRS
+v u t a V DEF FIN IND PL 2 PRS
+v u t a V DEF FIN IND PL 3 PRS
+v u t a V DEF FIN IND SG 1 PRS
+v u t a V DEF FIN IND SG 2 PRS
+v u t a V DEF FIN IND SG 3 PRS
+v u t a V FIN
+v u t a V FIN COND PL 1 PRS
+v u t a V FIN COND PL 1 PST
+v u t a V FIN COND PL 2 PRS
+v u t a V FIN COND PL 2 PST
+v u t a V FIN COND PL 3 PRS
+v u t a V FIN COND PL 3 PST
+v u t a V FIN COND SG 1 PRS
+v u t a V FIN COND SG 1 PST
+v u t a V FIN COND SG 2 PRS
+v u t a V FIN COND SG 2 PST
+v u t a V FIN COND SG 3 PRS
+v u t a V FIN COND SG 3 PST
+v u t a V FIN IND PL 1 FUT
+v u t a V FIN IND PL 1 PST
+v u t a V FIN IND PL 2 FUT
+v u t a V FIN IND PL 2 PST
+v u t a V FIN IND PL 3 FUT
+v u t a V FIN IND PL 3 PST
+v u t a V FIN IND SG 1 FUT
+v u t a V FIN IND SG 1 PST
+v u t a V FIN IND SG 2 FUT
+v u t a V FIN IND SG 2 PST
+v u t a V FIN IND SG 3 FUT
+v u t a V FIN IND SG 3 PST
+v u t a V HAB FIN IND PL 1 PRS
+v u t a V HAB FIN IND PL 2 PRS
+v u t a V HAB FIN IND PL 3 PRS
+v u t a V HAB FIN IND SG 1 PRS
+v u t a V HAB FIN IND SG 2 PRS
+v u t a V HAB FIN IND SG 3 PRS
+v u t a V INDF FIN IND PL 1 PRS
+v u t a V INDF FIN IND PL 2 PRS
+v u t a V INDF FIN IND PL 3 PRS
+v u t a V INDF FIN IND SG 1 PRS
+v u t a V INDF FIN IND SG 2 PRS
+v u t a V INDF FIN IND SG 3 PRS
+v u t a V PRF FIN IND PL 1 PST
+v u t a V PRF FIN IND PL 2 PST
+v u t a V PRF FIN IND PL 3 PST
+v u t a V PRF FIN IND SG 1 PST
+v u t a V PRF FIN IND SG 2 PST
+v u t a V PRF FIN IND SG 3 PST
+p a n d a V DEF FIN IND PL 1 PRS
+p a n d a V DEF FIN IND PL 2 PRS
+p a n d a V DEF FIN IND PL 3 PRS
+p a n d a V DEF FIN IND SG 1 PRS
+p a n d a V DEF FIN IND SG 2 PRS
+p a n d a V DEF FIN IND SG 3 PRS
+p a n d a V FIN
+p a n d a V FIN COND PL 1 PRS
+p a n d a V FIN COND PL 1 PST
+p a n d a V FIN COND PL 2 PRS
+p a n d a V FIN COND PL 2 PST
+p a n d a V FIN COND PL 3 PRS
+p a n d a V FIN COND PL 3 PST
+p a n d a V FIN COND SG 1 PRS
+p a n d a V FIN COND SG 1 PST
+p a n d a V FIN COND SG 2 PRS
+p a n d a V FIN COND SG 2 PST
+p a n d a V FIN COND SG 3 PRS
+p a n d a V FIN COND SG 3 PST
+p a n d a V FIN IND PL 1 FUT
+p a n d a V FIN IND PL 1 PST
+p a n d a V FIN IND PL 2 FUT
+p a n d a V FIN IND PL 2 PST
+p a n d a V FIN IND PL 3 FUT
+p a n d a V FIN IND PL 3 PST
+p a n d a V FIN IND SG 1 FUT
+p a n d a V FIN IND SG 1 PST
+p a n d a V FIN IND SG 2 FUT
+p a n d a V FIN IND SG 2 PST
+p a n d a V FIN IND SG 3 FUT
+p a n d a V FIN IND SG 3 PST
+p a n d a V HAB FIN IND PL 1 PRS
+p a n d a V HAB FIN IND PL 2 PRS
+p a n d a V HAB FIN IND PL 3 PRS
+p a n d a V HAB FIN IND SG 1 PRS
+p a n d a V HAB FIN IND SG 2 PRS
+p a n d a V HAB FIN IND SG 3 PRS
+p a n d a V INDF FIN IND PL 1 PRS
+p a n d a V INDF FIN IND PL 2 PRS
+p a n d a V INDF FIN IND PL 3 PRS
+p a n d a V INDF FIN IND SG 1 PRS
+p a n d a V INDF FIN IND SG 2 PRS
+p a n d a V INDF FIN IND SG 3 PRS
+p a n d a V PRF FIN IND PL 1 PST
+p a n d a V PRF FIN IND PL 2 PST
+p a n d a V PRF FIN IND PL 3 PST
+p a n d a V PRF FIN IND SG 1 PST
+p a n d a V PRF FIN IND SG 2 PST
+p a n d a V PRF FIN IND SG 3 PST
+t a z a m a V DEF FIN IND PL 1 PRS
+t a z a m a V DEF FIN IND PL 2 PRS
+t a z a m a V DEF FIN IND PL 3 PRS
+t a z a m a V DEF FIN IND SG 1 PRS
+t a z a m a V DEF FIN IND SG 2 PRS
+t a z a m a V DEF FIN IND SG 3 PRS
+t a z a m a V FIN
+t a z a m a V FIN COND PL 1 PRS
+t a z a m a V FIN COND PL 1 PST
+t a z a m a V FIN COND PL 2 PRS
+t a z a m a V FIN COND PL 2 PST
+t a z a m a V FIN COND PL 3 PRS
+t a z a m a V FIN COND PL 3 PST
+t a z a m a V FIN COND SG 1 PRS
+t a z a m a V FIN COND SG 1 PST
+t a z a m a V FIN COND SG 2 PRS
+t a z a m a V FIN COND SG 2 PST
+t a z a m a V FIN COND SG 3 PRS
+t a z a m a V FIN COND SG 3 PST
+t a z a m a V FIN IND PL 1 FUT
+t a z a m a V FIN IND PL 1 PST
+t a z a m a V FIN IND PL 2 FUT
+t a z a m a V FIN IND PL 2 PST
+t a z a m a V FIN IND PL 3 FUT
+t a z a m a V FIN IND PL 3 PST
+t a z a m a V FIN IND SG 1 FUT
+t a z a m a V FIN IND SG 1 PST
+t a z a m a V FIN IND SG 2 FUT
+t a z a m a V FIN IND SG 2 PST
+t a z a m a V FIN IND SG 3 FUT
+t a z a m a V FIN IND SG 3 PST
+t a z a m a V HAB FIN IND PL 1 PRS
+t a z a m a V HAB FIN IND PL 2 PRS
+t a z a m a V HAB FIN IND PL 3 PRS
+t a z a m a V HAB FIN IND SG 1 PRS
+t a z a m a V HAB FIN IND SG 2 PRS
+t a z a m a V HAB FIN IND SG 3 PRS
+t a z a m a V INDF FIN IND PL 1 PRS
+t a z a m a V INDF FIN IND PL 2 PRS
+t a z a m a V INDF FIN IND PL 3 PRS
+t a z a m a V INDF FIN IND SG 1 PRS
+t a z a m a V INDF FIN IND SG 2 PRS
+t a z a m a V INDF FIN IND SG 3 PRS
+t a z a m a V PRF FIN IND PL 1 PST
+t a z a m a V PRF FIN IND PL 2 PST
+t a z a m a V PRF FIN IND PL 3 PST
+t a z a m a V PRF FIN IND SG 1 PST
+t a z a m a V PRF FIN IND SG 2 PST
+t a z a m a V PRF FIN IND SG 3 PST
+s i m a m a V DEF FIN IND PL 1 PRS
+s i m a m a V DEF FIN IND PL 2 PRS
+s i m a m a V DEF FIN IND PL 3 PRS
+s i m a m a V DEF FIN IND SG 1 PRS
+s i m a m a V DEF FIN IND SG 2 PRS
+s i m a m a V DEF FIN IND SG 3 PRS
+s i m a m a V FIN
+s i m a m a V FIN COND PL 1 PRS
+s i m a m a V FIN COND PL 1 PST
+s i m a m a V FIN COND PL 2 PRS
+s i m a m a V FIN COND PL 2 PST
+s i m a m a V FIN COND PL 3 PRS
+s i m a m a V FIN COND PL 3 PST
+s i m a m a V FIN COND SG 1 PRS
+s i m a m a V FIN COND SG 1 PST
+s i m a m a V FIN COND SG 2 PRS
+s i m a m a V FIN COND SG 2 PST
+s i m a m a V FIN COND SG 3 PRS
+s i m a m a V FIN COND SG 3 PST
+s i m a m a V FIN IND PL 1 FUT
+s i m a m a V FIN IND PL 1 PST
+s i m a m a V FIN IND PL 2 FUT
+s i m a m a V FIN IND PL 2 PST
+s i m a m a V FIN IND PL 3 FUT
+s i m a m a V FIN IND PL 3 PST
+s i m a m a V FIN IND SG 1 FUT
+s i m a m a V FIN IND SG 1 PST
+s i m a m a V FIN IND SG 2 FUT
+s i m a m a V FIN IND SG 2 PST
+s i m a m a V FIN IND SG 3 FUT
+s i m a m a V FIN IND SG 3 PST
+s i m a m a V HAB FIN IND PL 1 PRS
+s i m a m a V HAB FIN IND PL 2 PRS
+s i m a m a V HAB FIN IND PL 3 PRS
+s i m a m a V HAB FIN IND SG 1 PRS
+s i m a m a V HAB FIN IND SG 2 PRS
+s i m a m a V HAB FIN IND SG 3 PRS
+s i m a m a V INDF FIN IND PL 1 PRS
+s i m a m a V INDF FIN IND PL 2 PRS
+s i m a m a V INDF FIN IND PL 3 PRS
+s i m a m a V INDF FIN IND SG 1 PRS
+s i m a m a V INDF FIN IND SG 2 PRS
+s i m a m a V INDF FIN IND SG 3 PRS
+s i m a m a V PRF FIN IND PL 1 PST
+s i m a m a V PRF FIN IND PL 2 PST
+s i m a m a V PRF FIN IND PL 3 PST
+s i m a m a V PRF FIN IND SG 1 PST
+s i m a m a V PRF FIN IND SG 2 PST
+s i m a m a V PRF FIN IND SG 3 PST
+u l i z a V DEF FIN IND PL 1 PRS
+u l i z a V DEF FIN IND PL 2 PRS
+u l i z a V DEF FIN IND PL 3 PRS
+u l i z a V DEF FIN IND SG 1 PRS
+u l i z a V DEF FIN IND SG 2 PRS
+u l i z a V DEF FIN IND SG 3 PRS
+u l i z a V FIN
+u l i z a V FIN COND PL 1 PRS
+u l i z a V FIN COND PL 1 PST
+u l i z a V FIN COND PL 2 PRS
+u l i z a V FIN COND PL 2 PST
+u l i z a V FIN COND PL 3 PRS
+u l i z a V FIN COND PL 3 PST
+u l i z a V FIN COND SG 1 PRS
+u l i z a V FIN COND SG 1 PST
+u l i z a V FIN COND SG 2 PRS
+u l i z a V FIN COND SG 2 PST
+u l i z a V FIN COND SG 3 PRS
+u l i z a V FIN COND SG 3 PST
+u l i z a V FIN IND PL 1 FUT
+u l i z a V FIN IND PL 1 PST
+u l i z a V FIN IND PL 2 FUT
+u l i z a V FIN IND PL 2 PST
+u l i z a V FIN IND PL 3 FUT
+u l i z a V FIN IND PL 3 PST
+u l i z a V FIN IND SG 1 FUT
+u l i z a V FIN IND SG 1 PST
+u l i z a V FIN IND SG 2 FUT
+u l i z a V FIN IND SG 2 PST
+u l i z a V FIN IND SG 3 FUT
+u l i z a V FIN IND SG 3 PST
+u l i z a V HAB FIN IND PL 1 PRS
+u l i z a V HAB FIN IND PL 2 PRS
+u l i z a V HAB FIN IND PL 3 PRS
+u l i z a V HAB FIN IND SG 1 PRS
+u l i z a V HAB FIN IND SG 2 PRS
+u l i z a V HAB FIN IND SG 3 PRS
+u l i z a V INDF FIN IND PL 1 PRS
+u l i z a V INDF FIN IND PL 2 PRS
+u l i z a V INDF FIN IND PL 3 PRS
+u l i z a V INDF FIN IND SG 1 PRS
+u l i z a V INDF FIN IND SG 2 PRS
+u l i z a V INDF FIN IND SG 3 PRS
+u l i z a V PRF FIN IND PL 1 PST
+u l i z a V PRF FIN IND PL 2 PST
+u l i z a V PRF FIN IND PL 3 PST
+u l i z a V PRF FIN IND SG 1 PST
+u l i z a V PRF FIN IND SG 2 PST
+u l i z a V PRF FIN IND SG 3 PST
+a m b i a V DEF FIN IND PL 1 PRS
+a m b i a V DEF FIN IND PL 2 PRS
+a m b i a V DEF FIN IND PL 3 PRS
+a m b i a V DEF FIN IND SG 1 PRS
+a m b i a V DEF FIN IND SG 2 PRS
+a m b i a V DEF FIN IND SG 3 PRS
+a m b i a V FIN
+a m b i a V FIN COND PL 1 PRS
+a m b i a V FIN COND PL 1 PST
+a m b i a V FIN COND PL 2 PRS
+a m b i a V FIN COND PL 2 PST
+a m b i a V FIN COND PL 3 PRS
+a m b i a V FIN COND PL 3 PST
+a m b i a V FIN COND SG 1 PRS
+a m b i a V FIN COND SG 1 PST
+a m b i a V FIN COND SG 2 PRS
+a m b i a V FIN COND SG 2 PST
+a m b i a V FIN COND SG 3 PRS
+a m b i a V FIN COND SG 3 PST
+a m b i a V FIN IND PL 1 FUT
+a m b i a V FIN IND PL 1 PST
+a m b i a V FIN IND PL 2 FUT
+a m b i a V FIN IND PL 2 PST
+a m b i a V FIN IND PL 3 FUT
+a m b i a V FIN IND PL 3 PST
+a m b i a V FIN IND SG 1 FUT
+a m b i a V FIN IND SG 1 PST
+a m b i a V FIN IND SG 2 FUT
+a m b i a V FIN IND SG 2 PST
+a m b i a V FIN IND SG 3 FUT
+a m b i a V FIN IND SG 3 PST
+a m b i a V HAB FIN IND PL 1 PRS
+a m b i a V HAB FIN IND PL 2 PRS
+a m b i a V HAB FIN IND PL 3 PRS
+a m b i a V HAB FIN IND SG 1 PRS
+a m b i a V HAB FIN IND SG 2 PRS
+a m b i a V HAB FIN IND SG 3 PRS
+a m b i a V INDF FIN IND PL 1 PRS
+a m b i a V INDF FIN IND PL 2 PRS
+a m b i a V INDF FIN IND PL 3 PRS
+a m b i a V INDF FIN IND SG 1 PRS
+a m b i a V INDF FIN IND SG 2 PRS
+a m b i a V INDF FIN IND SG 3 PRS
+a m b i a V PRF FIN IND PL 1 PST
+a m b i a V PRF FIN IND PL 2 PST
+a m b i a V PRF FIN IND PL 3 PST
+a m b i a V PRF FIN IND SG 1 PST
+a m b i a V PRF FIN IND SG 2 PST
+a m b i a V PRF FIN IND SG 3 PST
+a n z a V DEF FIN IND PL 1 PRS
+a n z a V DEF FIN IND PL 2 PRS
+a n z a V DEF FIN IND PL 3 PRS
+a n z a V DEF FIN IND SG 1 PRS
+a n z a V DEF FIN IND SG 2 PRS
+a n z a V DEF FIN IND SG 3 PRS
+a n z a V FIN
+a n z a V FIN COND PL 1 PRS
+a n z a V FIN COND PL 1 PST
+a n z a V FIN COND PL 2 PRS
+a n z a V FIN COND PL 2 PST
+a n z a V FIN COND PL 3 PRS
+a n z a V FIN COND PL 3 PST
+a n z a V FIN COND SG 1 PRS
+a n z a V FIN COND SG 1 PST
+a n z a V FIN COND SG 2 PRS
+a n z a V FIN COND SG 2 PST
+a n z a V FIN COND SG 3 PRS
+a n z a V FIN COND SG 3 PST
+a n z a V FIN IND PL 1 FUT
+a n z a V FIN IND PL 1 PST
+a n z a V FIN IND PL 2 FUT
+a n z a V FIN IND PL 2 PST
+a n z a V FIN IND PL 3 FUT
+a n z a V FIN IND PL 3 PST
+a n z a V FIN IND SG 1 FUT
+a n z a V FIN IND SG 1 PST
+a n z a V FIN IND SG 2 FUT
+a n z a V FIN IND SG 2 PST
+a n z a V FIN IND SG 3 FUT
+a n z a V FIN IND SG 3 PST
+a n z a V HAB FIN IND PL 1 PRS
+a n z a V HAB FIN IND PL 2 PRS
+a n z a V HAB FIN IND PL 3 PRS
+a n z a V HAB FIN IND SG 1 PRS
+a n z a V HAB FIN IND SG 2 PRS
+a n z a V HAB FIN IND SG 3 PRS
+a n z a V INDF FIN IND PL 1 PRS
+a n z a V INDF FIN IND PL 2 PRS
+a n z a V INDF FIN IND PL 3 PRS
+a n z a V INDF FIN IND SG 1 PRS
+a n z a V INDF FIN IND SG 2 PRS
+a n z a V INDF FIN IND SG 3 PRS
+a n z a V PRF FIN IND PL 1 PST
+a n z a V PRF FIN IND PL 2 PST
+a n z a V PRF FIN IND PL 3 PST
+a n z a V PRF FIN IND SG 1 PST
+a n z a V PRF FIN IND SG 2 PST
+a n z a V PRF FIN IND SG 3 PST
+c h e k a V DEF FIN IND PL 1 PRS
+c h e k a V DEF FIN IND PL 2 PRS
+c h e k a V DEF FIN IND PL 3 PRS
+c h e k a V DEF FIN IND SG 1 PRS
+c h e k a V DEF FIN IND SG 2 PRS
+c h e k a V DEF FIN IND SG 3 PRS
+c h e k a V FIN
+c h e k a V FIN COND PL 1 PRS
+c h e k a V FIN COND PL 1 PST
+c h e k a V FIN COND PL 2 PRS
+c h e k a V FIN COND PL 2 PST
+c h e k a V FIN COND PL 3 PRS
+c h e k a V FIN COND PL 3 PST
+c h e k a V FIN COND SG 1 PRS
+c h e k a V FIN COND SG 1 PST
+c h e k a V FIN COND SG 2 PRS
+c h e k a V FIN COND SG 2 PST
+c h e k a V FIN COND SG 3 PRS
+c h e k a V FIN COND SG 3 PST
+c h e k a V FIN IND PL 1 FUT
+c h e k a V FIN IND PL 1 PST
+c h e k a V FIN IND PL 2 FUT
+c h e k a V FIN IND PL 2 PST
+c h e k a V FIN IND PL 3 FUT
+c h e k a V FIN IND PL 3 PST
+c h e k a V FIN IND SG 1 FUT
+c h e k a V FIN IND SG 1 PST
+c h e k a V FIN IND SG 2 FUT
+c h e k a V FIN IND SG 2 PST
+c h e k a V FIN IND SG 3 FUT
+c h e k a V FIN IND SG 3 PST
+c h e k a V HAB FIN IND PL 1 PRS
+c h e k a V HAB FIN IND PL 2 PRS
+c h e k a V HAB FIN IND PL 3 PRS
+c h e k a V HAB FIN IND SG 1 PRS
+c h e k a V HAB FIN IND SG 2 PRS
+c h e k a V HAB FIN IND SG 3 PRS
+c h e k a V INDF FIN IND PL 1 PRS
+c h e k a V INDF FIN IND PL 2 PRS
+c h e k a V INDF FIN IND PL 3 PRS
+c h e k a V INDF FIN IND SG 1 PRS
+c h e k a V INDF FIN IND SG 2 PRS
+c h e k a V INDF FIN IND SG 3 PRS
+c h e k a V PRF FIN IND PL 1 PST
+c h e k a V PRF FIN IND PL 2 PST
+c h e k a V PRF FIN IND PL 3 PST
+c h e k a V PRF FIN IND SG 1 PST
+c h e k a V PRF FIN IND SG 2 PST
+c h e k a V PRF FIN IND SG 3 PST
+k u s a n y a V DEF FIN IND PL 1 PRS
+k u s a n y a V DEF FIN IND PL 2 PRS
+k u s a n y a V DEF FIN IND PL 3 PRS
+k u s a n y a V DEF FIN IND SG 1 PRS
+k u s a n y a V DEF FIN IND SG 2 PRS
+k u s a n y a V DEF FIN IND SG 3 PRS
+k u s a n y a V FIN
+k u s a n y a V FIN COND PL 1 PRS
+k u s a n y a V FIN COND PL 1 PST
+k u s a n y a V FIN COND PL 2 PRS
+k u s a n y a V FIN COND PL 2 PST
+k u s a n y a V FIN COND PL 3 PRS
+k u s a n y a V FIN COND PL 3 PST
+k u s a n y a V FIN COND SG 1 PRS
+k u s a n y a V FIN COND SG 1 PST
+k u s a n y a V FIN COND SG 2 PRS
+k u s a n y a V FIN COND SG 2 PST
+k u s a n y a V FIN COND SG 3 PRS
+k u s a n y a V FIN COND SG 3 PST
+k u s a n y a V FIN IND PL 1 FUT
+k u s a n y a V FIN IND PL 1 PST
+k u s a n y a V FIN IND PL 2 FUT
+k u s a n y a V FIN IND PL 2 PST
+k u s a n y a V FIN IND PL 3 FUT
+k u s a n y a V FIN IND PL 3 PST
+k u s a n y a V FIN IND SG 1 FUT
+k u s a n y a V FIN IND SG 1 PST
+k u s a n y a V FIN IND SG 2 FUT
+k u s a n y a V FIN IND SG 2 PST
+k u s a n y a V FIN IND SG 3 FUT
+k u s a n y a V FIN IND SG 3 PST
+k u s a n y a V HAB FIN IND PL 1 PRS
+k u s a n y a V HAB FIN IND PL 2 PRS
+k u s a n y a V HAB FIN IND PL 3 PRS
+k u s a n y a V HAB FIN IND SG 1 PRS
+k u s a n y a V HAB FIN IND SG 2 PRS
+k u s a n y a V HAB FIN IND SG 3 PRS
+k u s a n y a V INDF FIN IND PL 1 PRS
+k u s a n y a V INDF FIN IND PL 2 PRS
+k u s a n y a V INDF FIN IND PL 3 PRS
+k u s a n y a V INDF FIN IND SG 1 PRS
+k u s a n y a V INDF FIN IND SG 2 PRS
+k u s a n y a V INDF FIN IND SG 3 PRS
+k u s a n y a V PRF FIN IND PL 1 PST
+k u s a n y a V PRF FIN IND PL 2 PST
+k u s a n y a V PRF FIN IND PL 3 PST
+k u s a n y a V PRF FIN IND SG 1 PST
+k u s a n y a V PRF FIN IND SG 2 PST
+k u s a n y a V PRF FIN IND SG 3 PST
+s a i d i a V DEF FIN IND PL 1 PRS
+s a i d i a V DEF FIN IND PL 2 PRS
+s a i d i a V DEF FIN IND PL 3 PRS
+s a i d i a V DEF FIN IND SG 1 PRS
+s a i d i a V DEF FIN IND SG 2 PRS
+s a i d i a V DEF FIN IND SG 3 PRS
+s a i d i a V FIN
+s a i d i a V FIN COND PL 1 PRS
+s a i d i a V FIN COND PL 1 PST
+s a i d i a V FIN COND PL 2 PRS
+s a i d i a V FIN COND PL 2 PST
+s a i d i a V FIN COND PL 3 PRS
+s a i d i a V FIN COND PL 3 PST
+s a i d i a V FIN COND SG 1 PRS
+s a i d i a V FIN COND SG 1 PST
+s a i d i a V FIN COND SG 2 PRS
+s a i d i a V FIN COND SG 2 PST
+s a i d i a V FIN COND SG 3 PRS
+s a i d i a V FIN COND SG 3 PST
+s a i d i a V FIN IND PL 1 FUT
+s a i d i a V FIN IND PL 1 PST
+s a i d i a V FIN IND PL 2 FUT
+s a i d i a V FIN IND PL 2 PST
+s a i d i a V FIN IND PL 3 FUT
+s a i d i a V FIN IND PL 3 PST
+s a i d i a V FIN IND SG 1 FUT
+s a i d i a V FIN IND SG 1 PST
+s a i d i a V FIN IND SG 2 FUT
+s a i d i a V FIN IND SG 2 PST
+s a i d i a V FIN IND SG 3 FUT
+s a i d i a V FIN IND SG 3 PST
+s a i d i a V HAB FIN IND PL 1 PRS
+s a i d i a V HAB FIN IND PL 2 PRS
+s a i d i a V HAB FIN IND PL 3 PRS
+s a i d i a V HAB FIN IND SG 1 PRS
+s a i d i a V HAB FIN IND SG 2 PRS
+s a i d i a V HAB FIN IND SG 3 PRS
+s a i d i a V INDF FIN IND PL 1 PRS
+s a i d i a V INDF FIN IND PL 2 PRS
+s a i d i a V INDF FIN IND PL 3 PRS
+s a i d i a V INDF FIN IND SG 1 PRS
+s a i d i a V INDF FIN IND SG 2 PRS
+s a i d i a V INDF FIN IND SG 3 PRS
+s a i d i a V PRF FIN IND PL 1 PST
+s a i d i a V PRF FIN IND PL 2 PST
+s a i d i a V PRF FIN IND PL 3 PST
+s a i d i a V PRF FIN IND SG 1 PST
+s a i d i a V PRF FIN IND SG 2 PST
+s a i d i a V PRF FIN IND SG 3 PST
+o n g e a V DEF FIN IND PL 1 PRS
+o n g e a V DEF FIN IND PL 2 PRS
+o n g e a V DEF FIN IND PL 3 PRS
+o n g e a V DEF FIN IND SG 1 PRS
+o n g e a V DEF FIN IND SG 2 PRS
+o n g e a V DEF FIN IND SG 3 PRS
+o n g e a V FIN
+o n g e a V FIN COND PL 1 PRS
+o n g e a V FIN COND PL 1 PST
+o n g e a V FIN COND PL 2 PRS
+o n g e a V FIN COND PL 2 PST
+o n g e a V FIN COND PL 3 PRS
+o n g e a V FIN COND PL 3 PST
+o n g e a V FIN COND SG 1 PRS
+o n g e a V FIN COND SG 1 PST
+o n g e a V FIN COND SG 2 PRS
+o n g e a V FIN COND SG 2 PST
+o n g e a V FIN COND SG 3 PRS
+o n g e a V FIN COND SG 3 PST
+o n g e a V FIN IND PL 1 FUT
+o n g e a V FIN IND PL 1 PST
+o n g e a V FIN IND PL 2 FUT
+o n g e a V FIN IND PL 2 PST
+o n g e a V FIN IND PL 3 FUT
+o n g e a V FIN IND PL 3 PST
+o n g e a V FIN IND SG 1 FUT
+o n g e a V FIN IND SG 1 PST
+o n g e a V FIN IND SG 2 FUT
+o n g e a V FIN IND SG 2 PST
+o n g e a V FIN IND SG 3 FUT
+o n g e a V FIN IND SG 3 PST
+o n g e a V HAB FIN IND PL 1 PRS
+o n g e a V HAB FIN IND PL 2 PRS
+o n g e a V HAB FIN IND PL 3 PRS
+o n g e a V HAB FIN IND SG 1 PRS
+o n g e a V HAB FIN IND SG 2 PRS
+o n g e a V HAB FIN IND SG 3 PRS
+o n g e a V INDF FIN IND PL 1 PRS
+o n g e a V INDF FIN IND PL 2 PRS
+o n g e a V INDF FIN IND PL 3 PRS
+o n g e a V INDF FIN IND SG 1 PRS
+o n g e a V INDF FIN IND SG 2 PRS
+o n g e a V INDF FIN IND SG 3 PRS
+o n g e a V PRF FIN IND PL 1 PST
+o n g e a V PRF FIN IND PL 2 PST
+o n g e a V PRF FIN IND PL 3 PST
+o n g e a V PRF FIN IND SG 1 PST
+o n g e a V PRF FIN IND SG 2 PST
+o n g e a V PRF FIN IND SG 3 PST
+i n u k a V DEF FIN IND PL 1 PRS
+i n u k a V DEF FIN IND PL 2 PRS
+i n u k a V DEF FIN IND PL 3 PRS
+i n u k a V DEF FIN IND SG 1 PRS
+i n u k a V DEF FIN IND SG 2 PRS
+i n u k a V DEF FIN IND SG 3 PRS
+i n u k a V FIN
+i n u k a V FIN COND PL 1 PRS
+i n u k a V FIN COND PL 1 PST
+i n u k a V FIN COND PL 2 PRS
+i n u k a V FIN COND PL 2 PST
+i n u k a V FIN COND PL 3 PRS
+i n u k a V FIN COND PL 3 PST
+i n u k a V FIN COND SG 1 PRS
+i n u k a V FIN COND SG 1 PST
+i n u k a V FIN COND SG 2 PRS
+i n u k a V FIN COND SG 2 PST
+i n u k a V FIN COND SG 3 PRS
+i n u k a V FIN COND SG 3 PST
+i n u k a V FIN IND PL 1 FUT
+i n u k a V FIN IND PL 1 PST
+i n u k a V FIN IND PL 2 FUT
+i n u k a V FIN IND PL 2 PST
+i n u k a V FIN IND PL 3 FUT
+i n u k a V FIN IND PL 3 PST
+i n u k a V FIN IND SG 1 FUT
+i n u k a V FIN IND SG 1 PST
+i n u k a V FIN IND SG 2 FUT
+i n u k a V FIN IND SG 2 PST
+i n u k a V FIN IND SG 3 FUT
+i n u k a V FIN IND SG 3 PST
+i n u k a V HAB FIN IND PL 1 PRS
+i n u k a V HAB FIN IND PL 2 PRS
+i n u k a V HAB FIN IND PL 3 PRS
+i n u k a V HAB FIN IND SG 1 PRS
+i n u k a V HAB FIN IND SG 2 PRS
+i n u k a V HAB FIN IND SG 3 PRS
+i n u k a V INDF FIN IND PL 1 PRS
+i n u k a V INDF FIN IND PL 2 PRS
+i n u k a V INDF FIN IND PL 3 PRS
+i n u k a V INDF FIN IND SG 1 PRS
+i n u k a V INDF FIN IND SG 2 PRS
+i n u k a V INDF FIN IND SG 3 PRS
+i n u k a V PRF FIN IND PL 1 PST
+i n u k a V PRF FIN IND PL 2 PST
+i n u k a V PRF FIN IND PL 3 PST
+i n u k a V PRF FIN IND SG 1 PST
+i n u k a V PRF FIN IND SG 2 PST
+i n u k a V PRF FIN IND SG 3 PST
+p i g a V DEF FIN IND PL 1 PRS
+p i g a V DEF FIN IND PL 2 PRS
+p i g a V DEF FIN IND PL 3 PRS
+p i g a V DEF FIN IND SG 1 PRS
+p i g a V DEF FIN IND SG 2 PRS
+p i g a V DEF FIN IND SG 3 PRS
+p i g a V FIN
+p i g a V FIN COND PL 1 PRS
+p i g a V FIN COND PL 1 PST
+p i g a V FIN COND PL 2 PRS
+p i g a V FIN COND PL 2 PST
+p i g a V FIN COND PL 3 PRS
+p i g a V FIN COND PL 3 PST
+p i g a V FIN COND SG 1 PRS
+p i g a V FIN COND SG 1 PST
+p i g a V FIN COND SG 2 PRS
+p i g a V FIN COND SG 2 PST
+p i g a V FIN COND SG 3 PRS
+p i g a V FIN COND SG 3 PST
+p i g a V FIN IND PL 1 FUT
+p i g a V FIN IND PL 1 PST
+p i g a V FIN IND PL 2 FUT
+p i g a V FIN IND PL 2 PST
+p i g a V FIN IND PL 3 FUT
+p i g a V FIN IND PL 3 PST
+p i g a V FIN IND SG 1 FUT
+p i g a V FIN IND SG 1 PST
+p i g a V FIN IND SG 2 FUT
+p i g a V FIN IND SG 2 PST
+p i g a V FIN IND SG 3 FUT
+p i g a V FIN IND SG 3 PST
+p i g a V HAB FIN IND PL 1 PRS
+p i g a V HAB FIN IND PL 2 PRS
+p i g a V HAB FIN IND PL 3 PRS
+p i g a V HAB FIN IND SG 1 PRS
+p i g a V HAB FIN IND SG 2 PRS
+p i g a V HAB FIN IND SG 3 PRS
+p i g a V INDF FIN IND PL 1 PRS
+p i g a V INDF FIN IND PL 2 PRS
+p i g a V INDF FIN IND PL 3 PRS
+p i g a V INDF FIN IND SG 1 PRS
+p i g a V INDF FIN IND SG 2 PRS
+p i g a V INDF FIN IND SG 3 PRS
+p i g a V PRF FIN IND PL 1 PST
+p i g a V PRF FIN IND PL 2 PST
+p i g a V PRF FIN IND PL 3 PST
+p i g a V PRF FIN IND SG 1 PST
+p i g a V PRF FIN IND SG 2 PST
+p i g a V PRF FIN IND SG 3 PST
+m w i t a V DEF FIN IND PL 1 PRS
+m w i t a V DEF FIN IND PL 2 PRS
+m w i t a V DEF FIN IND PL 3 PRS
+m w i t a V DEF FIN IND SG 1 PRS
+m w i t a V DEF FIN IND SG 2 PRS
+m w i t a V DEF FIN IND SG 3 PRS
+m w i t a V FIN
+m w i t a V FIN COND PL 1 PRS
+m w i t a V FIN COND PL 1 PST
+m w i t a V FIN COND PL 2 PRS
+m w i t a V FIN COND PL 2 PST
+m w i t a V FIN COND PL 3 PRS
+m w i t a V FIN COND PL 3 PST
+m w i t a V FIN COND SG 1 PRS
+m w i t a V FIN COND SG 1 PST
+m w i t a V FIN COND SG 2 PRS
+m w i t a V FIN COND SG 2 PST
+m w i t a V FIN COND SG 3 PRS
+m w i t a V FIN COND SG 3 PST
+m w i t a V FIN IND PL 1 FUT
+m w i t a V FIN IND PL 1 PST
+m w i t a V FIN IND PL 2 FUT
+m w i t a V FIN IND PL 2 PST
+m w i t a V FIN IND PL 3 FUT
+m w i t a V FIN IND PL 3 PST
+m w i t a V FIN IND SG 1 FUT
+m w i t a V FIN IND SG 1 PST
+m w i t a V FIN IND SG 2 FUT
+m w i t a V FIN IND SG 2 PST
+m w i t a V FIN IND SG 3 FUT
+m w i t a V FIN IND SG 3 PST
+m w i t a V HAB FIN IND PL 1 PRS
+m w i t a V HAB FIN IND PL 2 PRS
+m w i t a V HAB FIN IND PL 3 PRS
+m w i t a V HAB FIN IND SG 1 PRS
+m w i t a V HAB FIN IND SG 2 PRS
+m w i t a V HAB FIN IND SG 3 PRS
+m w i t a V INDF FIN IND PL 1 PRS
+m w i t a V INDF FIN IND PL 2 PRS
+m w i t a V INDF FIN IND PL 3 PRS
+m w i t a V INDF FIN IND SG 1 PRS
+m w i t a V INDF FIN IND SG 2 PRS
+m w i t a V INDF FIN IND SG 3 PRS
+m w i t a V PRF FIN IND PL 1 PST
+m w i t a V PRF FIN IND PL 2 PST
+m w i t a V PRF FIN IND PL 3 PST
+m w i t a V PRF FIN IND SG 1 PST
+m w i t a V PRF FIN IND SG 2 PST
+m w i t a V PRF FIN IND SG 3 PST
+o t a V DEF FIN IND PL 1 PRS
+o t a V DEF FIN IND PL 2 PRS
+o t a V DEF FIN IND PL 3 PRS
+o t a V DEF FIN IND SG 1 PRS
+o t a V DEF FIN IND SG 2 PRS
+o t a V DEF FIN IND SG 3 PRS
+o t a V FIN
+o t a V FIN COND PL 1 PRS
+o t a V FIN COND PL 1 PST
+o t a V FIN COND PL 2 PRS
+o t a V FIN COND PL 2 PST
+o t a V FIN COND PL 3 PRS
+o t a V FIN COND PL 3 PST
+o t a V FIN COND SG 1 PRS
+o t a V FIN COND SG 1 PST
+o t a V FIN COND SG 2 PRS
+o t a V FIN COND SG 2 PST
+o t a V FIN COND SG 3 PRS
+o t a V FIN COND SG 3 PST
+o t a V FIN IND PL 1 FUT
+o t a V FIN IND PL 1 PST
+o t a V FIN IND PL 2 FUT
+o t a V FIN IND PL 2 PST
+o t a V FIN IND PL 3 FUT
+o t a V FIN IND PL 3 PST
+o t a V FIN IND SG 1 FUT
+o t a V FIN IND SG 1 PST
+o t a V FIN IND SG 2 FUT
+o t a V FIN IND SG 2 PST
+o t a V FIN IND SG 3 FUT
+o t a V FIN IND SG 3 PST
+o t a V HAB FIN IND PL 1 PRS
+o t a V HAB FIN IND PL 2 PRS
+o t a V HAB FIN IND PL 3 PRS
+o t a V HAB FIN IND SG 1 PRS
+o t a V HAB FIN IND SG 2 PRS
+o t a V HAB FIN IND SG 3 PRS
+o t a V INDF FIN IND PL 1 PRS
+o t a V INDF FIN IND PL 2 PRS
+o t a V INDF FIN IND PL 3 PRS
+o t a V INDF FIN IND SG 1 PRS
+o t a V INDF FIN IND SG 2 PRS
+o t a V INDF FIN IND SG 3 PRS
+o t a V PRF FIN IND PL 1 PST
+o t a V PRF FIN IND PL 2 PST
+o t a V PRF FIN IND PL 3 PST
+o t a V PRF FIN IND SG 1 PST
+o t a V PRF FIN IND SG 2 PST
+o t a V PRF FIN IND SG 3 PST
+o g a V DEF FIN IND PL 1 PRS
+o g a V DEF FIN IND PL 2 PRS
+o g a V DEF FIN IND PL 3 PRS
+o g a V DEF FIN IND SG 1 PRS
+o g a V DEF FIN IND SG 2 PRS
+o g a V DEF FIN IND SG 3 PRS
+o g a V FIN
+o g a V FIN COND PL 1 PRS
+o g a V FIN COND PL 1 PST
+o g a V FIN COND PL 2 PRS
+o g a V FIN COND PL 2 PST
+o g a V FIN COND PL 3 PRS
+o g a V FIN COND PL 3 PST
+o g a V FIN COND SG 1 PRS
+o g a V FIN COND SG 1 PST
+o g a V FIN COND SG 2 PRS
+o g a V FIN COND SG 2 PST
+o g a V FIN COND SG 3 PRS
+o g a V FIN COND SG 3 PST
+o g a V FIN IND PL 1 FUT
+o g a V FIN IND PL 1 PST
+o g a V FIN IND PL 2 FUT
+o g a V FIN IND PL 2 PST
+o g a V FIN IND PL 3 FUT
+o g a V FIN IND PL 3 PST
+o g a V FIN IND SG 1 FUT
+o g a V FIN IND SG 1 PST
+o g a V FIN IND SG 2 FUT
+o g a V FIN IND SG 2 PST
+o g a V FIN IND SG 3 FUT
+o g a V FIN IND SG 3 PST
+o g a V HAB FIN IND PL 1 PRS
+o g a V HAB FIN IND PL 2 PRS
+o g a V HAB FIN IND PL 3 PRS
+o g a V HAB FIN IND SG 1 PRS
+o g a V HAB FIN IND SG 2 PRS
+o g a V HAB FIN IND SG 3 PRS
+o g a V INDF FIN IND PL 1 PRS
+o g a V INDF FIN IND PL 2 PRS
+o g a V INDF FIN IND PL 3 PRS
+o g a V INDF FIN IND SG 1 PRS
+o g a V INDF FIN IND SG 2 PRS
+o g a V INDF FIN IND SG 3 PRS
+o g a V PRF FIN IND PL 1 PST
+o g a V PRF FIN IND PL 2 PST
+o g a V PRF FIN IND PL 3 PST
+o g a V PRF FIN IND SG 1 PST
+o g a V PRF FIN IND SG 2 PST
+o g a V PRF FIN IND SG 3 PST
+k u m b u k a V DEF FIN IND PL 1 PRS
+k u m b u k a V DEF FIN IND PL 2 PRS
+k u m b u k a V DEF FIN IND PL 3 PRS
+k u m b u k a V DEF FIN IND SG 1 PRS
+k u m b u k a V DEF FIN IND SG 2 PRS
+k u m b u k a V DEF FIN IND SG 3 PRS
+k u m b u k a V FIN
+k u m b u k a V FIN COND PL 1 PRS
+k u m b u k a V FIN COND PL 1 PST
+k u m b u k a V FIN COND PL 2 PRS
+k u m b u k a V FIN COND PL 2 PST
+k u m b u k a V FIN COND PL 3 PRS
+k u m b u k a V FIN COND PL 3 PST
+k u m b u k a V FIN COND SG 1 PRS
+k u m b u k a V FIN COND SG 1 PST
+k u m b u k a V FIN COND SG 2 PRS
+k u m b u k a V FIN COND SG 2 PST
+k u m b u k a V FIN COND SG 3 PRS
+k u m b u k a V FIN COND SG 3 PST
+k u m b u k a V FIN IND PL 1 FUT
+k u m b u k a V FIN IND PL 1 PST
+k u m b u k a V FIN IND PL 2 FUT
+k u m b u k a V FIN IND PL 2 PST
+k u m b u k a V FIN IND PL 3 FUT
+k u m b u k a V FIN IND PL 3 PST
+k u m b u k a V FIN IND SG 1 FUT
+k u m b u k a V FIN IND SG 1 PST
+k u m b u k a V FIN IND SG 2 FUT
+k u m b u k a V FIN IND SG 2 PST
+k u m b u k a V FIN IND SG 3 FUT
+k u m b u k a V FIN IND SG 3 PST
+k u m b u k a V HAB FIN IND PL 1 PRS
+k u m b u k a V HAB FIN IND PL 2 PRS
+k u m b u k a V HAB FIN IND PL 3 PRS
+k u m b u k a V HAB FIN IND SG 1 PRS
+k u m b u k a V HAB FIN IND SG 2 PRS
+k u m b u k a V HAB FIN IND SG 3 PRS
+k u m b u k a V INDF FIN IND PL 1 PRS
+k u m b u k a V INDF FIN IND PL 2 PRS
+k u m b u k a V INDF FIN IND PL 3 PRS
+k u m b u k a V INDF FIN IND SG 1 PRS
+k u m b u k a V INDF FIN IND SG 2 PRS
+k u m b u k a V INDF FIN IND SG 3 PRS
+k u m b u k a V PRF FIN IND PL 1 PST
+k u m b u k a V PRF FIN IND PL 2 PST
+k u m b u k a V PRF FIN IND PL 3 PST
+k u m b u k a V PRF FIN IND SG 1 PST
+k u m b u k a V PRF FIN IND SG 2 PST
+k u m b u k a V PRF FIN IND SG 3 PST
+s o m a V DEF FIN IND PL 1 PRS
+s o m a V DEF FIN IND PL 2 PRS
+s o m a V DEF FIN IND PL 3 PRS
+s o m a V DEF FIN IND SG 1 PRS
+s o m a V DEF FIN IND SG 2 PRS
+s o m a V DEF FIN IND SG 3 PRS
+s o m a V FIN
+s o m a V FIN COND PL 1 PRS
+s o m a V FIN COND PL 1 PST
+s o m a V FIN COND PL 2 PRS
+s o m a V FIN COND PL 2 PST
+s o m a V FIN COND PL 3 PRS
+s o m a V FIN COND PL 3 PST
+s o m a V FIN COND SG 1 PRS
+s o m a V FIN COND SG 1 PST
+s o m a V FIN COND SG 2 PRS
+s o m a V FIN COND SG 2 PST
+s o m a V FIN COND SG 3 PRS
+s o m a V FIN COND SG 3 PST
+s o m a V FIN IND PL 1 FUT
+s o m a V FIN IND PL 1 PST
+s o m a V FIN IND PL 2 FUT
+s o m a V FIN IND PL 2 PST
+s o m a V FIN IND PL 3 FUT
+s o m a V FIN IND PL 3 PST
+s o m a V FIN IND SG 1 FUT
+s o m a V FIN IND SG 1 PST
+s o m a V FIN IND SG 2 FUT
+s o m a V FIN IND SG 2 PST
+s o m a V FIN IND SG 3 FUT
+s o m a V FIN IND SG 3 PST
+s o m a V HAB FIN IND PL 1 PRS
+s o m a V HAB FIN IND PL 2 PRS
+s o m a V HAB FIN IND PL 3 PRS
+s o m a V HAB FIN IND SG 1 PRS
+s o m a V HAB FIN IND SG 2 PRS
+s o m a V HAB FIN IND SG 3 PRS
+s o m a V INDF FIN IND PL 1 PRS
+s o m a V INDF FIN IND PL 2 PRS
+s o m a V INDF FIN IND PL 3 PRS
+s o m a V INDF FIN IND SG 1 PRS
+s o m a V INDF FIN IND SG 2 PRS
+s o m a V INDF FIN IND SG 3 PRS
+s o m a V PRF FIN IND PL 1 PST
+s o m a V PRF FIN IND PL 2 PST
+s o m a V PRF FIN IND PL 3 PST
+s o m a V PRF FIN IND SG 1 PST
+s o m a V PRF FIN IND SG 2 PST
+s o m a V PRF FIN IND SG 3 PST
+o n a V DEF FIN IND PL 1 PRS
+o n a V DEF FIN IND PL 2 PRS
+o n a V DEF FIN IND PL 3 PRS
+o n a V DEF FIN IND SG 1 PRS
+o n a V DEF FIN IND SG 2 PRS
+o n a V DEF FIN IND SG 3 PRS
+o n a V FIN
+o n a V FIN COND PL 1 PRS
+o n a V FIN COND PL 1 PST
+o n a V FIN COND PL 2 PRS
+o n a V FIN COND PL 2 PST
+o n a V FIN COND PL 3 PRS
+o n a V FIN COND PL 3 PST
+o n a V FIN COND SG 1 PRS
+o n a V FIN COND SG 1 PST
+o n a V FIN COND SG 2 PRS
+o n a V FIN COND SG 2 PST
+o n a V FIN COND SG 3 PRS
+o n a V FIN COND SG 3 PST
+o n a V FIN IND PL 1 FUT
+o n a V FIN IND PL 1 PST
+o n a V FIN IND PL 2 FUT
+o n a V FIN IND PL 2 PST
+o n a V FIN IND PL 3 FUT
+o n a V FIN IND PL 3 PST
+o n a V FIN IND SG 1 FUT
+o n a V FIN IND SG 1 PST
+o n a V FIN IND SG 2 FUT
+o n a V FIN IND SG 2 PST
+o n a V FIN IND SG 3 FUT
+o n a V FIN IND SG 3 PST
+o n a V HAB FIN IND PL 1 PRS
+o n a V HAB FIN IND PL 2 PRS
+o n a V HAB FIN IND PL 3 PRS
+o n a V HAB FIN IND SG 1 PRS
+o n a V HAB FIN IND SG 2 PRS
+o n a V HAB FIN IND SG 3 PRS
+o n a V INDF FIN IND PL 1 PRS
+o n a V INDF FIN IND PL 2 PRS
+o n a V INDF FIN IND PL 3 PRS
+o n a V INDF FIN IND SG 1 PRS
+o n a V INDF FIN IND SG 2 PRS
+o n a V INDF FIN IND SG 3 PRS
+o n a V PRF FIN IND PL 1 PST
+o n a V PRF FIN IND PL 2 PST
+o n a V PRF FIN IND PL 3 PST
+o n a V PRF FIN IND SG 1 PST
+o n a V PRF FIN IND SG 2 PST
+o n a V PRF FIN IND SG 3 PST
+t e m b e a V DEF FIN IND PL 1 PRS
+t e m b e a V DEF FIN IND PL 2 PRS
+t e m b e a V DEF FIN IND PL 3 PRS
+t e m b e a V DEF FIN IND SG 1 PRS
+t e m b e a V DEF FIN IND SG 2 PRS
+t e m b e a V DEF FIN IND SG 3 PRS
+t e m b e a V FIN
+t e m b e a V FIN COND PL 1 PRS
+t e m b e a V FIN COND PL 1 PST
+t e m b e a V FIN COND PL 2 PRS
+t e m b e a V FIN COND PL 2 PST
+t e m b e a V FIN COND PL 3 PRS
+t e m b e a V FIN COND PL 3 PST
+t e m b e a V FIN COND SG 1 PRS
+t e m b e a V FIN COND SG 1 PST
+t e m b e a V FIN COND SG 2 PRS
+t e m b e a V FIN COND SG 2 PST
+t e m b e a V FIN COND SG 3 PRS
+t e m b e a V FIN COND SG 3 PST
+t e m b e a V FIN IND PL 1 FUT
+t e m b e a V FIN IND PL 1 PST
+t e m b e a V FIN IND PL 2 FUT
+t e m b e a V FIN IND PL 2 PST
+t e m b e a V FIN IND PL 3 FUT
+t e m b e a V FIN IND PL 3 PST
+t e m b e a V FIN IND SG 1 FUT
+t e m b e a V FIN IND SG 1 PST
+t e m b e a V FIN IND SG 2 FUT
+t e m b e a V FIN IND SG 2 PST
+t e m b e a V FIN IND SG 3 FUT
+t e m b e a V FIN IND SG 3 PST
+t e m b e a V HAB FIN IND PL 1 PRS
+t e m b e a V HAB FIN IND PL 2 PRS
+t e m b e a V HAB FIN IND PL 3 PRS
+t e m b e a V HAB FIN IND SG 1 PRS
+t e m b e a V HAB FIN IND SG 2 PRS
+t e m b e a V HAB FIN IND SG 3 PRS
+t e m b e a V INDF FIN IND PL 1 PRS
+t e m b e a V INDF FIN IND PL 2 PRS
+t e m b e a V INDF FIN IND PL 3 PRS
+t e m b e a V INDF FIN IND SG 1 PRS
+t e m b e a V INDF FIN IND SG 2 PRS
+t e m b e a V INDF FIN IND SG 3 PRS
+t e m b e a V PRF FIN IND PL 1 PST
+t e m b e a V PRF FIN IND PL 2 PST
+t e m b e a V PRF FIN IND PL 3 PST
+t e m b e a V PRF FIN IND SG 1 PST
+t e m b e a V PRF FIN IND SG 2 PST
+t e m b e a V PRF FIN IND SG 3 PST
+b o f y a V DEF FIN IND PL 1 PRS
+b o f y a V DEF FIN IND PL 2 PRS
+b o f y a V DEF FIN IND PL 3 PRS
+b o f y a V DEF FIN IND SG 1 PRS
+b o f y a V DEF FIN IND SG 2 PRS
+b o f y a V DEF FIN IND SG 3 PRS
+b o f y a V FIN
+b o f y a V FIN COND PL 1 PRS
+b o f y a V FIN COND PL 1 PST
+b o f y a V FIN COND PL 2 PRS
+b o f y a V FIN COND PL 2 PST
+b o f y a V FIN COND PL 3 PRS
+b o f y a V FIN COND PL 3 PST
+b o f y a V FIN COND SG 1 PRS
+b o f y a V FIN COND SG 1 PST
+b o f y a V FIN COND SG 2 PRS
+b o f y a V FIN COND SG 2 PST
+b o f y a V FIN COND SG 3 PRS
+b o f y a V FIN COND SG 3 PST
+b o f y a V FIN IND PL 1 FUT
+b o f y a V FIN IND PL 1 PST
+b o f y a V FIN IND PL 2 FUT
+b o f y a V FIN IND PL 2 PST
+b o f y a V FIN IND PL 3 FUT
+b o f y a V FIN IND PL 3 PST
+b o f y a V FIN IND SG 1 FUT
+b o f y a V FIN IND SG 1 PST
+b o f y a V FIN IND SG 2 FUT
+b o f y a V FIN IND SG 2 PST
+b o f y a V FIN IND SG 3 FUT
+b o f y a V FIN IND SG 3 PST
+b o f y a V HAB FIN IND PL 1 PRS
+b o f y a V HAB FIN IND PL 2 PRS
+b o f y a V HAB FIN IND PL 3 PRS
+b o f y a V HAB FIN IND SG 1 PRS
+b o f y a V HAB FIN IND SG 2 PRS
+b o f y a V HAB FIN IND SG 3 PRS
+b o f y a V INDF FIN IND PL 1 PRS
+b o f y a V INDF FIN IND PL 2 PRS
+b o f y a V INDF FIN IND PL 3 PRS
+b o f y a V INDF FIN IND SG 1 PRS
+b o f y a V INDF FIN IND SG 2 PRS
+b o f y a V INDF FIN IND SG 3 PRS
+b o f y a V PRF FIN IND PL 1 PST
+b o f y a V PRF FIN IND PL 2 PST
+b o f y a V PRF FIN IND PL 3 PST
+b o f y a V PRF FIN IND SG 1 PST
+b o f y a V PRF FIN IND SG 2 PST
+b o f y a V PRF FIN IND SG 3 PST
+o n d o a V DEF FIN IND PL 1 PRS
+o n d o a V DEF FIN IND PL 2 PRS
+o n d o a V DEF FIN IND PL 3 PRS
+o n d o a V DEF FIN IND SG 1 PRS
+o n d o a V DEF FIN IND SG 2 PRS
+o n d o a V DEF FIN IND SG 3 PRS
+o n d o a V FIN
+o n d o a V FIN COND PL 1 PRS
+o n d o a V FIN COND PL 1 PST
+o n d o a V FIN COND PL 2 PRS
+o n d o a V FIN COND PL 2 PST
+o n d o a V FIN COND PL 3 PRS
+o n d o a V FIN COND PL 3 PST
+o n d o a V FIN COND SG 1 PRS
+o n d o a V FIN COND SG 1 PST
+o n d o a V FIN COND SG 2 PRS
+o n d o a V FIN COND SG 2 PST
+o n d o a V FIN COND SG 3 PRS
+o n d o a V FIN COND SG 3 PST
+o n d o a V FIN IND PL 1 FUT
+o n d o a V FIN IND PL 1 PST
+o n d o a V FIN IND PL 2 FUT
+o n d o a V FIN IND PL 2 PST
+o n d o a V FIN IND PL 3 FUT
+o n d o a V FIN IND PL 3 PST
+o n d o a V FIN IND SG 1 FUT
+o n d o a V FIN IND SG 1 PST
+o n d o a V FIN IND SG 2 FUT
+o n d o a V FIN IND SG 2 PST
+o n d o a V FIN IND SG 3 FUT
+o n d o a V FIN IND SG 3 PST
+o n d o a V HAB FIN IND PL 1 PRS
+o n d o a V HAB FIN IND PL 2 PRS
+o n d o a V HAB FIN IND PL 3 PRS
+o n d o a V HAB FIN IND SG 1 PRS
+o n d o a V HAB FIN IND SG 2 PRS
+o n d o a V HAB FIN IND SG 3 PRS
+o n d o a V INDF FIN IND PL 1 PRS
+o n d o a V INDF FIN IND PL 2 PRS
+o n d o a V INDF FIN IND PL 3 PRS
+o n d o a V INDF FIN IND SG 1 PRS
+o n d o a V INDF FIN IND SG 2 PRS
+o n d o a V INDF FIN IND SG 3 PRS
+o n d o a V PRF FIN IND PL 1 PST
+o n d o a V PRF FIN IND PL 2 PST
+o n d o a V PRF FIN IND PL 3 PST
+o n d o a V PRF FIN IND SG 1 PST
+o n d o a V PRF FIN IND SG 2 PST
+o n d o a V PRF FIN IND SG 3 PST
+s a g a V DEF FIN IND PL 1 PRS
+s a g a V DEF FIN IND PL 2 PRS
+s a g a V DEF FIN IND PL 3 PRS
+s a g a V DEF FIN IND SG 1 PRS
+s a g a V DEF FIN IND SG 2 PRS
+s a g a V DEF FIN IND SG 3 PRS
+s a g a V FIN
+s a g a V FIN COND PL 1 PRS
+s a g a V FIN COND PL 1 PST
+s a g a V FIN COND PL 2 PRS
+s a g a V FIN COND PL 2 PST
+s a g a V FIN COND PL 3 PRS
+s a g a V FIN COND PL 3 PST
+s a g a V FIN COND SG 1 PRS
+s a g a V FIN COND SG 1 PST
+s a g a V FIN COND SG 2 PRS
+s a g a V FIN COND SG 2 PST
+s a g a V FIN COND SG 3 PRS
+s a g a V FIN COND SG 3 PST
+s a g a V FIN IND PL 1 FUT
+s a g a V FIN IND PL 1 PST
+s a g a V FIN IND PL 2 FUT
+s a g a V FIN IND PL 2 PST
+s a g a V FIN IND PL 3 FUT
+s a g a V FIN IND PL 3 PST
+s a g a V FIN IND SG 1 FUT
+s a g a V FIN IND SG 1 PST
+s a g a V FIN IND SG 2 FUT
+s a g a V FIN IND SG 2 PST
+s a g a V FIN IND SG 3 FUT
+s a g a V FIN IND SG 3 PST
+s a g a V HAB FIN IND PL 1 PRS
+s a g a V HAB FIN IND PL 2 PRS
+s a g a V HAB FIN IND PL 3 PRS
+s a g a V HAB FIN IND SG 1 PRS
+s a g a V HAB FIN IND SG 2 PRS
+s a g a V HAB FIN IND SG 3 PRS
+s a g a V INDF FIN IND PL 1 PRS
+s a g a V INDF FIN IND PL 2 PRS
+s a g a V INDF FIN IND PL 3 PRS
+s a g a V INDF FIN IND SG 1 PRS
+s a g a V INDF FIN IND SG 2 PRS
+s a g a V INDF FIN IND SG 3 PRS
+s a g a V PRF FIN IND PL 1 PST
+s a g a V PRF FIN IND PL 2 PST
+s a g a V PRF FIN IND PL 3 PST
+s a g a V PRF FIN IND SG 1 PST
+s a g a V PRF FIN IND SG 2 PST
+s a g a V PRF FIN IND SG 3 PST
+i m b a V DEF FIN IND PL 1 PRS
+i m b a V DEF FIN IND PL 2 PRS
+i m b a V DEF FIN IND PL 3 PRS
+i m b a V DEF FIN IND SG 1 PRS
+i m b a V DEF FIN IND SG 2 PRS
+i m b a V DEF FIN IND SG 3 PRS
+i m b a V FIN
+i m b a V FIN COND PL 1 PRS
+i m b a V FIN COND PL 1 PST
+i m b a V FIN COND PL 2 PRS
+i m b a V FIN COND PL 2 PST
+i m b a V FIN COND PL 3 PRS
+i m b a V FIN COND PL 3 PST
+i m b a V FIN COND SG 1 PRS
+i m b a V FIN COND SG 1 PST
+i m b a V FIN COND SG 2 PRS
+i m b a V FIN COND SG 2 PST
+i m b a V FIN COND SG 3 PRS
+i m b a V FIN COND SG 3 PST
+i m b a V FIN IND PL 1 FUT
+i m b a V FIN IND PL 1 PST
+i m b a V FIN IND PL 2 FUT
+i m b a V FIN IND PL 2 PST
+i m b a V FIN IND PL 3 FUT
+i m b a V FIN IND PL 3 PST
+i m b a V FIN IND SG 1 FUT
+i m b a V FIN IND SG 1 PST
+i m b a V FIN IND SG 2 FUT
+i m b a V FIN IND SG 2 PST
+i m b a V FIN IND SG 3 FUT
+i m b a V FIN IND SG 3 PST
+i m b a V HAB FIN IND PL 1 PRS
+i m b a V HAB FIN IND PL 2 PRS
+i m b a V HAB FIN IND PL 3 PRS
+i m b a V HAB FIN IND SG 1 PRS
+i m b a V HAB FIN IND SG 2 PRS
+i m b a V HAB FIN IND SG 3 PRS
+i m b a V INDF FIN IND PL 1 PRS
+i m b a V INDF FIN IND PL 2 PRS
+i m b a V INDF FIN IND PL 3 PRS
+i m b a V INDF FIN IND SG 1 PRS
+i m b a V INDF FIN IND SG 2 PRS
+i m b a V INDF FIN IND SG 3 PRS
+i m b a V PRF FIN IND PL 1 PST
+i m b a V PRF FIN IND PL 2 PST
+i m b a V PRF FIN IND PL 3 PST
+i m b a V PRF FIN IND SG 1 PST
+i m b a V PRF FIN IND SG 2 PST
+i m b a V PRF FIN IND SG 3 PST
+c h a f y a V DEF FIN IND PL 1 PRS
+c h a f y a V DEF FIN IND PL 2 PRS
+c h a f y a V DEF FIN IND PL 3 PRS
+c h a f y a V DEF FIN IND SG 1 PRS
+c h a f y a V DEF FIN IND SG 2 PRS
+c h a f y a V DEF FIN IND SG 3 PRS
+c h a f y a V FIN
+c h a f y a V FIN COND PL 1 PRS
+c h a f y a V FIN COND PL 1 PST
+c h a f y a V FIN COND PL 2 PRS
+c h a f y a V FIN COND PL 2 PST
+c h a f y a V FIN COND PL 3 PRS
+c h a f y a V FIN COND PL 3 PST
+c h a f y a V FIN COND SG 1 PRS
+c h a f y a V FIN COND SG 1 PST
+c h a f y a V FIN COND SG 2 PRS
+c h a f y a V FIN COND SG 2 PST
+c h a f y a V FIN COND SG 3 PRS
+c h a f y a V FIN COND SG 3 PST
+c h a f y a V FIN IND PL 1 FUT
+c h a f y a V FIN IND PL 1 PST
+c h a f y a V FIN IND PL 2 FUT
+c h a f y a V FIN IND PL 2 PST
+c h a f y a V FIN IND PL 3 FUT
+c h a f y a V FIN IND PL 3 PST
+c h a f y a V FIN IND SG 1 FUT
+c h a f y a V FIN IND SG 1 PST
+c h a f y a V FIN IND SG 2 FUT
+c h a f y a V FIN IND SG 2 PST
+c h a f y a V FIN IND SG 3 FUT
+c h a f y a V FIN IND SG 3 PST
+c h a f y a V HAB FIN IND PL 1 PRS
+c h a f y a V HAB FIN IND PL 2 PRS
+c h a f y a V HAB FIN IND PL 3 PRS
+c h a f y a V HAB FIN IND SG 1 PRS
+c h a f y a V HAB FIN IND SG 2 PRS
+c h a f y a V HAB FIN IND SG 3 PRS
+c h a f y a V INDF FIN IND PL 1 PRS
+c h a f y a V INDF FIN IND PL 2 PRS
+c h a f y a V INDF FIN IND PL 3 PRS
+c h a f y a V INDF FIN IND SG 1 PRS
+c h a f y a V INDF FIN IND SG 2 PRS
+c h a f y a V INDF FIN IND SG 3 PRS
+c h a f y a V PRF FIN IND PL 1 PST
+c h a f y a V PRF FIN IND PL 2 PST
+c h a f y a V PRF FIN IND PL 3 PST
+c h a f y a V PRF FIN IND SG 1 PST
+c h a f y a V PRF FIN IND SG 2 PST
+c h a f y a V PRF FIN IND SG 3 PST
+c h o m a V DEF FIN IND PL 1 PRS
+c h o m a V DEF FIN IND PL 2 PRS
+c h o m a V DEF FIN IND PL 3 PRS
+c h o m a V DEF FIN IND SG 1 PRS
+c h o m a V DEF FIN IND SG 2 PRS
+c h o m a V DEF FIN IND SG 3 PRS
+c h o m a V FIN
+c h o m a V FIN COND PL 1 PRS
+c h o m a V FIN COND PL 1 PST
+c h o m a V FIN COND PL 2 PRS
+c h o m a V FIN COND PL 2 PST
+c h o m a V FIN COND PL 3 PRS
+c h o m a V FIN COND PL 3 PST
+c h o m a V FIN COND SG 1 PRS
+c h o m a V FIN COND SG 1 PST
+c h o m a V FIN COND SG 2 PRS
+c h o m a V FIN COND SG 2 PST
+c h o m a V FIN COND SG 3 PRS
+c h o m a V FIN COND SG 3 PST
+c h o m a V FIN IND PL 1 FUT
+c h o m a V FIN IND PL 1 PST
+c h o m a V FIN IND PL 2 FUT
+c h o m a V FIN IND PL 2 PST
+c h o m a V FIN IND PL 3 FUT
+c h o m a V FIN IND PL 3 PST
+c h o m a V FIN IND SG 1 FUT
+c h o m a V FIN IND SG 1 PST
+c h o m a V FIN IND SG 2 FUT
+c h o m a V FIN IND SG 2 PST
+c h o m a V FIN IND SG 3 FUT
+c h o m a V FIN IND SG 3 PST
+c h o m a V HAB FIN IND PL 1 PRS
+c h o m a V HAB FIN IND PL 2 PRS
+c h o m a V HAB FIN IND PL 3 PRS
+c h o m a V HAB FIN IND SG 1 PRS
+c h o m a V HAB FIN IND SG 2 PRS
+c h o m a V HAB FIN IND SG 3 PRS
+c h o m a V INDF FIN IND PL 1 PRS
+c h o m a V INDF FIN IND PL 2 PRS
+c h o m a V INDF FIN IND PL 3 PRS
+c h o m a V INDF FIN IND SG 1 PRS
+c h o m a V INDF FIN IND SG 2 PRS
+c h o m a V INDF FIN IND SG 3 PRS
+c h o m a V PRF FIN IND PL 1 PST
+c h o m a V PRF FIN IND PL 2 PST
+c h o m a V PRF FIN IND PL 3 PST
+c h o m a V PRF FIN IND SG 1 PST
+c h o m a V PRF FIN IND SG 2 PST
+c h o m a V PRF FIN IND SG 3 PST
+s h i n d a V DEF FIN IND PL 1 PRS
+s h i n d a V DEF FIN IND PL 2 PRS
+s h i n d a V DEF FIN IND PL 3 PRS
+s h i n d a V DEF FIN IND SG 1 PRS
+s h i n d a V DEF FIN IND SG 2 PRS
+s h i n d a V DEF FIN IND SG 3 PRS
+s h i n d a V FIN
+s h i n d a V FIN COND PL 1 PRS
+s h i n d a V FIN COND PL 1 PST
+s h i n d a V FIN COND PL 2 PRS
+s h i n d a V FIN COND PL 2 PST
+s h i n d a V FIN COND PL 3 PRS
+s h i n d a V FIN COND PL 3 PST
+s h i n d a V FIN COND SG 1 PRS
+s h i n d a V FIN COND SG 1 PST
+s h i n d a V FIN COND SG 2 PRS
+s h i n d a V FIN COND SG 2 PST
+s h i n d a V FIN COND SG 3 PRS
+s h i n d a V FIN COND SG 3 PST
+s h i n d a V FIN IND PL 1 FUT
+s h i n d a V FIN IND PL 1 PST
+s h i n d a V FIN IND PL 2 FUT
+s h i n d a V FIN IND PL 2 PST
+s h i n d a V FIN IND PL 3 FUT
+s h i n d a V FIN IND PL 3 PST
+s h i n d a V FIN IND SG 1 FUT
+s h i n d a V FIN IND SG 1 PST
+s h i n d a V FIN IND SG 2 FUT
+s h i n d a V FIN IND SG 2 PST
+s h i n d a V FIN IND SG 3 FUT
+s h i n d a V FIN IND SG 3 PST
+s h i n d a V HAB FIN IND PL 1 PRS
+s h i n d a V HAB FIN IND PL 2 PRS
+s h i n d a V HAB FIN IND PL 3 PRS
+s h i n d a V HAB FIN IND SG 1 PRS
+s h i n d a V HAB FIN IND SG 2 PRS
+s h i n d a V HAB FIN IND SG 3 PRS
+s h i n d a V INDF FIN IND PL 1 PRS
+s h i n d a V INDF FIN IND PL 2 PRS
+s h i n d a V INDF FIN IND PL 3 PRS
+s h i n d a V INDF FIN IND SG 1 PRS
+s h i n d a V INDF FIN IND SG 2 PRS
+s h i n d a V INDF FIN IND SG 3 PRS
+s h i n d a V PRF FIN IND PL 1 PST
+s h i n d a V PRF FIN IND PL 2 PST
+s h i n d a V PRF FIN IND PL 3 PST
+s h i n d a V PRF FIN IND SG 1 PST
+s h i n d a V PRF FIN IND SG 2 PST
+s h i n d a V PRF FIN IND SG 3 PST
+l i a V DEF FIN IND PL 1 PRS
+l i a V DEF FIN IND PL 2 PRS
+l i a V DEF FIN IND PL 3 PRS
+l i a V DEF FIN IND SG 1 PRS
+l i a V DEF FIN IND SG 2 PRS
+l i a V DEF FIN IND SG 3 PRS
+l i a V FIN
+l i a V FIN COND PL 1 PRS
+l i a V FIN COND PL 1 PST
+l i a V FIN COND PL 2 PRS
+l i a V FIN COND PL 2 PST
+l i a V FIN COND PL 3 PRS
+l i a V FIN COND PL 3 PST
+l i a V FIN COND SG 1 PRS
+l i a V FIN COND SG 1 PST
+l i a V FIN COND SG 2 PRS
+l i a V FIN COND SG 2 PST
+l i a V FIN COND SG 3 PRS
+l i a V FIN COND SG 3 PST
+l i a V FIN IND PL 1 FUT
+l i a V FIN IND PL 1 PST
+l i a V FIN IND PL 2 FUT
+l i a V FIN IND PL 2 PST
+l i a V FIN IND PL 3 FUT
+l i a V FIN IND PL 3 PST
+l i a V FIN IND SG 1 FUT
+l i a V FIN IND SG 1 PST
+l i a V FIN IND SG 2 FUT
+l i a V FIN IND SG 2 PST
+l i a V FIN IND SG 3 FUT
+l i a V FIN IND SG 3 PST
+l i a V HAB FIN IND PL 1 PRS
+l i a V HAB FIN IND PL 2 PRS
+l i a V HAB FIN IND PL 3 PRS
+l i a V HAB FIN IND SG 1 PRS
+l i a V HAB FIN IND SG 2 PRS
+l i a V HAB FIN IND SG 3 PRS
+l i a V INDF FIN IND PL 1 PRS
+l i a V INDF FIN IND PL 2 PRS
+l i a V INDF FIN IND PL 3 PRS
+l i a V INDF FIN IND SG 1 PRS
+l i a V INDF FIN IND SG 2 PRS
+l i a V INDF FIN IND SG 3 PRS
+l i a V PRF FIN IND PL 1 PST
+l i a V PRF FIN IND PL 2 PST
+l i a V PRF FIN IND PL 3 PST
+l i a V PRF FIN IND SG 1 PST
+l i a V PRF FIN IND SG 2 PST
+l i a V PRF FIN IND SG 3 PST
+g u s a V DEF FIN IND PL 1 PRS
+g u s a V DEF FIN IND PL 2 PRS
+g u s a V DEF FIN IND PL 3 PRS
+g u s a V DEF FIN IND SG 1 PRS
+g u s a V DEF FIN IND SG 2 PRS
+g u s a V DEF FIN IND SG 3 PRS
+g u s a V FIN
+g u s a V FIN COND PL 1 PRS
+g u s a V FIN COND PL 1 PST
+g u s a V FIN COND PL 2 PRS
+g u s a V FIN COND PL 2 PST
+g u s a V FIN COND PL 3 PRS
+g u s a V FIN COND PL 3 PST
+g u s a V FIN COND SG 1 PRS
+g u s a V FIN COND SG 1 PST
+g u s a V FIN COND SG 2 PRS
+g u s a V FIN COND SG 2 PST
+g u s a V FIN COND SG 3 PRS
+g u s a V FIN COND SG 3 PST
+g u s a V FIN IND PL 1 FUT
+g u s a V FIN IND PL 1 PST
+g u s a V FIN IND PL 2 FUT
+g u s a V FIN IND PL 2 PST
+g u s a V FIN IND PL 3 FUT
+g u s a V FIN IND PL 3 PST
+g u s a V FIN IND SG 1 FUT
+g u s a V FIN IND SG 1 PST
+g u s a V FIN IND SG 2 FUT
+g u s a V FIN IND SG 2 PST
+g u s a V FIN IND SG 3 FUT
+g u s a V FIN IND SG 3 PST
+g u s a V HAB FIN IND PL 1 PRS
+g u s a V HAB FIN IND PL 2 PRS
+g u s a V HAB FIN IND PL 3 PRS
+g u s a V HAB FIN IND SG 1 PRS
+g u s a V HAB FIN IND SG 2 PRS
+g u s a V HAB FIN IND SG 3 PRS
+g u s a V INDF FIN IND PL 1 PRS
+g u s a V INDF FIN IND PL 2 PRS
+g u s a V INDF FIN IND PL 3 PRS
+g u s a V INDF FIN IND SG 1 PRS
+g u s a V INDF FIN IND SG 2 PRS
+g u s a V INDF FIN IND SG 3 PRS
+g u s a V PRF FIN IND PL 1 PST
+g u s a V PRF FIN IND PL 2 PST
+g u s a V PRF FIN IND PL 3 PST
+g u s a V PRF FIN IND SG 1 PST
+g u s a V PRF FIN IND SG 2 PST
+g u s a V PRF FIN IND SG 3 PST
+f a n y a V DEF FIN IND PL 1 PRS
+f a n y a V DEF FIN IND PL 2 PRS
+f a n y a V DEF FIN IND PL 3 PRS
+f a n y a V DEF FIN IND SG 1 PRS
+f a n y a V DEF FIN IND SG 2 PRS
+f a n y a V DEF FIN IND SG 3 PRS
+f a n y a V FIN
+f a n y a V FIN COND PL 1 PRS
+f a n y a V FIN COND PL 1 PST
+f a n y a V FIN COND PL 2 PRS
+f a n y a V FIN COND PL 2 PST
+f a n y a V FIN COND PL 3 PRS
+f a n y a V FIN COND PL 3 PST
+f a n y a V FIN COND SG 1 PRS
+f a n y a V FIN COND SG 1 PST
+f a n y a V FIN COND SG 2 PRS
+f a n y a V FIN COND SG 2 PST
+f a n y a V FIN COND SG 3 PRS
+f a n y a V FIN COND SG 3 PST
+f a n y a V FIN IND PL 1 FUT
+f a n y a V FIN IND PL 1 PST
+f a n y a V FIN IND PL 2 FUT
+f a n y a V FIN IND PL 2 PST
+f a n y a V FIN IND PL 3 FUT
+f a n y a V FIN IND PL 3 PST
+f a n y a V FIN IND SG 1 FUT
+f a n y a V FIN IND SG 1 PST
+f a n y a V FIN IND SG 2 FUT
+f a n y a V FIN IND SG 2 PST
+f a n y a V FIN IND SG 3 FUT
+f a n y a V FIN IND SG 3 PST
+f a n y a V HAB FIN IND PL 1 PRS
+f a n y a V HAB FIN IND PL 2 PRS
+f a n y a V HAB FIN IND PL 3 PRS
+f a n y a V HAB FIN IND SG 1 PRS
+f a n y a V HAB FIN IND SG 2 PRS
+f a n y a V HAB FIN IND SG 3 PRS
+f a n y a V INDF FIN IND PL 1 PRS
+f a n y a V INDF FIN IND PL 2 PRS
+f a n y a V INDF FIN IND PL 3 PRS
+f a n y a V INDF FIN IND SG 1 PRS
+f a n y a V INDF FIN IND SG 2 PRS
+f a n y a V INDF FIN IND SG 3 PRS
+f a n y a V PRF FIN IND PL 1 PST
+f a n y a V PRF FIN IND PL 2 PST
+f a n y a V PRF FIN IND PL 3 PST
+f a n y a V PRF FIN IND SG 1 PST
+f a n y a V PRF FIN IND SG 2 PST
+f a n y a V PRF FIN IND SG 3 PST
+c h u k u a V DEF FIN IND PL 1 PRS
+c h u k u a V DEF FIN IND PL 2 PRS
+c h u k u a V DEF FIN IND PL 3 PRS
+c h u k u a V DEF FIN IND SG 1 PRS
+c h u k u a V DEF FIN IND SG 2 PRS
+c h u k u a V DEF FIN IND SG 3 PRS
+c h u k u a V FIN
+c h u k u a V FIN COND PL 1 PRS
+c h u k u a V FIN COND PL 1 PST
+c h u k u a V FIN COND PL 2 PRS
+c h u k u a V FIN COND PL 2 PST
+c h u k u a V FIN COND PL 3 PRS
+c h u k u a V FIN COND PL 3 PST
+c h u k u a V FIN COND SG 1 PRS
+c h u k u a V FIN COND SG 1 PST
+c h u k u a V FIN COND SG 2 PRS
+c h u k u a V FIN COND SG 2 PST
+c h u k u a V FIN COND SG 3 PRS
+c h u k u a V FIN COND SG 3 PST
+c h u k u a V FIN IND PL 1 FUT
+c h u k u a V FIN IND PL 1 PST
+c h u k u a V FIN IND PL 2 FUT
+c h u k u a V FIN IND PL 2 PST
+c h u k u a V FIN IND PL 3 FUT
+c h u k u a V FIN IND PL 3 PST
+c h u k u a V FIN IND SG 1 FUT
+c h u k u a V FIN IND SG 1 PST
+c h u k u a V FIN IND SG 2 FUT
+c h u k u a V FIN IND SG 2 PST
+c h u k u a V FIN IND SG 3 FUT
+c h u k u a V FIN IND SG 3 PST
+c h u k u a V HAB FIN IND PL 1 PRS
+c h u k u a V HAB FIN IND PL 2 PRS
+c h u k u a V HAB FIN IND PL 3 PRS
+c h u k u a V HAB FIN IND SG 1 PRS
+c h u k u a V HAB FIN IND SG 2 PRS
+c h u k u a V HAB FIN IND SG 3 PRS
+c h u k u a V INDF FIN IND PL 1 PRS
+c h u k u a V INDF FIN IND PL 2 PRS
+c h u k u a V INDF FIN IND PL 3 PRS
+c h u k u a V INDF FIN IND SG 1 PRS
+c h u k u a V INDF FIN IND SG 2 PRS
+c h u k u a V INDF FIN IND SG 3 PRS
+c h u k u a V PRF FIN IND PL 1 PST
+c h u k u a V PRF FIN IND PL 2 PST
+c h u k u a V PRF FIN IND PL 3 PST
+c h u k u a V PRF FIN IND SG 1 PST
+c h u k u a V PRF FIN IND SG 2 PST
+c h u k u a V PRF FIN IND SG 3 PST
+k w a r u z a V DEF FIN IND PL 1 PRS
+k w a r u z a V DEF FIN IND PL 2 PRS
+k w a r u z a V DEF FIN IND PL 3 PRS
+k w a r u z a V DEF FIN IND SG 1 PRS
+k w a r u z a V DEF FIN IND SG 2 PRS
+k w a r u z a V DEF FIN IND SG 3 PRS
+k w a r u z a V FIN
+k w a r u z a V FIN COND PL 1 PRS
+k w a r u z a V FIN COND PL 1 PST
+k w a r u z a V FIN COND PL 2 PRS
+k w a r u z a V FIN COND PL 2 PST
+k w a r u z a V FIN COND PL 3 PRS
+k w a r u z a V FIN COND PL 3 PST
+k w a r u z a V FIN COND SG 1 PRS
+k w a r u z a V FIN COND SG 1 PST
+k w a r u z a V FIN COND SG 2 PRS
+k w a r u z a V FIN COND SG 2 PST
+k w a r u z a V FIN COND SG 3 PRS
+k w a r u z a V FIN COND SG 3 PST
+k w a r u z a V FIN IND PL 1 FUT
+k w a r u z a V FIN IND PL 1 PST
+k w a r u z a V FIN IND PL 2 FUT
+k w a r u z a V FIN IND PL 2 PST
+k w a r u z a V FIN IND PL 3 FUT
+k w a r u z a V FIN IND PL 3 PST
+k w a r u z a V FIN IND SG 1 FUT
+k w a r u z a V FIN IND SG 1 PST
+k w a r u z a V FIN IND SG 2 FUT
+k w a r u z a V FIN IND SG 2 PST
+k w a r u z a V FIN IND SG 3 FUT
+k w a r u z a V FIN IND SG 3 PST
+k w a r u z a V HAB FIN IND PL 1 PRS
+k w a r u z a V HAB FIN IND PL 2 PRS
+k w a r u z a V HAB FIN IND PL 3 PRS
+k w a r u z a V HAB FIN IND SG 1 PRS
+k w a r u z a V HAB FIN IND SG 2 PRS
+k w a r u z a V HAB FIN IND SG 3 PRS
+k w a r u z a V INDF FIN IND PL 1 PRS
+k w a r u z a V INDF FIN IND PL 2 PRS
+k w a r u z a V INDF FIN IND PL 3 PRS
+k w a r u z a V INDF FIN IND SG 1 PRS
+k w a r u z a V INDF FIN IND SG 2 PRS
+k w a r u z a V INDF FIN IND SG 3 PRS
+k w a r u z a V PRF FIN IND PL 1 PST
+k w a r u z a V PRF FIN IND PL 2 PST
+k w a r u z a V PRF FIN IND PL 3 PST
+k w a r u z a V PRF FIN IND SG 1 PST
+k w a r u z a V PRF FIN IND SG 2 PST
+k w a r u z a V PRF FIN IND SG 3 PST
+k a t a V DEF FIN IND PL 1 PRS
+k a t a V DEF FIN IND PL 2 PRS
+k a t a V DEF FIN IND PL 3 PRS
+k a t a V DEF FIN IND SG 1 PRS
+k a t a V DEF FIN IND SG 2 PRS
+k a t a V DEF FIN IND SG 3 PRS
+k a t a V FIN
+k a t a V FIN COND PL 1 PRS
+k a t a V FIN COND PL 1 PST
+k a t a V FIN COND PL 2 PRS
+k a t a V FIN COND PL 2 PST
+k a t a V FIN COND PL 3 PRS
+k a t a V FIN COND PL 3 PST
+k a t a V FIN COND SG 1 PRS
+k a t a V FIN COND SG 1 PST
+k a t a V FIN COND SG 2 PRS
+k a t a V FIN COND SG 2 PST
+k a t a V FIN COND SG 3 PRS
+k a t a V FIN COND SG 3 PST
+k a t a V FIN IND PL 1 FUT
+k a t a V FIN IND PL 1 PST
+k a t a V FIN IND PL 2 FUT
+k a t a V FIN IND PL 2 PST
+k a t a V FIN IND PL 3 FUT
+k a t a V FIN IND PL 3 PST
+k a t a V FIN IND SG 1 FUT
+k a t a V FIN IND SG 1 PST
+k a t a V FIN IND SG 2 FUT
+k a t a V FIN IND SG 2 PST
+k a t a V FIN IND SG 3 FUT
+k a t a V FIN IND SG 3 PST
+k a t a V HAB FIN IND PL 1 PRS
+k a t a V HAB FIN IND PL 2 PRS
+k a t a V HAB FIN IND PL 3 PRS
+k a t a V HAB FIN IND SG 1 PRS
+k a t a V HAB FIN IND SG 2 PRS
+k a t a V HAB FIN IND SG 3 PRS
+k a t a V INDF FIN IND PL 1 PRS
+k a t a V INDF FIN IND PL 2 PRS
+k a t a V INDF FIN IND PL 3 PRS
+k a t a V INDF FIN IND SG 1 PRS
+k a t a V INDF FIN IND SG 2 PRS
+k a t a V INDF FIN IND SG 3 PRS
+k a t a V PRF FIN IND PL 1 PST
+k a t a V PRF FIN IND PL 2 PST
+k a t a V PRF FIN IND PL 3 PST
+k a t a V PRF FIN IND SG 1 PST
+k a t a V PRF FIN IND SG 2 PST
+k a t a V PRF FIN IND SG 3 PST
+f u n g a V DEF FIN IND PL 1 PRS
+f u n g a V DEF FIN IND PL 2 PRS
+f u n g a V DEF FIN IND PL 3 PRS
+f u n g a V DEF FIN IND SG 1 PRS
+f u n g a V DEF FIN IND SG 2 PRS
+f u n g a V DEF FIN IND SG 3 PRS
+f u n g a V FIN
+f u n g a V FIN COND PL 1 PRS
+f u n g a V FIN COND PL 1 PST
+f u n g a V FIN COND PL 2 PRS
+f u n g a V FIN COND PL 2 PST
+f u n g a V FIN COND PL 3 PRS
+f u n g a V FIN COND PL 3 PST
+f u n g a V FIN COND SG 1 PRS
+f u n g a V FIN COND SG 1 PST
+f u n g a V FIN COND SG 2 PRS
+f u n g a V FIN COND SG 2 PST
+f u n g a V FIN COND SG 3 PRS
+f u n g a V FIN COND SG 3 PST
+f u n g a V FIN IND PL 1 FUT
+f u n g a V FIN IND PL 1 PST
+f u n g a V FIN IND PL 2 FUT
+f u n g a V FIN IND PL 2 PST
+f u n g a V FIN IND PL 3 FUT
+f u n g a V FIN IND PL 3 PST
+f u n g a V FIN IND SG 1 FUT
+f u n g a V FIN IND SG 1 PST
+f u n g a V FIN IND SG 2 FUT
+f u n g a V FIN IND SG 2 PST
+f u n g a V FIN IND SG 3 FUT
+f u n g a V FIN IND SG 3 PST
+f u n g a V HAB FIN IND PL 1 PRS
+f u n g a V HAB FIN IND PL 2 PRS
+f u n g a V HAB FIN IND PL 3 PRS
+f u n g a V HAB FIN IND SG 1 PRS
+f u n g a V HAB FIN IND SG 2 PRS
+f u n g a V HAB FIN IND SG 3 PRS
+f u n g a V INDF FIN IND PL 1 PRS
+f u n g a V INDF FIN IND PL 2 PRS
+f u n g a V INDF FIN IND PL 3 PRS
+f u n g a V INDF FIN IND SG 1 PRS
+f u n g a V INDF FIN IND SG 2 PRS
+f u n g a V INDF FIN IND SG 3 PRS
+f u n g a V PRF FIN IND PL 1 PST
+f u n g a V PRF FIN IND PL 2 PST
+f u n g a V PRF FIN IND PL 3 PST
+f u n g a V PRF FIN IND SG 1 PST
+f u n g a V PRF FIN IND SG 2 PST
+f u n g a V PRF FIN IND SG 3 PST
+k o p a V DEF FIN IND PL 1 PRS
+k o p a V DEF FIN IND PL 2 PRS
+k o p a V DEF FIN IND PL 3 PRS
+k o p a V DEF FIN IND SG 1 PRS
+k o p a V DEF FIN IND SG 2 PRS
+k o p a V DEF FIN IND SG 3 PRS
+k o p a V FIN
+k o p a V FIN COND PL 1 PRS
+k o p a V FIN COND PL 1 PST
+k o p a V FIN COND PL 2 PRS
+k o p a V FIN COND PL 2 PST
+k o p a V FIN COND PL 3 PRS
+k o p a V FIN COND PL 3 PST
+k o p a V FIN COND SG 1 PRS
+k o p a V FIN COND SG 1 PST
+k o p a V FIN COND SG 2 PRS
+k o p a V FIN COND SG 2 PST
+k o p a V FIN COND SG 3 PRS
+k o p a V FIN COND SG 3 PST
+k o p a V FIN IND PL 1 FUT
+k o p a V FIN IND PL 1 PST
+k o p a V FIN IND PL 2 FUT
+k o p a V FIN IND PL 2 PST
+k o p a V FIN IND PL 3 FUT
+k o p a V FIN IND PL 3 PST
+k o p a V FIN IND SG 1 FUT
+k o p a V FIN IND SG 1 PST
+k o p a V FIN IND SG 2 FUT
+k o p a V FIN IND SG 2 PST
+k o p a V FIN IND SG 3 FUT
+k o p a V FIN IND SG 3 PST
+k o p a V HAB FIN IND PL 1 PRS
+k o p a V HAB FIN IND PL 2 PRS
+k o p a V HAB FIN IND PL 3 PRS
+k o p a V HAB FIN IND SG 1 PRS
+k o p a V HAB FIN IND SG 2 PRS
+k o p a V HAB FIN IND SG 3 PRS
+k o p a V INDF FIN IND PL 1 PRS
+k o p a V INDF FIN IND PL 2 PRS
+k o p a V INDF FIN IND PL 3 PRS
+k o p a V INDF FIN IND SG 1 PRS
+k o p a V INDF FIN IND SG 2 PRS
+k o p a V INDF FIN IND SG 3 PRS
+k o p a V PRF FIN IND PL 1 PST
+k o p a V PRF FIN IND PL 2 PST
+k o p a V PRF FIN IND PL 3 PST
+k o p a V PRF FIN IND SG 1 PST
+k o p a V PRF FIN IND SG 2 PST
+k o p a V PRF FIN IND SG 3 PST
+p a a V DEF FIN IND PL 1 PRS
+p a a V DEF FIN IND PL 2 PRS
+p a a V DEF FIN IND PL 3 PRS
+p a a V DEF FIN IND SG 1 PRS
+p a a V DEF FIN IND SG 2 PRS
+p a a V DEF FIN IND SG 3 PRS
+p a a V FIN
+p a a V FIN COND PL 1 PRS
+p a a V FIN COND PL 1 PST
+p a a V FIN COND PL 2 PRS
+p a a V FIN COND PL 2 PST
+p a a V FIN COND PL 3 PRS
+p a a V FIN COND PL 3 PST
+p a a V FIN COND SG 1 PRS
+p a a V FIN COND SG 1 PST
+p a a V FIN COND SG 2 PRS
+p a a V FIN COND SG 2 PST
+p a a V FIN COND SG 3 PRS
+p a a V FIN COND SG 3 PST
+p a a V FIN IND PL 1 FUT
+p a a V FIN IND PL 1 PST
+p a a V FIN IND PL 2 FUT
+p a a V FIN IND PL 2 PST
+p a a V FIN IND PL 3 FUT
+p a a V FIN IND PL 3 PST
+p a a V FIN IND SG 1 FUT
+p a a V FIN IND SG 1 PST
+p a a V FIN IND SG 2 FUT
+p a a V FIN IND SG 2 PST
+p a a V FIN IND SG 3 FUT
+p a a V FIN IND SG 3 PST
+p a a V HAB FIN IND PL 1 PRS
+p a a V HAB FIN IND PL 2 PRS
+p a a V HAB FIN IND PL 3 PRS
+p a a V HAB FIN IND SG 1 PRS
+p a a V HAB FIN IND SG 2 PRS
+p a a V HAB FIN IND SG 3 PRS
+p a a V INDF FIN IND PL 1 PRS
+p a a V INDF FIN IND PL 2 PRS
+p a a V INDF FIN IND PL 3 PRS
+p a a V INDF FIN IND SG 1 PRS
+p a a V INDF FIN IND SG 2 PRS
+p a a V INDF FIN IND SG 3 PRS
+p a a V PRF FIN IND PL 1 PST
+p a a V PRF FIN IND PL 2 PST
+p a a V PRF FIN IND PL 3 PST
+p a a V PRF FIN IND SG 1 PST
+p a a V PRF FIN IND SG 2 PST
+p a a V PRF FIN IND SG 3 PST
+t e n g e n e z a V DEF FIN IND PL 1 PRS
+t e n g e n e z a V DEF FIN IND PL 2 PRS
+t e n g e n e z a V DEF FIN IND PL 3 PRS
+t e n g e n e z a V DEF FIN IND SG 1 PRS
+t e n g e n e z a V DEF FIN IND SG 2 PRS
+t e n g e n e z a V DEF FIN IND SG 3 PRS
+t e n g e n e z a V FIN
+t e n g e n e z a V FIN COND PL 1 PRS
+t e n g e n e z a V FIN COND PL 1 PST
+t e n g e n e z a V FIN COND PL 2 PRS
+t e n g e n e z a V FIN COND PL 2 PST
+t e n g e n e z a V FIN COND PL 3 PRS
+t e n g e n e z a V FIN COND PL 3 PST
+t e n g e n e z a V FIN COND SG 1 PRS
+t e n g e n e z a V FIN COND SG 1 PST
+t e n g e n e z a V FIN COND SG 2 PRS
+t e n g e n e z a V FIN COND SG 2 PST
+t e n g e n e z a V FIN COND SG 3 PRS
+t e n g e n e z a V FIN COND SG 3 PST
+t e n g e n e z a V FIN IND PL 1 FUT
+t e n g e n e z a V FIN IND PL 1 PST
+t e n g e n e z a V FIN IND PL 2 FUT
+t e n g e n e z a V FIN IND PL 2 PST
+t e n g e n e z a V FIN IND PL 3 FUT
+t e n g e n e z a V FIN IND PL 3 PST
+t e n g e n e z a V FIN IND SG 1 FUT
+t e n g e n e z a V FIN IND SG 1 PST
+t e n g e n e z a V FIN IND SG 2 FUT
+t e n g e n e z a V FIN IND SG 2 PST
+t e n g e n e z a V FIN IND SG 3 FUT
+t e n g e n e z a V FIN IND SG 3 PST
+t e n g e n e z a V HAB FIN IND PL 1 PRS
+t e n g e n e z a V HAB FIN IND PL 2 PRS
+t e n g e n e z a V HAB FIN IND PL 3 PRS
+t e n g e n e z a V HAB FIN IND SG 1 PRS
+t e n g e n e z a V HAB FIN IND SG 2 PRS
+t e n g e n e z a V HAB FIN IND SG 3 PRS
+t e n g e n e z a V INDF FIN IND PL 1 PRS
+t e n g e n e z a V INDF FIN IND PL 2 PRS
+t e n g e n e z a V INDF FIN IND PL 3 PRS
+t e n g e n e z a V INDF FIN IND SG 1 PRS
+t e n g e n e z a V INDF FIN IND SG 2 PRS
+t e n g e n e z a V INDF FIN IND SG 3 PRS
+t e n g e n e z a V PRF FIN IND PL 1 PST
+t e n g e n e z a V PRF FIN IND PL 2 PST
+t e n g e n e z a V PRF FIN IND PL 3 PST
+t e n g e n e z a V PRF FIN IND SG 1 PST
+t e n g e n e z a V PRF FIN IND SG 2 PST
+t e n g e n e z a V PRF FIN IND SG 3 PST
+p u n g u z a V DEF FIN IND PL 1 PRS
+p u n g u z a V DEF FIN IND PL 2 PRS
+p u n g u z a V DEF FIN IND PL 3 PRS
+p u n g u z a V DEF FIN IND SG 1 PRS
+p u n g u z a V DEF FIN IND SG 2 PRS
+p u n g u z a V DEF FIN IND SG 3 PRS
+p u n g u z a V FIN
+p u n g u z a V FIN COND PL 1 PRS
+p u n g u z a V FIN COND PL 1 PST
+p u n g u z a V FIN COND PL 2 PRS
+p u n g u z a V FIN COND PL 2 PST
+p u n g u z a V FIN COND PL 3 PRS
+p u n g u z a V FIN COND PL 3 PST
+p u n g u z a V FIN COND SG 1 PRS
+p u n g u z a V FIN COND SG 1 PST
+p u n g u z a V FIN COND SG 2 PRS
+p u n g u z a V FIN COND SG 2 PST
+p u n g u z a V FIN COND SG 3 PRS
+p u n g u z a V FIN COND SG 3 PST
+p u n g u z a V FIN IND PL 1 FUT
+p u n g u z a V FIN IND PL 1 PST
+p u n g u z a V FIN IND PL 2 FUT
+p u n g u z a V FIN IND PL 2 PST
+p u n g u z a V FIN IND PL 3 FUT
+p u n g u z a V FIN IND PL 3 PST
+p u n g u z a V FIN IND SG 1 FUT
+p u n g u z a V FIN IND SG 1 PST
+p u n g u z a V FIN IND SG 2 FUT
+p u n g u z a V FIN IND SG 2 PST
+p u n g u z a V FIN IND SG 3 FUT
+p u n g u z a V FIN IND SG 3 PST
+p u n g u z a V HAB FIN IND PL 1 PRS
+p u n g u z a V HAB FIN IND PL 2 PRS
+p u n g u z a V HAB FIN IND PL 3 PRS
+p u n g u z a V HAB FIN IND SG 1 PRS
+p u n g u z a V HAB FIN IND SG 2 PRS
+p u n g u z a V HAB FIN IND SG 3 PRS
+p u n g u z a V INDF FIN IND PL 1 PRS
+p u n g u z a V INDF FIN IND PL 2 PRS
+p u n g u z a V INDF FIN IND PL 3 PRS
+p u n g u z a V INDF FIN IND SG 1 PRS
+p u n g u z a V INDF FIN IND SG 2 PRS
+p u n g u z a V INDF FIN IND SG 3 PRS
+p u n g u z a V PRF FIN IND PL 1 PST
+p u n g u z a V PRF FIN IND PL 2 PST
+p u n g u z a V PRF FIN IND PL 3 PST
+p u n g u z a V PRF FIN IND SG 1 PST
+p u n g u z a V PRF FIN IND SG 2 PST
+p u n g u z a V PRF FIN IND SG 3 PST
+l e t a V DEF FIN IND PL 1 PRS
+l e t a V DEF FIN IND PL 2 PRS
+l e t a V DEF FIN IND PL 3 PRS
+l e t a V DEF FIN IND SG 1 PRS
+l e t a V DEF FIN IND SG 2 PRS
+l e t a V DEF FIN IND SG 3 PRS
+l e t a V FIN
+l e t a V FIN COND PL 1 PRS
+l e t a V FIN COND PL 1 PST
+l e t a V FIN COND PL 2 PRS
+l e t a V FIN COND PL 2 PST
+l e t a V FIN COND PL 3 PRS
+l e t a V FIN COND PL 3 PST
+l e t a V FIN COND SG 1 PRS
+l e t a V FIN COND SG 1 PST
+l e t a V FIN COND SG 2 PRS
+l e t a V FIN COND SG 2 PST
+l e t a V FIN COND SG 3 PRS
+l e t a V FIN COND SG 3 PST
+l e t a V FIN IND PL 1 FUT
+l e t a V FIN IND PL 1 PST
+l e t a V FIN IND PL 2 FUT
+l e t a V FIN IND PL 2 PST
+l e t a V FIN IND PL 3 FUT
+l e t a V FIN IND PL 3 PST
+l e t a V FIN IND SG 1 FUT
+l e t a V FIN IND SG 1 PST
+l e t a V FIN IND SG 2 FUT
+l e t a V FIN IND SG 2 PST
+l e t a V FIN IND SG 3 FUT
+l e t a V FIN IND SG 3 PST
+l e t a V HAB FIN IND PL 1 PRS
+l e t a V HAB FIN IND PL 2 PRS
+l e t a V HAB FIN IND PL 3 PRS
+l e t a V HAB FIN IND SG 1 PRS
+l e t a V HAB FIN IND SG 2 PRS
+l e t a V HAB FIN IND SG 3 PRS
+l e t a V INDF FIN IND PL 1 PRS
+l e t a V INDF FIN IND PL 2 PRS
+l e t a V INDF FIN IND PL 3 PRS
+l e t a V INDF FIN IND SG 1 PRS
+l e t a V INDF FIN IND SG 2 PRS
+l e t a V INDF FIN IND SG 3 PRS
+l e t a V PRF FIN IND PL 1 PST
+l e t a V PRF FIN IND PL 2 PST
+l e t a V PRF FIN IND PL 3 PST
+l e t a V PRF FIN IND SG 1 PST
+l e t a V PRF FIN IND SG 2 PST
+l e t a V PRF FIN IND SG 3 PST
+l a l a V DEF FIN IND PL 1 PRS
+l a l a V DEF FIN IND PL 2 PRS
+l a l a V DEF FIN IND PL 3 PRS
+l a l a V DEF FIN IND SG 1 PRS
+l a l a V DEF FIN IND SG 2 PRS
+l a l a V DEF FIN IND SG 3 PRS
+l a l a V FIN
+l a l a V FIN COND PL 1 PRS
+l a l a V FIN COND PL 1 PST
+l a l a V FIN COND PL 2 PRS
+l a l a V FIN COND PL 2 PST
+l a l a V FIN COND PL 3 PRS
+l a l a V FIN COND PL 3 PST
+l a l a V FIN COND SG 1 PRS
+l a l a V FIN COND SG 1 PST
+l a l a V FIN COND SG 2 PRS
+l a l a V FIN COND SG 2 PST
+l a l a V FIN COND SG 3 PRS
+l a l a V FIN COND SG 3 PST
+l a l a V FIN IND PL 1 FUT
+l a l a V FIN IND PL 1 PST
+l a l a V FIN IND PL 2 FUT
+l a l a V FIN IND PL 2 PST
+l a l a V FIN IND PL 3 FUT
+l a l a V FIN IND PL 3 PST
+l a l a V FIN IND SG 1 FUT
+l a l a V FIN IND SG 1 PST
+l a l a V FIN IND SG 2 FUT
+l a l a V FIN IND SG 2 PST
+l a l a V FIN IND SG 3 FUT
+l a l a V FIN IND SG 3 PST
+l a l a V HAB FIN IND PL 1 PRS
+l a l a V HAB FIN IND PL 2 PRS
+l a l a V HAB FIN IND PL 3 PRS
+l a l a V HAB FIN IND SG 1 PRS
+l a l a V HAB FIN IND SG 2 PRS
+l a l a V HAB FIN IND SG 3 PRS
+l a l a V INDF FIN IND PL 1 PRS
+l a l a V INDF FIN IND PL 2 PRS
+l a l a V INDF FIN IND PL 3 PRS
+l a l a V INDF FIN IND SG 1 PRS
+l a l a V INDF FIN IND SG 2 PRS
+l a l a V INDF FIN IND SG 3 PRS
+l a l a V PRF FIN IND PL 1 PST
+l a l a V PRF FIN IND PL 2 PST
+l a l a V PRF FIN IND PL 3 PST
+l a l a V PRF FIN IND SG 1 PST
+l a l a V PRF FIN IND SG 2 PST
+l a l a V PRF FIN IND SG 3 PST
+z a a V DEF FIN IND PL 1 PRS
+z a a V DEF FIN IND PL 2 PRS
+z a a V DEF FIN IND PL 3 PRS
+z a a V DEF FIN IND SG 1 PRS
+z a a V DEF FIN IND SG 2 PRS
+z a a V DEF FIN IND SG 3 PRS
+z a a V FIN
+z a a V FIN COND PL 1 PRS
+z a a V FIN COND PL 1 PST
+z a a V FIN COND PL 2 PRS
+z a a V FIN COND PL 2 PST
+z a a V FIN COND PL 3 PRS
+z a a V FIN COND PL 3 PST
+z a a V FIN COND SG 1 PRS
+z a a V FIN COND SG 1 PST
+z a a V FIN COND SG 2 PRS
+z a a V FIN COND SG 2 PST
+z a a V FIN COND SG 3 PRS
+z a a V FIN COND SG 3 PST
+z a a V FIN IND PL 1 FUT
+z a a V FIN IND PL 1 PST
+z a a V FIN IND PL 2 FUT
+z a a V FIN IND PL 2 PST
+z a a V FIN IND PL 3 FUT
+z a a V FIN IND PL 3 PST
+z a a V FIN IND SG 1 FUT
+z a a V FIN IND SG 1 PST
+z a a V FIN IND SG 2 FUT
+z a a V FIN IND SG 2 PST
+z a a V FIN IND SG 3 FUT
+z a a V FIN IND SG 3 PST
+z a a V HAB FIN IND PL 1 PRS
+z a a V HAB FIN IND PL 2 PRS
+z a a V HAB FIN IND PL 3 PRS
+z a a V HAB FIN IND SG 1 PRS
+z a a V HAB FIN IND SG 2 PRS
+z a a V HAB FIN IND SG 3 PRS
+z a a V INDF FIN IND PL 1 PRS
+z a a V INDF FIN IND PL 2 PRS
+z a a V INDF FIN IND PL 3 PRS
+z a a V INDF FIN IND SG 1 PRS
+z a a V INDF FIN IND SG 2 PRS
+z a a V INDF FIN IND SG 3 PRS
+z a a V PRF FIN IND PL 1 PST
+z a a V PRF FIN IND PL 2 PST
+z a a V PRF FIN IND PL 3 PST
+z a a V PRF FIN IND SG 1 PST
+z a a V PRF FIN IND SG 2 PST
+z a a V PRF FIN IND SG 3 PST
+j i s i k i a V DEF FIN IND PL 1 PRS
+j i s i k i a V DEF FIN IND PL 2 PRS
+j i s i k i a V DEF FIN IND PL 3 PRS
+j i s i k i a V DEF FIN IND SG 1 PRS
+j i s i k i a V DEF FIN IND SG 2 PRS
+j i s i k i a V DEF FIN IND SG 3 PRS
+j i s i k i a V FIN
+j i s i k i a V FIN COND PL 1 PRS
+j i s i k i a V FIN COND PL 1 PST
+j i s i k i a V FIN COND PL 2 PRS
+j i s i k i a V FIN COND PL 2 PST
+j i s i k i a V FIN COND PL 3 PRS
+j i s i k i a V FIN COND PL 3 PST
+j i s i k i a V FIN COND SG 1 PRS
+j i s i k i a V FIN COND SG 1 PST
+j i s i k i a V FIN COND SG 2 PRS
+j i s i k i a V FIN COND SG 2 PST
+j i s i k i a V FIN COND SG 3 PRS
+j i s i k i a V FIN COND SG 3 PST
+j i s i k i a V FIN IND PL 1 FUT
+j i s i k i a V FIN IND PL 1 PST
+j i s i k i a V FIN IND PL 2 FUT
+j i s i k i a V FIN IND PL 2 PST
+j i s i k i a V FIN IND PL 3 FUT
+j i s i k i a V FIN IND PL 3 PST
+j i s i k i a V FIN IND SG 1 FUT
+j i s i k i a V FIN IND SG 1 PST
+j i s i k i a V FIN IND SG 2 FUT
+j i s i k i a V FIN IND SG 2 PST
+j i s i k i a V FIN IND SG 3 FUT
+j i s i k i a V FIN IND SG 3 PST
+j i s i k i a V HAB FIN IND PL 1 PRS
+j i s i k i a V HAB FIN IND PL 2 PRS
+j i s i k i a V HAB FIN IND PL 3 PRS
+j i s i k i a V HAB FIN IND SG 1 PRS
+j i s i k i a V HAB FIN IND SG 2 PRS
+j i s i k i a V HAB FIN IND SG 3 PRS
+j i s i k i a V INDF FIN IND PL 1 PRS
+j i s i k i a V INDF FIN IND PL 2 PRS
+j i s i k i a V INDF FIN IND PL 3 PRS
+j i s i k i a V INDF FIN IND SG 1 PRS
+j i s i k i a V INDF FIN IND SG 2 PRS
+j i s i k i a V INDF FIN IND SG 3 PRS
+j i s i k i a V PRF FIN IND PL 1 PST
+j i s i k i a V PRF FIN IND PL 2 PST
+j i s i k i a V PRF FIN IND PL 3 PST
+j i s i k i a V PRF FIN IND SG 1 PST
+j i s i k i a V PRF FIN IND SG 2 PST
+j i s i k i a V PRF FIN IND SG 3 PST
+o s h a V DEF FIN IND PL 1 PRS
+o s h a V DEF FIN IND PL 2 PRS
+o s h a V DEF FIN IND PL 3 PRS
+o s h a V DEF FIN IND SG 1 PRS
+o s h a V DEF FIN IND SG 2 PRS
+o s h a V DEF FIN IND SG 3 PRS
+o s h a V FIN
+o s h a V FIN COND PL 1 PRS
+o s h a V FIN COND PL 1 PST
+o s h a V FIN COND PL 2 PRS
+o s h a V FIN COND PL 2 PST
+o s h a V FIN COND PL 3 PRS
+o s h a V FIN COND PL 3 PST
+o s h a V FIN COND SG 1 PRS
+o s h a V FIN COND SG 1 PST
+o s h a V FIN COND SG 2 PRS
+o s h a V FIN COND SG 2 PST
+o s h a V FIN COND SG 3 PRS
+o s h a V FIN COND SG 3 PST
+o s h a V FIN IND PL 1 FUT
+o s h a V FIN IND PL 1 PST
+o s h a V FIN IND PL 2 FUT
+o s h a V FIN IND PL 2 PST
+o s h a V FIN IND PL 3 FUT
+o s h a V FIN IND PL 3 PST
+o s h a V FIN IND SG 1 FUT
+o s h a V FIN IND SG 1 PST
+o s h a V FIN IND SG 2 FUT
+o s h a V FIN IND SG 2 PST
+o s h a V FIN IND SG 3 FUT
+o s h a V FIN IND SG 3 PST
+o s h a V HAB FIN IND PL 1 PRS
+o s h a V HAB FIN IND PL 2 PRS
+o s h a V HAB FIN IND PL 3 PRS
+o s h a V HAB FIN IND SG 1 PRS
+o s h a V HAB FIN IND SG 2 PRS
+o s h a V HAB FIN IND SG 3 PRS
+o s h a V INDF FIN IND PL 1 PRS
+o s h a V INDF FIN IND PL 2 PRS
+o s h a V INDF FIN IND PL 3 PRS
+o s h a V INDF FIN IND SG 1 PRS
+o s h a V INDF FIN IND SG 2 PRS
+o s h a V INDF FIN IND SG 3 PRS
+o s h a V PRF FIN IND PL 1 PST
+o s h a V PRF FIN IND PL 2 PST
+o s h a V PRF FIN IND PL 3 PST
+o s h a V PRF FIN IND SG 1 PST
+o s h a V PRF FIN IND SG 2 PST
+o s h a V PRF FIN IND SG 3 PST
+j i f u n z a V DEF FIN IND PL 1 PRS
+j i f u n z a V DEF FIN IND PL 2 PRS
+j i f u n z a V DEF FIN IND PL 3 PRS
+j i f u n z a V DEF FIN IND SG 1 PRS
+j i f u n z a V DEF FIN IND SG 2 PRS
+j i f u n z a V DEF FIN IND SG 3 PRS
+j i f u n z a V FIN
+j i f u n z a V FIN COND PL 1 PRS
+j i f u n z a V FIN COND PL 1 PST
+j i f u n z a V FIN COND PL 2 PRS
+j i f u n z a V FIN COND PL 2 PST
+j i f u n z a V FIN COND PL 3 PRS
+j i f u n z a V FIN COND PL 3 PST
+j i f u n z a V FIN COND SG 1 PRS
+j i f u n z a V FIN COND SG 1 PST
+j i f u n z a V FIN COND SG 2 PRS
+j i f u n z a V FIN COND SG 2 PST
+j i f u n z a V FIN COND SG 3 PRS
+j i f u n z a V FIN COND SG 3 PST
+j i f u n z a V FIN IND PL 1 FUT
+j i f u n z a V FIN IND PL 1 PST
+j i f u n z a V FIN IND PL 2 FUT
+j i f u n z a V FIN IND PL 2 PST
+j i f u n z a V FIN IND PL 3 FUT
+j i f u n z a V FIN IND PL 3 PST
+j i f u n z a V FIN IND SG 1 FUT
+j i f u n z a V FIN IND SG 1 PST
+j i f u n z a V FIN IND SG 2 FUT
+j i f u n z a V FIN IND SG 2 PST
+j i f u n z a V FIN IND SG 3 FUT
+j i f u n z a V FIN IND SG 3 PST
+j i f u n z a V HAB FIN IND PL 1 PRS
+j i f u n z a V HAB FIN IND PL 2 PRS
+j i f u n z a V HAB FIN IND PL 3 PRS
+j i f u n z a V HAB FIN IND SG 1 PRS
+j i f u n z a V HAB FIN IND SG 2 PRS
+j i f u n z a V HAB FIN IND SG 3 PRS
+j i f u n z a V INDF FIN IND PL 1 PRS
+j i f u n z a V INDF FIN IND PL 2 PRS
+j i f u n z a V INDF FIN IND PL 3 PRS
+j i f u n z a V INDF FIN IND SG 1 PRS
+j i f u n z a V INDF FIN IND SG 2 PRS
+j i f u n z a V INDF FIN IND SG 3 PRS
+j i f u n z a V PRF FIN IND PL 1 PST
+j i f u n z a V PRF FIN IND PL 2 PST
+j i f u n z a V PRF FIN IND PL 3 PST
+j i f u n z a V PRF FIN IND SG 1 PST
+j i f u n z a V PRF FIN IND SG 2 PST
+j i f u n z a V PRF FIN IND SG 3 PST
+f u n z a V DEF FIN IND PL 1 PRS
+f u n z a V DEF FIN IND PL 2 PRS
+f u n z a V DEF FIN IND PL 3 PRS
+f u n z a V DEF FIN IND SG 1 PRS
+f u n z a V DEF FIN IND SG 2 PRS
+f u n z a V DEF FIN IND SG 3 PRS
+f u n z a V FIN
+f u n z a V FIN COND PL 1 PRS
+f u n z a V FIN COND PL 1 PST
+f u n z a V FIN COND PL 2 PRS
+f u n z a V FIN COND PL 2 PST
+f u n z a V FIN COND PL 3 PRS
+f u n z a V FIN COND PL 3 PST
+f u n z a V FIN COND SG 1 PRS
+f u n z a V FIN COND SG 1 PST
+f u n z a V FIN COND SG 2 PRS
+f u n z a V FIN COND SG 2 PST
+f u n z a V FIN COND SG 3 PRS
+f u n z a V FIN COND SG 3 PST
+f u n z a V FIN IND PL 1 FUT
+f u n z a V FIN IND PL 1 PST
+f u n z a V FIN IND PL 2 FUT
+f u n z a V FIN IND PL 2 PST
+f u n z a V FIN IND PL 3 FUT
+f u n z a V FIN IND PL 3 PST
+f u n z a V FIN IND SG 1 FUT
+f u n z a V FIN IND SG 1 PST
+f u n z a V FIN IND SG 2 FUT
+f u n z a V FIN IND SG 2 PST
+f u n z a V FIN IND SG 3 FUT
+f u n z a V FIN IND SG 3 PST
+f u n z a V HAB FIN IND PL 1 PRS
+f u n z a V HAB FIN IND PL 2 PRS
+f u n z a V HAB FIN IND PL 3 PRS
+f u n z a V HAB FIN IND SG 1 PRS
+f u n z a V HAB FIN IND SG 2 PRS
+f u n z a V HAB FIN IND SG 3 PRS
+f u n z a V INDF FIN IND PL 1 PRS
+f u n z a V INDF FIN IND PL 2 PRS
+f u n z a V INDF FIN IND PL 3 PRS
+f u n z a V INDF FIN IND SG 1 PRS
+f u n z a V INDF FIN IND SG 2 PRS
+f u n z a V INDF FIN IND SG 3 PRS
+f u n z a V PRF FIN IND PL 1 PST
+f u n z a V PRF FIN IND PL 2 PST
+f u n z a V PRF FIN IND PL 3 PST
+f u n z a V PRF FIN IND SG 1 PST
+f u n z a V PRF FIN IND SG 2 PST
+f u n z a V PRF FIN IND SG 3 PST
+c h a p i s h a V DEF FIN IND PL 1 PRS
+c h a p i s h a V DEF FIN IND PL 2 PRS
+c h a p i s h a V DEF FIN IND PL 3 PRS
+c h a p i s h a V DEF FIN IND SG 1 PRS
+c h a p i s h a V DEF FIN IND SG 2 PRS
+c h a p i s h a V DEF FIN IND SG 3 PRS
+c h a p i s h a V FIN
+c h a p i s h a V FIN COND PL 1 PRS
+c h a p i s h a V FIN COND PL 1 PST
+c h a p i s h a V FIN COND PL 2 PRS
+c h a p i s h a V FIN COND PL 2 PST
+c h a p i s h a V FIN COND PL 3 PRS
+c h a p i s h a V FIN COND PL 3 PST
+c h a p i s h a V FIN COND SG 1 PRS
+c h a p i s h a V FIN COND SG 1 PST
+c h a p i s h a V FIN COND SG 2 PRS
+c h a p i s h a V FIN COND SG 2 PST
+c h a p i s h a V FIN COND SG 3 PRS
+c h a p i s h a V FIN COND SG 3 PST
+c h a p i s h a V FIN IND PL 1 FUT
+c h a p i s h a V FIN IND PL 1 PST
+c h a p i s h a V FIN IND PL 2 FUT
+c h a p i s h a V FIN IND PL 2 PST
+c h a p i s h a V FIN IND PL 3 FUT
+c h a p i s h a V FIN IND PL 3 PST
+c h a p i s h a V FIN IND SG 1 FUT
+c h a p i s h a V FIN IND SG 1 PST
+c h a p i s h a V FIN IND SG 2 FUT
+c h a p i s h a V FIN IND SG 2 PST
+c h a p i s h a V FIN IND SG 3 FUT
+c h a p i s h a V FIN IND SG 3 PST
+c h a p i s h a V HAB FIN IND PL 1 PRS
+c h a p i s h a V HAB FIN IND PL 2 PRS
+c h a p i s h a V HAB FIN IND PL 3 PRS
+c h a p i s h a V HAB FIN IND SG 1 PRS
+c h a p i s h a V HAB FIN IND SG 2 PRS
+c h a p i s h a V HAB FIN IND SG 3 PRS
+c h a p i s h a V INDF FIN IND PL 1 PRS
+c h a p i s h a V INDF FIN IND PL 2 PRS
+c h a p i s h a V INDF FIN IND PL 3 PRS
+c h a p i s h a V INDF FIN IND SG 1 PRS
+c h a p i s h a V INDF FIN IND SG 2 PRS
+c h a p i s h a V INDF FIN IND SG 3 PRS
+c h a p i s h a V PRF FIN IND PL 1 PST
+c h a p i s h a V PRF FIN IND PL 2 PST
+c h a p i s h a V PRF FIN IND PL 3 PST
+c h a p i s h a V PRF FIN IND SG 1 PST
+c h a p i s h a V PRF FIN IND SG 2 PST
+c h a p i s h a V PRF FIN IND SG 3 PST
+e n d a V DEF FIN IND PL 1 PRS
+e n d a V DEF FIN IND PL 2 PRS
+e n d a V DEF FIN IND PL 3 PRS
+e n d a V DEF FIN IND SG 1 PRS
+e n d a V DEF FIN IND SG 2 PRS
+e n d a V DEF FIN IND SG 3 PRS
+e n d a V FIN
+e n d a V FIN COND PL 1 PRS
+e n d a V FIN COND PL 1 PST
+e n d a V FIN COND PL 2 PRS
+e n d a V FIN COND PL 2 PST
+e n d a V FIN COND PL 3 PRS
+e n d a V FIN COND PL 3 PST
+e n d a V FIN COND SG 1 PRS
+e n d a V FIN COND SG 1 PST
+e n d a V FIN COND SG 2 PRS
+e n d a V FIN COND SG 2 PST
+e n d a V FIN COND SG 3 PRS
+e n d a V FIN COND SG 3 PST
+e n d a V FIN IND PL 1 FUT
+e n d a V FIN IND PL 1 PST
+e n d a V FIN IND PL 2 FUT
+e n d a V FIN IND PL 2 PST
+e n d a V FIN IND PL 3 FUT
+e n d a V FIN IND PL 3 PST
+e n d a V FIN IND SG 1 FUT
+e n d a V FIN IND SG 1 PST
+e n d a V FIN IND SG 2 FUT
+e n d a V FIN IND SG 2 PST
+e n d a V FIN IND SG 3 FUT
+e n d a V FIN IND SG 3 PST
+e n d a V HAB FIN IND PL 1 PRS
+e n d a V HAB FIN IND PL 2 PRS
+e n d a V HAB FIN IND PL 3 PRS
+e n d a V HAB FIN IND SG 1 PRS
+e n d a V HAB FIN IND SG 2 PRS
+e n d a V HAB FIN IND SG 3 PRS
+e n d a V INDF FIN IND PL 1 PRS
+e n d a V INDF FIN IND PL 2 PRS
+e n d a V INDF FIN IND PL 3 PRS
+e n d a V INDF FIN IND SG 1 PRS
+e n d a V INDF FIN IND SG 2 PRS
+e n d a V INDF FIN IND SG 3 PRS
+e n d a V PRF FIN IND PL 1 PST
+e n d a V PRF FIN IND PL 2 PST
+e n d a V PRF FIN IND PL 3 PST
+e n d a V PRF FIN IND SG 1 PST
+e n d a V PRF FIN IND SG 2 PST
+e n d a V PRF FIN IND SG 3 PST
+r u k a V DEF FIN IND PL 1 PRS
+r u k a V DEF FIN IND PL 2 PRS
+r u k a V DEF FIN IND PL 3 PRS
+r u k a V DEF FIN IND SG 1 PRS
+r u k a V DEF FIN IND SG 2 PRS
+r u k a V DEF FIN IND SG 3 PRS
+r u k a V FIN
+r u k a V FIN COND PL 1 PRS
+r u k a V FIN COND PL 1 PST
+r u k a V FIN COND PL 2 PRS
+r u k a V FIN COND PL 2 PST
+r u k a V FIN COND PL 3 PRS
+r u k a V FIN COND PL 3 PST
+r u k a V FIN COND SG 1 PRS
+r u k a V FIN COND SG 1 PST
+r u k a V FIN COND SG 2 PRS
+r u k a V FIN COND SG 2 PST
+r u k a V FIN COND SG 3 PRS
+r u k a V FIN COND SG 3 PST
+r u k a V FIN IND PL 1 FUT
+r u k a V FIN IND PL 1 PST
+r u k a V FIN IND PL 2 FUT
+r u k a V FIN IND PL 2 PST
+r u k a V FIN IND PL 3 FUT
+r u k a V FIN IND PL 3 PST
+r u k a V FIN IND SG 1 FUT
+r u k a V FIN IND SG 1 PST
+r u k a V FIN IND SG 2 FUT
+r u k a V FIN IND SG 2 PST
+r u k a V FIN IND SG 3 FUT
+r u k a V FIN IND SG 3 PST
+r u k a V HAB FIN IND PL 1 PRS
+r u k a V HAB FIN IND PL 2 PRS
+r u k a V HAB FIN IND PL 3 PRS
+r u k a V HAB FIN IND SG 1 PRS
+r u k a V HAB FIN IND SG 2 PRS
+r u k a V HAB FIN IND SG 3 PRS
+r u k a V INDF FIN IND PL 1 PRS
+r u k a V INDF FIN IND PL 2 PRS
+r u k a V INDF FIN IND PL 3 PRS
+r u k a V INDF FIN IND SG 1 PRS
+r u k a V INDF FIN IND SG 2 PRS
+r u k a V INDF FIN IND SG 3 PRS
+r u k a V PRF FIN IND PL 1 PST
+r u k a V PRF FIN IND PL 2 PST
+r u k a V PRF FIN IND PL 3 PST
+r u k a V PRF FIN IND SG 1 PST
+r u k a V PRF FIN IND SG 2 PST
+r u k a V PRF FIN IND SG 3 PST
+c h i m b a V DEF FIN IND PL 1 PRS
+c h i m b a V DEF FIN IND PL 2 PRS
+c h i m b a V DEF FIN IND PL 3 PRS
+c h i m b a V DEF FIN IND SG 1 PRS
+c h i m b a V DEF FIN IND SG 2 PRS
+c h i m b a V DEF FIN IND SG 3 PRS
+c h i m b a V FIN
+c h i m b a V FIN COND PL 1 PRS
+c h i m b a V FIN COND PL 1 PST
+c h i m b a V FIN COND PL 2 PRS
+c h i m b a V FIN COND PL 2 PST
+c h i m b a V FIN COND PL 3 PRS
+c h i m b a V FIN COND PL 3 PST
+c h i m b a V FIN COND SG 1 PRS
+c h i m b a V FIN COND SG 1 PST
+c h i m b a V FIN COND SG 2 PRS
+c h i m b a V FIN COND SG 2 PST
+c h i m b a V FIN COND SG 3 PRS
+c h i m b a V FIN COND SG 3 PST
+c h i m b a V FIN IND PL 1 FUT
+c h i m b a V FIN IND PL 1 PST
+c h i m b a V FIN IND PL 2 FUT
+c h i m b a V FIN IND PL 2 PST
+c h i m b a V FIN IND PL 3 FUT
+c h i m b a V FIN IND PL 3 PST
+c h i m b a V FIN IND SG 1 FUT
+c h i m b a V FIN IND SG 1 PST
+c h i m b a V FIN IND SG 2 FUT
+c h i m b a V FIN IND SG 2 PST
+c h i m b a V FIN IND SG 3 FUT
+c h i m b a V FIN IND SG 3 PST
+c h i m b a V HAB FIN IND PL 1 PRS
+c h i m b a V HAB FIN IND PL 2 PRS
+c h i m b a V HAB FIN IND PL 3 PRS
+c h i m b a V HAB FIN IND SG 1 PRS
+c h i m b a V HAB FIN IND SG 2 PRS
+c h i m b a V HAB FIN IND SG 3 PRS
+c h i m b a V INDF FIN IND PL 1 PRS
+c h i m b a V INDF FIN IND PL 2 PRS
+c h i m b a V INDF FIN IND PL 3 PRS
+c h i m b a V INDF FIN IND SG 1 PRS
+c h i m b a V INDF FIN IND SG 2 PRS
+c h i m b a V INDF FIN IND SG 3 PRS
+c h i m b a V PRF FIN IND PL 1 PST
+c h i m b a V PRF FIN IND PL 2 PST
+c h i m b a V PRF FIN IND PL 3 PST
+c h i m b a V PRF FIN IND SG 1 PST
+c h i m b a V PRF FIN IND SG 2 PST
+c h i m b a V PRF FIN IND SG 3 PST
+o g e l e a V DEF FIN IND PL 1 PRS
+o g e l e a V DEF FIN IND PL 2 PRS
+o g e l e a V DEF FIN IND PL 3 PRS
+o g e l e a V DEF FIN IND SG 1 PRS
+o g e l e a V DEF FIN IND SG 2 PRS
+o g e l e a V DEF FIN IND SG 3 PRS
+o g e l e a V FIN
+o g e l e a V FIN COND PL 1 PRS
+o g e l e a V FIN COND PL 1 PST
+o g e l e a V FIN COND PL 2 PRS
+o g e l e a V FIN COND PL 2 PST
+o g e l e a V FIN COND PL 3 PRS
+o g e l e a V FIN COND PL 3 PST
+o g e l e a V FIN COND SG 1 PRS
+o g e l e a V FIN COND SG 1 PST
+o g e l e a V FIN COND SG 2 PRS
+o g e l e a V FIN COND SG 2 PST
+o g e l e a V FIN COND SG 3 PRS
+o g e l e a V FIN COND SG 3 PST
+o g e l e a V FIN IND PL 1 FUT
+o g e l e a V FIN IND PL 1 PST
+o g e l e a V FIN IND PL 2 FUT
+o g e l e a V FIN IND PL 2 PST
+o g e l e a V FIN IND PL 3 FUT
+o g e l e a V FIN IND PL 3 PST
+o g e l e a V FIN IND SG 1 FUT
+o g e l e a V FIN IND SG 1 PST
+o g e l e a V FIN IND SG 2 FUT
+o g e l e a V FIN IND SG 2 PST
+o g e l e a V FIN IND SG 3 FUT
+o g e l e a V FIN IND SG 3 PST
+o g e l e a V HAB FIN IND PL 1 PRS
+o g e l e a V HAB FIN IND PL 2 PRS
+o g e l e a V HAB FIN IND PL 3 PRS
+o g e l e a V HAB FIN IND SG 1 PRS
+o g e l e a V HAB FIN IND SG 2 PRS
+o g e l e a V HAB FIN IND SG 3 PRS
+o g e l e a V INDF FIN IND PL 1 PRS
+o g e l e a V INDF FIN IND PL 2 PRS
+o g e l e a V INDF FIN IND PL 3 PRS
+o g e l e a V INDF FIN IND SG 1 PRS
+o g e l e a V INDF FIN IND SG 2 PRS
+o g e l e a V INDF FIN IND SG 3 PRS
+o g e l e a V PRF FIN IND PL 1 PST
+o g e l e a V PRF FIN IND PL 2 PST
+o g e l e a V PRF FIN IND PL 3 PST
+o g e l e a V PRF FIN IND SG 1 PST
+o g e l e a V PRF FIN IND SG 2 PST
+o g e l e a V PRF FIN IND SG 3 PST
+b a n d i k a V DEF FIN IND PL 1 PRS
+b a n d i k a V DEF FIN IND PL 2 PRS
+b a n d i k a V DEF FIN IND PL 3 PRS
+b a n d i k a V DEF FIN IND SG 1 PRS
+b a n d i k a V DEF FIN IND SG 2 PRS
+b a n d i k a V DEF FIN IND SG 3 PRS
+b a n d i k a V FIN
+b a n d i k a V FIN COND PL 1 PRS
+b a n d i k a V FIN COND PL 1 PST
+b a n d i k a V FIN COND PL 2 PRS
+b a n d i k a V FIN COND PL 2 PST
+b a n d i k a V FIN COND PL 3 PRS
+b a n d i k a V FIN COND PL 3 PST
+b a n d i k a V FIN COND SG 1 PRS
+b a n d i k a V FIN COND SG 1 PST
+b a n d i k a V FIN COND SG 2 PRS
+b a n d i k a V FIN COND SG 2 PST
+b a n d i k a V FIN COND SG 3 PRS
+b a n d i k a V FIN COND SG 3 PST
+b a n d i k a V FIN IND PL 1 FUT
+b a n d i k a V FIN IND PL 1 PST
+b a n d i k a V FIN IND PL 2 FUT
+b a n d i k a V FIN IND PL 2 PST
+b a n d i k a V FIN IND PL 3 FUT
+b a n d i k a V FIN IND PL 3 PST
+b a n d i k a V FIN IND SG 1 FUT
+b a n d i k a V FIN IND SG 1 PST
+b a n d i k a V FIN IND SG 2 FUT
+b a n d i k a V FIN IND SG 2 PST
+b a n d i k a V FIN IND SG 3 FUT
+b a n d i k a V FIN IND SG 3 PST
+b a n d i k a V HAB FIN IND PL 1 PRS
+b a n d i k a V HAB FIN IND PL 2 PRS
+b a n d i k a V HAB FIN IND PL 3 PRS
+b a n d i k a V HAB FIN IND SG 1 PRS
+b a n d i k a V HAB FIN IND SG 2 PRS
+b a n d i k a V HAB FIN IND SG 3 PRS
+b a n d i k a V INDF FIN IND PL 1 PRS
+b a n d i k a V INDF FIN IND PL 2 PRS
+b a n d i k a V INDF FIN IND PL 3 PRS
+b a n d i k a V INDF FIN IND SG 1 PRS
+b a n d i k a V INDF FIN IND SG 2 PRS
+b a n d i k a V INDF FIN IND SG 3 PRS
+b a n d i k a V PRF FIN IND PL 1 PST
+b a n d i k a V PRF FIN IND PL 2 PST
+b a n d i k a V PRF FIN IND PL 3 PST
+b a n d i k a V PRF FIN IND SG 1 PST
+b a n d i k a V PRF FIN IND SG 2 PST
+b a n d i k a V PRF FIN IND SG 3 PST
+f a g i a V DEF FIN IND PL 1 PRS
+f a g i a V DEF FIN IND PL 2 PRS
+f a g i a V DEF FIN IND PL 3 PRS
+f a g i a V DEF FIN IND SG 1 PRS
+f a g i a V DEF FIN IND SG 2 PRS
+f a g i a V DEF FIN IND SG 3 PRS
+f a g i a V FIN
+f a g i a V FIN COND PL 1 PRS
+f a g i a V FIN COND PL 1 PST
+f a g i a V FIN COND PL 2 PRS
+f a g i a V FIN COND PL 2 PST
+f a g i a V FIN COND PL 3 PRS
+f a g i a V FIN COND PL 3 PST
+f a g i a V FIN COND SG 1 PRS
+f a g i a V FIN COND SG 1 PST
+f a g i a V FIN COND SG 2 PRS
+f a g i a V FIN COND SG 2 PST
+f a g i a V FIN COND SG 3 PRS
+f a g i a V FIN COND SG 3 PST
+f a g i a V FIN IND PL 1 FUT
+f a g i a V FIN IND PL 1 PST
+f a g i a V FIN IND PL 2 FUT
+f a g i a V FIN IND PL 2 PST
+f a g i a V FIN IND PL 3 FUT
+f a g i a V FIN IND PL 3 PST
+f a g i a V FIN IND SG 1 FUT
+f a g i a V FIN IND SG 1 PST
+f a g i a V FIN IND SG 2 FUT
+f a g i a V FIN IND SG 2 PST
+f a g i a V FIN IND SG 3 FUT
+f a g i a V FIN IND SG 3 PST
+f a g i a V HAB FIN IND PL 1 PRS
+f a g i a V HAB FIN IND PL 2 PRS
+f a g i a V HAB FIN IND PL 3 PRS
+f a g i a V HAB FIN IND SG 1 PRS
+f a g i a V HAB FIN IND SG 2 PRS
+f a g i a V HAB FIN IND SG 3 PRS
+f a g i a V INDF FIN IND PL 1 PRS
+f a g i a V INDF FIN IND PL 2 PRS
+f a g i a V INDF FIN IND PL 3 PRS
+f a g i a V INDF FIN IND SG 1 PRS
+f a g i a V INDF FIN IND SG 2 PRS
+f a g i a V INDF FIN IND SG 3 PRS
+f a g i a V PRF FIN IND PL 1 PST
+f a g i a V PRF FIN IND PL 2 PST
+f a g i a V PRF FIN IND PL 3 PST
+f a g i a V PRF FIN IND SG 1 PST
+f a g i a V PRF FIN IND SG 2 PST
+f a g i a V PRF FIN IND SG 3 PST
+f i k a V DEF FIN IND PL 1 PRS
+f i k a V DEF FIN IND PL 2 PRS
+f i k a V DEF FIN IND PL 3 PRS
+f i k a V DEF FIN IND SG 1 PRS
+f i k a V DEF FIN IND SG 2 PRS
+f i k a V DEF FIN IND SG 3 PRS
+f i k a V FIN
+f i k a V FIN COND PL 1 PRS
+f i k a V FIN COND PL 1 PST
+f i k a V FIN COND PL 2 PRS
+f i k a V FIN COND PL 2 PST
+f i k a V FIN COND PL 3 PRS
+f i k a V FIN COND PL 3 PST
+f i k a V FIN COND SG 1 PRS
+f i k a V FIN COND SG 1 PST
+f i k a V FIN COND SG 2 PRS
+f i k a V FIN COND SG 2 PST
+f i k a V FIN COND SG 3 PRS
+f i k a V FIN COND SG 3 PST
+f i k a V FIN IND PL 1 FUT
+f i k a V FIN IND PL 1 PST
+f i k a V FIN IND PL 2 FUT
+f i k a V FIN IND PL 2 PST
+f i k a V FIN IND PL 3 FUT
+f i k a V FIN IND PL 3 PST
+f i k a V FIN IND SG 1 FUT
+f i k a V FIN IND SG 1 PST
+f i k a V FIN IND SG 2 FUT
+f i k a V FIN IND SG 2 PST
+f i k a V FIN IND SG 3 FUT
+f i k a V FIN IND SG 3 PST
+f i k a V HAB FIN IND PL 1 PRS
+f i k a V HAB FIN IND PL 2 PRS
+f i k a V HAB FIN IND PL 3 PRS
+f i k a V HAB FIN IND SG 1 PRS
+f i k a V HAB FIN IND SG 2 PRS
+f i k a V HAB FIN IND SG 3 PRS
+f i k a V INDF FIN IND PL 1 PRS
+f i k a V INDF FIN IND PL 2 PRS
+f i k a V INDF FIN IND PL 3 PRS
+f i k a V INDF FIN IND SG 1 PRS
+f i k a V INDF FIN IND SG 2 PRS
+f i k a V INDF FIN IND SG 3 PRS
+f i k a V PRF FIN IND PL 1 PST
+f i k a V PRF FIN IND PL 2 PST
+f i k a V PRF FIN IND PL 3 PST
+f i k a V PRF FIN IND SG 1 PST
+f i k a V PRF FIN IND SG 2 PST
+f i k a V PRF FIN IND SG 3 PST
+p e a V DEF FIN IND PL 1 PRS
+p e a V DEF FIN IND PL 2 PRS
+p e a V DEF FIN IND PL 3 PRS
+p e a V DEF FIN IND SG 1 PRS
+p e a V DEF FIN IND SG 2 PRS
+p e a V DEF FIN IND SG 3 PRS
+p e a V FIN
+p e a V FIN COND PL 1 PRS
+p e a V FIN COND PL 1 PST
+p e a V FIN COND PL 2 PRS
+p e a V FIN COND PL 2 PST
+p e a V FIN COND PL 3 PRS
+p e a V FIN COND PL 3 PST
+p e a V FIN COND SG 1 PRS
+p e a V FIN COND SG 1 PST
+p e a V FIN COND SG 2 PRS
+p e a V FIN COND SG 2 PST
+p e a V FIN COND SG 3 PRS
+p e a V FIN COND SG 3 PST
+p e a V FIN IND PL 1 FUT
+p e a V FIN IND PL 1 PST
+p e a V FIN IND PL 2 FUT
+p e a V FIN IND PL 2 PST
+p e a V FIN IND PL 3 FUT
+p e a V FIN IND PL 3 PST
+p e a V FIN IND SG 1 FUT
+p e a V FIN IND SG 1 PST
+p e a V FIN IND SG 2 FUT
+p e a V FIN IND SG 2 PST
+p e a V FIN IND SG 3 FUT
+p e a V FIN IND SG 3 PST
+p e a V HAB FIN IND PL 1 PRS
+p e a V HAB FIN IND PL 2 PRS
+p e a V HAB FIN IND PL 3 PRS
+p e a V HAB FIN IND SG 1 PRS
+p e a V HAB FIN IND SG 2 PRS
+p e a V HAB FIN IND SG 3 PRS
+p e a V INDF FIN IND PL 1 PRS
+p e a V INDF FIN IND PL 2 PRS
+p e a V INDF FIN IND PL 3 PRS
+p e a V INDF FIN IND SG 1 PRS
+p e a V INDF FIN IND SG 2 PRS
+p e a V INDF FIN IND SG 3 PRS
+p e a V PRF FIN IND PL 1 PST
+p e a V PRF FIN IND PL 2 PST
+p e a V PRF FIN IND PL 3 PST
+p e a V PRF FIN IND SG 1 PST
+p e a V PRF FIN IND SG 2 PST
+p e a V PRF FIN IND SG 3 PST
+j u a V DEF FIN IND PL 1 PRS
+j u a V DEF FIN IND PL 2 PRS
+j u a V DEF FIN IND PL 3 PRS
+j u a V DEF FIN IND SG 1 PRS
+j u a V DEF FIN IND SG 2 PRS
+j u a V DEF FIN IND SG 3 PRS
+j u a V FIN
+j u a V FIN COND PL 1 PRS
+j u a V FIN COND PL 1 PST
+j u a V FIN COND PL 2 PRS
+j u a V FIN COND PL 2 PST
+j u a V FIN COND PL 3 PRS
+j u a V FIN COND PL 3 PST
+j u a V FIN COND SG 1 PRS
+j u a V FIN COND SG 1 PST
+j u a V FIN COND SG 2 PRS
+j u a V FIN COND SG 2 PST
+j u a V FIN COND SG 3 PRS
+j u a V FIN COND SG 3 PST
+j u a V FIN IND PL 1 FUT
+j u a V FIN IND PL 1 PST
+j u a V FIN IND PL 2 FUT
+j u a V FIN IND PL 2 PST
+j u a V FIN IND PL 3 FUT
+j u a V FIN IND PL 3 PST
+j u a V FIN IND SG 1 FUT
+j u a V FIN IND SG 1 PST
+j u a V FIN IND SG 2 FUT
+j u a V FIN IND SG 2 PST
+j u a V FIN IND SG 3 FUT
+j u a V FIN IND SG 3 PST
+j u a V HAB FIN IND PL 1 PRS
+j u a V HAB FIN IND PL 2 PRS
+j u a V HAB FIN IND PL 3 PRS
+j u a V HAB FIN IND SG 1 PRS
+j u a V HAB FIN IND SG 2 PRS
+j u a V HAB FIN IND SG 3 PRS
+j u a V INDF FIN IND PL 1 PRS
+j u a V INDF FIN IND PL 2 PRS
+j u a V INDF FIN IND PL 3 PRS
+j u a V INDF FIN IND SG 1 PRS
+j u a V INDF FIN IND SG 2 PRS
+j u a V INDF FIN IND SG 3 PRS
+j u a V PRF FIN IND PL 1 PST
+j u a V PRF FIN IND PL 2 PST
+j u a V PRF FIN IND PL 3 PST
+j u a V PRF FIN IND SG 1 PST
+j u a V PRF FIN IND SG 2 PST
+j u a V PRF FIN IND SG 3 PST
+c h a n g a n y a V DEF FIN IND PL 1 PRS
+c h a n g a n y a V DEF FIN IND PL 2 PRS
+c h a n g a n y a V DEF FIN IND PL 3 PRS
+c h a n g a n y a V DEF FIN IND SG 1 PRS
+c h a n g a n y a V DEF FIN IND SG 2 PRS
+c h a n g a n y a V DEF FIN IND SG 3 PRS
+c h a n g a n y a V FIN
+c h a n g a n y a V FIN COND PL 1 PRS
+c h a n g a n y a V FIN COND PL 1 PST
+c h a n g a n y a V FIN COND PL 2 PRS
+c h a n g a n y a V FIN COND PL 2 PST
+c h a n g a n y a V FIN COND PL 3 PRS
+c h a n g a n y a V FIN COND PL 3 PST
+c h a n g a n y a V FIN COND SG 1 PRS
+c h a n g a n y a V FIN COND SG 1 PST
+c h a n g a n y a V FIN COND SG 2 PRS
+c h a n g a n y a V FIN COND SG 2 PST
+c h a n g a n y a V FIN COND SG 3 PRS
+c h a n g a n y a V FIN COND SG 3 PST
+c h a n g a n y a V FIN IND PL 1 FUT
+c h a n g a n y a V FIN IND PL 1 PST
+c h a n g a n y a V FIN IND PL 2 FUT
+c h a n g a n y a V FIN IND PL 2 PST
+c h a n g a n y a V FIN IND PL 3 FUT
+c h a n g a n y a V FIN IND PL 3 PST
+c h a n g a n y a V FIN IND SG 1 FUT
+c h a n g a n y a V FIN IND SG 1 PST
+c h a n g a n y a V FIN IND SG 2 FUT
+c h a n g a n y a V FIN IND SG 2 PST
+c h a n g a n y a V FIN IND SG 3 FUT
+c h a n g a n y a V FIN IND SG 3 PST
+c h a n g a n y a V HAB FIN IND PL 1 PRS
+c h a n g a n y a V HAB FIN IND PL 2 PRS
+c h a n g a n y a V HAB FIN IND PL 3 PRS
+c h a n g a n y a V HAB FIN IND SG 1 PRS
+c h a n g a n y a V HAB FIN IND SG 2 PRS
+c h a n g a n y a V HAB FIN IND SG 3 PRS
+c h a n g a n y a V INDF FIN IND PL 1 PRS
+c h a n g a n y a V INDF FIN IND PL 2 PRS
+c h a n g a n y a V INDF FIN IND PL 3 PRS
+c h a n g a n y a V INDF FIN IND SG 1 PRS
+c h a n g a n y a V INDF FIN IND SG 2 PRS
+c h a n g a n y a V INDF FIN IND SG 3 PRS
+c h a n g a n y a V PRF FIN IND PL 1 PST
+c h a n g a n y a V PRF FIN IND PL 2 PST
+c h a n g a n y a V PRF FIN IND PL 3 PST
+c h a n g a n y a V PRF FIN IND SG 1 PST
+c h a n g a n y a V PRF FIN IND SG 2 PST
+c h a n g a n y a V PRF FIN IND SG 3 PST
+p a n g u z a V DEF FIN IND PL 1 PRS
+p a n g u z a V DEF FIN IND PL 2 PRS
+p a n g u z a V DEF FIN IND PL 3 PRS
+p a n g u z a V DEF FIN IND SG 1 PRS
+p a n g u z a V DEF FIN IND SG 2 PRS
+p a n g u z a V DEF FIN IND SG 3 PRS
+p a n g u z a V FIN
+p a n g u z a V FIN COND PL 1 PRS
+p a n g u z a V FIN COND PL 1 PST
+p a n g u z a V FIN COND PL 2 PRS
+p a n g u z a V FIN COND PL 2 PST
+p a n g u z a V FIN COND PL 3 PRS
+p a n g u z a V FIN COND PL 3 PST
+p a n g u z a V FIN COND SG 1 PRS
+p a n g u z a V FIN COND SG 1 PST
+p a n g u z a V FIN COND SG 2 PRS
+p a n g u z a V FIN COND SG 2 PST
+p a n g u z a V FIN COND SG 3 PRS
+p a n g u z a V FIN COND SG 3 PST
+p a n g u z a V FIN IND PL 1 FUT
+p a n g u z a V FIN IND PL 1 PST
+p a n g u z a V FIN IND PL 2 FUT
+p a n g u z a V FIN IND PL 2 PST
+p a n g u z a V FIN IND PL 3 FUT
+p a n g u z a V FIN IND PL 3 PST
+p a n g u z a V FIN IND SG 1 FUT
+p a n g u z a V FIN IND SG 1 PST
+p a n g u z a V FIN IND SG 2 FUT
+p a n g u z a V FIN IND SG 2 PST
+p a n g u z a V FIN IND SG 3 FUT
+p a n g u z a V FIN IND SG 3 PST
+p a n g u z a V HAB FIN IND PL 1 PRS
+p a n g u z a V HAB FIN IND PL 2 PRS
+p a n g u z a V HAB FIN IND PL 3 PRS
+p a n g u z a V HAB FIN IND SG 1 PRS
+p a n g u z a V HAB FIN IND SG 2 PRS
+p a n g u z a V HAB FIN IND SG 3 PRS
+p a n g u z a V INDF FIN IND PL 1 PRS
+p a n g u z a V INDF FIN IND PL 2 PRS
+p a n g u z a V INDF FIN IND PL 3 PRS
+p a n g u z a V INDF FIN IND SG 1 PRS
+p a n g u z a V INDF FIN IND SG 2 PRS
+p a n g u z a V INDF FIN IND SG 3 PRS
+p a n g u z a V PRF FIN IND PL 1 PST
+p a n g u z a V PRF FIN IND PL 2 PST
+p a n g u z a V PRF FIN IND PL 3 PST
+p a n g u z a V PRF FIN IND SG 1 PST
+p a n g u z a V PRF FIN IND SG 2 PST
+p a n g u z a V PRF FIN IND SG 3 PST
+f i c h a V DEF FIN IND PL 1 PRS
+f i c h a V DEF FIN IND PL 2 PRS
+f i c h a V DEF FIN IND PL 3 PRS
+f i c h a V DEF FIN IND SG 1 PRS
+f i c h a V DEF FIN IND SG 2 PRS
+f i c h a V DEF FIN IND SG 3 PRS
+f i c h a V FIN
+f i c h a V FIN COND PL 1 PRS
+f i c h a V FIN COND PL 1 PST
+f i c h a V FIN COND PL 2 PRS
+f i c h a V FIN COND PL 2 PST
+f i c h a V FIN COND PL 3 PRS
+f i c h a V FIN COND PL 3 PST
+f i c h a V FIN COND SG 1 PRS
+f i c h a V FIN COND SG 1 PST
+f i c h a V FIN COND SG 2 PRS
+f i c h a V FIN COND SG 2 PST
+f i c h a V FIN COND SG 3 PRS
+f i c h a V FIN COND SG 3 PST
+f i c h a V FIN IND PL 1 FUT
+f i c h a V FIN IND PL 1 PST
+f i c h a V FIN IND PL 2 FUT
+f i c h a V FIN IND PL 2 PST
+f i c h a V FIN IND PL 3 FUT
+f i c h a V FIN IND PL 3 PST
+f i c h a V FIN IND SG 1 FUT
+f i c h a V FIN IND SG 1 PST
+f i c h a V FIN IND SG 2 FUT
+f i c h a V FIN IND SG 2 PST
+f i c h a V FIN IND SG 3 FUT
+f i c h a V FIN IND SG 3 PST
+f i c h a V HAB FIN IND PL 1 PRS
+f i c h a V HAB FIN IND PL 2 PRS
+f i c h a V HAB FIN IND PL 3 PRS
+f i c h a V HAB FIN IND SG 1 PRS
+f i c h a V HAB FIN IND SG 2 PRS
+f i c h a V HAB FIN IND SG 3 PRS
+f i c h a V INDF FIN IND PL 1 PRS
+f i c h a V INDF FIN IND PL 2 PRS
+f i c h a V INDF FIN IND PL 3 PRS
+f i c h a V INDF FIN IND SG 1 PRS
+f i c h a V INDF FIN IND SG 2 PRS
+f i c h a V INDF FIN IND SG 3 PRS
+f i c h a V PRF FIN IND PL 1 PST
+f i c h a V PRF FIN IND PL 2 PST
+f i c h a V PRF FIN IND PL 3 PST
+f i c h a V PRF FIN IND SG 1 PST
+f i c h a V PRF FIN IND SG 2 PST
+f i c h a V PRF FIN IND SG 3 PST
+f u a t a V DEF FIN IND PL 1 PRS
+f u a t a V DEF FIN IND PL 2 PRS
+f u a t a V DEF FIN IND PL 3 PRS
+f u a t a V DEF FIN IND SG 1 PRS
+f u a t a V DEF FIN IND SG 2 PRS
+f u a t a V DEF FIN IND SG 3 PRS
+f u a t a V FIN
+f u a t a V FIN COND PL 1 PRS
+f u a t a V FIN COND PL 1 PST
+f u a t a V FIN COND PL 2 PRS
+f u a t a V FIN COND PL 2 PST
+f u a t a V FIN COND PL 3 PRS
+f u a t a V FIN COND PL 3 PST
+f u a t a V FIN COND SG 1 PRS
+f u a t a V FIN COND SG 1 PST
+f u a t a V FIN COND SG 2 PRS
+f u a t a V FIN COND SG 2 PST
+f u a t a V FIN COND SG 3 PRS
+f u a t a V FIN COND SG 3 PST
+f u a t a V FIN IND PL 1 FUT
+f u a t a V FIN IND PL 1 PST
+f u a t a V FIN IND PL 2 FUT
+f u a t a V FIN IND PL 2 PST
+f u a t a V FIN IND PL 3 FUT
+f u a t a V FIN IND PL 3 PST
+f u a t a V FIN IND SG 1 FUT
+f u a t a V FIN IND SG 1 PST
+f u a t a V FIN IND SG 2 FUT
+f u a t a V FIN IND SG 2 PST
+f u a t a V FIN IND SG 3 FUT
+f u a t a V FIN IND SG 3 PST
+f u a t a V HAB FIN IND PL 1 PRS
+f u a t a V HAB FIN IND PL 2 PRS
+f u a t a V HAB FIN IND PL 3 PRS
+f u a t a V HAB FIN IND SG 1 PRS
+f u a t a V HAB FIN IND SG 2 PRS
+f u a t a V HAB FIN IND SG 3 PRS
+f u a t a V INDF FIN IND PL 1 PRS
+f u a t a V INDF FIN IND PL 2 PRS
+f u a t a V INDF FIN IND PL 3 PRS
+f u a t a V INDF FIN IND SG 1 PRS
+f u a t a V INDF FIN IND SG 2 PRS
+f u a t a V INDF FIN IND SG 3 PRS
+f u a t a V PRF FIN IND PL 1 PST
+f u a t a V PRF FIN IND PL 2 PST
+f u a t a V PRF FIN IND PL 3 PST
+f u a t a V PRF FIN IND SG 1 PST
+f u a t a V PRF FIN IND SG 2 PST
+f u a t a V PRF FIN IND SG 3 PST
+p i k a V DEF FIN IND PL 1 PRS
+p i k a V DEF FIN IND PL 2 PRS
+p i k a V DEF FIN IND PL 3 PRS
+p i k a V DEF FIN IND SG 1 PRS
+p i k a V DEF FIN IND SG 2 PRS
+p i k a V DEF FIN IND SG 3 PRS
+p i k a V FIN
+p i k a V FIN COND PL 1 PRS
+p i k a V FIN COND PL 1 PST
+p i k a V FIN COND PL 2 PRS
+p i k a V FIN COND PL 2 PST
+p i k a V FIN COND PL 3 PRS
+p i k a V FIN COND PL 3 PST
+p i k a V FIN COND SG 1 PRS
+p i k a V FIN COND SG 1 PST
+p i k a V FIN COND SG 2 PRS
+p i k a V FIN COND SG 2 PST
+p i k a V FIN COND SG 3 PRS
+p i k a V FIN COND SG 3 PST
+p i k a V FIN IND PL 1 FUT
+p i k a V FIN IND PL 1 PST
+p i k a V FIN IND PL 2 FUT
+p i k a V FIN IND PL 2 PST
+p i k a V FIN IND PL 3 FUT
+p i k a V FIN IND PL 3 PST
+p i k a V FIN IND SG 1 FUT
+p i k a V FIN IND SG 1 PST
+p i k a V FIN IND SG 2 FUT
+p i k a V FIN IND SG 2 PST
+p i k a V FIN IND SG 3 FUT
+p i k a V FIN IND SG 3 PST
+p i k a V HAB FIN IND PL 1 PRS
+p i k a V HAB FIN IND PL 2 PRS
+p i k a V HAB FIN IND PL 3 PRS
+p i k a V HAB FIN IND SG 1 PRS
+p i k a V HAB FIN IND SG 2 PRS
+p i k a V HAB FIN IND SG 3 PRS
+p i k a V INDF FIN IND PL 1 PRS
+p i k a V INDF FIN IND PL 2 PRS
+p i k a V INDF FIN IND PL 3 PRS
+p i k a V INDF FIN IND SG 1 PRS
+p i k a V INDF FIN IND SG 2 PRS
+p i k a V INDF FIN IND SG 3 PRS
+p i k a V PRF FIN IND PL 1 PST
+p i k a V PRF FIN IND PL 2 PST
+p i k a V PRF FIN IND PL 3 PST
+p i k a V PRF FIN IND SG 1 PST
+p i k a V PRF FIN IND SG 2 PST
+p i k a V PRF FIN IND SG 3 PST
+t i k i s a V DEF FIN IND PL 1 PRS
+t i k i s a V DEF FIN IND PL 2 PRS
+t i k i s a V DEF FIN IND PL 3 PRS
+t i k i s a V DEF FIN IND SG 1 PRS
+t i k i s a V DEF FIN IND SG 2 PRS
+t i k i s a V DEF FIN IND SG 3 PRS
+t i k i s a V FIN
+t i k i s a V FIN COND PL 1 PRS
+t i k i s a V FIN COND PL 1 PST
+t i k i s a V FIN COND PL 2 PRS
+t i k i s a V FIN COND PL 2 PST
+t i k i s a V FIN COND PL 3 PRS
+t i k i s a V FIN COND PL 3 PST
+t i k i s a V FIN COND SG 1 PRS
+t i k i s a V FIN COND SG 1 PST
+t i k i s a V FIN COND SG 2 PRS
+t i k i s a V FIN COND SG 2 PST
+t i k i s a V FIN COND SG 3 PRS
+t i k i s a V FIN COND SG 3 PST
+t i k i s a V FIN IND PL 1 FUT
+t i k i s a V FIN IND PL 1 PST
+t i k i s a V FIN IND PL 2 FUT
+t i k i s a V FIN IND PL 2 PST
+t i k i s a V FIN IND PL 3 FUT
+t i k i s a V FIN IND PL 3 PST
+t i k i s a V FIN IND SG 1 FUT
+t i k i s a V FIN IND SG 1 PST
+t i k i s a V FIN IND SG 2 FUT
+t i k i s a V FIN IND SG 2 PST
+t i k i s a V FIN IND SG 3 FUT
+t i k i s a V FIN IND SG 3 PST
+t i k i s a V HAB FIN IND PL 1 PRS
+t i k i s a V HAB FIN IND PL 2 PRS
+t i k i s a V HAB FIN IND PL 3 PRS
+t i k i s a V HAB FIN IND SG 1 PRS
+t i k i s a V HAB FIN IND SG 2 PRS
+t i k i s a V HAB FIN IND SG 3 PRS
+t i k i s a V INDF FIN IND PL 1 PRS
+t i k i s a V INDF FIN IND PL 2 PRS
+t i k i s a V INDF FIN IND PL 3 PRS
+t i k i s a V INDF FIN IND SG 1 PRS
+t i k i s a V INDF FIN IND SG 2 PRS
+t i k i s a V INDF FIN IND SG 3 PRS
+t i k i s a V PRF FIN IND PL 1 PST
+t i k i s a V PRF FIN IND PL 2 PST
+t i k i s a V PRF FIN IND PL 3 PST
+t i k i s a V PRF FIN IND SG 1 PST
+t i k i s a V PRF FIN IND SG 2 PST
+t i k i s a V PRF FIN IND SG 3 PST
+k a a V DEF FIN IND PL 1 PRS
+k a a V DEF FIN IND PL 2 PRS
+k a a V DEF FIN IND PL 3 PRS
+k a a V DEF FIN IND SG 1 PRS
+k a a V DEF FIN IND SG 2 PRS
+k a a V DEF FIN IND SG 3 PRS
+k a a V FIN
+k a a V FIN COND PL 1 PRS
+k a a V FIN COND PL 1 PST
+k a a V FIN COND PL 2 PRS
+k a a V FIN COND PL 2 PST
+k a a V FIN COND PL 3 PRS
+k a a V FIN COND PL 3 PST
+k a a V FIN COND SG 1 PRS
+k a a V FIN COND SG 1 PST
+k a a V FIN COND SG 2 PRS
+k a a V FIN COND SG 2 PST
+k a a V FIN COND SG 3 PRS
+k a a V FIN COND SG 3 PST
+k a a V FIN IND PL 1 FUT
+k a a V FIN IND PL 1 PST
+k a a V FIN IND PL 2 FUT
+k a a V FIN IND PL 2 PST
+k a a V FIN IND PL 3 FUT
+k a a V FIN IND PL 3 PST
+k a a V FIN IND SG 1 FUT
+k a a V FIN IND SG 1 PST
+k a a V FIN IND SG 2 FUT
+k a a V FIN IND SG 2 PST
+k a a V FIN IND SG 3 FUT
+k a a V FIN IND SG 3 PST
+k a a V HAB FIN IND PL 1 PRS
+k a a V HAB FIN IND PL 2 PRS
+k a a V HAB FIN IND PL 3 PRS
+k a a V HAB FIN IND SG 1 PRS
+k a a V HAB FIN IND SG 2 PRS
+k a a V HAB FIN IND SG 3 PRS
+k a a V INDF FIN IND PL 1 PRS
+k a a V INDF FIN IND PL 2 PRS
+k a a V INDF FIN IND PL 3 PRS
+k a a V INDF FIN IND SG 1 PRS
+k a a V INDF FIN IND SG 2 PRS
+k a a V INDF FIN IND SG 3 PRS
+k a a V PRF FIN IND PL 1 PST
+k a a V PRF FIN IND PL 2 PST
+k a a V PRF FIN IND PL 3 PST
+k a a V PRF FIN IND SG 1 PST
+k a a V PRF FIN IND SG 2 PST
+k a a V PRF FIN IND SG 3 PST
+f u n g u a V DEF FIN IND PL 1 PRS
+f u n g u a V DEF FIN IND PL 2 PRS
+f u n g u a V DEF FIN IND PL 3 PRS
+f u n g u a V DEF FIN IND SG 1 PRS
+f u n g u a V DEF FIN IND SG 2 PRS
+f u n g u a V DEF FIN IND SG 3 PRS
+f u n g u a V FIN
+f u n g u a V FIN COND PL 1 PRS
+f u n g u a V FIN COND PL 1 PST
+f u n g u a V FIN COND PL 2 PRS
+f u n g u a V FIN COND PL 2 PST
+f u n g u a V FIN COND PL 3 PRS
+f u n g u a V FIN COND PL 3 PST
+f u n g u a V FIN COND SG 1 PRS
+f u n g u a V FIN COND SG 1 PST
+f u n g u a V FIN COND SG 2 PRS
+f u n g u a V FIN COND SG 2 PST
+f u n g u a V FIN COND SG 3 PRS
+f u n g u a V FIN COND SG 3 PST
+f u n g u a V FIN IND PL 1 FUT
+f u n g u a V FIN IND PL 1 PST
+f u n g u a V FIN IND PL 2 FUT
+f u n g u a V FIN IND PL 2 PST
+f u n g u a V FIN IND PL 3 FUT
+f u n g u a V FIN IND PL 3 PST
+f u n g u a V FIN IND SG 1 FUT
+f u n g u a V FIN IND SG 1 PST
+f u n g u a V FIN IND SG 2 FUT
+f u n g u a V FIN IND SG 2 PST
+f u n g u a V FIN IND SG 3 FUT
+f u n g u a V FIN IND SG 3 PST
+f u n g u a V HAB FIN IND PL 1 PRS
+f u n g u a V HAB FIN IND PL 2 PRS
+f u n g u a V HAB FIN IND PL 3 PRS
+f u n g u a V HAB FIN IND SG 1 PRS
+f u n g u a V HAB FIN IND SG 2 PRS
+f u n g u a V HAB FIN IND SG 3 PRS
+f u n g u a V INDF FIN IND PL 1 PRS
+f u n g u a V INDF FIN IND PL 2 PRS
+f u n g u a V INDF FIN IND PL 3 PRS
+f u n g u a V INDF FIN IND SG 1 PRS
+f u n g u a V INDF FIN IND SG 2 PRS
+f u n g u a V INDF FIN IND SG 3 PRS
+f u n g u a V PRF FIN IND PL 1 PST
+f u n g u a V PRF FIN IND PL 2 PST
+f u n g u a V PRF FIN IND PL 3 PST
+f u n g u a V PRF FIN IND SG 1 PST
+f u n g u a V PRF FIN IND SG 2 PST
+f u n g u a V PRF FIN IND SG 3 PST
+t a k a V DEF FIN IND PL 1 PRS
+t a k a V DEF FIN IND PL 2 PRS
+t a k a V DEF FIN IND PL 3 PRS
+t a k a V DEF FIN IND SG 1 PRS
+t a k a V DEF FIN IND SG 2 PRS
+t a k a V DEF FIN IND SG 3 PRS
+t a k a V FIN
+t a k a V FIN COND PL 1 PRS
+t a k a V FIN COND PL 1 PST
+t a k a V FIN COND PL 2 PRS
+t a k a V FIN COND PL 2 PST
+t a k a V FIN COND PL 3 PRS
+t a k a V FIN COND PL 3 PST
+t a k a V FIN COND SG 1 PRS
+t a k a V FIN COND SG 1 PST
+t a k a V FIN COND SG 2 PRS
+t a k a V FIN COND SG 2 PST
+t a k a V FIN COND SG 3 PRS
+t a k a V FIN COND SG 3 PST
+t a k a V FIN IND PL 1 FUT
+t a k a V FIN IND PL 1 PST
+t a k a V FIN IND PL 2 FUT
+t a k a V FIN IND PL 2 PST
+t a k a V FIN IND PL 3 FUT
+t a k a V FIN IND PL 3 PST
+t a k a V FIN IND SG 1 FUT
+t a k a V FIN IND SG 1 PST
+t a k a V FIN IND SG 2 FUT
+t a k a V FIN IND SG 2 PST
+t a k a V FIN IND SG 3 FUT
+t a k a V FIN IND SG 3 PST
+t a k a V HAB FIN IND PL 1 PRS
+t a k a V HAB FIN IND PL 2 PRS
+t a k a V HAB FIN IND PL 3 PRS
+t a k a V HAB FIN IND SG 1 PRS
+t a k a V HAB FIN IND SG 2 PRS
+t a k a V HAB FIN IND SG 3 PRS
+t a k a V INDF FIN IND PL 1 PRS
+t a k a V INDF FIN IND PL 2 PRS
+t a k a V INDF FIN IND PL 3 PRS
+t a k a V INDF FIN IND SG 1 PRS
+t a k a V INDF FIN IND SG 2 PRS
+t a k a V INDF FIN IND SG 3 PRS
+t a k a V PRF FIN IND PL 1 PST
+t a k a V PRF FIN IND PL 2 PST
+t a k a V PRF FIN IND PL 3 PST
+t a k a V PRF FIN IND SG 1 PST
+t a k a V PRF FIN IND SG 2 PST
+t a k a V PRF FIN IND SG 3 PST
+s i k i l i z a V DEF FIN IND PL 1 PRS
+s i k i l i z a V DEF FIN IND PL 2 PRS
+s i k i l i z a V DEF FIN IND PL 3 PRS
+s i k i l i z a V DEF FIN IND SG 1 PRS
+s i k i l i z a V DEF FIN IND SG 2 PRS
+s i k i l i z a V DEF FIN IND SG 3 PRS
+s i k i l i z a V FIN
+s i k i l i z a V FIN COND PL 1 PRS
+s i k i l i z a V FIN COND PL 1 PST
+s i k i l i z a V FIN COND PL 2 PRS
+s i k i l i z a V FIN COND PL 2 PST
+s i k i l i z a V FIN COND PL 3 PRS
+s i k i l i z a V FIN COND PL 3 PST
+s i k i l i z a V FIN COND SG 1 PRS
+s i k i l i z a V FIN COND SG 1 PST
+s i k i l i z a V FIN COND SG 2 PRS
+s i k i l i z a V FIN COND SG 2 PST
+s i k i l i z a V FIN COND SG 3 PRS
+s i k i l i z a V FIN COND SG 3 PST
+s i k i l i z a V FIN IND PL 1 FUT
+s i k i l i z a V FIN IND PL 1 PST
+s i k i l i z a V FIN IND PL 2 FUT
+s i k i l i z a V FIN IND PL 2 PST
+s i k i l i z a V FIN IND PL 3 FUT
+s i k i l i z a V FIN IND PL 3 PST
+s i k i l i z a V FIN IND SG 1 FUT
+s i k i l i z a V FIN IND SG 1 PST
+s i k i l i z a V FIN IND SG 2 FUT
+s i k i l i z a V FIN IND SG 2 PST
+s i k i l i z a V FIN IND SG 3 FUT
+s i k i l i z a V FIN IND SG 3 PST
+s i k i l i z a V HAB FIN IND PL 1 PRS
+s i k i l i z a V HAB FIN IND PL 2 PRS
+s i k i l i z a V HAB FIN IND PL 3 PRS
+s i k i l i z a V HAB FIN IND SG 1 PRS
+s i k i l i z a V HAB FIN IND SG 2 PRS
+s i k i l i z a V HAB FIN IND SG 3 PRS
+s i k i l i z a V INDF FIN IND PL 1 PRS
+s i k i l i z a V INDF FIN IND PL 2 PRS
+s i k i l i z a V INDF FIN IND PL 3 PRS
+s i k i l i z a V INDF FIN IND SG 1 PRS
+s i k i l i z a V INDF FIN IND SG 2 PRS
+s i k i l i z a V INDF FIN IND SG 3 PRS
+s i k i l i z a V PRF FIN IND PL 1 PST
+s i k i l i z a V PRF FIN IND PL 2 PST
+s i k i l i z a V PRF FIN IND PL 3 PST
+s i k i l i z a V PRF FIN IND SG 1 PST
+s i k i l i z a V PRF FIN IND SG 2 PST
+s i k i l i z a V PRF FIN IND SG 3 PST
+e s a i V HAB FIN IND SG 1 PRS
+u a o s m h u l V FIN IND PL 2 FUT
+j i u a a n V PRF FIN IND PL 3 PST
+w a t t u l u n a m V FIN COND SG 3 PST
+i m e l i l e l i i m n a v V HAB FIN IND PL 3 PRS
+s a t a e n V HAB FIN IND PL 1 PRS
+o t a f i k a u n a p V INDF FIN IND SG 3 PRS
+t a b a k u l i z n y a V HAB FIN IND PL 3 PRS
+m e o t a h u g V DEF FIN IND PL 1 PRS
+m a v u V INDF FIN IND PL 3 PRS
+i k o a n d V FIN IND PL 3 PST
+i k i a b o z a m a V HAB FIN IND PL 2 PRS
+i u i h u j n g e s V FIN COND SG 2 PRS
+s h a s i g u a V DEF FIN IND PL 1 PRS
+u l i a c h u V FIN IND PL 2 PST
+m e t i V FIN
+s a n m t a j V FIN COND SG 3 PST
+t a i m m e z V FIN IND SG 3 FUT
+u n a m V FIN IND SG 3 FUT
+z a a m e o a m e a V FIN IND PL 1 PST
+k u m b u i m k u s h V HAB FIN IND SG 3 PRS
+i o n V FIN COND SG 2 PRS
+u h u f V FIN COND PL 3 PST
+o n g i h u c e t a k V PRF FIN IND SG 2 PST
+d o u m u v u a k u s V DEF FIN IND SG 2 PRS
+a k u u l i p h u s h V FIN COND SG 3 PRS
+m n a p t u m V FIN IND SG 3 PST
+t a m w m n a b l i o V DEF FIN IND SG 1 PRS
+a h u u t a f a V FIN IND SG 1 FUT
+a a f u V FIN COND PL 2 PRS
+k u i m l i v m h u v V FIN IND PL 2 FUT
+i a z a V HAB FIN IND PL 1 PRS
+s h i t a l i V FIN COND SG 2 PST
+a n a p a a k u V FIN IND PL 2 PST
+n g e m h u z a a a l a n d a V FIN IND PL 3 FUT
+u t a e k u e a m w V FIN COND SG 3 PRS
+u j i s n g e u V DEF FIN IND PL 2 PRS
+m t a v b u k a V FIN IND PL 1 PST
+u n a o i k o h V FIN COND PL 1 PRS
+i i m b w a l i V PRF FIN IND SG 3 PST
+m h u m V DEF FIN IND SG 2 PRS
+w a n s o u l i g V DEF FIN IND PL 3 PRS
+i p i g e l i V DEF FIN IND SG 3 PRS
+u n a i u k u m V FIN IND SG 3 FUT
+k u b a e o n a V PRF FIN IND PL 3 PST
+i p i k h u o V FIN IND PL 2 FUT
+a m e k V FIN IND SG 3 PST
+g u s a a a u l V INDF FIN IND PL 1 PRS
+a a k o V PRF FIN IND PL 1 PST
+o n g e k u j i m l b o m a j g e a n V INDF FIN IND PL 3 PRS
+m a z n a i V INDF FIN IND PL 1 PRS
+i t e m v u a i d i V FIN IND PL 2 PST
+m m u u V PRF FIN IND PL 1 PST
+w a h V INDF FIN IND SG 2 PRS
+g e s t a j u V DEF FIN IND SG 2 PRS
+t a r u l i f i a k a t V FIN COND SG 1 PRS
+t a l e a r u V PRF FIN IND SG 1 PST
+e o g e p i i f a g V INDF FIN IND PL 3 PRS
+i n a z l i g o V PRF FIN IND SG 3 PST
+w a l i n g e s V FIN COND SG 1 PST
+h u s a V FIN IND PL 3 FUT
+t a p i n a j i a p u V PRF FIN IND SG 2 PST
+i a z m n a l a n g u V FIN IND SG 3 FUT
+p a n d V FIN COND PL 2 PST
+b i i l i g V FIN IND PL 3 FUT
+l i s h m n a r V FIN IND PL 3 FUT
+u m e c m m e z n i a i V FIN COND PL 3 PST
+h u f a g e f i V FIN COND PL 3 PRS
+b e a a h u z a j u V FIN
+h u p u V HAB FIN IND PL 2 PRS
+m t a c V HAB FIN IND PL 3 PRS
+g e k u l i f a V INDF FIN IND SG 1 PRS
+h i n d u p u V FIN COND SG 1 PRS
+a s i m V HAB FIN IND PL 2 PRS
+w a n a a g z a m V DEF FIN IND PL 1 PRS
+i n a a u k V HAB FIN IND PL 1 PRS
+l i g u u l i a p i V FIN COND SG 2 PST
+h u t a V FIN IND SG 2 FUT
+w a a a n a b a V INDF FIN IND SG 3 PRS
+m h u p V PRF FIN IND PL 3 PST
+g u z a i s h i V FIN IND SG 3 PST
+i m e m a m e u V FIN COND SG 3 PRS
+t a v u e a n z w a h u V FIN IND PL 2 PST
+m a b V HAB FIN IND PL 1 PRS
+k u m b e u l i i n a v V HAB FIN IND SG 1 PRS
+t a o s n i a r V INDF FIN IND PL 2 PRS
+i p i l e t k u b a V HAB FIN IND PL 1 PRS
+i k i a l i g a j i s V PRF FIN IND PL 2 PST
+m n a m m e b a V PRF FIN IND SG 2 PST
+l i p i u b o V FIN IND PL 3 FUT
+a a b u a l e V FIN IND SG 3 FUT
+l i l e i z a V FIN
+u t a e h u o n l i j i V FIN COND SG 2 PRS
+l i c k u z a V PRF FIN IND PL 3 PST
+a m e s u a a n i a l a V FIN IND SG 2 FUT
+a a o g a i m V FIN COND SG 2 PRS
+m e t a a s i k V FIN
+a n g e V FIN COND PL 1 PST
+n u u a v u k u c V FIN COND SG 1 PST
+b i a n i h i l e t z a m a V FIN COND PL 2 PRS
+u a i k i a u a t i a m b e c h i V PRF FIN IND PL 3 PST
+m e t V FIN IND SG 1 PST
+n g a j i f V FIN COND PL 3 PRS
+d a i l i s V PRF FIN IND SG 2 PST
+j i f u a a f u i t a a V FIN IND PL 3 FUT
+i a f a a l a V FIN IND PL 2 PST
+e p i a n z V FIN IND PL 3 PST
+n a t e h u i m V FIN COND SG 2 PST
+l i s m l i r V DEF FIN IND SG 3 PRS
+u a e g o z a i p V FIN IND SG 2 FUT
+i a n i m e s e c h e a f u a a s i m V FIN COND PL 3 PRS
+a n a b V INDF FIN IND SG 2 PRS
+e p i u a u l e l a V FIN IND SG 2 PST
+i t a u p a V FIN COND PL 2 PST
+t a p n i a m V FIN COND SG 3 PST
+l i p a V FIN COND PL 2 PRS
+j i m m e m V DEF FIN IND PL 3 PRS
+k u e h u p e V FIN IND PL 2 PST
+u b a l i f i i a g o n e o g u c h e V PRF FIN IND SG 1 PST
+u h u i V FIN IND PL 2 PST
+s o n a u i s c h i m V DEF FIN IND SG 2 PRS
+a p u n s a i d V PRF FIN IND SG 2 PST
+n a k a V PRF FIN IND SG 2 PST
+e c h a c h a i t e V FIN IND SG 1 PST
+a p i k u o t m l i z V FIN IND SG 3 PST
+z a u a l h u u V FIN IND SG 3 PST
+i g o k u s h m h u l n a s i i s o m V PRF FIN IND PL 1 PST
+w a a g m e o i a v u m n g a t a r V FIN COND SG 2 PST
+i o s h i a v a i m b V HAB FIN IND PL 3 PRS
+h u s a n a p a V HAB FIN IND PL 1 PRS
+l a l k u u l m n a a V FIN IND SG 3 PST
+t a s i u l i r a p u V DEF FIN IND PL 1 PRS
+i h u r V HAB FIN IND SG 2 PRS
+a l i c i n g a a b a V FIN IND SG 2 FUT
+m t a l V FIN IND PL 3 PST
+e p i k a a c h a l i g V FIN COND PL 2 PRS
+u k u a a h u V DEF FIN IND SG 3 PRS
+k u s o s o m V PRF FIN IND SG 1 PST
+a a s o i h u r i p e a a a a i m e e V HAB FIN IND SG 1 PRS
+l i i n a j l i o V PRF FIN IND PL 1 PST
+a a g l i k u i l i u V FIN IND SG 2 PST
+n g e e V FIN COND PL 2 PRS
+g e e e k o V DEF FIN IND PL 2 PRS
+m e j u m m e e V INDF FIN IND PL 2 PRS
+m t a l V FIN COND SG 2 PST
+t a p a n a s V PRF FIN IND SG 2 PST
+i l i u n g a n V HAB FIN IND PL 1 PRS
+i o t h u e c h i m V INDF FIN IND SG 3 PRS
+e o g a a c h m e g o m t V FIN
+u n a j u p a n V HAB FIN IND SG 1 PRS
+l i g u i a m V PRF FIN IND SG 3 PST
+e f i k i a l e i f i c a a p u V PRF FIN IND PL 1 PST
+e l i l i e n l i e V FIN IND SG 1 FUT
+a j i m e c h k w a V FIN COND PL 1 PRS
+m l i u o n d t a u l V FIN COND PL 2 PST
+u n a V DEF FIN IND SG 3 PRS
+i l i g V FIN COND PL 2 PRS
+u b o f V INDF FIN IND PL 3 PRS
+a g i i a j u k o V DEF FIN IND SG 3 PRS
+u k w a V PRF FIN IND PL 2 PST
+e g u i t e n V FIN IND PL 3 PST
+a s i k V FIN IND PL 3 PST
+n i a o o s h a k a V FIN COND SG 3 PRS
+d i a i n g k i l i V FIN COND SG 2 PST
+s a g a u a u l i t a t m e s o V HAB FIN IND SG 2 PRS
+i c h u V FIN COND PL 2 PRS
+i n a k j i e k a t V HAB FIN IND PL 1 PRS
+u c h u u n a u V FIN COND PL 1 PRS
+a a o s V PRF FIN IND PL 1 PST
+m a m w g i h u t V INDF FIN IND SG 2 PRS
+l i s a i m e l V INDF FIN IND PL 2 PRS
+a t i u n a c m a t e m t a t u s a V DEF FIN IND SG 1 PRS
+a a c V DEF FIN IND PL 1 PRS
+i i m m n g a h i n t a l V FIN IND SG 1 FUT
+t e n g i a s h V FIN COND SG 1 PST
+u a g u l i o V FIN COND SG 3 PRS
+m m e m c h a n u r V HAB FIN IND PL 3 PRS
+b u k a m a h u s u t a i e n d m e g o V FIN IND SG 2 FUT
+z a i k o p o s h a V FIN IND SG 3 FUT
+i a u u l i v n a l a V HAB FIN IND PL 1 PRS
+a a o t a a g i z a V FIN COND PL 3 PST
+m e g V FIN IND SG 2 FUT
+u t a c g e l i V INDF FIN IND SG 2 PRS
+u c h o c h e k e l e a V FIN COND PL 2 PST
+u h u a a c h o l e t a V PRF FIN IND SG 3 PST
+t a e i a p u i g V PRF FIN IND PL 2 PST
+i b m a f i e s i m e o n V FIN COND PL 2 PST
+k u r i a k o V FIN COND PL 2 PRS
+a m e l a p e a k w a V FIN COND PL 3 PST
+k i e p i g i s h a V PRF FIN IND PL 1 PST
+i m e a g e k o m h h u b a V FIN IND PL 2 PST
+m m e c i l a l V FIN IND PL 3 PST
+e n g e j i f V PRF FIN IND SG 2 PST
+n i a k m t a p a a m b V HAB FIN IND SG 1 PRS
+i n a p m e p a m t a m e k o V DEF FIN IND SG 1 PRS
+a p u t a i m a s h V FIN IND PL 3 PST
+e l a l g u m t u j i s t a z a V FIN IND SG 1 FUT
+t u a l a m e b V FIN IND PL 1 FUT
+t u l i i m e v V FIN IND PL 2 FUT
+h u l i V FIN COND SG 1 PRS
+n g e z l a V INDF FIN IND SG 1 PRS
+t a t e m m e v V HAB FIN IND PL 1 PRS
+a b u n a m V FIN IND PL 3 FUT
+m n a m a a s i V FIN COND SG 3 PRS
+e n d a V PRF FIN IND PL 3 PST
+i o n i t e m V DEF FIN IND PL 2 PRS
+i a a V FIN IND SG 1 PST
+i c h o h u u l V PRF FIN IND PL 3 PST
+a o t V FIN COND PL 3 PRS
+w a a c V FIN COND PL 2 PRS
+m t a u a n g m n g V FIN IND PL 1 PST
+e p a n m e p a V HAB FIN IND SG 3 PRS
+u i m b a l i m m e v u b o V FIN IND PL 1 FUT
+u h u z h u p u l i e V FIN IND SG 2 PST
+i h u e V HAB FIN IND PL 1 PRS
+a a w a a f a u p V PRF FIN IND SG 2 PST
+e k a m e s i i a t e V INDF FIN IND SG 1 PRS
+t a l i V FIN COND PL 3 PST
+e p e h e V DEF FIN IND PL 1 PRS
+e t a z V FIN COND PL 3 PST
+a m e p n a l i c h i m V FIN COND SG 3 PST
+n a l a n i a c g e m w V FIN IND SG 3 FUT
+a m w k u m w V FIN COND SG 2 PRS
+a t a b a m e z l i t i V FIN IND SG 1 FUT
+i m e f V FIN IND SG 3 PST
+a i n u V FIN IND PL 1 PST
+i l w a t V DEF FIN IND SG 2 PRS
+m m e t i h u V FIN COND SG 3 PST
+i m e v l i b w a m k u c h V PRF FIN IND PL 3 PST
+n u k m h u s t a o g V DEF FIN IND PL 1 PRS
+g e p e V HAB FIN IND PL 3 PRS
+u a u a n g u V FIN IND SG 3 FUT
+u g u V FIN IND PL 1 FUT
+i t a f u v u m m e e V HAB FIN IND SG 3 PRS
+l i z u l b o V DEF FIN IND PL 3 PRS
+a l i o g i i a r u V HAB FIN IND SG 2 PRS
+u r u n u k V FIN COND PL 3 PRS
+i c h r u z a i f u n V FIN COND PL 2 PRS
+a h u e m e g u e g u s e t e n V HAB FIN IND PL 3 PRS
+m h u r w a a u V DEF FIN IND PL 1 PRS
+a a s h u u l i V FIN
+m h u j V HAB FIN IND SG 1 PRS
+j i f u u f i c i i n h o m a a a o s V PRF FIN IND PL 3 PST
+m m m h u f V FIN IND PL 3 FUT
+l i f t a o n a a p u V DEF FIN IND PL 3 PRS
+p i s u e n V FIN IND PL 3 FUT
+h a p i g a V FIN
+h u p a a k V FIN COND SG 1 PRS
+u a e V FIN COND SG 1 PRS
+l i o g a u l i V DEF FIN IND PL 2 PRS
+n a k i a m u u g e g o V DEF FIN IND PL 3 PRS
+i a b u j u a V PRF FIN IND SG 3 PST
+k u s i i p a n m b u V FIN IND PL 3 FUT
+t a j m a m a V FIN IND SG 3 PST
+i f s a g V INDF FIN IND SG 2 PRS
+n a l i p i k h u l V INDF FIN IND SG 2 PRS
+u a z k o p e o t V FIN COND SG 2 PST
+f i c h h u t e V FIN IND SG 3 PST
+h u o m a i m e k o n a z a i d i k u s o V FIN COND SG 2 PST
+a a t e V FIN COND PL 1 PST
+m a l i t e m b V FIN COND PL 2 PST
+u h u l V FIN IND PL 3 PST
+a u l i i o n d V FIN COND PL 2 PST
+t e m b m a g o a m e e V FIN IND SG 2 PST
+i a t s h i i g V HAB FIN IND PL 3 PRS
+t i h u p e m t a i V FIN COND PL 1 PST
+m e a h u i m V INDF FIN IND PL 2 PRS
+r u k a e k w a i a t a k w a r V FIN IND PL 1 PST
+m m e l k u t a V PRF FIN IND PL 2 PST
+l e t a m w i u h u p V DEF FIN IND PL 2 PRS
+l i p m e f m b e a h u r V FIN COND PL 3 PST
+e p u u a p a k u b a V HAB FIN IND PL 2 PRS
+s i k u n g u V FIN COND PL 1 PST
+o s g e l a V FIN COND SG 2 PST
+i m e f a e a n a i V HAB FIN IND PL 1 PRS
+i a c p u a p i g a h u p V FIN COND PL 2 PRS
+l i p V FIN COND SG 3 PST
+i a r r u z a V FIN COND PL 2 PST
+a p u V INDF FIN IND PL 2 PRS
+k u b o V FIN IND SG 2 FUT
+a k a a V FIN COND SG 1 PST
+k u t e u p i g i h u V HAB FIN IND SG 2 PRS
+u a a n i n a b e i n u V INDF FIN IND PL 2 PRS
+e j u e n i l i z a a k V FIN COND PL 1 PST
+i f u n V PRF FIN IND SG 1 PST
+e g o m m e k a a o t e r u u v u V INDF FIN IND SG 1 PRS
+u g i l i g V FIN IND SG 2 PST
+a p a n t a b o V FIN COND SG 1 PST
+j i s i i t a t V FIN IND PL 3 PST
+n a i m e b a n l i t e s h k u b a V FIN COND SG 1 PST
+i t a j n g a n t e n g V INDF FIN IND SG 2 PRS
+n u k a m m e e a l i m V DEF FIN IND SG 1 PRS
+n a o g i l i l t i k V FIN IND PL 3 PST
+m l i r V HAB FIN IND SG 3 PRS
+u o s h i h u g a r u k V DEF FIN IND PL 2 PRS
+e z a m w i h u k u V FIN IND PL 2 PST
+i a b o V INDF FIN IND SG 3 PRS
+i o t u j m a f a V HAB FIN IND SG 2 PRS
+a a o t w a t m e s V DEF FIN IND SG 3 PRS
+m m e v V FIN IND SG 1 FUT
+i h u v l i s a V DEF FIN IND PL 2 PRS
+w a t a t u a f V INDF FIN IND PL 1 PRS
+u h u c i n e s i m V FIN COND SG 3 PST
+n a e n u a g u V INDF FIN IND PL 3 PRS
+h u m w i a k o u j i V FIN IND SG 3 PST
+m e s i i a z a V FIN COND SG 3 PRS
+m n a m n i u n a p V FIN COND PL 1 PRS
+i u l u s i k i n a g V FIN IND SG 3 PST
+m t a p V PRF FIN IND SG 1 PST
+e k o h a b t a k u V PRF FIN IND PL 2 PST
+a a v u a t a k V FIN IND PL 1 PST
+a n z k u g V PRF FIN IND SG 2 PST
+k u m a a l e V FIN IND PL 3 PST
+k u c g e k a g e g o V FIN IND PL 3 FUT
+i t a l u t e n e z a V FIN IND SG 3 PST
+u m e g t a a a g u s V FIN IND SG 1 FUT
+a i d i V FIN COND PL 2 PST
+i v u k u c h u k V DEF FIN IND SG 2 PRS
+a n z a a n V PRF FIN IND PL 3 PST
+a t a z u l i a u m e k V HAB FIN IND PL 1 PRS
+i h m e j u m e u V FIN IND SG 3 FUT
+a a i n V FIN IND SG 1 PST
+a i n a n a V FIN COND PL 2 PRS
+z a a f i u l i k V FIN IND SG 2 FUT
+i a k o p t a g o n a a V FIN IND PL 1 PST
+h i o m a u a a n u t a m a t a n a v u V DEF FIN IND SG 3 PRS
+p i g a i a u l V INDF FIN IND SG 3 PRS
+n g a n V PRF FIN IND PL 2 PST
+i l i e u b a n g e s V FIN COND SG 3 PST
+m n a l V FIN IND PL 2 PST
+u t a j V FIN IND PL 1 FUT
+i m e j i o n a V INDF FIN IND SG 1 PRS
+u m e a V DEF FIN IND PL 3 PRS
+m e m w a o g a V INDF FIN IND SG 2 PRS
+m h u e m n a e V FIN COND PL 1 PST
+i g o u t e n V INDF FIN IND SG 3 PRS
+a h u u w a a g V INDF FIN IND PL 3 PRS
+t a o t V INDF FIN IND PL 2 PRS
+i p u n V FIN IND SG 3 FUT
+s a g a m h u g e t i V DEF FIN IND PL 2 PRS
+p i g a g e k u V HAB FIN IND PL 2 PRS
+i n a m u a j i V INDF FIN IND SG 3 PRS
+u n a p t a o g V FIN IND SG 2 PST
+u f V PRF FIN IND PL 2 PST
+b u i l i j V PRF FIN IND SG 2 PST
+i m e u g e r V HAB FIN IND SG 1 PRS
+m h u o a b o V PRF FIN IND PL 2 PST
+u m i h u l a t a u V HAB FIN IND SG 3 PRS
+u o t i m b a i t a l V INDF FIN IND PL 3 PRS
+m h u t u a l e a k o h V DEF FIN IND SG 3 PRS
+i n a b u p i V FIN IND SG 3 FUT
+e l e t i l i s a a m b V FIN
+e t a z o p V FIN COND PL 1 PST
+o g o h o a n g a u m e t V INDF FIN IND SG 1 PRS
+k u f a k i n g t a v V FIN COND SG 1 PST
+t a b o t u a s V HAB FIN IND SG 1 PRS
+a k u V HAB FIN IND PL 1 PRS
+u l i v V DEF FIN IND PL 3 PRS
+a n a k m l u t a k V FIN COND SG 1 PRS
+i n a c u a p a h u t e V FIN IND SG 3 FUT
+a h u f u t a f n g e p V DEF FIN IND SG 1 PRS
+k u p e V PRF FIN IND SG 3 PST
+h u e i f a g V FIN IND SG 1 PST
+u c h i V FIN IND PL 2 FUT
+m a l e m w e r u k V DEF FIN IND PL 3 PRS
+i n a g u a f u V FIN IND SG 1 PST
+i m e k o h V FIN
+l e t a t a f u V INDF FIN IND SG 1 PRS
+i a t i g e t V HAB FIN IND SG 2 PRS
+l i k w h a e c h e V PRF FIN IND PL 2 PST
+l i t e n V FIN COND PL 3 PST
+m n a s i h p i g a V FIN IND PL 3 PST
+i a p u a n a j V PRF FIN IND SG 3 PST
+a l i f t u a z i m e g V PRF FIN IND SG 3 PST
+u a n a k a t a l i V HAB FIN IND SG 1 PRS
+u a k a l i u V FIN COND PL 1 PST
+h u b a a a l V FIN COND SG 1 PRS
+a a n z m e z V HAB FIN IND PL 2 PRS
+a f y a a t a a l i f u V DEF FIN IND PL 1 PRS
+m a p i V INDF FIN IND SG 3 PRS
+a o n a m w i V HAB FIN IND SG 1 PRS
+t a l e V FIN IND SG 1 PST
+a a a f i u r l i k u V DEF FIN IND PL 3 PRS
+m e t u a b o V FIN COND PL 2 PRS
+i n a o a a p a V INDF FIN IND SG 2 PRS
+m n a l a j V FIN COND SG 2 PRS
+u t a l i k i k u i t a z a f i V FIN IND SG 3 PST
+n i a z i d i a V FIN COND PL 1 PST
+u i k u i m V INDF FIN IND SG 3 PRS
+n a c h V FIN COND PL 3 PST
+u a k w V DEF FIN IND SG 2 PRS
+m t a u a f u n V FIN COND PL 3 PST
+n a t e s a V FIN IND SG 1 FUT
+m n a a u g o i h u j V DEF FIN IND PL 1 PRS
+m e o g n g e a e z a a t a b a e z a a V FIN COND SG 2 PST
+n u k a i a t a f i u i n V FIN COND PL 1 PST
+i a u l m n u t a a V FIN COND SG 3 PRS
+e k o h i s i V FIN COND SG 1 PRS
+m e k o u k w n d o a a a a n V FIN COND PL 3 PRS
+b a n a t a e l i s h V HAB FIN IND PL 2 PRS
+s a n y w a a s V FIN COND SG 1 PST
+t u l i u s o g e g u V DEF FIN IND PL 3 PRS
+i a c h V FIN IND PL 3 FUT
+e i m a b a i s a i V INDF FIN IND SG 3 PRS
+a a p u V FIN IND SG 2 FUT
+l i f e p e V PRF FIN IND PL 3 PST
+h i z a m a V FIN COND PL 1 PST
+c h u a f a k u c j i f u V FIN COND PL 2 PRS
+v u p e a p u n V FIN IND SG 2 PST
+n i a r h a n g e b a V FIN IND SG 1 PST
+i p e a a a a m V FIN COND PL 1 PST
+u u l i r m b u k V FIN IND PL 1 PST
+a m e p m a f i w a a i V HAB FIN IND SG 3 PRS
+k u e u n a r m l i m V PRF FIN IND PL 2 PST
+j i s n a t i i h u s i u l i V FIN COND SG 2 PST
+a a s u f a m t a o m l i e V FIN IND PL 3 PST
+m n a e u n a t u l i k V FIN IND SG 2 PST
+n d o a a o n e u l i a b v u V INDF FIN IND SG 1 PRS
+a a r u i g o V FIN COND PL 1 PST
+l i e V PRF FIN IND PL 2 PST
+t a v u m a k a a h u l V HAB FIN IND PL 1 PRS
+e i m m n a r u h u z m e m l i o e j i V PRF FIN IND PL 3 PST
+t a g u a h u k V FIN IND SG 3 FUT
+m e l i a p i g e k w V FIN COND SG 1 PRS
+w a a b V HAB FIN IND PL 3 PRS
+e n d a e f u n V FIN COND PL 3 PST
+i a o s a a f V FIN IND SG 1 FUT
+i t a z g e o t m e f u V FIN COND PL 2 PRS
+i g u s n g e m e z a V HAB FIN IND SG 2 PRS
+k u a n i c h u e k o p V HAB FIN IND PL 1 PRS
+a r u i z u f a n h u s o V FIN IND SG 3 FUT
+l i m w n a z a m a j i V FIN IND SG 1 PST
+e f a n V INDF FIN IND SG 3 PRS
+h a f y k u k V HAB FIN IND SG 2 PRS
+i u i h u i V HAB FIN IND PL 3 PRS
+u t t e n i i k u b V HAB FIN IND SG 2 PRS
+p i k a u p a u l e t V PRF FIN IND PL 3 PST
+i l a l V PRF FIN IND SG 2 PST
+n a f u V DEF FIN IND SG 2 PRS
+m m e b u n a p V FIN COND PL 2 PST
+m l i u u t a a e g o n V FIN COND PL 2 PST
+l i k a m a s o i n a i V FIN IND SG 1 PST
+n g e l V PRF FIN IND SG 1 PST
+u a t w a n g V FIN IND SG 2 FUT
+a r u n g e p u i n u V DEF FIN IND PL 1 PRS
+g e f a a c m a t e V FIN IND PL 2 PST
+i u l o m a m e e m a p u i n u i r u k V HAB FIN IND SG 1 PRS
+i n d k u t a V PRF FIN IND PL 3 PST
+i m i m e s V HAB FIN IND PL 1 PRS
+m m e k m e l V FIN IND SG 2 FUT
+m e m m m e o V DEF FIN IND PL 1 PRS
+n a s u a s a i f i V FIN IND SG 1 FUT
+a h u j a j i l i m w V HAB FIN IND SG 3 PRS
+o n V DEF FIN IND SG 1 PRS
+g e o n i m e k V FIN COND SG 2 PST
+h u p a m n g e i k w V DEF FIN IND SG 2 PRS
+n g e b V FIN IND SG 3 FUT
+t a k V FIN COND SG 3 PRS
+k u r i p e a a l e V FIN IND PL 1 PST
+t a r e l i u a s h V PRF FIN IND SG 2 PST
+u o s h o n g a n a t e V FIN
+m h u t p i s h u j u i n a r V FIN IND SG 1 FUT
+k i s a a k t u h u V FIN COND PL 2 PST
+a m e r V FIN IND SG 3 FUT
+a c h i h a p V DEF FIN IND SG 3 PRS
+n i h V HAB FIN IND PL 3 PRS
+u a k w V PRF FIN IND SG 2 PST
+u a c h m m e o V FIN COND PL 3 PRS
+i h u o n a u V INDF FIN IND PL 1 PRS
+m a c e u k u b o V DEF FIN IND PL 2 PRS
+a n a m i j i s V HAB FIN IND SG 3 PRS
+c h o m V HAB FIN IND PL 1 PRS
+l a a m w p i k u s a g V FIN IND SG 1 PST
+u a s a g e c V FIN IND PL 3 FUT
+i s o m t u h u n a t e a n d u p a n V FIN COND SG 2 PRS
+c h u k n a g o m a o s V FIN IND PL 2 PST
+m a p t a s V FIN IND SG 2 PST
+l i l a u n z a a f a n V INDF FIN IND PL 2 PRS
+i a c u g o a a i m V HAB FIN IND SG 1 PRS
+i m e r l i m V HAB FIN IND SG 3 PRS
+t u m l i o n V FIN COND SG 2 PRS
+m a p i u a m w t a k V PRF FIN IND PL 2 PST
+c h e V FIN IND PL 3 PST
+k u j u a l i e a p i s V FIN COND PL 1 PRS
+i a u h u v k u r V FIN COND SG 3 PRS
+w a l i i m w V DEF FIN IND PL 3 PRS
+i n g a V FIN COND PL 2 PRS
+i k n i a i e m V INDF FIN IND PL 1 PRS
+n a i m u g o V FIN COND PL 3 PRS
+i a p e t u l i V FIN COND PL 2 PST
+k o p a k u p a n d o i o n d V DEF FIN IND SG 1 PRS
+a a i i k a u a s o V FIN COND PL 1 PRS
+n g e n n d V FIN COND SG 1 PRS
+n a p e a a v V DEF FIN IND PL 3 PRS
+a n a s a h u V FIN COND SG 3 PRS
+o s a t a o h u f i i n V HAB FIN IND PL 1 PRS
+i m a m V HAB FIN IND SG 2 PRS
+g e s i e j i s V FIN COND SG 1 PRS
+i a l i s o V DEF FIN IND PL 1 PRS
+a a s h V HAB FIN IND PL 1 PRS
+i g o n V FIN
+i t a z u v u a t a u t u h u t V FIN COND SG 3 PRS
+k u i a p u n V INDF FIN IND SG 3 PRS
+t u t a j V FIN COND PL 1 PST
+a a s o u m e l V FIN
+i k a a a f y a V PRF FIN IND SG 1 PST
+a a f i t a r i m e r V PRF FIN IND PL 2 PST
+t a j V FIN IND SG 1 FUT
+a j u u l i m t u a e u o n t u l V FIN COND PL 1 PRS
+u a s i V FIN COND SG 3 PRS
+u t a l e n e V DEF FIN IND PL 2 PRS
+a c u m e r t a l e V FIN COND SG 1 PRS
+i n a t e s g e p i V DEF FIN IND PL 2 PRS
+a l i s V PRF FIN IND SG 3 PST
+i c h a s a n y V INDF FIN IND PL 1 PRS
+u n g c h u k u f V FIN COND SG 1 PST
+m w a s o m t a t i n g a a p u n V FIN COND SG 1 PST
+k u k o u t a r V FIN COND PL 2 PST
+m h u b i k i V INDF FIN IND PL 2 PRS
+u k u f a u t a f V DEF FIN IND PL 1 PRS
+a t e m V FIN IND SG 2 PST
+a f i a n y a m a i V DEF FIN IND PL 3 PRS
+e k u m n a l a m e o V PRF FIN IND PL 3 PST
+f i k f i k a V INDF FIN IND SG 2 PRS
+u n a p V HAB FIN IND SG 2 PRS
+u l i j k u V FIN IND PL 3 PST
+i j u e k u s V INDF FIN IND SG 3 PRS
+n i m e V FIN COND SG 1 PST
+i f u n h u k a h u v V FIN COND PL 2 PRS
+a s o g e k o h a f y V FIN COND PL 1 PRS
+u n a o a n a c k u o V FIN COND PL 1 PRS
+g e e i n a b V PRF FIN IND SG 1 PST
+i l i m o n d l i i m V HAB FIN IND SG 1 PRS
+r u z m n a j V FIN COND SG 3 PRS
+u o n d o u n a o V FIN IND PL 1 PST
+i a g i h h u f i V FIN IND PL 1 PST
+u u l i a f m h u a V DEF FIN IND PL 1 PRS
+n i a l a g u s V DEF FIN IND PL 1 PRS
+a a t e V DEF FIN IND SG 1 PRS
+s i m o f y V HAB FIN IND SG 1 PRS
+i r n a s a V FIN IND SG 2 PST
+t a c a n a f a a o i d i g e e n u a f u V FIN COND SG 2 PST
+g e n e h i n d V FIN IND PL 3 FUT
+w a a j u c h e V FIN COND PL 1 PRS
+t a p m m e j V FIN IND PL 1 PST
+n y a u h u p V FIN IND PL 3 PST
+a l i o k u o V PRF FIN IND PL 3 PST
+a k a a a a i n u a k w j i f u V DEF FIN IND SG 3 PRS
+l i r u u f i c h a a a a a b a s a i V HAB FIN IND SG 3 PRS
+k u g u o g k u k w V PRF FIN IND SG 2 PST
+h u o t n a m V PRF FIN IND PL 3 PST
+m n a a a a z a i k i V DEF FIN IND PL 1 PRS
+i k a a i p a V FIN COND PL 2 PST
+i i m b i d i a V INDF FIN IND PL 2 PRS
+i h k u l i n a p a j i t a g u m a V INDF FIN IND PL 3 PRS
+n a p e a j V FIN IND SG 1 FUT
+u c h u V FIN IND PL 2 FUT
+a f i u a z u a i m V FIN COND PL 3 PST
+j u a m l i l a i m b V INDF FIN IND SG 1 PRS
+i a o V HAB FIN IND SG 3 PRS
+i a o g V HAB FIN IND PL 2 PRS
+h o e i n V FIN COND PL 2 PST
+u a m w V HAB FIN IND SG 1 PRS
+l i l a r u h u g V PRF FIN IND PL 1 PST
+a a o g l i p u i a g u V FIN IND PL 2 FUT
+m t a b u t a c V FIN IND PL 3 PST
+l i k o V FIN COND PL 2 PRS
+m e j k u k a V FIN COND SG 3 PST
+a a s i o s m t a s V INDF FIN IND SG 2 PRS
+i l e t V INDF FIN IND SG 3 PRS
+a e u j u h u p u V FIN IND SG 2 FUT
+l i l i u a k u p i k V FIN COND SG 2 PRS
+n i a u h a n V FIN COND PL 2 PST
+u s V HAB FIN IND SG 3 PRS
+n i a g a s i V FIN IND SG 3 PST
+m h u p e k a n z a V FIN IND SG 3 FUT
+s a n t a i m k u m b V DEF FIN IND PL 3 PRS
+u l i z a p i g V FIN COND SG 3 PRS
+i n a s p i k V DEF FIN IND SG 2 PRS
+t e p u n V FIN IND PL 1 PST
+u h u c u l a l m e t V FIN IND PL 2 PST
+i h u f i h u s V FIN COND SG 2 PRS
+t u l i a n a k k u V FIN COND PL 2 PRS
+n a g u a h u u V FIN IND SG 3 FUT
+i m e l V HAB FIN IND SG 2 PRS
+u f i k V FIN COND SG 1 PRS
+u g o n m e m w a n a p a a g t u a u V DEF FIN IND PL 1 PRS
+a l i g i m b a i h u p V FIN IND PL 1 PST
+i a p e i m e f V FIN COND PL 2 PRS
+u s h u t a o V PRF FIN IND PL 2 PST
+a m e j V FIN IND PL 2 PST
+i o g e o t n a a m V INDF FIN IND SG 1 PRS
+i r m e k u u f i k V FIN IND SG 1 PST
+h u t e V PRF FIN IND PL 1 PST
+a a c h t u a p V FIN COND SG 1 PST
+i p i g m l V FIN IND PL 1 PST
+i a n z m e a V FIN COND PL 3 PST
+u l i a i n a r u b o n a g o V DEF FIN IND PL 3 PRS
+f i c h V PRF FIN IND PL 2 PST
+g e b a i h u r i h u l V FIN IND PL 1 PST
+k u c h u n a a h u k o e n d V HAB FIN IND SG 1 PRS
+a a o t V INDF FIN IND PL 3 PRS
+l i v u V INDF FIN IND PL 1 PRS
+u n a m a k u m V DEF FIN IND PL 2 PRS
+u b o m a k V FIN COND PL 1 PST
+a s o m t a o V FIN COND SG 3 PST
+n g a V FIN COND SG 2 PST
+n a i n V FIN IND PL 1 PST
+u n g u h u j V FIN COND PL 3 PST
+i h n g a l a f i c e m b e V DEF FIN IND PL 1 PRS
+m e l a i k u s V INDF FIN IND SG 1 PRS
+a o t a V PRF FIN IND PL 3 PST
+a h u p k o h o h u o V FIN COND SG 1 PRS
+c h v u t V INDF FIN IND SG 3 PRS
+n a l a i h u u u a k u V PRF FIN IND SG 1 PST
+k u a m u a e n V PRF FIN IND SG 2 PST
+e j u a h u t a V INDF FIN IND SG 1 PRS
+u c h o V FIN
+m l i j i j i s V FIN COND SG 1 PST
+f i c n a u V FIN IND SG 1 FUT
+e e n d a e V INDF FIN IND SG 3 PRS
+f a g V FIN IND SG 3 FUT
+w a n g V FIN IND PL 2 PST
+u v u t m e k u i g a V FIN IND SG 3 PST
+i m e f h u f a V FIN COND SG 3 PRS
+a a m g e o g V FIN IND PL 1 PST
+m a p a a s i k V FIN COND PL 3 PRS
+u p i i c h V PRF FIN IND PL 1 PST
+n d u m e i V DEF FIN IND SG 2 PRS
+k o p u l i c V HAB FIN IND PL 1 PRS
+m l i t u n a l V FIN COND SG 3 PST
+w a a j m n a p V FIN IND SG 3 PST
+a a i m o g e m e z V HAB FIN IND SG 1 PRS
+m n g e V DEF FIN IND SG 3 PRS
+i t e a z a m V FIN IND SG 2 PST
+m m e l l i i n V PRF FIN IND SG 3 PST
+i k u s V FIN COND PL 2 PST
+i h u p m a k o i l i f a t a e i t a l V FIN
+k u m e p u n i t a t i a s o V DEF FIN IND PL 2 PRS
+a t a t i r u k V FIN IND SG 2 FUT
+a i d i V FIN COND SG 2 PRS
+w a i h u s V INDF FIN IND PL 2 PRS
+e a n i s i a m e p a c h u e n g e k u f a V INDF FIN IND PL 1 PRS
+i p i k a e n V FIN IND SG 3 FUT
+u a p i V PRF FIN IND PL 1 PST
+e r u k a b o f V FIN COND PL 1 PST
+n g u g o n a m e g V INDF FIN IND SG 1 PRS
+h u s a t a p m n V FIN IND PL 1 PST
+l i g t u a e V DEF FIN IND PL 1 PRS
+m a k a e k a t V FIN COND PL 3 PRS
+i m e p V DEF FIN IND PL 2 PRS
+i h u l a s o V FIN COND PL 1 PST
+n g e r V FIN IND PL 1 PST
+m t a k V FIN IND PL 1 FUT
+n a v u h e k a w a r u V DEF FIN IND PL 2 PRS
+n d i k V FIN IND PL 1 PST
+m m u g o i a r V FIN COND PL 3 PST
+n g e m n i a g m m e j u a a m g e p u V HAB FIN IND SG 3 PRS
+k u v a a s i V DEF FIN IND PL 3 PRS
+a m b k o h o V FIN COND PL 1 PRS
+i n u k u a f u a g o V FIN COND PL 3 PST
+a f u a V FIN COND SG 2 PRS
+m a r i e n d V FIN IND SG 2 FUT
+a n a u V FIN IND SG 2 FUT
+i m e s V INDF FIN IND SG 3 PRS
+n i a r u l a V FIN COND PL 2 PST
+u j h i a n a e a s h V FIN IND SG 2 FUT
+n a k u V FIN IND PL 2 FUT
+h u z h u a m V DEF FIN IND PL 1 PRS
+n a b a c h a f V FIN IND SG 2 PST
+a o s h e j u a i a s i o n a t a u l V PRF FIN IND PL 3 PST
+e e n d l i a n i n a m V PRF FIN IND PL 1 PST
+a n a j a t a v V PRF FIN IND PL 3 PST
+u b a n a a z a u m e e V FIN IND PL 1 FUT
+u a r u g e l i V FIN COND SG 1 PRS
+a k u a s a V FIN IND PL 3 FUT
+i l e t h i n d m n a e V FIN COND SG 3 PRS
+h u o V FIN IND PL 2 PST
+m a c h V HAB FIN IND SG 3 PRS
+a l i b u m e v k i s a V HAB FIN IND PL 2 PRS
+l i s i u a i n V FIN COND PL 1 PRS
+m b e a w a h u h u b a w a l u j i f V INDF FIN IND PL 2 PRS
+h u k a a t e n V HAB FIN IND PL 2 PRS
+a l i v g e n V DEF FIN IND PL 3 PRS
+b i a b u V HAB FIN IND PL 2 PRS
+p i k a u a g o V FIN IND PL 3 FUT
+n d i i t a j i u l V HAB FIN IND SG 3 PRS
+i t i u l i g i h u v V PRF FIN IND SG 2 PST
+t a p e h u f u i a n z V FIN IND SG 2 PST
+e p u n m w i V FIN COND SG 1 PRS
+i h u f f i k a V HAB FIN IND SG 3 PRS
+u c h a V FIN IND PL 3 FUT
+p a u n a m e s h i V FIN IND PL 2 FUT
+m t a b u n a p V FIN
+a s o a z a b m m e s V PRF FIN IND PL 2 PST
+g o n g i a o n a c V FIN COND PL 1 PST
+u b a u h u p n i a t V FIN COND SG 2 PST
+t a t m n a f k u l e V DEF FIN IND PL 1 PRS
+i a j k u k a V PRF FIN IND SG 1 PST
+t n i a b u l i m n a p a V FIN IND PL 3 FUT
+m e l V PRF FIN IND PL 1 PST
+i l i c u l i l a l e u j u a g e m m a c h V FIN IND PL 2 PST
+i v u t a z a V INDF FIN IND PL 3 PRS
+l i p u V FIN COND SG 3 PRS
+u a l m n a t u m e v V FIN IND PL 1 PST
+a a b o b u k a t a b a V FIN IND PL 3 PST
+t a l i i a z u t a m V HAB FIN IND SG 3 PRS
+e o g e V HAB FIN IND PL 3 PRS
+a p e a u j u V HAB FIN IND PL 2 PRS
+u m e k i n g k u g o V FIN COND SG 1 PRS
+v u t a V PRF FIN IND PL 3 PST
+e m w m e k w m a l e V INDF FIN IND SG 3 PRS
+u m b u V HAB FIN IND SG 2 PRS
+r u z a a l i a u m e c V FIN COND PL 1 PRS
+n a j u o t a V DEF FIN IND PL 1 PRS
+i f a g g u s a V FIN IND SG 1 FUT
+g e w a a v e g o i a s V FIN IND PL 2 PST
+a a k w i n u f a n y V PRF FIN IND SG 2 PST
+m e k u a a m V PRF FIN IND SG 1 PST
+a s i p a a t u a v i b l i s e s h V FIN IND SG 1 PST
+u a l a V HAB FIN IND SG 1 PRS
+i s a m h u i V FIN IND PL 2 PST
+t u a t a l i z V FIN IND SG 3 PST
+u h u e b e g e u l V HAB FIN IND PL 1 PRS
+h u s h u a s i a f a V DEF FIN IND SG 3 PRS
+i m e z m m e r g e s i V INDF FIN IND PL 1 PRS
+m e f i i b a V DEF FIN IND PL 1 PRS
+t u a k i e n d u k a m e z a a n z a V FIN IND SG 1 PST
+p u a m e i V FIN IND PL 1 PST
+m a z a g e z u a p u i m e j V FIN COND PL 1 PST
+u a n a j a n a t u l i a u a v V INDF FIN IND SG 2 PRS
+m h u p t a o g i o g a V PRF FIN IND PL 2 PST
+i l i n a f u t a u a o a n g l i l V PRF FIN IND SG 1 PST
+a t a g V FIN COND PL 2 PST
+k u s i h u m w t a j i V DEF FIN IND SG 1 PRS
+u u l i g u a V FIN COND SG 2 PRS
+u k a a u h u u k u l i V FIN COND SG 2 PRS
+u a t i V FIN IND SG 3 PST
+n a u l V DEF FIN IND PL 2 PRS
+w a l V DEF FIN IND SG 1 PRS
+k i s u a f i r u k V INDF FIN IND PL 3 PRS
+i n a u t a r V FIN COND SG 1 PST
+u a z l i p i V FIN IND SG 2 FUT
+g a l m e g e k o h V FIN IND PL 2 PST
+e t a k t u a s V INDF FIN IND PL 3 PRS
+n a o g a m b i t u n V PRF FIN IND SG 2 PST
+m n g e V DEF FIN IND PL 2 PRS
+u n a a V HAB FIN IND SG 2 PRS
+a v u n i a a h u p a V FIN IND SG 2 FUT
+u f i a a o V INDF FIN IND SG 1 PRS
+g u z h a p V FIN COND SG 3 PRS
+a c a a m w p a V HAB FIN IND SG 3 PRS
+e m b a a o t V INDF FIN IND SG 3 PRS
+n a p g e t a V PRF FIN IND PL 1 PST
+m e p i t a g u o n a V INDF FIN IND SG 2 PRS
+t a k w i c m m e p V FIN IND SG 2 PST
+m a s u h u m u g o n V HAB FIN IND SG 2 PRS
+u a m w a s i V FIN IND PL 3 PST
+u t a g i k i g a n V DEF FIN IND PL 3 PRS
+e a n e u l i t u a b V DEF FIN IND SG 1 PRS
+o p a m e k w V FIN COND PL 2 PST
+m m e r e m V FIN IND PL 1 PST
+a o n a V FIN COND SG 3 PST
+i b o h u g u t a m a m e p i m e j m l i v V FIN COND PL 3 PRS
+e o g a m a f u V INDF FIN IND SG 2 PRS
+t a o t V DEF FIN IND PL 1 PRS
+n a z a V FIN COND SG 3 PST
+m e a V FIN IND PL 1 PST
+h o e u l c h a n V HAB FIN IND PL 2 PRS
+t u h u s a n m t a v V HAB FIN IND PL 2 PRS
+m e a i t a r V INDF FIN IND SG 3 PRS
+w a n a n i a f V FIN COND PL 2 PRS
+k u m V DEF FIN IND SG 2 PRS
+w i i a o t V FIN COND PL 2 PRS
+m h u l V FIN COND SG 2 PRS
+n a r V FIN
+u n z i l a V HAB FIN IND SG 2 PRS
+u h u v i f i c V INDF FIN IND PL 1 PRS
+h u v a s i m m t a f V FIN IND PL 3 FUT
+n a s o u c h i V FIN IND PL 1 PST
+m a p a V FIN COND PL 3 PRS
+a i n u m t a V INDF FIN IND SG 3 PRS
+a k a a a g o V FIN COND PL 3 PST
+n i a l m h u t V DEF FIN IND SG 1 PRS
+m h u i i a b o n a s i V FIN IND SG 3 FUT
+l i k a u n a s V FIN COND SG 3 PST
+i m e o a b a V PRF FIN IND PL 2 PST
+s h a m e u p i k V DEF FIN IND SG 1 PRS
+f i k m l i s i h u b V PRF FIN IND SG 1 PST
+g e r u a h u i V FIN IND PL 1 PST
+n i l i n a k w e j u a V FIN IND PL 3 PST
+u t a l i v u V INDF FIN IND PL 2 PRS
+g e s h V DEF FIN IND SG 1 PRS
+k a t u g o t a z a V PRF FIN IND PL 1 PST
+i b o f m a f a k u m b V FIN IND PL 2 FUT
+h u u l u s a V FIN COND SG 3 PRS
+i a l u l i t V PRF FIN IND SG 3 PST
+u n a p V FIN COND SG 3 PRS
+u v u m a f u a p u n k u f a V FIN IND PL 3 FUT
+u f u i o g a V FIN
+i o n g h u s h V PRF FIN IND SG 2 PST
+m l i u g e f u V PRF FIN IND SG 1 PST
+n g e s u j u a u f i e o g e V INDF FIN IND SG 1 PRS
+c h a p V FIN COND SG 3 PRS
+k u o g a k u m V INDF FIN IND PL 2 PRS
+i t a u V DEF FIN IND PL 2 PRS
+a h u e h o m a V FIN IND SG 1 FUT
+g e m n d a h u b o V PRF FIN IND SG 2 PST
+i n g a t a r V HAB FIN IND SG 1 PRS
+m e o s u o s h V PRF FIN IND PL 1 PST
+t u t a z m t a i h u i n V FIN IND PL 2 FUT
+b e a a t l i f a u l i p V PRF FIN IND SG 1 PST
+a m e t m m e j i l i v V DEF FIN IND PL 3 PRS
+a n a o h u k u V INDF FIN IND SG 2 PRS
+u n a t t a l e u m e b V FIN IND PL 3 FUT
+g e k o m l i l V HAB FIN IND SG 1 PRS
+n a b a s a V FIN COND PL 1 PRS
+i n a p e c h i V FIN COND PL 1 PRS
+a t a t s i m n a r V DEF FIN IND SG 2 PRS
+k u l e u a V FIN COND SG 1 PRS
+e s a a e n V FIN COND SG 2 PRS
+m a t a m e j i n a s V INDF FIN IND SG 1 PRS
+a t a z m e k a V FIN
+m l i c g e t a V PRF FIN IND SG 3 PST
+l i s h V INDF FIN IND PL 3 PRS
+j i h o m a V DEF FIN IND SG 2 PRS
+r u k u k o i k i a n a s V FIN IND SG 3 FUT
+g e k u V INDF FIN IND PL 1 PRS
+u u l m e z a V INDF FIN IND SG 1 PRS
+h o m a u z a a a l e u z a V INDF FIN IND SG 1 PRS
+e p u n u o s V FIN COND PL 3 PST
+g e i i l i i t i V INDF FIN IND SG 2 PRS
+a k u u t a g i h u j V FIN COND PL 2 PRS
+e a n n i a f f i V FIN IND PL 3 FUT
+u a g o V FIN
+m n a i t a p V HAB FIN IND SG 3 PRS
+e p a a k o h u o n V HAB FIN IND SG 1 PRS
+i a r n a v V FIN IND SG 3 PST
+w a t i r w a a t i a r V HAB FIN IND PL 2 PRS
+m n a b a g i V HAB FIN IND PL 1 PRS
+i c h u i t a c V DEF FIN IND PL 2 PRS
+i n a k k u t i m a g u V PRF FIN IND PL 3 PST
+a n d i n i a k w a a t V DEF FIN IND PL 1 PRS
+e g o n w a a s V FIN COND SG 3 PST
+u p u p a n g w a a g V INDF FIN IND SG 1 PRS
+m n a g V DEF FIN IND PL 2 PRS
+a m a i a k u V DEF FIN IND SG 1 PRS
+h u o s V FIN COND SG 1 PST
+a n a m V PRF FIN IND SG 2 PST
+m b i i k u s m h u g e f u u h u s a l i l V FIN COND SG 3 PST
+a l i m V HAB FIN IND SG 1 PRS
+a k w a V FIN IND PL 2 FUT
+i p i i b a a m e l e k a f i V FIN COND PL 3 PST
+i h u o V FIN IND PL 3 FUT
+a t a e V FIN COND PL 1 PRS
+m n a b n a e n V FIN COND SG 2 PST
+i s o t a k u e j i V FIN IND PL 3 FUT
+t u l u a e V FIN COND SG 3 PST
+t a o g j u h u g o V FIN IND SG 3 FUT
+i k i u h u f V HAB FIN IND SG 3 PRS
+a h u o h u e a l i c V FIN COND SG 2 PST
+m e t e n a e p a V PRF FIN IND PL 1 PST
+i m e t l i g u V HAB FIN IND PL 3 PRS
+v u u a o s i f i k V INDF FIN IND SG 2 PRS
+i g o n u h u p V FIN IND PL 3 FUT
+n d u p e a V FIN IND PL 2 FUT
+t u a f e r u a z a V FIN COND SG 1 PST
+h u k a t a b n g e V HAB FIN IND PL 3 PRS
+u l i i m h u o t a t a V DEF FIN IND PL 3 PRS
+u a n z V FIN IND SG 3 FUT
+i v u t h u a n m m e f V FIN IND SG 1 FUT
+e n e u l i j V HAB FIN IND SG 2 PRS
+a a c h i j i f V FIN COND SG 2 PST
+e m b e V FIN COND SG 3 PST
+i t e f u a u r u V FIN IND SG 3 FUT
+i n a m e z V FIN COND PL 1 PRS
+t a m a l i o f a m a V FIN IND PL 2 FUT
+n i a b V FIN IND PL 1 FUT
+n a s h n a l a V FIN COND SG 2 PRS
+h u m w i l i a n i a m V FIN COND PL 2 PRS
+k u a n i k o p u h u l V FIN COND SG 2 PST
+i j u a m e p i s a g V FIN
+t a j t e m m a t i V FIN COND SG 3 PST
+a o g a V PRF FIN IND SG 3 PST
+m h u a t u l i V FIN IND SG 1 FUT
+u a k u k a a u s o m V FIN IND SG 3 FUT
+m n a r i c h e m a f u V PRF FIN IND SG 3 PST
+a a p V INDF FIN IND PL 2 PRS
+t a k o e o n d e z a a g e k e b a V FIN IND SG 1 FUT
+e f u a a l e V DEF FIN IND PL 1 PRS
+u a p a u a f a t a k u V DEF FIN IND SG 1 PRS
+h u k a a s i m e j V INDF FIN IND SG 2 PRS
+i f i j u V FIN IND SG 1 FUT
+i l i p h e k a V PRF FIN IND PL 3 PST
+c h a p u m e b V PRF FIN IND SG 2 PST
+u n a e V FIN IND SG 3 FUT
+w a r u a n j u V FIN COND SG 3 PRS
+u s i m n i m e n i h u V HAB FIN IND PL 2 PRS
+a k a t i o t a V FIN IND SG 2 FUT
+m n a o V PRF FIN IND PL 1 PST
+i a p u u g o V FIN COND SG 1 PST
+t u a a m e a V HAB FIN IND SG 3 PRS
+m a a n g e g V PRF FIN IND SG 1 PST
+b i a m h u m n a z V INDF FIN IND PL 1 PRS
+n g u a V FIN COND PL 1 PST
+a v h u e n V PRF FIN IND SG 1 PST
+u l i g m e v u a e n V INDF FIN IND SG 2 PRS
+n g e n n a v u n a l i V PRF FIN IND PL 2 PST
+m t a e e a n z V HAB FIN IND SG 3 PRS
+i a m m m e f v u t a V FIN COND PL 1 PST
+u s a i l i s V FIN IND PL 1 FUT
+a m i k i s i o g i k o m e i m V INDF FIN IND PL 2 PRS
+u n a j m a p e V INDF FIN IND SG 3 PRS
+u a p e u n a l V HAB FIN IND SG 3 PRS
+n g e i p a k i s V FIN COND SG 2 PRS
+h u i n t u n g V INDF FIN IND PL 2 PRS
+h u i V FIN IND SG 2 PST
+u h u p V PRF FIN IND SG 2 PST
+i o s h u t t a s o V FIN IND SG 2 FUT
+m e i n a a n V FIN COND PL 3 PRS
+e z m t a o a j i s V FIN COND PL 1 PRS
+u a g e r u u n g e V FIN IND SG 2 FUT
+k u c h m l i k V HAB FIN IND PL 2 PRS
+l i u l u n a k V DEF FIN IND SG 3 PRS
+m b u a i n w i a m b i V INDF FIN IND PL 3 PRS
+g e l i b a i l i a V PRF FIN IND SG 3 PST
+c h u k V FIN COND PL 2 PRS
+i a u l e c h V FIN COND SG 1 PRS
+a f i c u l i r V DEF FIN IND SG 1 PRS
+k i s V DEF FIN IND SG 1 PRS
+n g e c V PRF FIN IND SG 2 PST
+u n a c g e p e V FIN IND SG 3 PST
+i c h a a k u m V HAB FIN IND PL 2 PRS
+a a a m m t a v l i m w V FIN IND SG 1 PST
+n g e o u f a m e k V PRF FIN IND PL 1 PST
+e m w u a k o V PRF FIN IND PL 3 PST
+a m e o V FIN IND SG 1 FUT
+e p a n V FIN COND SG 1 PST
+a a k i j i s u m e m a c h u V DEF FIN IND SG 3 PRS
+l i c a a e n u a o n V FIN IND PL 2 PST
+a a f u V DEF FIN IND PL 3 PRS
+w a a m V FIN IND PL 2 FUT
+m a t e a s o m V FIN COND SG 3 PRS
+t a s o v u t a V DEF FIN IND PL 3 PRS
+u s i m a i n u a a m w V FIN
+a n a k l i c V FIN COND SG 2 PRS
+i o t a n g e n k u u l V HAB FIN IND PL 3 PRS
+a l i l g e i n V FIN COND PL 2 PRS
+g e p e a k a t V PRF FIN IND PL 1 PST
+i i n u u f a g V FIN COND SG 3 PST
+h u o s m m e f a o n a V INDF FIN IND SG 3 PRS
+u i n u m a k u V PRF FIN IND PL 1 PST
+a e n i k o p m e b o n a k o m a g V FIN IND SG 3 FUT
+o t n a k a V FIN IND PL 2 PST
+u s i k e l i V DEF FIN IND PL 3 PRS
+e f u n i a m m h u f V HAB FIN IND PL 3 PRS
+t a g u l i s a g u s V PRF FIN IND PL 1 PST
+n a p t u m e u t e n V DEF FIN IND SG 1 PRS
+i n t u a k V HAB FIN IND PL 3 PRS
+i f u n u p a a V DEF FIN IND SG 1 PRS
+a p i i a r m l i s V FIN COND PL 1 PRS
+a l i f V DEF FIN IND PL 3 PRS
+t a p a V FIN COND PL 3 PST
+g e j u l i u s i k u n a j V FIN
+a z a k u s h V INDF FIN IND PL 1 PRS
+u a j u p u n g s i g u s a V FIN COND PL 2 PST
+t a c l i k o a m e c g e p a V FIN IND SG 1 FUT
+m m e z V FIN IND PL 1 FUT
+l i v u u m e m V FIN IND PL 3 PST
+v u t a z V HAB FIN IND PL 2 PRS
+m m e l a o V DEF FIN IND PL 2 PRS
+r u z a V FIN COND SG 2 PRS
+a a e n V FIN IND SG 2 FUT
+n i a j i u l t u a b o s h a V FIN IND SG 2 FUT
+r u k l e t i k i V INDF FIN IND PL 1 PRS
+m e i n a j i a l i s V FIN COND PL 3 PRS
+i a m w u n a z V PRF FIN IND PL 2 PST
+g e r l i e V FIN IND PL 2 FUT
+a n g a t u m e g u s V DEF FIN IND PL 2 PRS
+i m e o a n g a l i k u i p a i o n a t u n g V INDF FIN IND PL 3 PRS
+a m e i a m e c V FIN IND PL 3 FUT
+u a k o c h e V FIN COND PL 1 PRS
+g e s o V FIN COND PL 1 PST
+i u l i V FIN COND SG 3 PST
+i a g u a o t V FIN IND PL 1 FUT
+m a f i i a l e o s h V DEF FIN IND PL 3 PRS
+l i l a n i a c V HAB FIN IND SG 3 PRS
+i o t l i n i m e V FIN IND SG 2 FUT
+m e a n i a v u u c h o V DEF FIN IND SG 1 PRS
+n u u m e b n a p e V HAB FIN IND SG 3 PRS
+l i p a a s a t a g u a a a V INDF FIN IND PL 1 PRS
+l i f u V FIN IND PL 3 FUT
+l i v u g e r u u i m b V FIN IND SG 1 PST
+i u l c h e k V FIN COND PL 3 PST
+l i l i t u i t a z V FIN IND SG 2 FUT
+u s a i i o g V PRF FIN IND SG 1 PST
+j i s i V INDF FIN IND PL 1 PRS
+m n a j i v u t V PRF FIN IND SG 1 PST
+e v e z u i m b V INDF FIN IND SG 3 PRS
+i a b a V FIN COND PL 3 PRS
+a t a j w a a u u r u V FIN IND PL 3 FUT
+m e t i V HAB FIN IND SG 2 PRS
+a p u n V INDF FIN IND SG 1 PRS
+n a g o f a g i V FIN COND SG 2 PST
+m a u l i o s h V DEF FIN IND PL 2 PRS
+i a o t n i l i h u j V PRF FIN IND PL 2 PST
+u h u a g e m V FIN COND SG 2 PST
+n a c i a s h V FIN IND SG 2 PST
+g e p V FIN IND PL 1 FUT
+m m e s a j u i a i m V INDF FIN IND PL 2 PRS
+u s a n n i h u z a m a V INDF FIN IND SG 3 PRS
+u n g u V FIN COND SG 1 PST
+k u g u i j V PRF FIN IND PL 1 PST
+i n g e c h e w a n g V FIN COND PL 2 PRS
+m a s i n g e t V DEF FIN IND SG 3 PRS
+i n a m a t a t g e s V HAB FIN IND SG 1 PRS
+u f u n a a s h i l i V INDF FIN IND PL 2 PRS
+m l i z n a e u z a V FIN COND SG 1 PRS
+m a a n e g u s m l i t i a m b i a V FIN IND SG 1 PST
+k u s s o m a V DEF FIN IND PL 3 PRS
+t a g u o s h a g a h u p u u m a a j i V FIN
+a a l i a m b n i a s z a m a i s o V FIN COND SG 3 PST
+k u m w n a k w w a a o V HAB FIN IND PL 2 PRS
+n a k a i t a e n i a s V HAB FIN IND PL 2 PRS
+a t a p i a e V FIN COND SG 1 PRS
+k u p i m l i c i k i l h i m b l i t e V HAB FIN IND SG 1 PRS
+k u r u e s a g u z a V FIN COND SG 2 PRS
+u i n u m l i b V HAB FIN IND PL 3 PRS
+i a g u t a o n l i a m V FIN COND SG 1 PRS
+k u r u a u l i a n a t V FIN IND SG 2 FUT
+u t a p m e l i l i m V FIN COND PL 1 PST
+c h i u k u m V INDF FIN IND PL 3 PRS
+a n d V FIN COND PL 2 PRS
+i l a l o m m e g u a i m t u h n d o V DEF FIN IND SG 2 PRS
+a a o t e o t a m t a o V INDF FIN IND PL 2 PRS
+a t a o a c h a V FIN COND SG 3 PRS
+e s w a a i V FIN COND SG 2 PRS
+u t a v m b u l a l V HAB FIN IND SG 3 PRS
+u a k n g u z V FIN IND SG 1 FUT
+t a s a m t a j V FIN IND PL 2 FUT
+m a m w i a l e u t a g h u p e V FIN IND PL 3 FUT
+a o t V DEF FIN IND SG 1 PRS
+l i j i V HAB FIN IND SG 3 PRS
+i m e p V INDF FIN IND PL 3 PRS
+e t e n m a j V FIN IND PL 3 FUT
+n a g o a a r i j i s a m e l V FIN COND SG 2 PRS
+e p i g w a k u t e V FIN IND PL 2 PST
+u a e i a v u n a i i h u p m e i n V DEF FIN IND SG 3 PRS
+t a f n g e g k u r u V FIN IND PL 1 FUT
+k u s o a e n d V PRF FIN IND SG 3 PST
+e b o V FIN COND PL 1 PST
+i m e i e s h i V DEF FIN IND PL 2 PRS
+l i u a h u e w a h u V FIN
+u h u p u g V FIN IND SG 2 PST
+n i a p u l i a h u s h V HAB FIN IND SG 2 PRS
+u l i u u s a i a m e t V INDF FIN IND SG 2 PRS
+e s a i V PRF FIN IND SG 3 PST
+t a k w a h u f V FIN IND SG 3 FUT
+g e t a g e r a p i s V FIN COND SG 1 PRS
+m b u k g e f i t a m m e e n V HAB FIN IND SG 2 PRS
+u h u i a i n k u c h V INDF FIN IND SG 2 PRS
+n g e f V HAB FIN IND PL 2 PRS
+w a a j i l i b k u r V FIN COND PL 2 PRS
+l i a n u t a u V FIN COND PL 3 PRS
+o s h V INDF FIN IND SG 1 PRS
+a h u v f u n V FIN IND PL 2 PST
+n i h u V INDF FIN IND PL 1 PRS
+i a t a i n i o t a t V FIN COND SG 2 PST
+i n a a u z a a m a c h V FIN IND PL 2 PST
+m e v u a l i u w a m V INDF FIN IND SG 3 PRS
+i n a e i a s a V DEF FIN IND PL 1 PRS
+l i f u a a z a c h e k V DEF FIN IND PL 2 PRS
+a f i k i a V FIN COND PL 3 PST
+a j u c h a p m e g u V INDF FIN IND SG 3 PRS
+u m e a a a p e V FIN IND SG 3 PST
+t a o t a s a V INDF FIN IND PL 1 PRS
+a t a z e f i a s i m e a n V INDF FIN IND SG 2 PRS
+i a m w i r u k V FIN COND PL 1 PRS
+i n a v u a f a V DEF FIN IND SG 3 PRS
+o t a e m b e V DEF FIN IND PL 1 PRS
+i p a a t a o g e p e a n g e V FIN IND PL 3 PST
+h u l f y n d i k u k a V INDF FIN IND PL 1 PRS
+u l i e a a k u m t a u V DEF FIN IND SG 3 PRS
+i p i k V FIN COND PL 2 PST
+a a s h V FIN COND PL 1 PRS
+a a l i V FIN COND SG 2 PST
+u b a l i z a V PRF FIN IND SG 3 PST
+u a s h h u s i i t a r V PRF FIN IND SG 2 PST
+a n z a g e o s V DEF FIN IND SG 1 PRS
+a a v u n a u n i a V FIN COND SG 1 PRS
+u a p V INDF FIN IND SG 1 PRS
+n g e e h u p e f i k V INDF FIN IND PL 3 PRS
+h u l i m a r V PRF FIN IND PL 2 PST
+i a p V HAB FIN IND PL 2 PRS
+o h o i c h i a j i m e j i f u n V FIN IND PL 2 FUT
+w a a e u o t i b a V HAB FIN IND PL 1 PRS
+k u a m n y a V INDF FIN IND PL 1 PRS
+a a m w e n a u V PRF FIN IND SG 1 PST
+o p g e v u e m w i V FIN COND PL 2 PRS
+i a k w s a n y a a s i t a V PRF FIN IND SG 2 PST
+u j i u k u s u g o n m a u l i c h V FIN COND PL 2 PRS
+a s a i V FIN IND PL 3 FUT
+a l e t V FIN COND PL 2 PST
+l i o s m n a b V HAB FIN IND SG 1 PRS
+k u l e u h u u V PRF FIN IND SG 2 PST
+i a b o u a g h u z e c h u i a g o V PRF FIN IND PL 1 PST
+a s a g V FIN IND SG 3 FUT
+i m e e i u m a a m V HAB FIN IND SG 1 PRS
+u l i l u a b o V FIN IND PL 2 FUT
+c h g e t i i c h o V HAB FIN IND SG 3 PRS
+i m e c m t a m V PRF FIN IND SG 3 PST
+i c h e V HAB FIN IND PL 2 PRS
+h u e n a h u f V FIN IND PL 2 PST
+e m w i t a t e t e n i a e e o n a V FIN IND PL 2 PST
+u f a m a f u i l a l V FIN IND SG 1 PST
+m e k u u s i m g e j V PRF FIN IND SG 1 PST
+l i m a m e g V FIN IND PL 2 FUT
+a a n z a n d i h u o g V FIN COND SG 1 PST
+t a e n u n a i a c V DEF FIN IND SG 2 PRS
+u a i l i l e m b e a V FIN COND SG 1 PRS
+i m e p V FIN IND PL 2 PST
+n a u l h u z a h u i m V FIN IND PL 3 FUT
+i n d a u o n g m t a s V PRF FIN IND PL 1 PST
+k u g o V FIN IND SG 1 PST
+i l i i u t a v i l i g V INDF FIN IND PL 2 PRS
+s h i n g e t e l i o n V FIN COND SG 2 PRS
+i j u a a s V PRF FIN IND SG 3 PST
+m n a u m h u v k u m V FIN COND PL 3 PRS
+i m e o k u j V FIN COND PL 2 PST
+i c m n a l l i o n V FIN IND SG 1 FUT
+o h o e c h a V DEF FIN IND SG 1 PRS
+a l e t l i c h V FIN IND SG 1 FUT
+i n a j V DEF FIN IND PL 3 PRS
+i a z f i c V INDF FIN IND PL 2 PRS
+l i p a V INDF FIN IND PL 2 PRS
+u l i g V PRF FIN IND SG 2 PST
+m a k w i a k w n a j V DEF FIN IND PL 3 PRS
+e p i g a a j g e s h V FIN IND PL 1 PST
+i n d u h u f V DEF FIN IND SG 3 PRS
+u m e k e p i k V FIN IND PL 2 FUT
+i d a l i s m t a m V FIN IND PL 3 FUT
+i l i p k u t e V HAB FIN IND SG 3 PRS
+a n g a n a g u V DEF FIN IND SG 3 PRS
+m a g u p i g u c h u h u e i k u i m e z V FIN IND SG 2 PST
+m e k a i n a t V FIN COND SG 1 PST
+a h u i g i i n d a V FIN IND SG 1 PST
+i a g V FIN COND PL 2 PRS
+m a o n i f u V FIN IND SG 2 PST
+u f u V PRF FIN IND SG 2 PST
+i t a a e l e k w V FIN IND SG 2 FUT
+a h u j V INDF FIN IND PL 3 PRS
+u c h i i a m b e s i k V PRF FIN IND SG 3 PST
+g i l i i V FIN COND SG 2 PRS
+n a t e n a u V DEF FIN IND PL 3 PRS
+u t a l V FIN IND PL 2 FUT
+l i f u g e p e V PRF FIN IND SG 1 PST
+a a b o i p i V FIN COND PL 1 PRS
+e g u s t u n a V FIN COND PL 1 PST
+i k u b a a n z V FIN IND PL 3 PST
+a a o n e a V FIN COND PL 3 PST
+t a f i h u l e V FIN COND PL 1 PRS
+m a k o V FIN IND SG 2 FUT
+h u f i a m e i V INDF FIN IND SG 3 PRS
+a n a f V DEF FIN IND SG 2 PRS
+t a i m w a a j c h i V FIN COND SG 1 PRS
+t i k i V HAB FIN IND SG 3 PRS
+u l i i i k i s V FIN COND SG 1 PRS
+m a s o u n a e s o m a V FIN COND SG 2 PRS
+k u p u t a f r u k u k o h b i a p a m e m V INDF FIN IND SG 2 PRS
+k u f i f u a r u k a V PRF FIN IND SG 1 PST
+n a i i e i a t V PRF FIN IND PL 3 PST
+m l i e u b a V FIN COND PL 1 PST
+a t i k k u j V FIN COND PL 3 PST
+e o n a m e m V INDF FIN IND PL 1 PRS
+f u n g m e k w m e g u u r u a k u t a V PRF FIN IND SG 1 PST
+a r u u t e l i v V DEF FIN IND SG 3 PRS
+n i l u u l V FIN IND SG 1 PST
+e p u a n g n i a b V INDF FIN IND PL 2 PRS
+i t a e V INDF FIN IND SG 1 PRS
+u a k a a u l i a t a u V HAB FIN IND SG 1 PRS
+e s a i p i k e p e a V PRF FIN IND SG 3 PST
+h u s a m e V FIN IND PL 2 FUT
+m n a b V PRF FIN IND SG 3 PST
+i c h u a f u a V FIN IND SG 3 FUT
+m h u o V INDF FIN IND SG 3 PRS
+i k o p w i t V PRF FIN IND SG 1 PST
+a i d i w a a f V DEF FIN IND PL 3 PRS
+a l i i t a v u V HAB FIN IND SG 1 PRS
+p a n g u i m b w a a s V INDF FIN IND PL 3 PRS
+a s c h u w a a n e z V PRF FIN IND PL 2 PST
+n a k u e c h a k u r u V FIN COND SG 2 PRS
+u k o p n a i m V FIN COND PL 3 PST
+r u z a l i t e p i g V FIN IND PL 3 FUT
+a a r u u r u V PRF FIN IND SG 2 PST
+t e n V FIN IND SG 2 PST
+a p i k V FIN IND PL 3 FUT
+a n a z a t a a V FIN IND SG 1 FUT
+g e v n a j V PRF FIN IND PL 3 PST
+i a g o m a g o V INDF FIN IND PL 1 PRS
+u c u k a t V FIN IND SG 1 PST
+e n g V FIN IND PL 3 FUT
+a l i e i n a l V FIN COND PL 2 PRS
+h u c m a i k o p V HAB FIN IND PL 1 PRS
+a u s h i n V FIN COND PL 1 PST
+t a m e k u a c h V FIN IND SG 1 FUT
+n i a v m e k u i t a z V HAB FIN IND PL 3 PRS
+a c h u k u u l V FIN IND PL 1 PST
+h u k k a w a a z V DEF FIN IND PL 3 PRS
+a a u g e s a i l i a V PRF FIN IND SG 1 PST
+i f i a n a z V FIN IND PL 1 PST
+g e s h m a u n g a V FIN IND PL 1 FUT
+l i b a V FIN IND PL 3 FUT
+u s i m m e c m t a l V FIN
+t u a o i a l V DEF FIN IND PL 2 PRS
+i b o f V INDF FIN IND PL 1 PRS
+i a i m u l i f V PRF FIN IND SG 1 PST
+u f u a p a a f u a t V PRF FIN IND PL 1 PST
+l i s a V INDF FIN IND PL 2 PRS
+m m e e n a e n V FIN IND PL 2 PST
+a a a u v u e l V INDF FIN IND PL 2 PRS
+a l i b i k o p V FIN IND PL 3 PST
+a a f i a n V FIN IND SG 1 FUT
+n a e n a a n V HAB FIN IND SG 1 PRS
+m n a m V DEF FIN IND SG 3 PRS
+i i m b h u m V INDF FIN IND PL 2 PRS
+w a a c m n a r n y V DEF FIN IND PL 1 PRS
+a n a f i l i c k i l V FIN IND SG 2 FUT
+u a z a m m e s V INDF FIN IND PL 3 PRS
+i o g a m t a v h u p i s i m r u V HAB FIN IND SG 2 PRS
+k i l V FIN IND PL 2 PST
+m a t u k o h i t a m V FIN COND SG 1 PRS
+t i k i V HAB FIN IND SG 3 PRS
+p i s m t a c m a g u m a f i k l i t i V FIN
+i o g a m n a t i r u m e v e k u s V FIN IND SG 3 PST
+e g u s u a a m h u p u V FIN IND PL 3 PST
+s a i d s i a n z u f a g V FIN IND PL 3 PST
+e f i k p u n g u p u n m a s i p u n V HAB FIN IND PL 3 PRS
+m e u l g e t u n a l V FIN IND SG 2 PST
+i l i r t a a m V HAB FIN IND SG 3 PRS
+a f a g t a g t i k V HAB FIN IND PL 1 PRS
+m e k u c h u V DEF FIN IND SG 1 PRS
+m a s i a t V FIN IND PL 1 FUT
+a h u t a e l a j i s i V PRF FIN IND PL 3 PST
+n a p i l i V INDF FIN IND SG 3 PRS
+i k o h u n u t a j a z a m V FIN COND PL 2 PST
+i s o u l e V HAB FIN IND PL 3 PRS
+a m e g u e n d e o s m h u u V INDF FIN IND SG 3 PRS
+m a a i m e m V FIN IND PL 3 PST
+u a l m h u r V HAB FIN IND PL 2 PRS
+n g e v n a f a V PRF FIN IND SG 3 PST
+l i k u e s o m V FIN COND SG 2 PST
+i m e m h u j V INDF FIN IND SG 3 PRS
+t u a z i t a c w a a a V HAB FIN IND SG 3 PRS
+i s i k e e n u k o h V FIN IND SG 3 FUT
+l i s i V FIN IND SG 1 FUT
+u m e c g e l e m a m V DEF FIN IND SG 2 PRS
+a m e u u p i i a j u u a s i f u n g V HAB FIN IND SG 1 PRS
+e t i i s a i u k u a V HAB FIN IND PL 3 PRS
+e k u m V INDF FIN IND SG 1 PRS
+m n a a V FIN COND SG 3 PRS
+n u a n a u m w u a f i V FIN IND SG 3 FUT
+i c g e k V DEF FIN IND PL 1 PRS
+a m e u p u t u a u V DEF FIN IND PL 2 PRS
+k o m h u u h u r V PRF FIN IND PL 3 PST
+i i n u V DEF FIN IND SG 2 PRS
+u t a v V DEF FIN IND PL 3 PRS
+u a c m e l i i a z V DEF FIN IND PL 3 PRS
+e l a l i f u n V DEF FIN IND PL 3 PRS
+g e p a V PRF FIN IND SG 1 PST
+k u k o i n a z h u s h V INDF FIN IND SG 1 PRS
+h e k a i l e n a p V FIN COND SG 2 PRS
+h u j u n a l i s h V FIN COND PL 3 PST
+a m e o w a a a V FIN COND SG 1 PST
+a n g a l i a m e b o V HAB FIN IND PL 2 PRS
+w a a g h u v u m e p a V HAB FIN IND SG 2 PRS
+k u t e a r m l i s V HAB FIN IND PL 1 PRS
+m t a v m b i a u a p a V FIN IND SG 3 PST
+t a o s m a m w V FIN IND SG 3 FUT
+k u o s c h u f y V FIN COND SG 1 PST
+m m e r g e s i m h u l V INDF FIN IND PL 1 PRS
+u a z a m a c V FIN COND PL 1 PST
+t a a a l i V PRF FIN IND SG 1 PST
+a s h i e a V HAB FIN IND SG 1 PRS
+a h u r k u m V FIN COND SG 1 PST
+t a b a i t V DEF FIN IND PL 2 PRS
+m a o g V FIN COND SG 3 PRS
+a h u c m m e p V FIN COND PL 1 PRS
+l i p a v u t a V DEF FIN IND PL 2 PRS
+g o n g i c h e g e k u V FIN COND SG 2 PRS
+g i a V FIN IND PL 2 PST
+e i n t a l e n a r V HAB FIN IND PL 1 PRS
+a l i z m l i b V FIN IND SG 3 PST
+u n a z u j i s k u f w a l i g e n p i k a V FIN IND PL 1 FUT
+a f u n a c i n a r V FIN IND SG 3 FUT
+u s a i h u l e V DEF FIN IND PL 3 PRS
+n a p h u f u V DEF FIN IND PL 1 PRS
+a n g u V FIN IND SG 3 FUT
+i m e s V INDF FIN IND SG 3 PRS
+k u l a k u l e V PRF FIN IND SG 2 PST
+n z u h u k a t e e n V DEF FIN IND SG 2 PRS
+a j i s V FIN COND SG 1 PST
+m a p u f a e o n V PRF FIN IND SG 3 PST
+u k m a s a t a c h V HAB FIN IND PL 1 PRS
+i a p a o g i m e g V FIN IND SG 1 PST
+w i r u z u s i o g e V FIN COND SG 2 PST
+m h a m e s a l i c V HAB FIN IND PL 1 PRS
+n g e j b u m a t a b i a V PRF FIN IND PL 3 PST
+i f a a u e f a g V HAB FIN IND PL 3 PRS
+a n d e p e V HAB FIN IND PL 2 PRS
+u k w a m a t i e s i g u s a V DEF FIN IND SG 2 PRS
+g u s m a f u h e k V PRF FIN IND SG 1 PST
+e t a m l i z V FIN COND PL 3 PST
+e s a i V FIN IND SG 1 PST
+i a f u m h u e i n u V HAB FIN IND SG 1 PRS
+i k i a u a s h V FIN COND PL 1 PST
+m l i b h u z n i a o V FIN IND PL 2 FUT
+n a a n V HAB FIN IND PL 1 PRS
+u a l a i d i l i r V FIN IND PL 1 PST
+o a a g V FIN IND PL 3 FUT
+t u a s n a a n V INDF FIN IND PL 3 PRS
+a t e m a k w e g u s V PRF FIN IND SG 1 PST
+i c h a V DEF FIN IND PL 1 PRS
+l i g o V INDF FIN IND PL 1 PRS
+u a p i k w n i a k V HAB FIN IND SG 1 PRS
+g e s a V PRF FIN IND PL 3 PST
+u a k o s h h u l i m b e a e p i V INDF FIN IND SG 3 PRS
+u h u z n i n g V FIN IND SG 2 FUT
+w a a j m e f a a o n a V HAB FIN IND SG 1 PRS
+h i n V DEF FIN IND PL 3 PRS
+i m e z i l i u V DEF FIN IND SG 1 PRS
+a v u V FIN COND PL 2 PST
+e o s a a e u p i k V FIN
+l i f a a n a o V FIN COND PL 3 PRS
+e g u u a p i V INDF FIN IND PL 2 PRS
+a m e v V HAB FIN IND PL 2 PRS
+b o f y a p a V INDF FIN IND SG 2 PRS
+o s a l i l a t a u V FIN IND PL 1 PST
+g e o s i g u i l i i V PRF FIN IND SG 1 PST
+a p a a h o m a V DEF FIN IND PL 3 PRS
+u n g a V FIN COND PL 1 PST
+m a p k u t e V DEF FIN IND SG 3 PRS
+k u u b o l i z a V INDF FIN IND PL 3 PRS
+a n y a h a n V FIN COND SG 3 PRS
+u s o m i h u j a p i k V FIN IND SG 2 FUT
+n g e z V DEF FIN IND SG 2 PRS
+u l i z V INDF FIN IND SG 1 PRS
+m a o s g e b a V FIN COND SG 3 PRS
+u t a V HAB FIN IND SG 3 PRS
+h u v u n a s h u e V PRF FIN IND PL 1 PST
+i n a t p e a V FIN COND PL 3 PST
+g e k a V INDF FIN IND SG 3 PRS
+u n a b V HAB FIN IND SG 2 PRS
+u p i a j i V DEF FIN IND PL 3 PRS
+a n a l t a l e e k a V DEF FIN IND SG 1 PRS
+i t u a g V HAB FIN IND SG 1 PRS
+e m i f u a V HAB FIN IND PL 1 PRS
+n g e r g e z a a u V PRF FIN IND SG 3 PST
+u a k n a m w l i p u l i k o n i t a V DEF FIN IND SG 1 PRS
+w a a f a a s V DEF FIN IND PL 1 PRS
+e c h i m h u c g e r V PRF FIN IND SG 3 PST
+m l i b n i a m V FIN IND SG 1 PST
+e n g e u p a V FIN IND SG 1 PST
+u h u g k u k a a a f a u a V FIN COND PL 1 PST
+u o t k u z a V DEF FIN IND SG 2 PRS
+i a i t a f n a c h V INDF FIN IND SG 2 PRS
+a j i V FIN COND PL 2 PST
+i p u n V PRF FIN IND SG 1 PST
+a l i o b u k V FIN COND PL 2 PRS
+u a g a a s i g u i s i m V INDF FIN IND SG 3 PRS
+u s i t a i m V FIN IND PL 1 FUT
+h u z a a n a s i s i V FIN IND SG 3 PST
+a n a z u m e u a g n a z V FIN COND SG 2 PRS
+m a o g V INDF FIN IND PL 2 PRS
+n d a s o m V PRF FIN IND PL 1 PST
+w a a c e o s h V DEF FIN IND SG 2 PRS
+a i m b s a i V FIN IND SG 2 FUT
+f a g i a p a n V PRF FIN IND SG 1 PST
+u t a m k u c e o n a V INDF FIN IND PL 2 PRS
+k u s i m e f V PRF FIN IND SG 3 PST
+b o V DEF FIN IND PL 3 PRS
+a n g a h u t a i n a e a p e u n a p V FIN COND SG 1 PST
+p i k i f i k V PRF FIN IND PL 2 PST
+t a s h V HAB FIN IND PL 3 PRS
+t a p a V FIN IND PL 1 FUT
+a j u a a a s i V DEF FIN IND SG 2 PRS
+a l e t m h u b m w i V PRF FIN IND SG 1 PST
+t e n a m e z n a j V FIN IND SG 2 PST
+w i u a j u a f u a V PRF FIN IND SG 3 PST
+k u l a i a e t u c h a p V FIN IND PL 2 PST
+n i t a i m b a a h u i u o n g V PRF FIN IND SG 1 PST
+u a b o u n a g n a a m V PRF FIN IND PL 2 PST
+i t a o V DEF FIN IND PL 3 PRS
+i l u n a b V PRF FIN IND SG 3 PST
+i a m h u z r u z a V FIN IND SG 2 FUT
+r u z u n a l m a o t V FIN IND SG 3 PST
+n g e s V FIN IND SG 2 PST
+v u u a a e o s h V FIN IND SG 3 PST
+n e z a V PRF FIN IND SG 2 PST
+p i g V FIN COND SG 1 PRS
+t a l n d t a l e V FIN COND PL 3 PST
+g e a n e k w o a V FIN IND PL 1 FUT
+n g a n i a n z u a t i V HAB FIN IND SG 1 PRS
+h u p V INDF FIN IND SG 1 PRS
+u a k a m n a p a n g a t e n V INDF FIN IND PL 3 PRS
+u n a j u p k u p u V INDF FIN IND PL 1 PRS
+i n a j e k a m t a c i o n a V HAB FIN IND SG 3 PRS
+d o m t a t n i a j V DEF FIN IND SG 3 PRS
+l i k a i l a V FIN COND PL 3 PST
+n g e v t a k V FIN COND SG 3 PST
+i t a c a a k o V FIN COND PL 1 PRS
+g i t u a g i v u m t a k V FIN COND PL 2 PRS
+l i s o h u p i V FIN COND SG 1 PRS
+w a a b g e t e i f a g V FIN COND PL 3 PST
+m e l i k u t e k o V FIN IND PL 3 FUT
+h u u s a n V INDF FIN IND SG 1 PRS
+e p e V HAB FIN IND SG 1 PRS
+a a o s V PRF FIN IND SG 2 PST
+a u l i i n a e V FIN IND SG 1 FUT
+t l e t a u l i f n i n a V PRF FIN IND PL 1 PST
+n a i m l i p V DEF FIN IND PL 2 PRS
+u v a a j i V PRF FIN IND SG 2 PST
+i s i n a a m h u c u k u m n g e t a o g V FIN COND PL 3 PST
+a h u o c h a p V DEF FIN IND SG 1 PRS
+l i o V FIN IND PL 1 FUT
+k o p a V FIN IND PL 2 PST
+m e i a c h V FIN COND SG 1 PST
+i a c h k u s o V FIN COND PL 3 PRS
+l i l i w a n a V HAB FIN IND PL 1 PRS
+p u n a f a n V FIN COND PL 3 PRS
+l i s i u o t a V FIN COND PL 1 PRS
+u j i V PRF FIN IND PL 2 PST
+u k o h g e i e i V HAB FIN IND PL 3 PRS
+u p u g a l i V FIN IND SG 3 FUT
+u a a n a n a e V FIN IND SG 1 PST
+u a o s V HAB FIN IND PL 2 PRS
+i k a t e o n V FIN
+u m e l e f u a V FIN IND PL 3 PST
+m e l a p u V INDF FIN IND PL 2 PRS
+i h u s u k w u j u V FIN COND PL 2 PST
+m l i r V FIN COND SG 1 PRS
+u m e r V FIN COND PL 3 PRS
+t a e n w a r V FIN COND PL 1 PRS
+n a a n u a s o V HAB FIN IND PL 2 PRS
+g e r u a f m a r u V PRF FIN IND PL 2 PST
+a o t u a m w m t a a V DEF FIN IND SG 2 PRS
+u j u u h u t V PRF FIN IND SG 1 PST
+g e p e e i m b V FIN IND PL 1 PST
+m e f a V INDF FIN IND PL 1 PRS
+a l i i V INDF FIN IND SG 2 PRS
+h a n a o n a V DEF FIN IND PL 1 PRS
+a p e m n a s n a u l V HAB FIN IND PL 1 PRS
+i m e r f a g i V FIN COND PL 1 PST
+i z a u m e v n d i V FIN COND PL 2 PRS
+u l i t V FIN COND SG 1 PST
+e a k u s a V DEF FIN IND SG 2 PRS
+i t i k m a s o V PRF FIN IND PL 1 PST
+p i s h i g u i t a c V FIN IND PL 3 PST
+l i f a a b V FIN IND PL 3 PST
+a h u o m m e o V FIN COND PL 1 PST
+i a t i h u a m w a a s a u l i V FIN COND SG 3 PRS
+n g e r u n a c e i n V FIN COND SG 2 PRS
+i o n g i p a n V PRF FIN IND SG 2 PST
+i m e s a c h u V INDF FIN IND SG 1 PRS
+m a f V INDF FIN IND PL 2 PRS
+m e z a l i m V INDF FIN IND SG 1 PRS
+i b o u o g u b o n a c V HAB FIN IND SG 1 PRS
+m a t e m a j g e s h V FIN COND PL 1 PST
+k u k V INDF FIN IND PL 1 PRS
+e e n d w a a p m e g o e m b V FIN IND SG 2 FUT
+u s o u l i u l e V HAB FIN IND SG 3 PRS
+u l i f V FIN IND PL 1 FUT
+b e a V FIN
+m m e v l i k i a c a a r V FIN IND PL 2 FUT
+o s h a a h u o m a l i V FIN COND PL 2 PST
+i m e m V HAB FIN IND PL 1 PRS
+i c h i k o h u m e e V FIN COND SG 3 PST
+u n a i V DEF FIN IND PL 1 PRS
+z a m a w a r u t V INDF FIN IND SG 3 PRS
+h u g o u p i k V INDF FIN IND SG 3 PRS
+g e j V DEF FIN IND SG 1 PRS
+k u m w u r u e u a a o g a n a m a i m b V FIN COND SG 2 PST
+h u s o m e c h a m e s V FIN IND PL 3 FUT
+u b c h u g e f i V FIN IND SG 2 PST
+h u p i a h u s i m a V FIN COND PL 1 PRS
+k u g u V PRF FIN IND PL 1 PST
+o p a g i a i l i z u i n u m a k w k u v u V FIN COND PL 1 PRS
+g e k u g e j u V FIN IND PL 2 FUT
+m t a e p e i h u o t a s o V HAB FIN IND PL 3 PRS
+i c h u m l i u V FIN COND PL 1 PST
+e p e a u a o n i m e e V FIN COND SG 1 PST
+a n a u m t a a V DEF FIN IND PL 1 PRS
+h u u l V HAB FIN IND PL 1 PRS
+g e j i V PRF FIN IND PL 3 PST
+r u u h u u V FIN IND PL 2 PST
+g e i n u k u m V FIN
+g e l u s h V FIN COND PL 1 PST
+n a k a m e s i V FIN COND SG 2 PRS
+a n z h u c h i o s h V FIN IND SG 1 PST
+a t e V FIN
+a m e o a n a v i a p i u s o m V HAB FIN IND SG 3 PRS
+e t a k k i l i a a f u i o s V FIN COND SG 2 PRS
+d i k a u f i k i s a V FIN
+k i a l i a n V PRF FIN IND PL 3 PST
+n a f i t a m w a a k w V DEF FIN IND PL 2 PRS
+i a r u e f i k n d o V DEF FIN IND PL 1 PRS
+u s h i u n a r V PRF FIN IND SG 2 PST
+i a l a l e a V FIN IND PL 2 PST
+h u k o V FIN IND SG 1 FUT
+m a l V FIN COND SG 2 PRS
+a t a i V FIN IND SG 3 PST
+i a f u V INDF FIN IND PL 1 PRS
+m a l e a i m b V FIN IND PL 2 FUT
+e s h i m h u s u h u a g e s i V FIN IND SG 2 PST
+i j i k u k w V DEF FIN IND PL 3 PRS
+l i a V FIN IND PL 1 PST
+u l e i l i m V PRF FIN IND PL 2 PST
+i e n u n a m e k a V INDF FIN IND SG 1 PRS
+f i k a u b n i a b l i j u V FIN COND SG 2 PST
+h u f u h u z V PRF FIN IND SG 1 PST
+a a z a i a i m V INDF FIN IND SG 3 PRS
+a n a f m a c n a o s l i v i a g u n i a m V FIN IND SG 2 PST
+a v u t m e g V FIN COND PL 1 PRS
+h u c h a a a V DEF FIN IND PL 1 PRS
+i k i l e e n V FIN IND SG 3 PST
+g u z a o n g g e i n V DEF FIN IND PL 3 PRS
+u a o k a a V HAB FIN IND SG 1 PRS
+n a k o s h i V FIN COND PL 3 PST
+a a g i t a c V INDF FIN IND SG 1 PRS
+t a z a a l i p t a o g m t a a V FIN IND SG 2 FUT
+a n a k V PRF FIN IND SG 3 PST
+h u o k w a V HAB FIN IND PL 2 PRS
+i h u V PRF FIN IND PL 1 PST
+a s i k e f i c V FIN IND SG 1 FUT
+m a l a V FIN COND SG 1 PST
+b e a g e t a a c h n a p u h u s i u a b V FIN IND SG 1 PST
+w a h u m n a z V DEF FIN IND SG 2 PRS
+m a a i t a l u l i m r u k a V FIN IND SG 1 FUT
+w a a g a a a n V HAB FIN IND PL 2 PRS
+u a j u V FIN IND SG 3 FUT
+p i i m e t m n a f V DEF FIN IND PL 3 PRS
+w a l a m e e s i k V HAB FIN IND PL 3 PRS
+a g i a k o h V FIN COND PL 1 PST
+i l i o V FIN COND SG 2 PRS
+i a o s V DEF FIN IND SG 3 PRS
+e c a a j u V INDF FIN IND SG 3 PRS
+u o g V FIN COND PL 3 PRS
+a a g u V FIN COND PL 2 PST
+u a l a n a t a m m e t u m e V FIN COND PL 3 PRS
+i a s a n a e n V FIN COND PL 3 PST
+k u r m b u k k u z a V DEF FIN IND SG 3 PRS
+m a t i V INDF FIN IND SG 3 PRS
+m e u l n g e v V FIN COND SG 3 PRS
+u m e v V FIN IND PL 2 PST
+o g a u t a a V HAB FIN IND SG 3 PRS
+l i l a i h u l V FIN COND PL 2 PST
+a l i z a a a V FIN IND SG 2 PST
+u o g a i z a V INDF FIN IND PL 2 PRS
+m a z a i z a V FIN COND PL 2 PST
+a t a u a a l a t a l a i t a o a i m u t a p V INDF FIN IND SG 1 PRS
+u n a m n a e a t a i V HAB FIN IND PL 1 PRS
+u a m i s h a V PRF FIN IND PL 3 PST
+i m e a n z a V FIN IND SG 2 PST
+t a l e u c h u t a t e l e a m a a p i s h V FIN COND PL 2 PRS
+a m e p i m e i V INDF FIN IND PL 1 PRS
+a n g u t a c h V INDF FIN IND SG 2 PRS
+a m w m l i o V FIN COND SG 3 PST
+n g u a u m e r p i k V FIN IND PL 1 PST
+a m e p n a j i V FIN COND SG 3 PRS
+u p i g i h u a V INDF FIN IND PL 1 PRS
+i k i a t a v u V PRF FIN IND PL 2 PST
+g e t i V FIN COND SG 1 PRS
+u a b a V DEF FIN IND PL 2 PRS
+m h u k m a a n V DEF FIN IND PL 3 PRS
+m n a i i h u b V PRF FIN IND SG 2 PST
+a h u u m e j u V FIN IND SG 1 PST
+u h u b h u t V INDF FIN IND SG 2 PRS
+t a u l h u g u m e g u V HAB FIN IND PL 2 PRS
+i a f u u a i m V INDF FIN IND SG 2 PRS
+i i n e c h e V FIN COND SG 3 PRS
+t a i u a b a u k a a V INDF FIN IND PL 3 PRS
+l i t a k u s m e j u V FIN COND PL 1 PST
+k u l e h u l i k u m V HAB FIN IND PL 1 PRS
+u l k u p u a h u f V FIN COND SG 1 PRS
+m n a s V FIN COND SG 1 PST
+a k w m n a v V HAB FIN IND PL 3 PRS
+e k u m l i i h o a u t a i V FIN COND PL 3 PST
+a z m e j V FIN COND PL 2 PST
+m a t i i l e f i V FIN IND SG 3 FUT
+n i a v o g e m e b V DEF FIN IND SG 3 PRS
+p a n i i m V INDF FIN IND PL 1 PRS
+u a p n g e n V DEF FIN IND PL 1 PRS
+a m e j n i a u c h e V INDF FIN IND SG 1 PRS
+h u o g V FIN IND SG 2 FUT
+p u n g n i t a V FIN COND PL 2 PST
+h a p h u a n k w a V FIN COND SG 3 PST
+u m e b o a u a o t m m e j i a p V DEF FIN IND SG 1 PRS
+a b o m e e n V FIN COND PL 2 PST
+m a b V PRF FIN IND SG 2 PST
+i s h t a k w n a i m V HAB FIN IND PL 2 PRS
+h u o s n i n a k u s h V FIN IND PL 1 FUT
+l a c h e a h u b V FIN COND SG 3 PST
+i p u m l i i V DEF FIN IND PL 2 PRS
+i b a V DEF FIN IND SG 1 PRS
+h u t a l i k V INDF FIN IND PL 1 PRS
+u a t a V HAB FIN IND PL 3 PRS
+e s h a s a i k i V FIN COND SG 3 PRS
+m t a s m a s V HAB FIN IND SG 1 PRS
+n e i a l V INDF FIN IND SG 1 PRS
+m e b h u c h V FIN COND PL 3 PST
+m e k a a V FIN IND SG 1 FUT
+i l i z a l i m V INDF FIN IND PL 1 PRS
+k a t a g e g g e a n V DEF FIN IND PL 1 PRS
+h u o t k u p a n a t V PRF FIN IND PL 2 PST
+u a s h m e r u h u s o V PRF FIN IND PL 2 PST
+o g e l i p e a V DEF FIN IND PL 1 PRS
+i v u k a a u m b u V FIN COND SG 2 PST
+l i p e t V FIN COND SG 3 PRS
+g o d i i n a o i p a V FIN COND SG 2 PRS
+m a t e t a e m b a a b o V INDF FIN IND SG 3 PRS
+n a b a n i n a u b o V FIN COND PL 3 PST
+u h u b w i t a u p a a h u z c h o i a g u V FIN IND PL 3 PST
+u f i c y a a a k a n i a p n i a b V FIN IND SG 3 PST
+k u f i t a f u t a V INDF FIN IND SG 1 PRS
+i c u a v u V DEF FIN IND PL 1 PRS
+m a l a s i k i a a n V DEF FIN IND PL 3 PRS
+w a a l u i m m n a l V HAB FIN IND SG 1 PRS
+t u t a m a l e d i k a V DEF FIN IND SG 1 PRS
+l i a m m l i k V FIN COND SG 1 PST
+m a m w g e t a l i p e V DEF FIN IND PL 2 PRS
+e k a t t a b V INDF FIN IND SG 1 PRS
+a m e o h u t i l i g V PRF FIN IND SG 3 PST
+a h u u k u r u t a o s V HAB FIN IND SG 2 PRS
+o g e l V DEF FIN IND SG 3 PRS
+a n a l m w i V FIN COND PL 3 PST
+m e a h i m V PRF FIN IND SG 1 PST
+i p a a V DEF FIN IND PL 2 PRS
+i o n l i e e t a V FIN IND PL 1 FUT
+a a p i i a s a V FIN COND SG 2 PST
+t m a a m V FIN COND PL 1 PRS
+w a a l V DEF FIN IND PL 2 PRS
+a n a t a a o s u o n V HAB FIN IND SG 2 PRS
+h u c p i s h i u l i V DEF FIN IND PL 1 PRS
+i a b i k o h l i g a a r V FIN IND SG 1 PST
+n a v u u a o t V PRF FIN IND PL 3 PST
+i t i k n i l i V FIN COND PL 2 PST
+n a a m V PRF FIN IND PL 2 PST
+l a l a w a a m V HAB FIN IND SG 1 PRS
+h u f u e p a n V FIN COND SG 3 PST
+n i a i m n a u V FIN IND SG 1 FUT
+m e p u V HAB FIN IND PL 3 PRS
+i m e f w a l i h u t e V FIN COND SG 1 PRS
+a f u n V FIN
+i a t i a V FIN IND PL 2 FUT
+u a p a V FIN COND SG 2 PST
+a l i l V PRF FIN IND SG 1 PST
+u t a b t u a e n a o t g e n m n a l V HAB FIN IND PL 1 PRS
+n g e l w a a m V FIN COND PL 1 PST
+n a o n u a s a V DEF FIN IND SG 2 PRS
+i p u l i z u a t i V INDF FIN IND PL 1 PRS
+h u k u t a c h V FIN IND SG 2 PST
+h i n d m b e V INDF FIN IND SG 1 PRS
+p a n i n g a n g e t V FIN IND SG 3 PST
+t a v u i z a l i b o V FIN COND PL 1 PST
+k u p u t a a n a t a z n a t V HAB FIN IND PL 3 PRS
+w a m e t a o s i k V DEF FIN IND SG 1 PRS
+n a p a u p e V INDF FIN IND PL 3 PRS
+m a o g V INDF FIN IND PL 3 PRS
+a f i V FIN IND SG 3 FUT
+e m b e i a i n o g a V FIN IND SG 1 PST
+a a t e a n a u V HAB FIN IND PL 1 PRS
+k u p i m e k w a e n V DEF FIN IND SG 1 PRS
+p i k a p e a n a o V FIN IND SG 2 PST
+a m e r V FIN COND SG 2 PST
+m h u t k u o n V INDF FIN IND SG 1 PRS
+a j i f V FIN COND PL 1 PST
+u a a m k u u V FIN IND SG 2 FUT
+a t a u V FIN COND SG 1 PRS
+e s a g l i j i a m e V FIN IND PL 3 FUT
+m a o i d i a t a v V FIN IND PL 2 PST
+a m e l u n a i V FIN IND SG 1 PST
+e n d a a o s V FIN COND SG 3 PST
+e b o f V PRF FIN IND PL 2 PST
+a i d V INDF FIN IND SG 2 PRS
+t u a u a a b a n g e s V HAB FIN IND PL 2 PRS
+n g e p m h u z m a k u V FIN IND SG 2 PST
+i n a m u a b a i n d a V DEF FIN IND PL 1 PRS
+m e i m h u j i V FIN IND PL 1 PST
+u a p i w a a l V INDF FIN IND PL 3 PRS
+a m e u i a c i a k o V HAB FIN IND SG 3 PRS
+a b o a o s V FIN IND SG 3 FUT
+e j i t a k w V FIN IND SG 1 FUT
+g e a n a t a e V DEF FIN IND PL 1 PRS
+i p a n f y a V FIN IND SG 3 FUT
+i o n g t a o s V INDF FIN IND PL 2 PRS
+i o t a i n a g V FIN COND SG 2 PST
+i z a a V HAB FIN IND SG 3 PRS
+u a k o V PRF FIN IND PL 1 PST
+u m e t a p i i l i a V DEF FIN IND SG 3 PRS
+u h u c m h u m V PRF FIN IND PL 2 PST
+g e f i l i i m V PRF FIN IND PL 1 PST
+i s i k V FIN IND SG 3 FUT
+w a a k V FIN COND PL 1 PRS
+i o n a a k V PRF FIN IND SG 3 PST
+i t a z t u a p t a l a V HAB FIN IND PL 2 PRS
+i k u s i i n V DEF FIN IND SG 1 PRS
+e t a l i l e l i g e f u a V FIN IND PL 3 PST
+p a a e t i u p a n V FIN COND SG 2 PST
+a h u l a o n g V PRF FIN IND SG 3 PST
+u t a m e t i k m b i V FIN COND SG 2 PRS
+a t a r V FIN COND PL 3 PRS
+e i m e k o h a i a a l V FIN COND SG 3 PRS
+n a k o m t a b V PRF FIN IND PL 1 PST
+n a j i t a a d i V FIN IND PL 1 PST
+e l e t a a m a n a z V FIN COND SG 1 PRS
+i l i u e l e a a n g V FIN COND SG 3 PST
+w a a f V FIN IND PL 2 PST
+i a k a V FIN IND SG 2 PST
+u f u a u i m b V FIN IND PL 2 FUT
+g e e n o f y u a k u m e f i p u n a m e a V FIN IND PL 1 FUT
+u l i m a o s h V FIN COND PL 1 PRS
+t a a j i V FIN IND PL 1 FUT
+a g u s V HAB FIN IND SG 3 PRS
+i l i e c h e i n V FIN COND PL 3 PRS
+a h u e i t e k u f u V FIN IND PL 2 PST
+u o t t e m b u a r i a a g a n a e n d V FIN IND SG 2 PST
+i c h u n i h V DEF FIN IND SG 3 PRS
+e f i t u a s e k u s V FIN COND SG 3 PRS
+a a o t a n g e V FIN
+n i a u a h u c V HAB FIN IND PL 2 PRS
+a l i o a a c V PRF FIN IND SG 2 PST
+i s o m a t e n u h u r V FIN IND SG 3 PST
+i l a V FIN COND SG 2 PRS
+t i i j k w a r V HAB FIN IND SG 1 PRS
+i t e n k u s o m a m a V PRF FIN IND SG 3 PST
+a a k a i h u p V FIN IND SG 2 FUT
+k u a a a s h V FIN COND PL 3 PRS
+u a p a h u o n m a m p u n y k u e e o g V DEF FIN IND SG 1 PRS
+u e a l a l c h i V DEF FIN IND PL 3 PRS
+u t a a p i k V HAB FIN IND SG 1 PRS
+m l i b V PRF FIN IND SG 3 PST
+w a r u m t a m k u t i V PRF FIN IND PL 1 PST
+n a a m g e v u V DEF FIN IND PL 3 PRS
+t u l i i l i u V INDF FIN IND PL 2 PRS
+e u u b o f V FIN IND PL 1 PST
+i u l o s h u h u m V DEF FIN IND SG 1 PRS
+u t i v u t a a p u V FIN COND PL 1 PST
+u h u z V PRF FIN IND PL 2 PST
+u t a v i n a l i o n V FIN IND PL 3 PST
+t u a m u k o p V FIN IND PL 1 FUT
+w a h u u a f a V FIN COND PL 3 PRS
+n a i m V FIN IND SG 3 PST
+m l i i V DEF FIN IND PL 2 PRS
+o s h j i f a k a t V FIN IND SG 3 PST
+i z a k w a V HAB FIN IND PL 3 PRS
+a o g i s h a i k i V PRF FIN IND PL 3 PST
+a m a f y h u v e p a V DEF FIN IND PL 2 PRS
+m e t a o u h u m h u V FIN
+e n d n a o t a u a l i j m l i b V INDF FIN IND PL 3 PRS
+i t a z u a o s e s i m g e b V FIN COND PL 1 PST
+u a b o i a t i l i k o V FIN COND PL 3 PST
+k u r u i t a m i a i m V INDF FIN IND SG 1 PRS
+i k o u m b V FIN COND PL 3 PST
+l i p e m t a v V HAB FIN IND PL 3 PRS
+l i i m a a p e V FIN COND SG 2 PST
+g e a h u i m V FIN IND PL 3 FUT
+a i n a m n g l i l V INDF FIN IND PL 1 PRS
+i a j u m a k w V FIN
+u l a V FIN COND SG 3 PST
+u a t i a o t m h u i V PRF FIN IND SG 2 PST
+a a p u a h u j i a t a V INDF FIN IND SG 1 PRS
+a m w i t a r u w a n g V FIN COND PL 1 PST
+i s h i m t a v V PRF FIN IND SG 1 PST
+i h u a t u n V INDF FIN IND PL 2 PRS
+n i a f i u n a i a l i g V PRF FIN IND PL 3 PST
+i h u m i n d l i t i V PRF FIN IND SG 1 PST
+a m e m m a u l V INDF FIN IND SG 2 PRS
+n i a s u k u V FIN COND SG 3 PRS
+i n a s V HAB FIN IND SG 2 PRS
+c h a p V HAB FIN IND SG 3 PRS
+i m e c e p u V HAB FIN IND PL 3 PRS
+e b o n a a n V PRF FIN IND PL 3 PST
+a n g n i a p V FIN IND SG 3 PST
+c h u u s a i V FIN COND PL 1 PST
+w a l i V DEF FIN IND SG 1 PRS
+u a s a V FIN IND SG 1 PST
+h u i m g e p u o m V FIN IND SG 2 FUT
+a t a j d i k a V PRF FIN IND SG 1 PST
+h u e n i h u p V FIN IND PL 3 FUT
+m e z a a k w a i n a z V HAB FIN IND SG 3 PRS
+i o g a V FIN IND PL 2 FUT
+h a f y m w g e u e c V FIN IND SG 3 PST
+m t a o i c h o c h V HAB FIN IND SG 3 PRS
+g e g o m e l e f a g a a r i m b a V INDF FIN IND PL 1 PRS
+a m e l i o n d V DEF FIN IND PL 2 PRS
+g e l i n a i n e o t a t a k m h u p V FIN IND SG 1 PST
+a o t a V HAB FIN IND SG 3 PRS
+a g u s V DEF FIN IND PL 3 PRS
+a a c h a l i j V FIN IND SG 3 FUT
+g e p u V FIN COND SG 2 PST
+i a a m V FIN COND SG 3 PRS
+a r u z u l e t t a b o n a c e c d i k a V FIN COND SG 2 PRS
+g e f i a n a z k u l e V HAB FIN IND PL 1 PRS
+i k a t e j i l e a V DEF FIN IND PL 2 PRS
+i a o t i u n a l V DEF FIN IND PL 1 PRS
+h u r a p u V HAB FIN IND SG 1 PRS
+a t i V DEF FIN IND PL 2 PRS
+i e m e i a n a r V FIN COND PL 3 PRS
+m e p k u a m V FIN IND PL 2 PST
+m b u k i s i t a p u V FIN IND PL 1 PST
+m l i b u f m n a m V INDF FIN IND PL 2 PRS
+h u o n m a k V FIN IND SG 3 PST
+i t a v i a i w a a j V PRF FIN IND SG 2 PST
+i r u i h u s i f i c V FIN COND PL 2 PST
+i n a u m e s i h u f V FIN COND PL 2 PST
+r u k a m l i r n a c V INDF FIN IND SG 2 PRS
+n a g V HAB FIN IND SG 3 PRS
+h u l i a g o n a l a e k o l i a m g e a m V FIN COND SG 2 PST
+i n n i a f m a e a l i j V FIN IND SG 2 PST
+i n a h a n g V FIN IND PL 1 PST
+m e p a a b a u l i v V DEF FIN IND SG 1 PRS
+u i a b a a l i l a a f u V DEF FIN IND PL 1 PRS
+a n a o u n a l V FIN COND PL 2 PST
+c h e i b V FIN COND PL 3 PST
+t u a v s i k a z a V FIN
+i a u l u a i w a a l V HAB FIN IND PL 2 PRS
+a t a w a a k m e k u V PRF FIN IND PL 2 PST
+a k a o n d u a s h V FIN COND SG 2 PST
+t a b o a a m a u l V FIN IND SG 3 FUT
+n g e r g o n g t u a b h u j i o s h V FIN IND SG 3 FUT
+i a p e m m e v V FIN COND PL 2 PST
+c h e k m m e k V INDF FIN IND SG 3 PRS
+t u a r m e l e V FIN IND PL 3 PST
+m e b m a k a a h u a V FIN COND PL 3 PRS
+t a f i e k u m V FIN COND SG 3 PST
+b u k a m t a b m l i V HAB FIN IND PL 3 PRS
+a n g s a i V FIN COND PL 3 PST
+w a l b o i t a c V DEF FIN IND SG 2 PRS
+n i a b i a i n V FIN COND SG 1 PRS
+t a l m e u l V FIN IND PL 1 PST
+g e i V DEF FIN IND SG 3 PRS
+u k o h e r u u a u l a l i t V FIN COND PL 1 PST
+n y a n a v V HAB FIN IND PL 1 PRS
+n d h e k V INDF FIN IND SG 2 PRS
+m a j i a a a V PRF FIN IND PL 1 PST
+n g e b V INDF FIN IND SG 2 PRS
+k u z h u s i k i l V PRF FIN IND SG 2 PST
+i n a g V PRF FIN IND PL 1 PST
+w a a j V PRF FIN IND PL 2 PST
+e i n e s o i p a a a n a e a p i s V FIN
+a f i k i t V PRF FIN IND PL 1 PST
+g e g V FIN COND PL 3 PRS
+u l i v V INDF FIN IND SG 1 PRS
+i t a i u k o p u a s i V INDF FIN IND PL 3 PRS
+u r a a l V FIN IND PL 3 PST
+t a g u u p u n V FIN COND PL 2 PRS
+i l i a u a r u i k w a V FIN COND PL 1 PST
+m h u e m e z t u a f V HAB FIN IND SG 1 PRS
+g e z a V PRF FIN IND PL 1 PST
+m e l e n d o V FIN COND SG 3 PST
+u m e v e p i k h u v V DEF FIN IND SG 1 PRS
+k a t h a f i t a s V HAB FIN IND SG 1 PRS
+i m m a z a u a c h V FIN COND PL 3 PST
+u k u s o t a i a k w w i t a V FIN COND SG 3 PST
+u a v i p u a v V HAB FIN IND SG 3 PRS
+l i g u p i k V FIN IND SG 2 PST
+e c h e p m w i m n e o n i o n t a t a V INDF FIN IND PL 2 PRS
+u a v u u n a k i s h a a u l m e k a i d i V FIN COND PL 1 PST
+n i a j l i m w l a V HAB FIN IND PL 3 PRS
+i m e c a b o V FIN IND PL 1 PST
+a l i j a o n g V FIN IND PL 2 PST
+u l a m m e s V PRF FIN IND PL 1 PST
+e e m n g a V INDF FIN IND SG 3 PRS
+u l i k V FIN COND SG 2 PST
+m a a n m l i V PRF FIN IND PL 1 PST
+k u b a m n a z V PRF FIN IND SG 2 PST
+m e s h h i m b a k w a V FIN COND SG 3 PRS
+a a g u a a l a n a k w m e i V FIN IND SG 3 PST
+a a p i n a u o s h t e n V INDF FIN IND PL 1 PRS
+u a p a m e p e V PRF FIN IND PL 1 PST
+t a t e V FIN COND PL 2 PST
+i a p e i n u V INDF FIN IND SG 2 PRS
+s i k u o g a g e f i V FIN IND SG 3 FUT
+i a a n u s a g V FIN COND PL 3 PRS
+m e b o u p a a u i n u n a z a V FIN COND SG 2 PST
+u a t e V FIN IND PL 3 PST
+s h i n a g u s V HAB FIN IND SG 1 PRS
+u n g a t a f V PRF FIN IND PL 1 PST
+f i c h V FIN IND PL 3 FUT
+a t a m u n a c V FIN COND PL 3 PST
+g e u m t a p V INDF FIN IND SG 2 PRS
+a s o m n g e b f u n u t a z e n m e k V HAB FIN IND SG 2 PRS
+i l i a V FIN COND PL 2 PRS
+l i z t u a u V PRF FIN IND SG 3 PST
+a n a i a l i t V FIN COND PL 1 PRS
+i f u n V FIN COND PL 1 PRS
+u n z a n y a h u g u V FIN IND SG 1 PST
+i s a m e m a p i s V FIN IND PL 3 FUT
+k u k u V PRF FIN IND SG 3 PST
+t a u e p i k m t a l V INDF FIN IND PL 1 PRS
+i g o n i r u k V HAB FIN IND SG 3 PRS
+i a j u V FIN IND SG 3 PST
+w a a f c h o e m w V FIN IND PL 1 PST
+n a k w r u k y a m n a e V HAB FIN IND SG 3 PRS
+a k a a i h u s V FIN IND SG 1 FUT
+u g o n V HAB FIN IND SG 1 PRS
+n i n g h u k a V FIN COND SG 3 PST
+i t a j u r u k V HAB FIN IND PL 2 PRS
+i l i o a p u a j u V HAB FIN IND SG 2 PRS
+m h u f i n a e V HAB FIN IND SG 2 PRS
+p a n g m b i a a n g e V FIN COND PL 3 PRS
+l i b a g e a m V INDF FIN IND PL 2 PRS
+m n a c l i f V FIN COND PL 2 PST
+a m b i m t a t n g e b V FIN IND PL 3 FUT
+i c h i m a f u V DEF FIN IND SG 3 PRS
+g e b e k w V DEF FIN IND SG 1 PRS
+u l i c s a g V FIN IND PL 2 FUT
+u t e n m l i e V PRF FIN IND PL 2 PST
+m h u z V FIN COND PL 2 PRS
+k w a r u l i l u o s h V PRF FIN IND PL 3 PST
+u n a g a a b o V DEF FIN IND PL 3 PRS
+k a t a t u n g V DEF FIN IND SG 2 PRS
+m h u b V PRF FIN IND SG 3 PST
+i j i w a a i V FIN COND PL 1 PST
+u m b u V INDF FIN IND SG 2 PRS
+a m e j g a n e a V FIN IND SG 1 PST
+l i l e V FIN IND PL 3 PST
+m a k n g e u n a w a n a V HAB FIN IND SG 1 PRS
+l a l a u s a g V FIN COND SG 3 PRS
+u t a m m e p u V FIN COND SG 2 PST
+k u v a a c V DEF FIN IND SG 2 PRS
+a l a m a v i h u m V DEF FIN IND PL 1 PRS
+i t a z g e o s V FIN COND SG 2 PST
+w a a o V DEF FIN IND SG 3 PRS
+e i m b m h u z n a b V FIN COND SG 2 PST
+m a k a k u o g V FIN IND PL 1 FUT
+p i k a f a g V DEF FIN IND PL 3 PRS
+u l i p V FIN IND PL 3 PST
+h u l i V FIN COND PL 2 PST
+m m e i e b a V FIN COND SG 3 PRS
+m a f a t a k w V FIN COND SG 1 PST
+l a l a e o g a V FIN COND PL 3 PRS
+g e o s V FIN COND SG 3 PST
+a s i V HAB FIN IND PL 3 PRS
+i s i m V FIN COND SG 3 PST
+m e b a n i a g V FIN IND SG 2 PST
+u n z h u g i n a m V DEF FIN IND SG 3 PRS
+k u g o w a n g k o h o V FIN IND PL 3 PST
+t u a f g e p e a t i k m m e o s i k i V FIN COND PL 1 PRS
+w a a v e s h i p a n g V PRF FIN IND SG 3 PST
+u t e g e g u m e v u V FIN IND PL 1 FUT
+m h u r u l i l u m e b u t e V HAB FIN IND PL 2 PRS
+u a p i u k i a k o V INDF FIN IND SG 1 PRS
+u i n u e o n d V FIN IND PL 2 PST
+h u z a V HAB FIN IND SG 3 PRS
+i h u p V FIN COND PL 2 PST
+i o n a a h u j V PRF FIN IND PL 1 PST
+a h u t i a g u m a i m V DEF FIN IND SG 1 PRS
+n g e j u l e t g e t V DEF FIN IND SG 2 PRS
+i k a t k u a m V DEF FIN IND SG 3 PRS
+m m e i h u V FIN COND PL 2 PRS
+t a m e a m V INDF FIN IND PL 3 PRS
+l i o n m a v u i a s a V PRF FIN IND PL 1 PST
+i g u a l i V FIN COND SG 3 PST
+i m a m l i e i l i k V HAB FIN IND PL 2 PRS
+a a u e e n u f a V PRF FIN IND SG 2 PST
+l i o t k u p i V FIN IND SG 1 FUT
+i p i k l i s n a j V HAB FIN IND PL 2 PRS
+i a t e m l i i V DEF FIN IND SG 2 PRS
+u a m b V FIN IND PL 3 FUT
+a h u b a a a e c h o V HAB FIN IND SG 3 PRS
+e a m b i n a f V FIN COND PL 1 PRS
+g a n y g i a V FIN IND PL 3 PST
+i n d m n a f V FIN IND SG 3 FUT
+n i a f i a c h V HAB FIN IND PL 3 PRS
+t a l i V DEF FIN IND SG 3 PRS
+m a k w m t a v a a r u m a o s a t a i V FIN IND PL 3 PST
+n a l a V PRF FIN IND PL 3 PST
+m t a t a t a t u a p u m m e u i m e V FIN IND SG 3 FUT
+a f i g u z a a t a u V HAB FIN IND PL 3 PRS
+e e n n a b t a v V FIN COND PL 2 PST
+b o m e j i V HAB FIN IND SG 3 PRS
+u a m w e f a n V FIN IND PL 2 PST
+k u r k u r u i a b o V FIN COND PL 1 PST
+a r u k V FIN COND SG 1 PST
+u j i s u s u s a n V FIN COND PL 2 PST
+t a p a t a m w e c h i V FIN IND PL 3 FUT
+s a i d i b u n a z i a u i l i z m a p e V INDF FIN IND SG 3 PRS
+u a s o i t a v V DEF FIN IND PL 1 PRS
+g e b o h e k a n i a k V PRF FIN IND PL 2 PST
+t u m e i a i V FIN IND SG 2 FUT
+t e n a v m m e i V INDF FIN IND SG 2 PRS
+g e v u i k i i s h a V FIN IND SG 1 FUT
+a a k w a h u l a l a V HAB FIN IND PL 3 PRS
+u h u t p i s u k a a n d i s i k i V FIN IND SG 3 PST
+g e o t u s a i V DEF FIN IND PL 2 PRS
+a c h i o n g V FIN IND PL 3 PST
+i n a v u f a g V FIN COND PL 3 PST
+e k a a f a V HAB FIN IND SG 2 PRS
+i a k o V FIN IND PL 3 PST
+a n z a V FIN IND SG 2 PST
