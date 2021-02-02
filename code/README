@@ -1,3 +1,10 @@
+- Dependencies
+    - python 3.6 or higher
+    - pythorch 1.5 or higher
+    - fairseq 0.9 or higher
+    - Our experiments were conducted on one GPU, NVIDIA Tesla P100.
+        - The training time for each model takes about 1-2 hours.
+
 - "dummy_lemma_generation" stores the code we use to generate +cop-2k-char and +copy-2k-substr data.
 
 - "hallucination" stores the code we use to generate +hall-2k-char and +hall-2k-substr data.
@@ -7,3 +14,4 @@
 - "eval.ipynb" is the code we use for evaluation.
 
 NOTE: Please adjust the working and data directionary to run the code. All data have been provided in data.zip.
+
